@@ -5,7 +5,9 @@
     "temperature": 0.6,
     "top_p": 0.8,
     "top_k": 40,
-    "base_url": "https://api.siliconflow.cn/v1"
+    "base_url": "https://api.siliconflow.cn/v1",
+    "timeout_seconds": 120,
+    "retries": 3
   },
   "output": {
     "output_dir": "digests",
@@ -66,7 +68,7 @@
   },
   "digest": {
     "language": "zh-CN",
-    "min_items_per_section": 5,
-    "max_items_per_section": 8
+    "min_items_per_section": 4,
+    "max_items_per_section": 5
   }
 }

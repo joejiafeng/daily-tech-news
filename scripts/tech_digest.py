@@ -146,16 +146,16 @@ def build_prompt(
     min_items = digest_cfg["min_items_per_section"]
     max_items = digest_cfg["max_items_per_section"]
     sections = [
-        "1. 今日热点",
-        "2. 技术趋势",
-        "3. 产品观察",
-        "4. 推荐阅读",
+        "1. 今日必读",
+        "2. 趋势与解读",
+        "3. 工具与深读",
     ]
 
     def format_items(items: List[Dict[str, Any]]) -> str:
         lines = []
         for it in items:
-            title = it.get("title", "")
+            # 避免把原标题里的 [] 带进 LLM 输出，导致 Markdown 链接断裂
+            title = (it.get("title", "") or "").replace("[", "【").replace("]", "】")
             url = it.get("url", "")
             summary = it.get("summary", "")
             source = it.get("source", "")
@@ -163,24 +163,29 @@ def build_prompt(
         return "\n".join(lines)
 
     payload = [
-        "请根据以下素材生成今日中文科技简报，必须严格输出 Markdown。",
+        "请根据以下素材生成今日科技简报（用中文），必须严格输出 Markdown。",
         "",
         f"日期：{date_str}",
         "",
         "输出格式要求：",
         f"- 标题行：# Daily Tech News | {date_str}",
         "- 先给 1 段导语（2-3 句）",
-        "- 接着输出 4 个二级标题段落，标题必须与下面一致：",
+        "- 接着输出 3 个二级标题段落，标题必须与下面一致：",
         *[f"  - ## {s}" for s in sections],
         f"- 每个段落包含 {min_items}-{max_items} 条要点，用无序列表",
         "- 每条要点格式：",
         "  - [标题文字](URL) (来源)",
-        "    200字以内的内容总结，说明该新闻的核心要点、影响或意义（不需要加 bullet point，也不要加'总结：'前缀，直接另起一行缩进）",
+        "    150字以内的内容总结，说明该新闻的核心要点、影响或意义（不需要加 bullet point，也不要加'总结：'前缀，直接另起一行缩进）",
+        "- 标题文字里不要出现半角方括号 []，避免破坏 Markdown 链接；如原标题含 [] 请改用全角【】或移除括号",
         "- 示例格式：",
         "  - [量旋科技完成数亿元 C 轮融资](https://example.com) (36kr)",
         "    量旋科技是一家专注于量子计算商业化的公司，此次 C 轮融资数亿元，显示了资本市场对量子计算技术的持续看好。公司由清华和哈佛背景的团队创立，致力于推动量子计算从实验室走向实际应用。",
         "- 链接必须是可点击的 Markdown 格式，不能是纯文本 URL",
         "- 总结必须基于下方素材中的信息，严禁编造不存在的新闻或信息",
+        "- 三个板块建议侧重点：",
+        "  - ## 1. 今日必读：从全量素材中挑最重要/最值得关注的要点（偏“结果与影响”）",
+        "  - ## 2. 趋势与解读：挑选能代表趋势的主题（AI/安全/开发者/产业等），给出简短解读（偏“为什么重要”）",
+        "  - ## 3. 工具与深读：优先收录开源项目、开发工具、教程/长文（偏“怎么用/值得读什么”）",
         "",
         "素材如下：",
         "",
@@ -291,6 +296,8 @@ def main() -> None:
         temperature=config["llm"]["temperature"],
         top_p=config["llm"]["top_p"],
         top_k=config["llm"]["top_k"],
+        timeout=config["llm"].get("timeout_seconds", 60),
+        retries=config["llm"].get("retries", 2),
     )
 
     # 将纯文本 URL 转换为 Markdown 链接格式
