@@ -1,0 +1,72 @@
+{
+  "llm": {
+    "model": "Pro/zai-org/GLM-4.7",
+    "max_tokens": 2200,
+    "temperature": 0.6,
+    "top_p": 0.8,
+    "top_k": 40,
+    "base_url": "https://api.siliconflow.cn/v1"
+  },
+  "output": {
+    "output_dir": "digests",
+    "timezone": "Asia/Shanghai",
+    "days_in_index": 20
+  },
+  "sources": {
+    "v2ex": {
+      "url": "https://www.v2ex.com/api/topics/hot.json",
+      "limit": 20
+    },
+    "hackernews": {
+      "topstories_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
+      "item_url": "https://hacker-news.firebaseio.com/v0/item/{id}.json",
+      "limit": 20
+    },
+    "rss": {
+      "limit_total": 60,
+      "feeds": [
+        {
+          "id": "36kr",
+          "name": "36kr",
+          "url": "https://www.36kr.com/feed",
+          "category": "product"
+        },
+        {
+          "id": "sspai",
+          "name": "sspai",
+          "url": "https://sspai.com/feed",
+          "category": "product"
+        },
+        {
+          "id": "huxiu",
+          "name": "huxiu",
+          "url": "https://www.huxiu.com/rss/0.xml",
+          "category": "business"
+        },
+        {
+          "id": "infoq",
+          "name": "infoq",
+          "url": "https://www.infoq.cn/feed",
+          "category": "tech"
+        },
+        {
+          "id": "oschina",
+          "name": "oschina",
+          "url": "https://www.oschina.net/news/rss",
+          "category": "tech"
+        },
+        {
+          "id": "solidot",
+          "name": "solidot",
+          "url": "https://www.solidot.org/index.rss",
+          "category": "tech"
+        }
+      ]
+    }
+  },
+  "digest": {
+    "language": "zh-CN",
+    "min_items_per_section": 5,
+    "max_items_per_section": 8
+  }
+}
