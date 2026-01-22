@@ -3,16 +3,13 @@
 > 整合 V2EX、Hacker News、科技媒体 RSS，每日自动化生成科技简报.
 
 
-## ✨ 是什么
+## 是什么
 
 一个全自动的科技新闻聚合与简报生成系统，每天自动抓取技术社区热点，通过 AI 分析整理成结构化简报。
 
 ### 核心价值
 
-- **省时**：无需手动浏览多个网站，一份简报掌握当日科技动态
-- **智能**：AI 自动筛选热点、提炼趋势、生成摘要
-- **全面**：覆盖中文社区、国际资讯、科技媒体等多维度内容
-- **自动化**：每天定时生成，自动推送到仓库
+本系统具备省时、智能、全面、自动化等特点：你无需手动浏览多个网站，每天只需查看一份简报即可掌握科技动态；系统通过 AI 自动筛选热点、提炼趋势、生成摘要；内容覆盖中文社区、国际资讯、科技媒体等多个维度；每天定时生成简报，并自动推送到仓库，无需人工干预。
 
 ### 简报示例
 
@@ -25,7 +22,7 @@
 4. 推荐阅读 - 精选深度文章
 ```
 
-## 🎯 为什么
+## 为什么
 
 ### 解决的问题
 
@@ -43,7 +40,7 @@
 - **创业者**：关注投资风向、创业资讯
 - **学生**：拓展技术视野、学习前沿知识
 
-## 🚀 怎么用
+## 使用方式
 
 ### 方式一：直接查看（推荐）
 
@@ -76,8 +73,16 @@ export ANTHROPIC_BASE_URL="https://api.siliconflow.cn/v1"
 # 运行生成
 python scripts/tech_digest.py
 
+# 生成 HTML 页面
+python scripts/generate_page.py  # 生成每日详情页
+python scripts/generate_html.py  # 生成首页列表
+
 # 查看生成的简报
 cat digests/latest.md
+
+# 本地预览（可选）
+python -m http.server 8000
+# 然后访问 http://localhost:8000
 ```
 
 ### 方式三：使用 GitHub Actions 自动化
@@ -86,6 +91,10 @@ cat digests/latest.md
 2. **启用 GitHub Actions**（默认已启用）
 3. **等待每天 8:00（北京时间）自动生成**
 
+**手动触发**：除了定时运行，你也可以在 GitHub Actions 页面点击 "Run workflow" 按钮随时手动触发生成。
+
+**失败重试**：如果某次运行失败，可以在失败的运行记录页面点击 "Re-run jobs" 按钮重新执行。
+
 如需自定义，可修改配置文件：
 
 | 文件 | 用途 |
@@ -93,7 +102,7 @@ cat digests/latest.md
 | `scripts/config.json` | RSS 源、模型配置 |
 | `.github/workflows/daily-tech-digest.yml` | 定时任务配置 |
 
-## 📁 项目结构
+## 项目结构
 
 ```
 daily-tech-news/
@@ -101,21 +110,28 @@ daily-tech-news/
 │   └── daily-tech-digest.yml
 ├── scripts/                  # 核心脚本
 │   ├── tech_digest.py        # 主脚本（数据抓取 + AI 生成）
-│   ├── generate_html.py      # HTML 索引生成
-│   ├── generate_page.py      # GitHub Pages 生成
+│   ├── generate_html.py      # 生成首页列表（index.html）
+│   ├── generate_page.py      # 生成每日详情页（digests/YYYY-MM-DD.html）
 │   ├── siliconflow_client.py # SiliconFlow API 封装
 │   ├── config.json           # 配置文件
-│   └── use_agent_sdk.py      # Agent SDK 使用示例
+│   └── use_agent_sdk.py      # Agent SDK 使用示例（已弃用）
 ├── digests/                  # 简报输出目录
-│   ├── 2026-01-17.md
-│   ├── latest.md
-│   └── index.html
-├── index.html                # GitHub Pages 入口
+│   ├── 2026-01-22.md         # 每日 Markdown 简报
+│   ├── 2026-01-22.html       # 每日 HTML 详情页
+│   ├── 2026-01-22.sources.json # 原始数据备份
+│   └── latest.md             # 最新简报（符号链接）
+├── index.html                # 首页列表（所有简报的入口）
 ├── requirements.txt          # Python 依赖
+├── .env                      # 本地环境变量（需自行创建，已加入 .gitignore）
 └── README.md
 ```
 
-## 🔧 配置说明
+### 网站结构
+
+- **首页 (`index.html`)**：显示所有简报的列表，按日期倒序排列
+- **详情页 (`digests/YYYY-MM-DD.html`)**：点击列表项进入，显示当天的完整简报内容
+
+## 配置说明
 
 ### 数据源
 
@@ -159,7 +175,7 @@ schedule:
   - cron: '0 22 * * *'  # UTC 22:00 = 北京 8:00
 ```
 
-## 📊 工作原理
+## 工作原理
 
 ```
 ┌─────────────────┐
@@ -192,19 +208,24 @@ schedule:
 └─────────────────┘
 ```
 
-## 🛠️ 开发指南
+## 开发指南
 
 ### 添加新的 RSS 源
 
-编辑 `scripts/config.json`：
+编辑 `scripts/config.json`，在 `sources.rss.feeds` 数组中添加：
 
 ```json
 {
-  "rss_feeds": {
-    "new-source": {
-      "url": "https://example.com/feed",
-      "name": "新来源",
-      "category": "分类"
+  "sources": {
+    "rss": {
+      "feeds": [
+        {
+          "id": "new-source",
+          "name": "新来源",
+          "url": "https://example.com/feed",
+          "category": "tech"
+        }
+      ]
     }
   }
 }
@@ -212,20 +233,13 @@ schedule:
 
 ### 修改简报结构
 
-编辑 `scripts/tech_digest.py` 中的 `prompt` 变量，调整 AI 输出格式。
+编辑 `scripts/tech_digest.py` 中的 `build_prompt` 函数，调整 AI 输出格式和结构。
 
 ### 自定义样式
 
-编辑 `scripts/generate_page.py` 中的 CSS 样式。
+- **首页列表样式**：编辑 `scripts/generate_html.py` 中的 `INDEX_TEMPLATE` CSS
+- **详情页样式**：编辑 `scripts/generate_page.py` 中的 `HTML_TEMPLATE` CSS
 
-## 📝 许可证
+### 手动重新生成
 
-MIT License
-
-## 🙏 致谢
-
-- [V2EX](https://www.v2ex.com/) - 中文技术社区
-- [Hacker News](https://news.ycombinator.com/) - 科技资讯
-- [SiliconFlow](https://siliconflow.cn/) - 提供 GLM-4.7 模型 API
-
----
+如果 AI 生成失败，可以在 GitHub Actions 中点击 "Re-run jobs" 按钮手动重试。也可以使用 `workflow_dispatch` 触发器随时手动运行。
