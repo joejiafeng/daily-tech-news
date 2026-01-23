@@ -88,7 +88,7 @@ python -m http.server 8000
 
 1. **配置 GitHub Secrets**：在仓库设置中添加 `ANTHROPIC_API_KEY`（你的 SiliconFlow API Key）
 2. **启用 GitHub Actions**（默认已启用）
-3. **等待每天 8:00（北京时间）自动生成**
+3. **等待每天 8:10（北京时间）自动生成**
 
 **手动触发**：除了定时运行，你也可以在 GitHub Actions 页面点击 "Run workflow" 按钮随时手动触发生成。
 
@@ -176,11 +176,11 @@ ANTHROPIC_BASE_URL=https://api.siliconflow.cn/v1
 
 ### 定时任务
 
-GitHub Actions 默认配置：每天北京时间 8:00 运行
+GitHub Actions 默认配置：每天北京时间 8:10 运行
 
 ```yaml
 schedule:
-  - cron: '0 0 * * *'  # UTC 00:00 = 北京 8:00
+  - cron: '10 0 * * *'  # UTC 00:10 = 北京 8:10
 ```
 
 ## 工作原理
@@ -188,7 +188,7 @@ schedule:
 ```
 ┌─────────────────┐
 │  定时触发        │
-│  (每天 8:00)     │
+│  (每天 8:10)     │
 └────────┬────────┘
          │
          ▼
