@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-01-24</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-01-24</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-01-24</h1>
+<p>今日科技圈焦点集中在 AI 硬件与基础设施的深层变革。阿里巴巴宣布平头哥启动上市计划，加码全栈 AI 芯片布局；而 vivo 因难以做出差异化，遗憾叫停 AI 眼镜项目，揭示了硬件赛道的残酷现实。同时，微软向 FBI 提供 BitLocker 密钥及 Cloudflare 路由泄露事件，再次将数据安全与网络基础设施的脆弱性推向风口浪尖。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3650412256731265?f=rss">阿里平头哥启动上市计划，已布局全栈AI芯片</a> (36kr)
+    阿里巴巴集团已决定支持旗下芯片公司平头哥未来独立上市。成立8年来，平头哥已在计算、存储、网络等领域推出多款顶级芯片，其自研PPU已成为中国新增AI算力市场的主力，标志着互联网巨头在硬核科技领域的进一步深耕。</p>
+</li>
+<li>
+<p><a href="https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/">Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops</a> (TechCrunch via HN)
+    微软向 FBI 提供了一组 BitLocker 加密密钥，用于解锁嫌疑人的笔记本电脑。这一事件引发了关于用户隐私与执法机构权力边界的激烈讨论，再次将“后门”问题推向风口浪尖，引发对加密安全性的担忧。</p>
+</li>
+<li>
+<p><a href="https://blog.cloudflare.com/route-leak-incident-january-22-2026/">Route leak incident on January 22, 2026</a> (Cloudflare via HN)
+    Cloudflare 披露了 1 月 22 日发生的路由泄露事件。此次事件影响了部分互联网流量，凸显了全球互联网路由系统 BGP 的脆弱性，以及网络基础设施在面临配置错误或恶意攻击时的防御挑战。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3651349127651465?f=rss">因做不出差异化，vivo叫停AI眼镜项目</a> (36kr)
+    手机厂商 vivo 近期叫停了已筹备半年的 AI 眼镜项目。知情人士称，因无法做出差异化，音视频及显示方案均未确定。这揭示了当前 AI 硬件行业面临的同质化困境，厂商在寻找杀手级应用上仍存疑虑。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/9ZTy7eW64XZMNOkZJV1r?utm_source=rss&amp;utm_medium=article">“AI工程师”已上岗！微软 CEO 曝正尝试新学徒制模式</a> (InfoQ)
+    微软 CEO 表示正在尝试“新学徒制”模式，内部工程师的顶级实践正在发生变化。AI 不仅是辅助工具，更开始承担初级工程师的工作，这预示着软件开发流程和人才培养体系的深刻变革。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://maggieappleton.com/gastown">Gas Town's agent patterns, design bottlenecks, and vibecoding at scale</a> (Hacker News)
+    文章深入探讨了 Gas Town 的 Agent 模式和大规模 Vibe coding 的设计瓶颈。随着 AI 编程助手普及，开发者正从编写具体代码转向管理 Agent 循环，这种“意图驱动”的开发方式正在重塑软件工程范式。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/video/0a2A4lh12FJJMYgS7jqx?utm_source=rss&amp;utm_medium=article">AI 进化论丨第八期：新瓶旧酒还是涅槃重生？操作系统的 AI 进化终将走向何方？</a> (InfoQ)
+    操作系统正经历一场由 AI 驱动的进化。从简单的功能集成到系统级的智能重构，本期讨论了 AI 如何改变 OS 的交互逻辑与底层架构，以及这是否会带来真正的颠覆性创新，还是仅仅是新瓶装旧酒。</p>
+</li>
+<li>
+<p><a href="http://www.huxiu.com/article/4828489.html?f=wangzhan">当衰老遇上机器人，晚年正在被重新定义</a> (虎嗅)
+    随着老龄化加剧，机器人正成为银发族的“赛博羽翼”。不仅是护理工具，机器人更开始扮演情感伴侣的角色，通过技术手段重塑晚年生活剧本，为解决全球养老困境提供了新的科技视角和商业机会。</p>
+</li>
+<li>
+<p><a href="http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/">The tech monoculture is finally breaking</a> (Hacker News)
+    长期以来由少数巨头主导的科技单一文化正在瓦解。文章指出，随着技术栈的多样化和开源生态的繁荣，开发者有了更多选择，创新活力正在回归，技术领域正变得更加多元和有趣。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3650403778977928?f=rss">「WITH 1000 AI 」获圣贝拉战略投资，想让母婴护理走向技术平权</a> (36kr)
+    母婴服务品牌 WITH 1000 AI 获得战略投资，旨在利用 AI 解决服务行业难以规模化的痛点。通过技术手段将依赖个人经验的服务标准化，试图实现服务行业的“技术平权”，提升服务效率与覆盖面。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md">Banned C++ Features in Chromium</a> (Hacker News)
+    Chromium 项目官方文档列出了被禁止使用的 C++ 特性。对于大型 C++ 项目而言，为了保证代码的可维护性、安全性和跨平台兼容性，限制部分现代语言特性是必要的工程权衡，值得开发者参考。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/post/105578">一日一技 | 老 Mac 系统恢复指北</a> (少数派)
+    针对 Wi-Fi 和 U 盘都无法恢复系统的老款 Mac，文章提供了一套实用的系统重装方法。这对于仍在使用老旧设备的用户来说是一份宝贵的维护指南，有助于延长设备的使用寿命。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/post/105471">5 款替代品，找回 LaunchPad 的快捷</a> (少数派)
+    macOS Tahoe 移除了 LaunchPad 功能，给习惯该操作的用户带来不便。文章推荐了 5 款第三方应用作为替代方案，帮助用户找回快速启动应用的便捷体验，适应系统更新带来的变化。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/m3AbwhgYsmXQua8Fu2XG?utm_source=rss&amp;utm_medium=article">8B端侧写作智能体AgentCPM-Report开源，DeepResearch 终于本地化</a> (InfoQ)
+    AgentCPM-Report 宣布开源，这是一款 8B 端侧写作智能体，实现了 Deep Research 的本地化部署。这意味着用户可以在不依赖云端的情况下，在本地设备上运行强大的深度研究和写作 Agent，有效保护数据隐私。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1187740">大家的 NAS 都买了应急电源了没？</a> (V2EX)
+    因家中跳闸导致 NAS 停机，V 友讨论购买 UPS 电源的必要性。对于搭建家庭数据中心和 NAS 的用户来说，配备应急电源是防止数据丢失和硬件损坏的关键措施，引发了社区对硬件可靠性的关注。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>
