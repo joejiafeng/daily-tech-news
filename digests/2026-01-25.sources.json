@@ -1,96 +1,87 @@
 {
   "date": "2026-01-25",
-  "generated_at": "2026-01-25T09:03:02.409519+08:00",
+  "generated_at": "2026-01-25T15:56:55.055514+08:00",
   "v2ex": [
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "昨天试了下 telegram，+86 手机号登录居然要收费了！",
-      "url": "https://www.v2ex.com/t/1187997",
-      "summary": "电报我一般用来当网盘用，现在+86 登录既然要收会员费一周好像 7 块，大佬们有没有其他可以替代的软件推荐？",
-      "published": "2026-01-24T09:38:23+08:00",
-      "score": 66
+      "title": "FSD 纯视觉路线要赢了",
+      "url": "https://www.v2ex.com/t/1188147",
+      "summary": "从车主横跨东西海岸，从洛杉矶到纽约，100% 无人接管 还是冬季，据说还有风雪恶劣天气 客观事实证明，纯视觉路线做到了 只用摄像头，不用任何其他传感器 计算冗余，代替传感器冗余，不用拐杖 马斯克极致 scale 的思维，以更低成本、更快速度，大规模部署和升级无人驾驶 当激光路线还在一城一城的开，robotaxi 很有可能后发制人 真的敬佩那些特斯拉车主...",
+      "published": "2026-01-25T11:44:19+08:00",
+      "score": 39
     },
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "大家自己的代码都是放在哪儿",
-      "url": "https://www.v2ex.com/t/1188008",
-      "summary": "A：GitHub （私有） B：GitHub （公开） C：自建 Git 仓库 D：GitHub+自建仓库 自建 Git 也有一大堆选择（ gitea 、gitlab 、...?）, 仓库放哪儿（云服务器、NAS 、...？）",
-      "published": "2026-01-24T10:50:07+08:00",
-      "score": 49
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
-      "title": "解决+86 Telegram 账号登录难题",
-      "url": "https://www.v2ex.com/t/1188026",
-      "summary": "## 问题描述 不知从何时，+86 注册的 TG 账号登陆时，无法正常收到验证码。看到有人说多登陆几次会提示绑定邮箱，可用邮箱验证，但尝试未果。 ## 适用情况 当前有一台移动设备正处于登录状态 ## 解决方法 核心思路：通过`passkey`绕过接码难题，进行登录。 如果你是单一设备登录，可直接使用手机自带的`passkey 管理器`。 > 打开 T...",
-      "published": "2026-01-24T13:10:01+08:00",
-      "score": 47
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
-      "title": "北京在哪能买到真烟",
-      "url": "https://www.v2ex.com/t/1188002",
-      "summary": "不吸打算买两条烟过年送礼。有没有完全保真的地方买",
-      "published": "2026-01-24T10:04:34+08:00",
-      "score": 35
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
-      "title": "大家炒股用什么软件多一些呀",
-      "url": "https://www.v2ex.com/t/1187995",
-      "summary": "rt ，发个投票，骗点铜币",
-      "published": "2026-01-24T09:06:09+08:00",
-      "score": 33
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
-      "title": "大家脑子里都在想什么呢，可以告诉我么",
-      "url": "https://www.v2ex.com/t/1188023",
-      "summary": "我最近听了很多的播客，热内，福柯，李贽，我觉得有个有意思的点，就是无论这些哲学家的思想多么的深刻和伟大，他们也是需要工作来养活自己的，热内就更不用说了，他甚至需要去偷窃和犯罪来让自己生存，我发现了让我感到焦虑的重要因素，就是人的思想可以日行千里，甚至可以创造一个新的世界，就像马克思那样，但是生活不能，要一点一点的去过，我们要吃饭，要喝水，我知道有本书叫...",
-      "published": "2026-01-24T12:52:56+08:00",
-      "score": 33
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
-      "title": "2025 一人公司年度总结，从 0 到 200$/月",
-      "url": "https://www.v2ex.com/t/1188003",
-      "summary": "2025 一人公司年度复盘：从 0.1 到 1 的创业路 这一年花了很多时间在 UChart 的开发上面，不断迭代产品，从年初到年末，功能从少到多，从多到精。慢慢理解了为啥公司中产品经理总是改来改去，因为我自己在做产品的时候也是变来变去，年初把一种，年初把一种功能调整为另外一种形式。嗯，到年末又会把它重新改回来，这可能是产品经理经理常态总在不停不停的变...",
-      "published": "2026-01-24T10:18:20+08:00",
+      "title": "有没有觉得“微信”店大欺客的",
+      "url": "https://www.v2ex.com/t/1188059",
+      "summary": "小程序 小游戏 公众号 服务号 多端应用 微信小店 带货助手 移动应用 网站应用 第三方平台 开放平台 视频号助手 企业微信 每注册一个平台“一个邮箱”，每个平台认证“300“，这么赚钱的吗，太奶奶的，为什么不统一认证呢，而且还不能退款，霸王条款！！！",
+      "published": "2026-01-24T16:09:15+08:00",
       "score": 28
     },
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "决赛圈-理想 i6 和 极氪 7x（南方）",
-      "url": "https://www.v2ex.com/t/1188022",
-      "summary": "这一个多月把 20w 左右的新能源车都试驾过了，目前留下两个选项，决赛圈希望各位 v 友给点建议,用车主要是广州这边南方，上下班通勤加偶尔的高速长途。 1.极氪 7x 后驱 103 度 2.理想 i6 后驱 之所以没有其他的车型，是因为试驾完感觉都不喜欢，比如小鹏的 g 系列。 顾虑/犹豫点 1.理想 i6 车机体验感好，女朋友喜欢 i6 ，坐起来高级...",
-      "published": "2026-01-24T12:33:36+08:00",
-      "score": 26
+      "title": "[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？",
+      "url": "https://www.v2ex.com/t/1188101",
+      "summary": "价值经受的住时间考验，是很多受时间而价值衰减的事物对比的。 比如生老病死，身体随着时间而衰老；亦或者是买的汽车，随着时间和使用，价值会越来低。 大家有自己的一些独特的想法么？欢迎在下面进行你的分享",
+      "published": "2026-01-24T21:14:19+08:00",
+      "score": 23
     },
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "为什么赌徒无法收手？",
-      "url": "https://www.v2ex.com/t/1188018",
-      "summary": "包括链上的炒币 KOL ，明明已经赚了成百上千万，已经一辈子不愁吃穿了，为什么还每天都在线，每天都在炒币，昨天刷到的 x 上赵纯想的帖子给了我一些启发： \" 赌博难以戒除的原因，是某一次巨大的预期之外的超量分泌后的记录在案。 想象你的大脑将一次 2000 倍盈利的 2000 倍的超量分泌\"不小心\"记录在案，这种\"2000 倍的相信\"，有多么凝重、残酷、...",
-      "published": "2026-01-24T11:52:00+08:00",
-      "score": 25
+      "title": "两年前买的硬盘最近发现疑似二手，求支招",
+      "url": "https://www.v2ex.com/t/1188133",
+      "summary": "情况是这样的 两年前在 JD 自营店买了两块希捷银河硬盘，出于对自营的信任，也没看 smart 数据，就插在 NAS 里用了 去年年中开始，其中一块频繁出现 xfs 文件系统无法加载的情况，但是每次 repair 一下就 ok 了，当时我怀疑是 sata 线缆的问题，也就没有上心。直到去年年底 12 月份，我排查的时候认真看了一下 smart 里的 p...",
+      "published": "2026-01-25T09:27:20+08:00",
+      "score": 23
     },
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "完了,完了, 不小心强行关机, pve 服务器无法启动了",
-      "url": "https://www.v2ex.com/t/1188009",
-      "summary": "感觉没响应 想省点事直接关机重启了, 现在无法启动, 可能硬盘出问题了 linux 机器千问不能直接断电重启阿...",
-      "published": "2026-01-24T10:53:06+08:00",
-      "score": 22
+      "title": "分体式键盘真实体验怎么样？",
+      "url": "https://www.v2ex.com/t/1188095",
+      "summary": "看到网上有几百块的分体式键盘售卖，想试试，有没有比较了解的大佬，讲讲怎么选，以及有什么可信赖的选择",
+      "published": "2026-01-24T20:25:49+08:00",
+      "score": 21
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "有没有这样的 PHP 框架",
+      "url": "https://www.v2ex.com/t/1188137",
+      "summary": "RT ，求推荐一个 PHP 框架，根目录直接就是 index.php ，不像 Laravel/ThinkPHP 那样的还要指定 web/目录来运行。权限什么的都是通过代码或者操作系统的权限来控制。 想知道有这样的 PHP 框架吗？我觉得这种对于几块钱的虚拟主机特别友好（其中好多都不支持绑定子目录的），简单且足够轻量化。",
+      "published": "2026-01-25T10:06:40+08:00",
+      "score": 17
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "我 Vibe Coding 一周，做了个桌面 Agent",
+      "url": "https://www.v2ex.com/t/1188072",
+      "summary": "复盘一下我 vibe coding 一周，开发 WorkAny 的过程，很有意思。😂 ## 开发过程 1. 上周三在香港办卡，临时起意想做个桌面 Agent 项目，对标 cowork ，晚上回到广州开始写代码 2. 初期目标是快速发布，没时间去研究哪个 Agent 框架好用了，看很多人在用 claude agent sdk ，先用这个吧 ![]( ht...",
+      "published": "2026-01-24T17:15:50+08:00",
+      "score": 17
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "Gap 三个月后入职新公司，才一个月，又想辞职了",
+      "url": "https://www.v2ex.com/t/1188138",
+      "summary": "工作时长比面试时讲的长了很多，第一年甚至没有年假 请问各位大佬辞职时机怎么把握，是等年后再提还是在开始缴纳社保前就溜？",
+      "published": "2026-01-25T10:08:33+08:00",
+      "score": 16
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "C 盘救星！这神器让我的 SSD 原地复活， 10 分钟用释放 100GB 可用空间",
+      "url": "https://www.v2ex.com/t/1188158",
+      "summary": "[Windows 系统盘清理利器]( https://github.com/tanaer/WindowsClear)，专注于释放 `AppData` 目录占用的巨量空间。 它能扫描出占用空间大的软件数据文件夹，一键迁移到其他磁盘（如 D 盘）， 并自动创建目录联接，确保软件无缝运行，就像从未移动过一样。 ## 核心功能 - **智能扫描**: 自动分析...",
+      "published": "2026-01-25T13:54:11+08:00",
+      "score": 13
     }
   ],
   "hackernews": [
@@ -101,7 +92,52 @@
       "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
       "summary": "",
       "published": "2026-01-25T03:04:08+08:00",
-      "score": 381
+      "score": 517
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "summary": "",
+      "published": "2026-01-25T08:14:40+08:00",
+      "score": 298
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
+      "url": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
+      "summary": "",
+      "published": "2026-01-20T15:04:53+08:00",
+      "score": 67
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "A Lament for Aperture",
+      "url": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
+      "summary": "",
+      "published": "2026-01-21T08:35:01+08:00",
+      "score": 48
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "url": "https://arxiv.org/abs/2601.05047",
+      "summary": "",
+      "published": "2026-01-25T10:48:36+08:00",
+      "score": 39
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Two Weeks Until Tapeout",
+      "url": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+      "summary": "",
+      "published": "2026-01-25T09:25:37+08:00",
+      "score": 87
     },
     {
       "source": "Hacker News",
@@ -110,7 +146,7 @@
       "url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
       "summary": "",
       "published": "2026-01-25T04:03:39+08:00",
-      "score": 116
+      "score": 163
     },
     {
       "source": "Hacker News",
@@ -119,43 +155,7 @@
       "url": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
       "summary": "",
       "published": "2026-01-25T07:55:10+08:00",
-      "score": 8
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
-      "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-      "summary": "",
-      "published": "2026-01-25T02:06:00+08:00",
-      "score": 118
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "High-bandwidth flash progress and future",
-      "url": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
-      "summary": "",
-      "published": "2026-01-21T10:17:36+08:00",
-      "score": 8
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Memory layout in Zig with formulas",
-      "url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-      "summary": "",
-      "published": "2026-01-24T23:57:45+08:00",
-      "score": 74
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Doing gigabit Ethernet over my British phone wires",
-      "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-      "summary": "",
-      "published": "2026-01-24T18:14:31+08:00",
-      "score": 415
+      "score": 127
     },
     {
       "source": "Hacker News",
@@ -164,43 +164,79 @@
       "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
       "summary": "https://xcancel.com/NicerInPerson/status/2014989679796347375 https://github.com/mikekelly/claude-sneakpeek",
       "published": "2026-01-24T22:35:47+08:00",
-      "score": 281
+      "score": 382
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
-      "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+      "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
       "summary": "",
-      "published": "2026-01-25T05:24:13+08:00",
-      "score": 111
+      "published": "2026-01-25T11:17:43+08:00",
+      "score": 107
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Europe wants to end its dangerous reliance on US internet technology",
-      "url": "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042",
+      "title": "Typography on Pencils (2023)",
+      "url": "https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5",
       "summary": "",
-      "published": "2026-01-25T07:21:37+08:00",
-      "score": 109
+      "published": "2026-01-21T05:18:26+08:00",
+      "score": 55
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "I added a Bluesky comment section to my blog",
-      "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
+      "title": "Nvidia-smi hangs indefinitely after ~66 days",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
       "summary": "",
-      "published": "2026-01-25T04:33:40+08:00",
-      "score": 202
+      "published": "2026-01-25T11:33:20+08:00",
+      "score": 144
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "How I estimate work",
-      "url": "https://www.seangoedecke.com/how-i-estimate-work/",
+      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
+      "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
       "summary": "",
-      "published": "2026-01-24T18:22:32+08:00",
-      "score": 397
+      "published": "2026-01-25T02:06:00+08:00",
+      "score": 157
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The Temporal Consistency Challenge in Video Restoration",
+      "url": "https://blog.videowatermarkremove.com/the-temporal-consistency-challenge-from-optical-flow-to-spatiotemporal-ai-in-video-restoration",
+      "summary": "",
+      "published": "2026-01-20T22:07:39+08:00",
+      "score": 13
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Draig, a Welsh Programming Language",
+      "url": "https://raku.land/zef:l10n/L10N::CY",
+      "summary": "",
+      "published": "2026-01-23T00:27:22+08:00",
+      "score": 30
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Memory layout in Zig with formulas",
+      "url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
+      "summary": "",
+      "published": "2026-01-24T23:57:45+08:00",
+      "score": 99
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Vortex Support in DuckDB",
+      "url": "https://duckdb.org/2026/01/23/duckdb-vortex-extension",
+      "summary": "",
+      "published": "2026-01-25T10:18:47+08:00",
+      "score": 19
     },
     {
       "source": "Hacker News",
@@ -209,25 +245,7 @@
       "url": "https://news.ycombinator.com/item?id=46744807",
       "summary": "Almost all transactional emails are being marked as suspicious even when their SPF/DKIM records are fine and they’ve been whitelisted before. Did Google break something in gmail...",
       "published": "2026-01-25T00:16:02+08:00",
-      "score": 122
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "I don't write code anymore – I sculpt it",
-      "url": "https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/",
-      "summary": "",
-      "published": "2026-01-25T05:49:01+08:00",
-      "score": 29
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Agent orchestration for the timid",
-      "url": "https://substack.com/inbox/post/185649875",
-      "summary": "",
-      "published": "2026-01-25T03:25:53+08:00",
-      "score": 64
+      "score": 166
     },
     {
       "source": "Hacker News",
@@ -236,37 +254,37 @@
       "url": "https://blog.tansu.io/articles/broker-aws-free-tier",
       "summary": "",
       "published": "2026-01-20T19:38:31+08:00",
-      "score": 54
+      "score": 79
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "JSON-render: LLM-based JSON-to-UI tool",
-      "url": "https://json-render.dev/",
-      "summary": "",
-      "published": "2026-01-25T03:12:56+08:00",
-      "score": 55
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Shared Claude: A website controlled by the public",
-      "url": "https://sharedclaude.com/",
-      "summary": "",
-      "published": "2026-01-24T16:15:02+08:00",
-      "score": 40
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Understanding Rust Closures",
-      "url": "https://antoine.vandecreme.net/blog/rust-closures/",
-      "summary": "",
-      "published": "2026-01-25T02:42:13+08:00",
-      "score": 33
+      "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
+      "url": "https://github.com/mroboff/vm-curator",
+      "summary": "I've long wanted to harness QEMU/KVM for my desktop virtual machines, but I'm befuddled by virt-manager's lack of support for working NVIDIA 3D acceleration, dogmatic embrace of...",
+      "published": "2026-01-25T11:36:38+08:00",
+      "score": 18
     }
   ],
   "rss": [
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "全国四地同步揭晓：TapTap年度游戏大赏走过了第一个十年",
+      "url": "https://36kr.com/p/3654256593903745?f=rss",
+      "summary": "《燕云十六声》斩获年最佳游戏奖项 1月24日，2025TapTap年度游戏大赏在上海上音歌剧院落下帷幕，这场国内顶级的玩家游戏大赏走完了它的第一个十年。 本次大赏除主会场外，由36氪游戏、京东电竞、京东MALL、红魔手机共同助力开展的异地观赏+试玩会，也分别在北京、广州、成都三地的京东MALL成功举办。 线下异地观赏+试玩会现场 线下观赏玩家寄语 一款...",
+      "published": "2026-01-25T11:54:13+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "前库卡技术总监创业，融资近千万元、清华精密仪器背景｜36氪首发",
+      "url": "https://36kr.com/p/3654171175657861?f=rss",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，智能打磨设备研发商比斯弗智能科技（苏州）有限公司（下称“比斯弗”）近日完成近千万元天使+轮融资。我们总结了本轮融资信息和该公司几大亮点： 融资金额及领投机构 融资金额： 近千万元 融资轮次： 天使+轮 投资机构： 敦行资本领投 资金用途： 本轮融资资金将主要用于现有市场开拓、产品迭代与新产品线研发，以及补充流动资金。...",
+      "published": "2026-01-25T09:35:45+08:00"
+    },
     {
       "source": "36kr",
       "source_type": "rss",
@@ -343,199 +361,190 @@
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "安踏投资加速，主品牌该有些压力了",
-      "url": "https://36kr.com/p/3650506248839298?f=rss",
-      "summary": "作者 | 谢芸子 编辑 | 张帆 安踏投资并购的步伐明显加快了。 2025年4月，安踏体育以2.9亿美元收购了德国户外品牌狼爪。数月后，公司又宣布与韩国时尚集团MUSINSA共同成立合资公司MUSINSA中国。且进入2026年以来，PUMA彪马的收购传闻还在持续发酵。 路透社援引知情人士消息称，安踏拟收购PUMA 29%的股权。若该笔收购能够达成，安踏...",
-      "published": "2026-01-23T09:41:47+08:00"
+      "title": "报道称三星电子将一季度NAND价格上调100%",
+      "url": "https://36kr.com/newsflashes/3654461246464132?f=rss",
+      "summary": "据韩国媒体报道，三星电子在今年第一季度将NAND闪存的供应价格上调了100%以上，这一涨幅远超市场此前预期，凸显了当前半导体市场严重的供需失衡现状。据上述媒体行业知情人士透露，三星电子已于去年年底完成了与主要客户的供应合同谈判，并从1月起正式实施新的价格体系。这是继DRAM内存价格被曝上调近70%之后，存储市场的又一重磅调价信号。报道称，三星电子目前已...",
+      "published": "2026-01-25T15:44:05+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "谷歌微软的天使投资人押注，这家GEO公司用模型记忆提升AI可见性丨涌现新项目",
-      "url": "https://36kr.com/p/3650535923032196?f=rss",
-      "summary": "文｜王欣逸 编辑｜邓咏仪 一句话介绍 geoSurge是一家专注做GEO（生成式引擎优化）的初创公司，基于“模型内部记忆+RAG（检索增强生成）”提供GEO服务，总部位于伦敦，成立于2025年4月。 目前，geoSurge已完成由欧洲老牌风投机构Passion Capital和美国硅谷风投基金Tuesday Capital支持的Pre-Seed轮融资，...",
-      "published": "2026-01-23T08:15:53+08:00"
+      "title": "本周南向资金合计成交净流入235.23亿港元，小米集团净买入金额最高",
+      "url": "https://36kr.com/newsflashes/3654438325198982?f=rss",
+      "summary": "本周（1月19日至23日）港股市场主要指数小幅下跌，恒生指数跌0.36%，恒生科技指数跌0.42%，恒生中国企业指数跌0.65%。数据显示，本周南向资金合计成交净流入235.23亿港元。从成交净买入金额来看，南向资金对大型科技股明显加仓，小米集团-W本周获南向资金净买入金额最高，达到22.07亿港元，阿里巴巴-W本周获南向资金净买入金额13.33亿港元...",
+      "published": "2026-01-25T15:23:49+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "北京今年拟首批投入超15亿促高精尖产业发展",
-      "url": "https://36kr.com/newsflashes/3654122656326023?f=rss",
-      "summary": "北京市宣布多项政策支持高精尖产业发展。北京市经济和信息化局宣布，编制了2026年第一批高精尖产业发展项目资金和支持中小企业发展资金实施指南，全力推动2026年高精尖产业发展“开好头、快起步”。第一批实施指南围绕高精尖产业领域的年度重点任务，以及“十五五”时期产业远景布局，重点从“促创新”“快转化”“提质效”“育成长”四个方面，计划投入资金超15亿元，支...",
-      "published": "2026-01-25T09:00:00+08:00"
+      "title": "Vanguard在美国以外地区的资产规模突破1万亿美元",
+      "url": "https://36kr.com/newsflashes/3654460349440132?f=rss",
+      "summary": "先锋领航（Vanguard）管理的美国境外客户资产规模已突破1万亿美元，该公司正计划推进大规模国际扩张，目标在五年内将客户数量和资产规模翻倍。这家全球第二大资产管理公司的首席执行官Salim Ramji表示，随着各国政府试图鼓励数百万储蓄者将闲置资金用于投资，全球市场将涌现“巨大机遇”。（新浪财经）",
+      "published": "2026-01-25T14:59:11+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "小鹏汽车副总裁顾捷一行到访东安动力",
-      "url": "https://36kr.com/newsflashes/3652967141449864?f=rss",
-      "summary": "据东安动力消息，近日，小鹏汽车副总裁顾捷率核心团队到访东安动力，东安动力副总经理赵兴天携研发、市场、质量、销售等部门负责人陪同座谈。双方围绕量产项目推进、下一代发动机技术开发等核心议题深入交流并达成共识。",
-      "published": "2026-01-24T16:00:14+08:00"
+      "title": "光大证券：建议投资者近期以稳为主，但仍应持股过节",
+      "url": "https://36kr.com/newsflashes/3654433834754182?f=rss",
+      "summary": "36氪获悉，光大证券认为春节前市场将会保持震荡，难以保持稳定的趋势，这主要与春节之前投资者交易热度有所下行，以及微观流动性短期趋紧有关。从历史情况来看，春节前20个交易日，主要指数上涨概率不足50%。预计春节之后市场将会迎来新一轮上行动力，春节后20个交易日主要指数上行概率与平均涨幅均较高。因此建议投资者近期以稳为主，但仍应持股过节。行业方面，关注电子...",
+      "published": "2026-01-25T14:33:15+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "下周解禁股出炉 12股解禁市值超1亿元",
-      "url": "https://36kr.com/newsflashes/3652965586542982?f=rss",
-      "summary": "下周（1月26日至1月30日期间），将有29股有限售股解禁，合计解禁股份超7亿股，以最新收盘价计算（下同），总解禁市值超400亿元。有12股解禁市值超1亿元，其中海博思创解禁市值超200亿元，福斯达、益方生物-U解禁市值均超40亿元。",
-      "published": "2026-01-24T15:45:35+08:00"
+      "title": "最高收益达12%、上市公司购入十余亿，黄金结构性存款走热",
+      "url": "https://36kr.com/newsflashes/3654459087200393?f=rss",
+      "summary": "随着国际金价持续走强，与黄金相关标的挂钩的银行结构性存款产品正在悄然走热。近期，包括国有大行、股份行及外资银行均密集推出此类产品，部分热门产品甚至出现“一上架即售罄”的景象。调研发现，这类产品普遍具备万元起步、期限灵活、收益分档等特点。既有挂钩黄金价格的常规产品，也有挂钩矿业公司股票、预期收益上限可达12%的复杂结构产品。在定期存款集中到期、金价预期持...",
+      "published": "2026-01-25T14:28:01+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "39度 澳网露天球场比赛因高温暂停",
-      "url": "https://36kr.com/newsflashes/3652964389724552?f=rss",
-      "summary": "根据气象信息显示，澳大利亚网球公开赛举办墨尔本的气温达到39摄氏度，近地面的高温更是让人难以忍受。受高温影响，包括中国选手王欣瑜参加的比赛在内，所有露天球场内的比赛均已暂停。",
-      "published": "2026-01-24T15:30:24+08:00"
+      "title": "国际团体起诉Meta，指控WhatsApp隐私宣传虚假",
+      "url": "https://36kr.com/newsflashes/3654433330110848?f=rss",
+      "summary": "一个国际原告团体对Meta Platforms公司提起诉讼，指控该公司就旗下即时通讯应用WhatsApp的隐私与安全性能作出虚假宣传。Meta Platforms公司将所谓的“端到端”加密技术作为WhatsApp的核心功能，这种加密技术理论上能确保消息仅对发送方和接收方可见，平台本身无法读取。（新浪财经）",
+      "published": "2026-01-25T14:20:43+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "周鸿祎：2026年全世界至少会出现100亿个智能体，百亿级公司在AI领域都算小公司",
-      "url": "https://36kr.com/newsflashes/3652924392595841?f=rss",
-      "summary": "在2026崇礼论坛上，360集团创始人周鸿祎表示，“我来太舞小镇和大家目的一样，主要是来滑雪的，另外我也希望能在这实现一个梦想，我滑雪很多年了，但水平一直很一般，希望能学会上下身分离的技巧。”周鸿祎表示，“我觉得2026年，不说中国，全世界至少会出现100亿个智能体，百亿级公司在AI领域都算小公司了。为什么这么说？因为大模型本身还在不断进化，之前大模型...",
-      "published": "2026-01-24T15:15:42+08:00"
+      "title": "太原中院裁定受理美特好破产重整",
+      "url": "https://36kr.com/newsflashes/3654431604760709?f=rss",
+      "summary": "36氪获悉，1月25日，山西美特好连锁超市股份有限公司管理人发布公告称，根据山西省太原市中级人民法院2026年1月25日作出的（2026）晋01破1号决定书，指定山西美特好连锁超市股份有限公司（下称美特好）重整工作组作为美特好破产重整的管理人。公告指出，继续委托神农投资（山西）有限责任公司对美特好进行托管运营；原美特好储值卡使用办法按照2026年1月1...",
+      "published": "2026-01-25T14:00:04+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "马国家网络安全局局长梅加特·祖海里：马来西亚将持续深化与中国在AI与网络安全领域合",
-      "url": "https://36kr.com/newsflashes/3652923757420676?f=rss",
-      "summary": "围绕马中在AI与网络安全领域的合作和治理等议题，马来西亚国家网络安全局局长梅加特·祖海里·宾·梅加特·塔杰丁23日在接受记者专访时表示，长期以来，中国在前沿技术领域积累了丰富经验，一直是马方在能力建设方面的重要合作伙伴。马来西亚高度重视并将持续深化与中国在相关领域的合作。",
-      "published": "2026-01-24T15:00:04+08:00"
+      "title": "报道：OpenAI意欲从Anthropic手中争夺企业客户",
+      "url": "https://36kr.com/newsflashes/3654310514204809?f=rss",
+      "summary": "过去一年，OpenAI推出的多款消费级产品吸引了大量关注。上周，该公司首席执行官萨姆・奥特曼在旧金山召集了迪士尼首席执行官鲍勃・艾格及其他企业高管，传递出一个明确信号：OpenAI正郑重布局企业客户市场。据一位知情人士透露，在这场配有美酒佳肴的多道式豪华晚宴上，奥特曼向与会者表示，OpenAI能够成为满足企业所有人工智能需求的一站式服务商，旗下产品矩阵...",
+      "published": "2026-01-25T13:40:48+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "世界首台10千伏供电智能采煤机在陕西下线",
-      "url": "https://36kr.com/newsflashes/3652915682255239?f=rss",
-      "summary": "1月23日，陕煤重装集团西安煤矿机械有限公司联合国能神东煤炭集团有限责任公司，自主研制的10千伏供电智能采煤机在西安下线，并顺利通过出厂评议。“世界首台10千伏供电智能采煤机，首次实现了10千伏电压应用于煤矿井下移动设备，为进一步提升我国采煤机装机功率提供了技术支撑。”中国工程院院士、江西理工大学校长葛世荣代表专家组宣读了评议意见。",
-      "published": "2026-01-24T14:45:51+08:00"
+      "title": "任职超十年，英伟达董事珀西丝·德雷尔辞职",
+      "url": "https://36kr.com/newsflashes/3654309581627525?f=rss",
+      "summary": "当地时间1月23日，英伟达在美国证券交易委员会（SEC）提交的监管文件中披露，2026年1月20日，珀西丝·德雷尔（Persis Drell）从公司董事会辞职，包括董事会薪酬委员会成员职务，即日生效。英伟达表示，德雷尔辞职是为寻求新的职业发展机会，并非因与公司在运营、政策或实践方面存在任何分歧。据了解，珀西丝·德雷尔是斯坦福大学材料科学与工程系教授兼物...",
+      "published": "2026-01-25T13:27:49+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "麦当劳上海门店突破600家，全国每年计划开店千家",
-      "url": "https://36kr.com/newsflashes/3652915056238983?f=rss",
-      "summary": "上海麦当劳在南京东路核心商圈打造的全新城市中心旗舰餐厅上海黄浦华旭国际大厦CUBE风格旗舰店餐厅亮相，这也是上海麦当劳的第600家餐厅。 上海麦当劳市场高级总经理罗伟表示：“32年来，麦当劳始终伴随上海的发展。当前，上海迈入体验经济进阶期，我们在城市中枢持续布局城市中心旗舰店。这家第600家餐厅将以创新场景为商圈注入新活力，助力提升城市消费。”",
-      "published": "2026-01-24T14:30:14+08:00"
+      "title": "北大登顶全球具身智能，董豪团队助力机器人领域突破",
+      "url": "https://36kr.com/newsflashes/3654390621134984?f=rss",
+      "summary": "36氪获悉，在最新发布的2025-2026年CSRankings全球计算机科学排名中，北京大学在具身智能相关赛道位列全球榜首，其机器人领域排名从2022年的第49位跃升至第13位。这一突破性进展与该校90后长聘副教授董豪及其团队的贡献密不可分。2022-2026年间，董豪在机器人顶级会议发表论文22篇，具身智能领域顶会顶刊论文累计90余篇，引用量过万，...",
+      "published": "2026-01-25T13:18:22+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "女子被一次性拔牙12颗后心梗休克？山西曲沃：属实，将全面深入调查涉事诊所",
-      "url": "https://36kr.com/newsflashes/3652906545078662?f=rss",
-      "summary": "曲沃县卫生健康局1月23日通报，1月19日，该局接到患者家属关于曲沃德润口腔诊所有限公司福荣口腔诊所拔除患者潘某上颌部12颗牙齿导致牙床出血、休克、心梗的情况反映。经初步调查认定，患者家属反映情况属实。目前，医患双方已就经济补偿达成和解，患者出院后居家休养。下一步，虽然涉事诊所证照齐全合规，但卫健局将依据《医疗纠纷预防和处理条例》对其进行全面深入调查，...",
-      "published": "2026-01-24T14:15:35+08:00"
+      "title": "煤炭产业新标准发布，推动煤炭清洁高效利用",
+      "url": "https://36kr.com/newsflashes/3654307029459335?f=rss",
+      "summary": "我国最新印发了《煤炭清洁高效利用重点领域标杆水平和基准水平（2025年版）》，推动煤炭产业由低端向高端、煤炭产品由初级燃料向高价值产品攀升。中国煤炭工业协会数据显示，我国煤化工原料耗煤量正以每年2000万至3000万吨的规模持续增长。新标准进一步明确将燃煤发电供热煤耗、煤制天然气等纳入能效管控重点领域，设立标杆与基准水平，此举将有力推动煤炭从燃料向原料...",
+      "published": "2026-01-25T12:59:16+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "iPhone17e或维持原价：A19 芯片、升级灵动岛",
-      "url": "https://36kr.com/newsflashes/3652905748816263?f=rss",
-      "summary": "消息源 yeux1122 发布博文，爆料称尽管 NAND 闪存和 DRAM 内存成本飙升导致高端机型面临涨价压力，但 iPhone 17e 售价不仅有望与 iPhone 16e 持平（国行售价 4499 元起），甚至可能出现下调。 该消息源指出，iPhone 17e 将大量沿用 iPhone 16e 的成熟硬件，其中最关键的是苹果自研的 C1 5G 基...",
-      "published": "2026-01-24T14:00:35+08:00"
+      "title": "苹果客服回应iPhone Air降价2000元",
+      "url": "https://36kr.com/newsflashes/3654305710170243?f=rss",
+      "summary": "近日，苹果部分直营渠道启动促销活动，其中，上市售卖仅三个月的iPhone Air官方直减2000元，叠加国补后最高优惠2500元。1月25日，以消费者身份向Apple Store天猫官方旗舰店客服咨询活动详情，对方回应称：苹果官网只有iPhone 16系列降价，直营渠道iPhone Air只有该店铺降价。同时，客服建议，可以把产品先加入购物车。“活动期...",
+      "published": "2026-01-25T12:39:55+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "海南机场2026年春运旅客吞吐量预计达817.5万人次，将创历史同期新高",
-      "url": "https://36kr.com/newsflashes/3652905119473796?f=rss",
-      "summary": "多个在线旅游平台数据显示，海口、三亚跻身国内热门目的地。2026年春运自2月2日开始，至3月13日结束，为期40天。据预测，海南控股旗下海南机场集团岛内海口美兰、三亚凤凰、琼海博鳌三大机场旅客吞吐量将突破817.5万人次，有望继续创历史新高。其中海口美兰机场旅客量预计将达到438.5万人次，三亚凤凰机场旅客量预计将达到349.3万人次，琼海博鳌机场旅客...",
-      "published": "2026-01-24T13:45:03+08:00"
+      "title": "新加坡拟投入10亿新元推动本土人工智能产业发展",
+      "url": "https://36kr.com/newsflashes/3654235101143175?f=rss",
+      "summary": "新加坡拟未来五年内投入超过10亿新元（约合7.86亿美元）用于资助公共人工智能研究，以加快推动本土人工智能产业的发展。新加坡数码发展及新闻部长杨莉明在周六该国的一次行业活动中发表讲话时称，政府此举旨在通过投资来巩固其作为人工智能研究中心的地位。这笔投资将用于设立研究中心、提升人工智能能力以及培养国家的人才储备。（新浪财经）",
+      "published": "2026-01-25T12:02:04+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "可甄别美国商品的应用软件在丹麦“出圈”",
-      "url": "https://36kr.com/newsflashes/3652904226808197?f=rss",
-      "summary": "丹麦民众对美国强索格陵兰岛的不满情绪正蔓延至超市货架，一款“帮助”丹麦消费者识别商品原产地以便拒绝美国商品的手机应用软件近期在该国大受欢迎。 据悉，一款名为UdenUSA（意为“没有美国”）的应用软件正在丹麦火“出圈”。该软件由21岁的达内·约纳斯·皮佩尔与朋友马尔特·亨斯贝尔共同开发。 皮佩尔称，许多消费者希望避免购买美国产食品，但在超市中往往难以辨...",
-      "published": "2026-01-24T13:30:10+08:00"
+      "title": "沐瞳旗下决胜巅峰M7世界总决赛收视率峰值达到559万",
+      "url": "https://36kr.com/newsflashes/3654305421828224?f=rss",
+      "summary": "36氪获悉，1月24日，据数据平台Esports Charts，沐瞳旗下决胜巅峰M7世界总决赛收视率峰值达到559万，打破了该赛事保持的全球移动电竞收视纪录。据了解，本次赛事共计有16支来自全球不同国家的战队参与，总决赛将于1月25日举行。",
+      "published": "2026-01-25T11:51:42+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "粤澳往来更便捷 港珠澳大桥珠海公路口岸合作查验快捷通道将扩围",
-      "url": "https://36kr.com/newsflashes/3652902679617666?f=rss",
-      "summary": "为进一步便利粤澳两地人员往来，经与澳门治安警察局研究协商，报中华人民共和国出入境管理局批准，从2026年1月26日起，港珠澳大桥珠海公路口岸珠澳通道合作查验快捷通道扩大通行人员范围。此次扩大通行范围的人员包括三类：持外国护照和外国人永久居留身份证的外国人；持外国电子护照和6个月以上外国人居留许可的外国人；持外国电子护照和6个月以上多次有效中国签证及澳门...",
-      "published": "2026-01-24T13:15:39+08:00"
+      "title": "雷军：新一代小米SU7争取春节前部分样车进店",
+      "url": "https://36kr.com/newsflashes/3654234362749058?f=rss",
+      "summary": "36氪获悉，1月25日，小米创办人、董事长兼CEO雷军发文表示，新一代SU7卡布里蓝实车非常漂亮，争取春节前部分样车能够进店，到时候大家就可以到店感受。现在已经开始小订。​​​",
+      "published": "2026-01-25T11:44:21+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "1月沪牌拍卖结果出炉：中标率8.9% 最低成交价94100元",
-      "url": "https://36kr.com/newsflashes/3652901360853379?f=rss",
-      "summary": "1月沪牌拍卖结果刚刚出炉：个人额度合计拍卖总数3784个，参加拍卖人数42564人，中标率8.9%。最低成交价94100元，平均成交价为94159元，比上个月93900元增加了259元。",
-      "published": "2026-01-24T13:00:13+08:00"
+      "title": "AI热潮点燃金属需求，市场预测铜今年仍将供不应求",
+      "url": "https://36kr.com/newsflashes/3654135638876544?f=rss",
+      "summary": "自2025年初以来，MSCI金属与矿业指数累计上涨近90%，大幅跑赢半导体、全球银行以及“美股七巨头”。而随着机器人、电动汽车以及人工智能（AI）数据中心的快速发展不断将金属价格推向新高，这波行情丝毫没有停歇迹象。根据一项市场预测，今年铜仍将供不应求，供应缺口甚至可能比2025年更加严重。在黄金方面，BI分析师认为金价可能上探每盎司5000美元，而高盛...",
+      "published": "2026-01-25T11:20:52+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "光力科技：12英寸激光开槽机和12英寸研磨机正在客户端验证中",
-      "url": "https://36kr.com/newsflashes/3652868453146757?f=rss",
-      "summary": "光力科技近日在投资者电话交流会上表示，公司12英寸高精密切割设备8231适用于超薄晶圆，支持晶圆全切和DBG半切工艺，可服务于CPO共封装光学等算力中心数据互联网场景和紧凑型封装的可穿戴设备等领域，8231和应用于高效封装体切割分选的7260均进入客户验证阶段；此外，12英寸激光开槽机和12英寸研磨机也正在客户端验证中，客户反馈良好。同时，公司也在加紧...",
-      "published": "2026-01-24T12:45:49+08:00"
+      "title": "Polymarket数据显示，贝莱德里德尔跃居美联储主席最大热门",
+      "url": "https://36kr.com/newsflashes/3654127628296325?f=rss",
+      "summary": "根据预测平台Polymarket的数据显示，截止本周六，里德尔当选美联储主席的概率已飙升至54%，远远领先于排名第二的沃什(29%)。据熟悉白宫决策的人士透露，贝莱德高管里克·里德尔在华尔街的资历以及对美联储改革持开放态度的立场，正增强了他获得这一央行最高职位的筹码。（财联社）",
+      "published": "2026-01-25T10:55:44+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "中信证券：2026年算力景气有望持续",
-      "url": "https://36kr.com/newsflashes/3652867677577605?f=rss",
-      "summary": "中信证券研报称，预计算力板块2025年业绩将在CSP大厂Capex持续兑现、Token需求不断释放、产品能力不断提升等背景下持续景气增长；AI应用显现结构性亮点，如AI金融科技、AI医疗、AI数据等领域表现突出，通用Agent应用亦韧性增长；板块整体盈利有望明显改善。展望2026年，算力景气有望持续、AI应用迎拐点机遇。",
-      "published": "2026-01-24T12:30:01+08:00"
+      "title": "比亚迪计划2026年出口130万辆汽车",
+      "url": "https://36kr.com/newsflashes/3654126889017475?f=rss",
+      "summary": "比亚迪公司正致力于将向中国以外市场的交付量提高近25%。比亚迪品牌及公关部门总经理李云飞周六在上海的一次媒体发布会上表示，该公司计划2026年向中国以外地区销售130万辆汽车。而去年其海外交付量为105万辆。（新浪财经）",
+      "published": "2026-01-25T10:40:59+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "恒丰银行被罚100万元，责任人终身禁业",
-      "url": "https://36kr.com/newsflashes/3652859439210630?f=rss",
-      "summary": "1月24日消息，福建金融监管局日前披露的行政处罚信息公示表显示，因违规办理授信业务，恒丰银行股份有限公司福州分行被罚100万元。 同时，福建金融监管局对相关责任人王刚禁止终身从事银行业工作。",
-      "published": "2026-01-24T12:15:35+08:00"
+      "title": "OpenAI启动Codex发布月",
+      "url": "https://36kr.com/newsflashes/3654125799055750?f=rss",
+      "summary": "当地时间1月23日，OpenAI首席执行官山姆·奥特曼发文称，接下来一个月，将推出许多与Codex相关的产品，发布从下周开始。Codex是一套高度成熟的智能编程辅助生态系统。（界面）",
+      "published": "2026-01-25T10:20:49+08:00"
     },
     {
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "百度新设个人超级智能事业群组 王颖任负责人 百度文库网盘合并为个人超级智能事业群组",
-      "url": "https://36kr.com/newsflashes/3652855054066049?f=rss",
-      "summary": "1月23日，百度发布设立应用研发组织相关公告，新设个人超级智能事业群组。该事业群组将合并文库和网盘事业部，由王颖担任组织负责人，直接向CEO汇报。 此次调整将有助于充分整合人才、技术等核心要素，进一步强化百度在AI应用方面的整体协同创新能力。",
-      "published": "2026-01-24T12:00:11+08:00"
+      "title": "Meta：在新版开发期间，暂停青少年访问AI角色权限",
+      "url": "https://36kr.com/newsflashes/3654125262578052?f=rss",
+      "summary": "Meta当地时间1月23日更新对青少年安全政策显示，在开发新版人工智能角色期间，将暂停全球青少年用户访问现有人工智能角色的权限。未来数周起，在新版体验就绪前，青少年将无法在所有应用中访问AI角色。此限制适用于所有提供青少年生日信息的用户，以及自称成年人但经年龄预测技术判定为青少年的用户。在此期间，青少年仍可通过Meta人工智能助手获取实用信息和教育资源...",
+      "published": "2026-01-25T09:59:19+08:00"
     },
     {
-      "source": "36kr",
+      "source": "sspai",
       "source_type": "rss",
       "category": "product",
-      "title": "俞敏洪回应成立“北京新东方退休俱乐部”：新东方文旅面向全年龄段",
-      "url": "https://36kr.com/newsflashes/3652852311384448?f=rss",
-      "summary": "在2026崇礼论坛上，新东方创始人俞敏洪正面回应了最近引发热议的“北京新东方退休俱乐部”。近日，“北京新东方退休俱乐部”发文招募学员，并称俱乐部不收取任何会费，目前提供0元免费线上课和19.9元线下体验课，后续还会推出更多品类的正式课程。该消息发布后，迅速在多个社交平台发酵并引发热议。对此，俞敏洪回应表示，“大家最近可能关注比较多的是新东方文旅，新东方...",
-      "published": "2026-01-24T11:45:22+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "2025年全国规上煤炭产量48.3亿吨 同比增长1.2%",
-      "url": "https://36kr.com/newsflashes/3652836984316032?f=rss",
-      "summary": "记者从中国煤炭工业协会了解到，2025年全国规上煤炭产量完成48.3亿吨，同比增长1.2%，再创历史新高。“规上煤炭产量”是指规模以上工业原煤产量，其统计标准为年主营业收入在2000万元及以上的工业企业。",
-      "published": "2026-01-24T11:30:45+08:00"
+      "title": "从 triple j 到「字母汤」：澳洲音乐电台指北",
+      "url": "https://sspai.com/post/105482",
+      "summary": "人未至，但耳朵可以先过去「溜达溜达」。 查看全文",
+      "published": "2026-01-25T14:17:04+08:00"
     },
     {
       "source": "sspai",
@@ -617,15 +626,6 @@
       "url": "https://sspai.com/prime/story/on-dsstore",
       "summary": "本文希望从 .DS_Store 出发，基于与 Windows 平台下的类似文件 Desktop.ini 和 Thumbs.db 的对比，论述 Finder 与 Windows 资源管理器在某些设计方面的差异。 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
       "published": "2026-01-21T18:27:21+08:00"
-    },
-    {
-      "source": "sspai",
-      "source_type": "rss",
-      "category": "product",
-      "title": "让背单词像「抽卡」一样快乐：我设计了一台「美食盲盒机」",
-      "url": "https://sspai.com/post/105408",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "published": "2026-01-21T17:30:02+08:00"
     },
     {
       "source": "huxiu",
