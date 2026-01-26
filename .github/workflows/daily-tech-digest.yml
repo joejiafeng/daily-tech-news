@@ -18,6 +18,12 @@ on:
     # 每天 UTC 00:10 运行 = 北京时间 8:10（避开整点高峰，减少延迟）
     - cron: '10 0 * * *'
   workflow_dispatch:
+  # Push trigger on workflow file changes helps ensure the schedule stays active
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/daily-tech-digest.yml'
 
 jobs:
   generate-digest:

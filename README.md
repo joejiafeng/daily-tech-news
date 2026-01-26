@@ -88,11 +88,14 @@ python -m http.server 8000
 
 1. **配置 GitHub Secrets**：在仓库设置中添加 `ANTHROPIC_API_KEY`（你的 SiliconFlow API Key）
 2. **启用 GitHub Actions**（默认已启用）
-3. **等待每天 8:10（北京时间）自动生成**
+3. **确认定时任务已启用**：访问仓库的 Actions 页面，确保工作流处于启用状态
+4. **等待每天 8:10（北京时间）自动生成**
 
 **手动触发**：除了定时运行，你也可以在 GitHub Actions 页面点击 "Run workflow" 按钮随时手动触发生成。
 
 **失败重试**：如果某次运行失败，可以在失败的运行记录页面点击 "Re-run jobs" 按钮重新执行。
+
+**定时任务不运行？** 请查看下方的"定时任务故障排除"章节。
 
 如需自定义，可修改配置文件：
 
@@ -251,3 +254,32 @@ schedule:
 ### 手动重新生成
 
 如果 AI 生成失败，可以在 GitHub Actions 中点击 "Re-run jobs" 按钮手动重试。也可以使用 `workflow_dispatch` 触发器随时手动运行。
+
+## 定时任务故障排除
+
+如果定时任务没有自动运行，请按以下步骤排查：
+
+### 1. 确认工作流已启用
+
+1. 访问仓库的 **Actions** 标签页
+2. 在左侧找到 **Daily Tech Digest** 工作流
+3. 如果看到黄色横幅提示"Workflows aren't being run on this repository"，点击 **"I understand my workflows, go ahead and enable them"** 按钮启用
+
+### 2. 检查工作流状态
+
+1. 在 Actions 页面，确认 **Daily Tech Digest** 工作流旁边没有显示 "disabled" 标记
+2. 如果显示 disabled，点击工作流名称，然后点击 **"Enable workflow"** 按钮
+
+### 3. GitHub 定时任务的已知限制
+
+- **延迟**：GitHub Actions 的定时任务可能会有 10-30 分钟的延迟，特别是在高峰期
+- **60 天规则**：如果仓库超过 60 天没有活动，GitHub 会自动禁用定时任务。本仓库已配置 keep-alive 工作流来防止这种情况
+- **新仓库**：新创建的仓库可能需要手动在 Actions 页面确认启用工作流
+
+### 4. 验证定时任务配置
+
+定时任务使用 cron 表达式 `10 0 * * *`（UTC），即北京时间每天 8:10 运行。
+
+### 5. 查看运行历史
+
+在 Actions 页面可以查看所有运行记录。如果定时任务正常运行，应该能看到 event 为 "schedule" 的运行记录。

@@ -1,0 +1,43 @@
+name: Keep Alive
+
+# This workflow keeps scheduled workflows active by making a periodic commit.
+# GitHub disables scheduled workflows after 60 days of repository inactivity.
+# This workflow prevents that by ensuring regular activity on the repository.
+
+on:
+  schedule:
+    # Run weekly on Sunday at UTC 00:00
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Keep workflow alive
+        run: |
+          # Check the last commit date to avoid unnecessary commits
+          LAST_COMMIT=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          DAYS_SINCE_LAST_COMMIT=$(( (NOW - LAST_COMMIT) / 86400 ))
+          
+          echo "Days since last commit: $DAYS_SINCE_LAST_COMMIT"
+          
+          # Only create a keep-alive commit if no commits in the last 50 days
+          if [ "$DAYS_SINCE_LAST_COMMIT" -gt 50 ]; then
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            
+            # Create an empty commit to keep workflows active
+            git commit --allow-empty -m "chore: keep workflows alive [skip ci]"
+            git push
+            echo "Created keep-alive commit"
+          else
+            echo "Repository is active, no keep-alive commit needed"
+          fi
