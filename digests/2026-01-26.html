@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-01-26</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-01-26</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-01-26</h1>
+<p>今日科技圈聚焦于 AI 巨头的博弈与智能硬件的落地，Anthropic 与苹果的数十亿美元合作虽陷入停滞，但腾讯元宝的社交 AI 新玩法引发关注；同时，保时捷等传统车企加速拥抱中国智驾方案，而线控转向国标的发布则为自动驾驶技术划定安全边界。开发者工具方面，Turbopack 的增量计算机制与 PostgreSQL 在死信队列中的应用展示了工程化的新思路。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3655714254217353?f=rss">报道称 Anthropic 曾向苹果寻求数十亿美元的合作</a> (36kr)
+  Anthropic 曾与苹果洽谈，计划为 Siri 提供大语言模型，寻求年费数十亿美元的合作，但因条款问题去年夏天谈判停滞。苹果同时也在接触 OpenAI，这表明科技巨头在重塑底层 AI 助力方面的激烈竞争。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3655752856920197?f=rss">腾讯元宝内测“元宝派”</a> (36kr)
+  腾讯元宝开启社交 AI 玩法“元宝派”内测，用户可创建或加入群组，由元宝 AI 担任监督员，负责总结聊天、创建打卡活动。这是腾讯探索 AI 在多人社交场景应用的一次重要尝试。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3655713469915265?f=rss">保时捷中国 CEO：目前在考虑多家中国智驾供应商合作可能性</a> (36kr)
+  保时捷中国 CEO 潘励驰表示，公司正在考察多家中国智能驾驶供应商，并对此持开放态度。这标志着国际豪华车企对中国智驾技术实力的认可，未来供应链格局或将重塑。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3655697133216131?f=rss">为线控转向划定安全边界，汽车转向强制性国标发布</a> (36kr)
+  市场监管总局发布《汽车转向系 基本要求》强制性国标，将于7月实施。该标准明确了线控转向等新技术的安全边界，对推动技术落地和规范行业发展具有重要意义。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3655733689033096?f=rss">IDC：预计到2026年，中国网络安全市场整体规模有望突破800亿元人民币</a> (36kr)
+  IDC 预测，受政策法规强化和企业投入意愿提升影响，中国网络安全市场稳健增长，2026年规模有望突破800亿元，2024-2029年复合增长率达8.9%。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="http://www.huxiu.com/article/4828802?f=wangzhan">特斯拉新使命背后的生死时速</a> (虎嗅)
+  特斯拉更新公司使命为“建设一个富足非凡的世界”，探讨人类在无需工作即可获得高收入时的命运。这一理念转变反映了马斯克对 AI 与自动化未来的深度思考，也揭示了科技愿景与社会现实的张力。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&amp;utm_medium=article">AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了</a> (InfoQ)
+  文章指出 AI Agent 作为长期运行的系统，面临的风险远超 Prompt Injection。开发者需关注更复杂的安全模型，防范 Agent 在自主运行中产生的不可控行为，这标志着 AI 安全范式的升级。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3653424523682183?f=rss">死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”</a> (36kr)
+  北大副教授卢宗青提出2026年具身智能将呈现“软硬分化”趋势，即模型大脑与机器人本体由不同公司各司其职。这一判断预示着产业链分工的进一步细化，创业公司需找准生态位。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/IkEZ94SpmmQuvJ9Kq9q9?utm_source=rss&amp;utm_medium=article">OpenAI 七年元老离职后首次受访开麦：大模型圈“娱乐化”把压力拉爆</a> (InfoQ)
+  前 OpenAI 员工指出大模型圈“娱乐化”现象严重，认为谷歌近期表现虽亮眼，但本质是 OpenAI 的失误。行业需回归技术本质，警惕过度营销带来的泡沫，保持理性发展节奏。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&amp;utm_medium=article">刚刚，前旷视 CEO 印奇出任阶跃星辰董事长</a> (InfoQ)
+  前旷视科技 CEO 印奇正式出任阶跃星辰董事长。这一人事变动标志着阶跃星辰在 AI 大模型领域的战略升级，印奇的加入或将加速其商业化进程与技术研发。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://nextjs.org/blog/turbopack-incremental-computation">Turbopack: Building faster by building less</a> (Next.js Blog)
+  Next.js 团队介绍了 Turbopack 的增量计算机制，通过仅重新构建变更部分来显著提升开发构建速度。这是 Rust 工具链在前端工程化领域的又一重要进展，值得开发者关注。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/post/105506">NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站</a> (少数派)
+  文章介绍了如何在 NAS 上部署 TrendRadar，利用 AI 技术自动抓取和分析网络热点。这为个人或团队构建私有情报中心提供了低成本、高效率的解决方案，释放了 NAS 的潜在价值。</p>
+</li>
+<li>
+<p><a href="https://github.com/clawdbot/clawdbot">Clawdbot - open source personal AI assistant</a> (GitHub)
+  Clawdbot 是一个开源的个人 AI 助手项目，旨在帮助用户通过自然语言处理日常任务。开源特性允许开发者根据自身需求定制功能，保护数据隐私，是构建个人 AI 生态的不错选择。</p>
+</li>
+<li>
+<p><a href="https://www.diljitpr.net/blog-post-postgresql-dlq">Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems</a> (Diljit's Blog)
+  文章详细介绍了如何利用 PostgreSQL 构建死信队列（DLQ），以处理事件驱动系统中的失败消息。这种方法利用了数据库的可靠性，避免了引入额外中间件的复杂性，适合轻量级架构。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/post/105410">Mac 视觉史（四）：用动效交互为 Mac OS X 附魔</a> (少数派)
+  文章回顾了 Mac OS X 时代 Aqua 界面的设计哲学，探讨了动效与半透明效果如何重塑用户体验。这段历史对于理解现代 UI 设计趋势具有重要的参考价值，适合设计与交互爱好者阅读。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>
