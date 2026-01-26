@@ -1,54 +1,54 @@
 # Daily Tech News | 2026-01-26
 
-今日科技圈聚焦于 AI 巨头的博弈与智能硬件的落地，Anthropic 与苹果的数十亿美元合作虽陷入停滞，但腾讯元宝的社交 AI 新玩法引发关注；同时，保时捷等传统车企加速拥抱中国智驾方案，而线控转向国标的发布则为自动驾驶技术划定安全边界。开发者工具方面，Turbopack 的增量计算机制与 PostgreSQL 在死信队列中的应用展示了工程化的新思路。
+今日科技圈聚焦 AI 赛本的大额融资与巨头战略调整，阶跃星辰完成 50 亿融资，腾讯强调微信 AI 的去中心化路径。同时，爱立信宣布裁员计划，具身智能与自动驾驶行业迎来新的分化与整合期。
 
 ## 1. 今日必读
 
-- [报道称 Anthropic 曾向苹果寻求数十亿美元的合作](https://36kr.com/p/3655714254217353?f=rss) (36kr)
-  Anthropic 曾与苹果洽谈，计划为 Siri 提供大语言模型，寻求年费数十亿美元的合作，但因条款问题去年夏天谈判停滞。苹果同时也在接触 OpenAI，这表明科技巨头在重塑底层 AI 助力方面的激烈竞争。
+- [阶跃星辰完成50亿大规模融资，印奇挂帅](https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf) (InfoQ)
+  国内大模型独角兽阶跃星辰完成 50 亿元大规模融资，由印奇挂帅。此次融资将加速其在 AI 基础模型领域的研发与落地，标志着国内大模型竞赛进入资本与实力并重的新阶段。
 
-- [腾讯元宝内测“元宝派”](https://36kr.com/p/3655752856920197?f=rss) (36kr)
-  腾讯元宝开启社交 AI 玩法“元宝派”内测，用户可创建或加入群组，由元宝 AI 担任监督员，负责总结聊天、创建打卡活动。这是腾讯探索 AI 在多人社交场景应用的一次重要尝试。
+- [马化腾：未来将继续坚持去中心化，以兼顾用户需求和隐私安全的方式来思考规划微信的智能生态](https://36kr.com/newsflashes/3656097541005444) (36kr)
+  马化腾在腾讯员工大会表示，将把大模型和 AI 产品一体化考虑，微信 AI 生态将坚持去中心化。他强调兼顾用户需求与隐私安全，避免简单的全家桶模式，确立了微信在 AI 时代的差异化路线。
 
-- [保时捷中国 CEO：目前在考虑多家中国智驾供应商合作可能性](https://36kr.com/p/3655713469915265?f=rss) (36kr)
-  保时捷中国 CEO 潘励驰表示，公司正在考察多家中国智能驾驶供应商，并对此持开放态度。这标志着国际豪华车企对中国智驾技术实力的认可，未来供应链格局或将重塑。
+- [氪星晚报｜爱立信预计2026年继续裁员5000人](https://36kr.com/p/3656083905273986?f=rss) (36kr)
+  爱立信预计 2026 年将继续裁员 5000 人，以应对全球电信设备市场的成本压力。这一举措反映了通信行业在 5G 后周期面临的严峻挑战，以及企业为维持盈利能力进行的艰难调整。
 
-- [为线控转向划定安全边界，汽车转向强制性国标发布](https://36kr.com/p/3655697133216131?f=rss) (36kr)
-  市场监管总局发布《汽车转向系 基本要求》强制性国标，将于7月实施。该标准明确了线控转向等新技术的安全边界，对推动技术落地和规范行业发展具有重要意义。
+- [8点1氪丨苹果客服回应iPhone Air降价2000元](https://36kr.com/p/3655490995576964) (36kr)
+  苹果客服回应 iPhone Air 降价 2000 元引发的市场关注。这一大幅价格调整发生在上市仅一个多月后，显示出苹果在高端产品线上的定价策略松动，或旨在刺激销量以应对市场竞争。
 
-- [IDC：预计到2026年，中国网络安全市场整体规模有望突破800亿元人民币](https://36kr.com/p/3655733689033096?f=rss) (36kr)
-  IDC 预测，受政策法规强化和企业投入意愿提升影响，中国网络安全市场稳健增长，2026年规模有望突破800亿元，2024-2029年复合增长率达8.9%。
+- [豆包手机助手：严格遵循用户授权与合规的原则，仅在用户明确授权的前提下调用必要能力](https://36kr.com/newsflashes/3656145153073283) (36kr)
+  针对外界对手机助手安全与隐私的担忧，豆包回应称仅在用户明确授权下调用能力，且云端处理屏幕内容遵循“不存储、不训练”原则。这一回应旨在消除用户对 AI 助手侵犯隐私的顾虑。
 
 ## 2. 趋势与解读
 
-- [特斯拉新使命背后的生死时速](http://www.huxiu.com/article/4828802?f=wangzhan) (虎嗅)
-  特斯拉更新公司使命为“建设一个富足非凡的世界”，探讨人类在无需工作即可获得高收入时的命运。这一理念转变反映了马斯克对 AI 与自动化未来的深度思考，也揭示了科技愿景与社会现实的张力。
+- [死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”](https://36kr.com/p/3653424523682183) (36kr)
+  北大副教授卢宗青提出 2026 年具身智能将呈现“软硬分化”趋势，即模型大脑与机器人本体由不同公司各司其职。这一判断预示着产业链分工将更加明确，解决了当前单一公司难以兼顾软硬件的痛点。
 
-- [AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了](https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&utm_medium=article) (InfoQ)
-  文章指出 AI Agent 作为长期运行的系统，面临的风险远超 Prompt Injection。开发者需关注更复杂的安全模型，防范 Agent 在自主运行中产生的不可控行为，这标志着 AI 安全范式的升级。
+- [轻舟智航CEO于骞：智驾市场会留存4-5家企业](https://36kr.com/p/3652006209020288) (36kr)
+  轻舟智航 CEO 于骞认为智驾行业正处于周期交替点，未来市场将仅留存 4-5 家企业。随着智驾平权走向低价车型，行业正从技术验证走向大规模量产淘汰赛，头部效应将愈发明显。
 
-- [死磕机器人大脑的北大副教授，和我们聊了聊具身领域最大的“偏见”](https://36kr.com/p/3653424523682183?f=rss) (36kr)
-  北大副教授卢宗青提出2026年具身智能将呈现“软硬分化”趋势，即模型大脑与机器人本体由不同公司各司其职。这一判断预示着产业链分工的进一步细化，创业公司需找准生态位。
+- [AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了](https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A) (InfoQ)
+  文章指出 AI Agent 作为长期运行系统面临的风险远超简单的 Prompt Injection。开发者需关注更复杂的安全维度，这标志着 AI 安全防护的重点正从即时交互转向长期运行的系统稳定性与可控性。
 
-- [OpenAI 七年元老离职后首次受访开麦：大模型圈“娱乐化”把压力拉爆](https://www.infoq.cn/article/IkEZ94SpmmQuvJ9Kq9q9?utm_source=rss&utm_medium=article) (InfoQ)
-  前 OpenAI 员工指出大模型圈“娱乐化”现象严重，认为谷歌近期表现虽亮眼，但本质是 OpenAI 的失误。行业需回归技术本质，警惕过度营销带来的泡沫，保持理性发展节奏。
+- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/) (Hacker News)
+  文章探讨了软件工程未来的演进方向，认为 SRE（站点可靠性工程）将成为核心。随着系统复杂度提升，单纯开发功能已不足够，确保系统在生产环境中的稳定性、可观测性和可靠性将成为工程师的核心竞争力。
 
-- [刚刚，前旷视 CEO 印奇出任阶跃星辰董事长](https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article) (InfoQ)
-  前旷视科技 CEO 印奇正式出任阶跃星辰董事长。这一人事变动标志着阶跃星辰在 AI 大模型领域的战略升级，印奇的加入或将加速其商业化进程与技术研发。
+- [特斯拉新使命背后的生死时速](http://www.huxiu.com/article/4828802) (huxiu)
+  特斯拉更新公司使命为“建设一个富足非凡的世界”，人们无需工作即可获得高收入。这一愿景背后反映了马斯克对 AI 与机器人技术终极价值的思考，即通过自动化彻底改变社会经济结构。
 
 ## 3. 工具与深读
 
-- [Turbopack: Building faster by building less](https://nextjs.org/blog/turbopack-incremental-computation) (Next.js Blog)
-  Next.js 团队介绍了 Turbopack 的增量计算机制，通过仅重新构建变更部分来显著提升开发构建速度。这是 Rust 工具链在前端工程化领域的又一重要进展，值得开发者关注。
+- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq) (Hacker News)
+  文章介绍了如何利用 PostgreSQL 构建事件驱动系统的死信队列（DLQ）。对于不想引入额外中间件（如 RabbitMQ）的团队，这是一种轻量级且高效的解决方案，利用数据库现有能力处理失败消息。
 
-- [NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站](https://sspai.com/post/105506) (少数派)
-  文章介绍了如何在 NAS 上部署 TrendRadar，利用 AI 技术自动抓取和分析网络热点。这为个人或团队构建私有情报中心提供了低成本、高效率的解决方案，释放了 NAS 的潜在价值。
+- [A static site generator written in POSIX shell](https://aashvik.com/posts/shell-ssg/) (Hacker News)
+  这是一个用 POSIX shell 编写的静态站点生成器，展示了极简主义的编程哲学。它证明了在依赖极简的环境下也能完成复杂的构建任务，适合追求极致轻量化和可移植性的开发者学习参考。
 
-- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot) (GitHub)
-  Clawdbot 是一个开源的个人 AI 助手项目，旨在帮助用户通过自然语言处理日常任务。开源特性允许开发者根据自身需求定制功能，保护数据隐私，是构建个人 AI 生态的不错选择。
+- [从「墓碑」到见机行事：iOS 后台机制现状分析](https://sspai.com/prime/story/the-state-of-ios-background-tasks) (sspai)
+  文章深入分析了 iOS 26 引入的新后台 API，该 API 允许计算密集型任务在后台运行并显示实时活动。这一机制改变了 iOS 长期以来的后台限制，为开发者提供了更灵活的资源调度能力，值得移动开发者深读。
 
-- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq) (Diljit's Blog)
-  文章详细介绍了如何利用 PostgreSQL 构建死信队列（DLQ），以处理事件驱动系统中的失败消息。这种方法利用了数据库的可靠性，避免了引入额外中间件的复杂性，适合轻量级架构。
+- [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/) (Hacker News)
+  MapLibre 发布了一种现代高效的矢量瓦片格式 MLT。该格式旨在提升地图渲染性能和数据传输效率，对于地图应用开发者而言，这意味着更快的加载速度和更优的用户体验，是地理信息领域的重要更新。
 
-- [Mac 视觉史（四）：用动效交互为 Mac OS X 附魔](https://sspai.com/post/105410) (少数派)
-  文章回顾了 Mac OS X 时代 Aqua 界面的设计哲学，探讨了动效与半透明效果如何重塑用户体验。这段历史对于理解现代 UI 设计趋势具有重要的参考价值，适合设计与交互爱好者阅读。
+- [我收集了12条技术社区疯传的Claude Prompt，如今这篇帖子火遍全网](https://www.infoq.cn/article/pDlNcmOaTX2BYwSjBRBY) (InfoQ)
+  文章整理了 12 条在技术社区广为流传的 Claude Prompt 指令。这些指令涵盖了编程辅助、逻辑推理等多个场景，能帮助用户更高效地挖掘大模型的潜力，是提升 AI 使用效率的实用指南。
