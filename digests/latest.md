@@ -1,54 +1,54 @@
 # Daily Tech News | 2026-01-27
 
-今日科技圈聚焦 AI 编码能力的质变，ChatGPT 容器化支持与 Claude Code 移植十万行代码的案例引发热议。产业方面，DeepWay 融资逾 11 亿元冲刺 IPO，法国立法禁止 15 岁以下使用社交媒体引发全球关注。
+今日科技圈焦点集中在AI模型的密集迭代与资本市场的动态。Kimi发布K2.5开源视觉SOTA模型，百度智能云大幅上调AI收入增速目标，显示出行业竞争的白热化。同时，光量子计算与新能源重卡领域获得大额融资，而Windows 11的更新故障则引发了广泛关注。
 
 ## 1. 今日必读
 
-- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/) (Hacker News)
-    OpenAI 为 ChatGPT 推出了容器化功能，允许 AI 模型直接运行 bash 命令、通过 pip/npm 安装依赖包并下载文件。这一突破性更新极大地扩展了 AI 的编程与自动化能力，使其能更深入地介入开发环境，解决复杂任务。
+- [Kimi智能助手上线K2.5版本，开源视觉SOTA智能体模型](https://36kr.com/newsflashes/3657255050780808?f=rss) (36kr)
+  Kimi K2.5版本正式上线，采用静默推送。此次更新发布了开源视觉SOTA智能体模型，进一步提升了在视觉理解与任务执行方面的能力，无需用户手动操作即可体验。
 
-- [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html) (Hacker News)
-    开发者分享了使用 Claude Code 在一个月内将 10 万行 TypeScript 代码移植到 Rust 的实战案例。这一成果展示了 AI 编码助手在大型项目重构中的惊人效率，标志着软件开发生产力工具的又一里程碑。
+- [百度智能云上调AI相关收入增速目标至200%](https://36kr.com/newsflashes/3657242171629959?f=rss) (36kr)
+  在内部战略会上，百度智能云将2026年AI相关收入目标增速从100%大幅上调至200%。此举旨在全员力拼高增长，在竞争激烈的AI云市场全力抢夺第一的位置。
 
-- [DeepWay深向完成11.77亿元Pre-IPO轮融资](https://36kr.com/p/3648965783543429?f=rss) (36kr)
-    新能源重卡公司 DeepWay 深向宣布完成 11.77 亿元 Pre-IPO 轮融资，由普华资本领投，联想创投等多家机构跟投。资金将用于主营业务运营，显示出资本市场对重卡电动化与智能化赛道的持续看好。
+- [上海交大教授创业光量子计算，再获数亿融资，公司估值已近70亿](https://36kr.com/p/3656992648650888?f=rss) (36kr)
+  光量子计算企业图灵量子完成数亿元B轮融资，汇聚一线市场化国有资本及多家战略投资方。资金将投入国产自主可控光量子芯片与整机的研发，公司估值已近70亿元。
 
-- [法国国民议会通过法案，禁止15岁以下未成年人使用社交媒体](https://36kr.com/newsflashes/3656922407395716?f=rss) (36kr)
-    法国国民议会通过法案，禁止 15 岁以下未成年人使用社交媒体，总统马克龙称其为重要里程碑。此举旨在保护青少年心理健康，若参议院通过，最早将于下一学年实施，可能引发全球科技监管效仿。
+- [OpenAI首席信息安全官奈特将卸任职务](https://36kr.com/newsflashes/3657226405634432?f=rss) (36kr)
+  OpenAI首席信息安全官奈特将卸任职务。这一高层变动发生在公司关键发展时期，引发了外界对于OpenAI内部安全策略及管理层稳定性的关注。
 
-- [中信建投：亚马逊云计算涨价，继续推荐AI算力板块](https://36kr.com/newsflashes/3656914032402562?f=rss) (36kr)
-    亚马逊上调 AI 算力服务价格 15%，打破了云服务长期降价的惯例，反映出算力供给紧张的现状。中信建投认为这标志着 AI 基础设施需求强劲，建议关注云计算服务商及光通信板块的投资机会。
+- [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot) (Windows Central)
+  微软确认Windows 11的补丁星期二更新存在严重问题，可能导致部分PC无法启动。这一“噩梦”般的更新故障持续发酵，给大量企业用户和个人用户带来了困扰。
 
 ## 2. 趋势与解读
 
-- [RIP Low-Code 2014-2025](https://www.zackliscio.com/posts/rip-low-code-2014-2025/) (Hacker News)
-    文章宣告低代码平台时代的终结，指出其未能兑现简化开发的承诺。随着 AI 编码助手的崛起，开发者更倾向于使用自然语言生成代码，而非受限于低代码平台的图形化界面和封闭生态。
+- [桥水联席CIO：AI支出狂潮可能重塑经济，同时也需警惕泡沫风险](https://36kr.com/newsflashes/3657306693460359?f=rss) (36kr)
+  桥水基金联席CIO在报告中指出，大型企业对AI的投入呈指数级增长，这将重塑经济格局。但他同时提醒，这种被迫跟进的博弈论动态可能会加大风险，造成类似泡沫的状况。
 
-- [阶跃星辰完成50亿大规模融资，印奇挂帅](https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&utm_medium=article) (infoq)
-    国内大模型独角兽阶跃星辰完成 50 亿元大规模融资，由印奇挂帅。巨额资金的注入表明，尽管行业竞争激烈，资本市场仍对具备核心竞争力的基础大模型企业保持高度关注和支持。
+- [欧盟12月纯电汽车销量首次超越汽油车](https://36kr.com/newsflashes/3657294061789321?f=rss) (36kr)
+  欧洲汽车制造商协会数据显示，去年12月欧盟纯电动汽车销量首次超越汽油车。市场格局正在变化，特斯拉市场份额持续下滑，被比亚迪和大众等竞争对手蚕食。
 
 - [被蚂蚁、移动投资，这家机器人公司说：“2026年交付必有一战”](https://36kr.com/p/3656238372266121?f=rss) (36kr)
-    钛虎机器人 CEO 预判 2026 年将是具身智能行业的“交付之战”，无法按时按质交付的企业将被淘汰。该公司获蚂蚁集团、中国移动投资，专注于机器人关节模组，新工厂扩建后年产能大幅提升。
+  钛虎机器人CEO预测，2026年具身智能行业将打响第一场交付之战，无法按时按质交付的公司将被淘汰。该公司已完成新工厂扩建，大幅提升了机器人关节模组的年产能。
 
-- [AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了](https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&utm_medium=article) (infoq)
-    文章指出 AI Agent 作为长期运行系统，面临的风险远超简单的 Prompt Injection。开发者需关注 Agent 在自主决策过程中可能产生的不可控行为，这要求安全防护体系从被动防御转向更高级别的风险管控。
+- [理想汽车内部会曝光：必做人形机器人！全网急聘“最好的人”、连跳槽的前员工都要揪回来？](https://www.infoq.cn/article/mlWrTAeJsCJSREa1H4gZ?utm_source=rss&utm_medium=article) (InfoQ)
+  理想汽车内部会议曝光，确定将进军人形机器人领域。公司正在全网急聘相关人才，甚至试图召回跳槽的前员工，显示出其对这一赛道的重视和决心。
 
-- [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble) (Hacker News)
-    作者分析了当前 AI 代码审查工具的泡沫现象，认为许多工具过度承诺了自动化程度。文章指出，虽然 AI 能辅助发现简单错误，但在理解复杂业务逻辑和架构设计方面仍存在局限，盲目依赖可能导致代码质量下降。
+- [There is an AI code review bubble](https://www.greptile.com/blog/ai-code-review-bubble) (Greptile Blog)
+  文章探讨了当前AI代码审查工具存在的泡沫现象。虽然AI能提高效率，但过度依赖可能导致代码质量下降，开发者需要警惕盲目跟风，保持对代码质量的把控。
 
 ## 3. 工具与深读
 
-- [从「墓碑」到见机行事：iOS 后台机制现状分析](https://sspai.com/prime/story/the-state-of-ios-background-tasks) (sspai)
-    少数派深度解析 iOS 26 引入的新后台 API，该机制允许计算密集型任务在后台运行，并通过实时活动让用户掌控。文章详细阐述了苹果如何平衡系统性能与多任务需求，是开发者理解 iOS 生态的必读之作。
+- [ChatGPT Containers 现支持运行 bash、pip/npm 安装包及下载文件](https://simonwillison.net/2026/Jan/26/chatgpt-containers/) (Simon Willison)
+  ChatGPT Containers功能迎来更新，现在可以在容器内运行bash命令，使用pip或npm安装软件包，并支持下载文件。这极大地扩展了AI在代码编写和环境配置方面的自动化能力。
 
-- [NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站](https://sspai.com/post/105506) (sspai)
-    教程介绍了如何在 NAS 上自部署 TrendRadar 应用，利用 AI 技术自动抓取并聚合全网热点情报。这不仅能帮助个人或团队高效获取信息，也展示了 NAS 在家庭办公和知识管理中的更多可能性。
+- [使用 Claude Code 在一个月内将 10 万行 TypeScript 代码移植到 Rust](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html) (vjeux blog)
+  开发者分享了使用Claude Code在一个月内成功将10万行TypeScript代码移植到Rust的案例。这一实践展示了AI编程助手在大型代码库重构和语言迁移中的巨大潜力。
 
-- [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/) (Hacker News)
-    MapLibre 发布了现代化的高效矢量瓦片格式 MLT。该格式旨在提升地图渲染性能与数据传输效率，为开源地图社区提供了新的标准，对地理信息系统开发者和地图应用构建具有重要意义。
+- [DeepSeek发布DeepSeek-OCR 2模型](https://36kr.com/newsflashes/3657266569142659?f=rss) (36kr)
+  DeepSeek团队发布了DeepSeek-OCR 2模型并开源。该模型采用创新的DeepEncoder V2方法，能够根据图像含义动态重排图像部分，更接近人类的视觉编码逻辑。
 
-- [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o) (Hacker News)
-    Fedora Asahi Remix 项目宣布已成功在 Apple M3 芯片上运行。这意味着 Linux 对 Apple Silicon 的支持进一步完善，开发者和爱好者现在可以在最新的 Mac 硬件上体验原生 Linux 环境。
+- [从「墓碑」到见机行事：iOS 后台机制现状分析](https://sspai.com/prime/story/the-state-of-ios-background-tasks) (少数派)
+  文章深入分析了iOS 26引入的新后台API。该API旨在为计算密集型任务提供后台能力，并通过实时活动让用户完全控制，标志着iOS后台管理机制的重大进化。
 
 - [逆向 Claudecode。每人送 20$， 0.2 倍率随便玩，智力在线](https://www.v2ex.com/t/1188533) (V2EX)
-    V2EX 用户分享了逆向 Claude 的渠道，声称能以 0.2 倍率使用 Opus 等模型。虽然此类服务存在合规风险，但反映了市场对低成本 AI 算力的强烈需求及开发者对 API 价格的敏感度。
+  V2EX用户分享了逆向Claudecode的渠道，声称通过真实逆向渠道将价格打到0.2倍率。该服务不搞积分和暗倍率，旨在降低AI模型的使用成本，引发了开发者社区的讨论。
