@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-01-27</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-01-27</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-01-27</h1>
+<p>今日科技圈聚焦 AI 编码能力的质变，ChatGPT 容器化支持与 Claude Code 移植十万行代码的案例引发热议。产业方面，DeepWay 融资逾 11 亿元冲刺 IPO，法国立法禁止 15 岁以下使用社交媒体引发全球关注。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://simonwillison.net/2026/Jan/26/chatgpt-containers/">ChatGPT Containers can now run bash, pip/npm install packages and download files</a> (Hacker News)
+    OpenAI 为 ChatGPT 推出了容器化功能，允许 AI 模型直接运行 bash 命令、通过 pip/npm 安装依赖包并下载文件。这一突破性更新极大地扩展了 AI 的编程与自动化能力，使其能更深入地介入开发环境，解决复杂任务。</p>
+</li>
+<li>
+<p><a href="https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html">Porting 100k lines from TypeScript to Rust using Claude Code in a month</a> (Hacker News)
+    开发者分享了使用 Claude Code 在一个月内将 10 万行 TypeScript 代码移植到 Rust 的实战案例。这一成果展示了 AI 编码助手在大型项目重构中的惊人效率，标志着软件开发生产力工具的又一里程碑。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3648965783543429?f=rss">DeepWay深向完成11.77亿元Pre-IPO轮融资</a> (36kr)
+    新能源重卡公司 DeepWay 深向宣布完成 11.77 亿元 Pre-IPO 轮融资，由普华资本领投，联想创投等多家机构跟投。资金将用于主营业务运营，显示出资本市场对重卡电动化与智能化赛道的持续看好。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3656922407395716?f=rss">法国国民议会通过法案，禁止15岁以下未成年人使用社交媒体</a> (36kr)
+    法国国民议会通过法案，禁止 15 岁以下未成年人使用社交媒体，总统马克龙称其为重要里程碑。此举旨在保护青少年心理健康，若参议院通过，最早将于下一学年实施，可能引发全球科技监管效仿。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3656914032402562?f=rss">中信建投：亚马逊云计算涨价，继续推荐AI算力板块</a> (36kr)
+    亚马逊上调 AI 算力服务价格 15%，打破了云服务长期降价的惯例，反映出算力供给紧张的现状。中信建投认为这标志着 AI 基础设施需求强劲，建议关注云计算服务商及光通信板块的投资机会。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.zackliscio.com/posts/rip-low-code-2014-2025/">RIP Low-Code 2014-2025</a> (Hacker News)
+    文章宣告低代码平台时代的终结，指出其未能兑现简化开发的承诺。随着 AI 编码助手的崛起，开发者更倾向于使用自然语言生成代码，而非受限于低代码平台的图形化界面和封闭生态。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/laeUNsjRu4ShtikGMNvf?utm_source=rss&amp;utm_medium=article">阶跃星辰完成50亿大规模融资，印奇挂帅</a> (infoq)
+    国内大模型独角兽阶跃星辰完成 50 亿元大规模融资，由印奇挂帅。巨额资金的注入表明，尽管行业竞争激烈，资本市场仍对具备核心竞争力的基础大模型企业保持高度关注和支持。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3656238372266121?f=rss">被蚂蚁、移动投资，这家机器人公司说：“2026年交付必有一战”</a> (36kr)
+    钛虎机器人 CEO 预判 2026 年将是具身智能行业的“交付之战”，无法按时按质交付的企业将被淘汰。该公司获蚂蚁集团、中国移动投资，专注于机器人关节模组，新工厂扩建后年产能大幅提升。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/KacfyVt0C9OHv76W6a8A?utm_source=rss&amp;utm_medium=article">AI Agent 是长期运行的“风险系统”，如果你还只在防 Prompt Injection，说明已经落后一代了</a> (infoq)
+    文章指出 AI Agent 作为长期运行系统，面临的风险远超简单的 Prompt Injection。开发者需关注 Agent 在自主决策过程中可能产生的不可控行为，这要求安全防护体系从被动防御转向更高级别的风险管控。</p>
+</li>
+<li>
+<p><a href="https://www.greptile.com/blog/ai-code-review-bubble">There is an AI code review bubble</a> (Hacker News)
+    作者分析了当前 AI 代码审查工具的泡沫现象，认为许多工具过度承诺了自动化程度。文章指出，虽然 AI 能辅助发现简单错误，但在理解复杂业务逻辑和架构设计方面仍存在局限，盲目依赖可能导致代码质量下降。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://sspai.com/prime/story/the-state-of-ios-background-tasks">从「墓碑」到见机行事：iOS 后台机制现状分析</a> (sspai)
+    少数派深度解析 iOS 26 引入的新后台 API，该机制允许计算密集型任务在后台运行，并通过实时活动让用户掌控。文章详细阐述了苹果如何平衡系统性能与多任务需求，是开发者理解 iOS 生态的必读之作。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/post/105506">NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站</a> (sspai)
+    教程介绍了如何在 NAS 上自部署 TrendRadar 应用，利用 AI 技术自动抓取并聚合全网热点情报。这不仅能帮助个人或团队高效获取信息，也展示了 NAS 在家庭办公和知识管理中的更多可能性。</p>
+</li>
+<li>
+<p><a href="https://maplibre.org/news/2026-01-23-mlt-release/">MapLibre Tile: a modern and efficient vector tile format</a> (Hacker News)
+    MapLibre 发布了现代化的高效矢量瓦片格式 MLT。该格式旨在提升地图渲染性能与数据传输效率，为开源地图社区提供了新的标准，对地理信息系统开发者和地图应用构建具有重要意义。</p>
+</li>
+<li>
+<p><a href="https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o">Fedora Asahi Remix is now working on Apple M3</a> (Hacker News)
+    Fedora Asahi Remix 项目宣布已成功在 Apple M3 芯片上运行。这意味着 Linux 对 Apple Silicon 的支持进一步完善，开发者和爱好者现在可以在最新的 Mac 硬件上体验原生 Linux 环境。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1188533">逆向 Claudecode。每人送 20$， 0.2 倍率随便玩，智力在线</a> (V2EX)
+    V2EX 用户分享了逆向 Claude 的渠道，声称能以 0.2 倍率使用 Opus 等模型。虽然此类服务存在合规风险，但反映了市场对低成本 AI 算力的强烈需求及开发者对 API 价格的敏感度。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>
