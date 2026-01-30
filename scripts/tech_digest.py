@@ -109,9 +109,31 @@ def fetch_rss(config: Dict[str, Any], tz: pytz.BaseTzInfo) -> List[Dict[str, Any
     limit_total = rss_config["limit_total"]
     feeds = rss_config["feeds"]
     items: List[Dict[str, Any]] = []
+    max_retries = 2
+    request_timeout = 20
 
     for feed in feeds:
-        parsed = feedparser.parse(feed["url"])
+        parsed = None
+        for attempt in range(max_retries + 1):
+            try:
+                response = requests.get(
+                    feed["url"],
+                    timeout=request_timeout,
+                    headers={"User-Agent": "daily-tech-news"},
+                )
+                response.raise_for_status()
+                parsed = feedparser.parse(response.content)
+                break
+            except Exception as exc:
+                print(
+                    f"警告: RSS 抓取失败 - {feed.get('name', feed.get('url', ''))} "
+                    f"(尝试 {attempt + 1}/{max_retries + 1}): {exc}"
+                )
+                if attempt < max_retries:
+                    time.sleep(1.5 * (attempt + 1))
+
+        if parsed is None:
+            continue
         for entry in parsed.entries:
             published_ts = None
             if entry.get("published_parsed"):
