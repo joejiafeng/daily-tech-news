@@ -129,7 +129,7 @@ def fetch_rss(config: Dict[str, Any], tz: pytz.BaseTzInfo) -> List[Dict[str, Any
                     f"(尝试 {attempt + 1}/{RSS_MAX_RETRIES + 1}): {exc}"
                 )
                 if attempt < RSS_MAX_RETRIES:
-                    time.sleep(1.5 * (attempt + 1))
+                    time.sleep(2 ** attempt)
                 continue
 
             try:
@@ -138,16 +138,24 @@ def fetch_rss(config: Dict[str, Any], tz: pytz.BaseTzInfo) -> List[Dict[str, Any
                 print(
                     f"警告: RSS 解析失败 - {feed.get('name', feed.get('url', ''))}: {exc}"
                 )
+                parsed = None
+                if attempt < RSS_MAX_RETRIES:
+                    time.sleep(2 ** attempt)
+                    continue
+                break
+            if getattr(parsed, "bozo", False):
+                bozo_exc = getattr(parsed, "bozo_exception", None)
+                detail = f": {bozo_exc}" if bozo_exc else ""
+                print(
+                    f"警告: RSS 内容异常 - {feed.get('name', feed.get('url', ''))}{detail}"
+                )
+                parsed = None
+                if attempt < RSS_MAX_RETRIES:
+                    time.sleep(2 ** attempt)
+                    continue
             break
 
         if parsed is None:
-            continue
-        if getattr(parsed, "bozo", False):
-            bozo_exc = getattr(parsed, "bozo_exception", None)
-            detail = f": {bozo_exc}" if bozo_exc else ""
-            print(
-                f"警告: RSS 内容异常 - {feed.get('name', feed.get('url', ''))}{detail}"
-            )
             continue
         for entry in parsed.entries:
             published_ts = None
