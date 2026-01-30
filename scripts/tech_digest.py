@@ -20,6 +20,9 @@ load_dotenv()
 
 PROJECT_ROOT = Path(__file__).parent.parent
 CONFIG_PATH = Path(__file__).with_name("config.json")
+RSS_MAX_RETRIES = 2
+RSS_REQUEST_TIMEOUT = 20
+RSS_USER_AGENT = "daily-tech-news"
 
 
 def load_config() -> Dict[str, Any]:
@@ -111,7 +114,49 @@ def fetch_rss(config: Dict[str, Any], tz: pytz.BaseTzInfo) -> List[Dict[str, Any
     items: List[Dict[str, Any]] = []
 
     for feed in feeds:
-        parsed = feedparser.parse(feed["url"])
+        parsed = None
+        for attempt in range(RSS_MAX_RETRIES + 1):
+            try:
+                response = requests.get(
+                    feed["url"],
+                    timeout=RSS_REQUEST_TIMEOUT,
+                    headers={"User-Agent": RSS_USER_AGENT},
+                )
+                response.raise_for_status()
+            except requests.RequestException as exc:
+                print(
+                    f"警告: RSS 抓取失败 - {feed.get('name', feed.get('url', ''))} "
+                    f"(尝试 {attempt + 1}/{RSS_MAX_RETRIES + 1}): {exc}"
+                )
+                if attempt < RSS_MAX_RETRIES:
+                    time.sleep(2 ** attempt)
+                continue
+
+            try:
+                parsed = feedparser.parse(response.content)
+            except Exception as exc:
+                print(
+                    f"警告: RSS 解析失败 - {feed.get('name', feed.get('url', ''))}: {exc}"
+                )
+                parsed = None
+                if attempt < RSS_MAX_RETRIES:
+                    time.sleep(2 ** attempt)
+                    continue
+                break
+            if getattr(parsed, "bozo", False):
+                bozo_exc = getattr(parsed, "bozo_exception", None)
+                detail = f": {bozo_exc}" if bozo_exc else ""
+                print(
+                    f"警告: RSS 内容异常 - {feed.get('name', feed.get('url', ''))}{detail}"
+                )
+                parsed = None
+                if attempt < RSS_MAX_RETRIES:
+                    time.sleep(2 ** attempt)
+                    continue
+            break
+
+        if parsed is None:
+            continue
         for entry in parsed.entries:
             published_ts = None
             if entry.get("published_parsed"):
