@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-01-31</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-01-31</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-01-31</h1>
+<p>今日科技圈焦点集中在 AI 巨头动向与商业落地。OpenAI 与英伟达千亿美元合作突陷停滞，引发行业震动；月之暗面发布 Kimi K2.5 技术报告，国产大模型竞争加剧。此外，SpaceX 曝光巨额营收与 IPO 计划，谷歌世界模型 Project Genie 亦引发热议。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3">The $100B megadeal between OpenAI and Nvidia is on ice</a> (Hacker News)
+    知情人士透露，英伟达原计划向 OpenAI 投资至多 1000 亿美元，但因内部质疑，该计划已陷入停滞。这一潜在交易的搁浅，反映了 AI 硬件巨头与模型厂商在资本合作上的复杂博弈。</li>
+<li><a href="https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf">Kimi K2.5 Technical Report</a> (Hacker News)
+    月之暗面发布 Kimi K2.5 技术报告，详细阐述了新模型的架构与性能提升。作为国产大模型的重要迭代，该报告展示了其在长上下文与推理能力上的最新进展，引发开发者社区广泛关注。</li>
+<li><a href="https://36kr.com/newsflashes/3662643820421766?f=rss">SpaceX去年营收据悉约为150-160亿美元</a> (36kr)
+    报道称 SpaceX 2025 年营收约 150-160 亿美元，其中星链业务贡献了 50% 至 80% 的收入。公司计划在 6 月通过 IPO 筹集 500 亿美元，保守估值目标高达 1.5 万亿美元。</li>
+<li><a href="https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&amp;utm_medium=article">劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏</a> (InfoQ)
+    谷歌发布世界模型 Project Genie，皮查伊和哈萨比斯亲自站台。该模型在视频生成与模拟方面表现惊人，60秒生成并非极限，但内存消耗仍是当前面临的主要约束。</li>
+<li><a href="https://36kr.com/p/3661493683643272?f=rss">氪星晚报｜苹果收购人工智能初创公司</a> (36kr)
+    苹果公司确认收购一家人工智能初创公司，旨在增强其在 AI 领域的技术储备。此举被视为苹果应对激烈 AI 竞争、加速整合先进算法与硬件生态的重要战略步骤。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="http://www.huxiu.com/article/4830765.html?f=wangzhan">内存缺货，PC涨价：AI需求引发的消费电子涨价潮已至</a> (虎嗅)
+    AI 需求吞噬了近 40% 的内存产能，导致内存缺货和 PC 涨价潮。这标志着 AI 时代首个消费阵痛的到来，消费者将直接为算力资源的重新分配买单。</li>
+<li><a href="https://www.infoq.cn/article/JAmVx35sxdz0ubB7l0Ua?utm_source=rss&amp;utm_medium=article">“天下苦CUDA久矣！”KernelCAT率先掀桌，实现国产芯片无痛适配</a> (InfoQ)
+    KernelCAT 项目试图打破 CUDA 垄断，实现国产芯片的无痛适配。这一技术突破对于降低英伟达依赖、推动国产算力生态发展具有里程碑式的意义。</li>
+<li><a href="https://36kr.com/p/3661687880147849?f=rss">阿里系前高管出任机器人租赁平台“擎天租”总裁、首席战略官</a> (36kr)
+    具身智能热度蔓延至租赁市场，阿里“中供铁军”前校长李立恒等人入职擎天租。互联网老兵的加入，预示着机器人租赁正成为具身智能商业化落地的重要战场。</li>
+<li><a href="http://www.huxiu.com/article/4831066.html?f=wangzhan">中国车企和特斯拉的下一战，战场已定</a> (虎嗅)
+    特斯拉宣布 Model S 和 X 将于下季度基本停产，标志着其战略重心彻底转向自动驾驶与下一代平台。这一举动暗示了传统豪车市场的萎缩与智能化竞争的加剧。</li>
+<li><a href="https://36kr.com/p/3654915542130816?f=rss">一家AI玩具公司获数千万元融资，核心产品销量翻五倍</a> (36kr)
+    AI 玩具厂商 FoloToy 完成数千万元融资，核心产品销量翻五倍。AI 硬件正从单一功能向情感陪伴和交互体验升级，成为消费电子市场的新增长极。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://sspai.com/post/105823">将专业创作工具交到更多人手中：Apple Creator Studio 你也许想了解的那些事</a> (少数派)
+    苹果推出全新创意工具套装服务 Apple Creator Studio，旨在降低专业创作的门槛。该服务整合了多项创作功能，让更多用户能够利用苹果生态进行高质量内容生产。</li>
+<li><a href="https://www.infoq.cn/article/TflNBc7EvNHoKCyDEdj3?utm_source=rss&amp;utm_medium=article">Swift跨平台框架Skip现已完全开源</a> (InfoQ)
+    Swift 跨平台框架 Skip 宣布完全开源，允许开发者使用 Swift 语言构建 Android 和 Web 应用。这一举措极大地扩展了 Swift 的应用场景，有利于构建更统一的跨平台开发生态。</li>
+<li><a href="https://sspai.com/post/104564">停更但好用的 DriveDroid：把 Android 手机变成 USB 启动盘</a> (少数派)
+    DriveDroid 虽已停更，但仍能将 Android 手机变成 USB 启动盘。这对于系统管理员和极客来说是一个实用的救急工具，能够方便地安装或调试操作系统。</li>
+<li><a href="https://sspai.com/post/105622">左手 Tana，右手 Heptabase：为什么我两个都要？</a> (少数派)
+    文章探讨了 Tana 和 Heptabase 在知识管理中的互补性。知识管理的终点不是完美系统，而是清晰思考，工具应服务于思考过程，而非束缚创造力。</li>
+<li><a href="https://www.infoq.cn/article/9QaYwTAYLedFhScRPsOp?utm_source=rss&amp;utm_medium=article">为什么你的系统一出事就“查不清”？Railway 给出可观测性的标准答案</a> (InfoQ)
+    Railway 针对系统故障排查难题，提出了可观测性的标准解决方案。文章深入解析了如何通过数据监控和日志分析，快速定位问题根源，提升系统稳定性。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>
