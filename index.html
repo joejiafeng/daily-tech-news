@@ -133,6 +133,58 @@
             font-family: monospace;
         }
 
+        .pagination {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 24px;
+            flex-wrap: wrap;
+        }
+
+        .page-links {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .page-link {
+            padding: 6px 12px;
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            text-decoration: none;
+            color: var(--text-secondary);
+            font-size: 14px;
+            background: var(--bg-secondary);
+            transition: all 0.2s;
+            font-family: inherit;
+            appearance: none;
+            cursor: pointer;
+        }
+
+        .page-link:hover {
+            color: var(--text-primary);
+            border-color: var(--accent);
+        }
+
+        .page-link.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff;
+        }
+
+        .page-link.disabled {
+            color: var(--text-tertiary);
+            border-color: var(--border);
+            cursor: not-allowed;
+        }
+
+        .page-ellipsis {
+            color: var(--text-tertiary);
+            font-size: 14px;
+            padding: 0 4px;
+        }
+
         footer {
             padding: 32px 0;
             text-align: center;
@@ -233,6 +285,15 @@
             </a>
             
             </div>
+            
+            <nav class="pagination" aria-label="分页导航">
+                <button type="button" class="page-link disabled" disabled>上一页</button>
+                <div class="page-links">
+                    <a href="index.html" class="page-link active">1</a>
+                </div>
+                <button type="button" class="page-link disabled" disabled>下一页</button>
+            </nav>
+    
         </div>
     </main>
 
