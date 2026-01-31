@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import re
+import math
 from datetime import datetime
 from pathlib import Path
 from typing import List, Tuple
@@ -10,6 +11,7 @@ import pytz
 PROJECT_ROOT = Path(__file__).parent.parent
 CONFIG_PATH = Path(__file__).with_name("config.json")
 DATE_PATTERN = re.compile(r"^(\d{4}-\d{2}-\d{2})\.md$")
+PAGE_SIZE = 10
 
 INDEX_TEMPLATE = """
 <!DOCTYPE html>
@@ -146,6 +148,49 @@ INDEX_TEMPLATE = """
             font-family: monospace;
         }}
 
+        .pagination {{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 24px;
+            flex-wrap: wrap;
+        }}
+
+        .page-links {{
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }}
+
+        .page-link {{
+            padding: 6px 12px;
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            text-decoration: none;
+            color: var(--text-secondary);
+            font-size: 14px;
+            background: var(--bg-secondary);
+            transition: all 0.2s;
+        }}
+
+        .page-link:hover {{
+            color: var(--text-primary);
+            border-color: var(--accent);
+        }}
+
+        .page-link.active {{
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff;
+        }}
+
+        .page-link.disabled {{
+            color: var(--text-tertiary);
+            border-color: var(--border);
+            cursor: not-allowed;
+        }}
+
         footer {{
             padding: 32px 0;
             text-align: center;
@@ -187,6 +232,7 @@ INDEX_TEMPLATE = """
             <div class="digest-list">
                 {list_html}
             </div>
+            {pagination_html}
         </div>
     </main>
 
@@ -216,29 +262,70 @@ def list_digest_files(digests_dir: Path) -> List[Tuple[str, Path]]:
     return items
 
 
-def main() -> None:
-    config = load_config()
-    digests_dir = PROJECT_ROOT / config["output"]["output_dir"]
-    
-    entries = list_digest_files(digests_dir)
-    
-    list_items = []
+def page_filename(page: int) -> str:
+    return "index.html" if page == 1 else f"page-{page}.html"
+
+
+def build_list_html(entries: List[Tuple[str, Path]]) -> str:
     if not entries:
-        list_items.append('<div style="text-align:center; color:#666;">暂无简报</div>')
-    else:
-        for date_str, _ in entries:
-            list_items.append(f"""
+        return '<div style="text-align:center; color:#666;">暂无简报</div>'
+
+    list_items = []
+    for date_str, _ in entries:
+        list_items.append(f"""
             <a href="digests/{date_str}.html" class="digest-card">
                 <span class="card-title">Daily Tech News | {date_str}</span>
                 <span class="card-date">{date_str}</span>
             </a>
             """)
-    
-    index_html = INDEX_TEMPLATE.format(list_html="\n".join(list_items))
-    
-    output_path = PROJECT_ROOT / "index.html"
-    output_path.write_text(index_html, encoding="utf-8")
-    print(f"已生成首页列表: {output_path}")
+    return "\n".join(list_items)
+
+
+def build_pagination(current_page: int, total_pages: int) -> str:
+    prev_link = (
+        f'<a href="{page_filename(current_page - 1)}" class="page-link">上一页</a>'
+        if current_page > 1
+        else '<span class="page-link disabled">上一页</span>'
+    )
+    next_link = (
+        f'<a href="{page_filename(current_page + 1)}" class="page-link">下一页</a>'
+        if current_page < total_pages
+        else '<span class="page-link disabled">下一页</span>'
+    )
+    page_links = []
+    for page in range(1, total_pages + 1):
+        class_name = "page-link active" if page == current_page else "page-link"
+        page_links.append(f'<a href="{page_filename(page)}" class="{class_name}">{page}</a>')
+    return f"""
+            <nav class="pagination" aria-label="pagination">
+                {prev_link}
+                <div class="page-links">
+                    {''.join(page_links)}
+                </div>
+                {next_link}
+            </nav>
+    """
+
+
+def main() -> None:
+    config = load_config()
+    digests_dir = PROJECT_ROOT / config["output"]["output_dir"]
+    entries = list_digest_files(digests_dir)
+    total_pages = max(1, math.ceil(len(entries) / PAGE_SIZE))
+
+    for page in range(1, total_pages + 1):
+        start = (page - 1) * PAGE_SIZE
+        page_entries = entries[start : start + PAGE_SIZE]
+        list_html = build_list_html(page_entries)
+        pagination_html = build_pagination(page, total_pages)
+        index_html = INDEX_TEMPLATE.format(
+            list_html=list_html,
+            pagination_html=pagination_html,
+        )
+
+        output_path = PROJECT_ROOT / page_filename(page)
+        output_path.write_text(index_html, encoding="utf-8")
+        print(f"已生成首页列表: {output_path}")
 
 
 if __name__ == "__main__":
