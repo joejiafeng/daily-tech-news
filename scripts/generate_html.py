@@ -172,6 +172,9 @@ INDEX_TEMPLATE = """
             font-size: 14px;
             background: var(--bg-secondary);
             transition: all 0.2s;
+            font-family: inherit;
+            appearance: none;
+            cursor: pointer;
         }}
 
         .page-link:hover {{
@@ -189,6 +192,12 @@ INDEX_TEMPLATE = """
             color: var(--text-tertiary);
             border-color: var(--border);
             cursor: not-allowed;
+        }}
+
+        .page-ellipsis {{
+            color: var(--text-tertiary);
+            font-size: 14px;
+            padding: 0 4px;
         }}
 
         footer {{
@@ -281,23 +290,53 @@ def build_list_html(entries: List[Tuple[str, Path]]) -> str:
     return "\n".join(list_items)
 
 
+def build_page_links(current_page: int, total_pages: int) -> List[int | None]:
+    if total_pages <= 7:
+        return list(range(1, total_pages + 1))
+
+    pages: List[int | None] = [1]
+    if current_page > 4:
+        pages.append(None)
+
+    if current_page <= 4:
+        start = 2
+        end = 4
+    elif current_page >= total_pages - 3:
+        start = total_pages - 3
+        end = total_pages - 1
+    else:
+        start = current_page - 1
+        end = current_page + 1
+
+    pages.extend(range(start, end + 1))
+
+    if current_page < total_pages - 3:
+        pages.append(None)
+
+    pages.append(total_pages)
+    return pages
+
+
 def build_pagination(current_page: int, total_pages: int) -> str:
     prev_link = (
         f'<a href="{page_filename(current_page - 1)}" class="page-link">上一页</a>'
         if current_page > 1
-        else '<span class="page-link disabled">上一页</span>'
+        else '<button type="button" class="page-link disabled" disabled>上一页</button>'
     )
     next_link = (
         f'<a href="{page_filename(current_page + 1)}" class="page-link">下一页</a>'
         if current_page < total_pages
-        else '<span class="page-link disabled">下一页</span>'
+        else '<button type="button" class="page-link disabled" disabled>下一页</button>'
     )
     page_links = []
-    for page in range(1, total_pages + 1):
+    for page in build_page_links(current_page, total_pages):
+        if page is None:
+            page_links.append('<span class="page-ellipsis">...</span>')
+            continue
         class_name = "page-link active" if page == current_page else "page-link"
         page_links.append(f'<a href="{page_filename(page)}" class="{class_name}">{page}</a>')
     return f"""
-            <nav class="pagination" aria-label="pagination">
+            <nav class="pagination" aria-label="分页导航">
                 {prev_link}
                 <div class="page-links">
                     {''.join(page_links)}
