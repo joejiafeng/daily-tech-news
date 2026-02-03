@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import json
 import re
-from datetime import datetime
 from pathlib import Path
 from typing import List, Tuple
 
@@ -218,16 +217,16 @@ def main() -> None:
     digests_dir.mkdir(parents=True, exist_ok=True)
 
     entries = list_digest_files(digests_dir)
-    
+
     for date_str, path in entries:
         md_text = path.read_text(encoding="utf-8")
         html_content = markdown.markdown(md_text, extensions=["extra", "tables"])
-        
+
         page_html = HTML_TEMPLATE.format(
             date_str=date_str,
             html_content=html_content
         )
-        
+
         output_path = digests_dir / f"{date_str}.html"
         output_path.write_text(page_html, encoding="utf-8")
         print(f"已生成详情页: {output_path}")
