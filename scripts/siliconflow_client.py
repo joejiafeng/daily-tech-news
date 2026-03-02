@@ -34,6 +34,15 @@ def _extract_text_blocks(content: Iterable[Dict[str, Any]]) -> str:
             parts.append(block["text"])
     return "".join(parts).strip()
 
+def _extract_openai_text_blocks(content: Iterable[Dict[str, Any]]) -> str:
+    parts: List[str] = []
+    for block in content or []:
+        if not isinstance(block, dict):
+            continue
+        if block.get("message"):
+            parts.append(block.get("message")["content"])
+    return "".join(parts).strip()
+
 
 def messages_create(
     *,
@@ -57,7 +66,6 @@ def messages_create(
     payload: Dict[str, Any] = {
         "model": model,
         "messages": messages,
-        "max_tokens": max_tokens,
     }
     if system:
         payload["system"] = system
@@ -94,7 +102,7 @@ def messages_create(
             )
 
         data = response.json()
-        text = _extract_text_blocks(data.get("content", []))
+        text = _extract_openai_text_blocks(data.get("choices", []))
         if not text:
             raise RuntimeError(
                 f"SiliconFlow response has no text blocks: {json.dumps(data)[:800]}"
