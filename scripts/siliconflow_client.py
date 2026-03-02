@@ -53,7 +53,7 @@ def messages_create(
     if not api_key:
         raise ValueError("Missing API key. Set ANTHROPIC_API_KEY.")
 
-    url = _normalize_messages_url(base_url)
+    url = base_url
     payload: Dict[str, Any] = {
         "model": model,
         "messages": messages,
