@@ -5,7 +5,7 @@
     "temperature": 0.6,
     "top_p": 0.8,
     "top_k": 40,
-    "base_url": "https://wishub-x6.ctyun.cn/v1",
+    "base_url": "https://wishub-x6.ctyun.cn/v1/chat/completions",
     "timeout_seconds": 120,
     "retries": 3
   },
