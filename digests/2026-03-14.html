@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-03-14</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-03-14</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-03-14</h1>
+<p>AI 领域今日迎来重磅更新，Claude Opus 4.6 与 Sonnet 4.6 正式开放百万上下文窗口，大幅降低长文本应用门槛。行业层面，Meta 计划裁员 20% 以应对 AI 投入成本，魅族手机业务则面临大幅调整，科技行业的变革与洗牌仍在持续。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://claude.com/blog/1m-context-ga">Claude Opus 4.6 与 Sonnet 4.6 上线百万上下文窗口</a> (Hacker News)
+  Anthropic 宣布 Claude Opus 4.6 和 Sonnet 4.6 正式支持 100 万 token 上下文窗口，并实行统一标准定价。这一更新显著增强了模型处理长文档和复杂代码库的能力，降低了大规模上下文应用的成本，将在企业级应用场景中形成有力竞争。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3722133233858948">Meta 计划大规模裁员，或影响 20% 以上员工</a> (36kr)
+  据报道 Meta 正计划进行大规模裁员，可能影响超过 20% 的员工。此举旨在抵消高昂的 AI 基础设施投资成本，并为 AI 辅助带来的效率提升做准备。这反映了科技巨头在 AI 时代平衡巨额投入与组织效率的严峻挑战。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3721227876039047">魅族手机业务大调整：超 50% 员工离职</a> (36kr)
+  魅族近期宣布重大调整，超过 50% 的员工即将离职，涉及约 400 人，部分员工获得 N+2 赔偿。此次调整标志着魅族传统手机业务的战略收缩，资源将向车机系统与 AI 领域倾斜，PANDAER 潮牌团队也将分拆独立。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3720962630417024">小红书率先向 AI 托管账号出手</a> (36kr)
+  小红书宣布对 AI 托管账号进行整治，这是主流平台首次对 AI 智能体工具在内容社区的滥用行为作出明确规制。作为以真人分享起家的 UGC 平台，此举旨在维护社区“真实体验”的核心价值，对抗 AI 生成内容泛滥对社区氛围的冲击。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.infoq.cn/article/f6pSw1rxN9DdrEsGrcq1">从暴力烧 Token 到系统工程：OpenAI 与华为的 AI 编程路径</a> (InfoQ)
+  文章对比了 OpenAI 依赖算力堆叠的“暴力烧 Token”路径与华为强调系统化工程的路径。这展示了在 AI 辅助编程领域，除了追求模型规模外，通过系统工程优化效率已成为另一条重要的技术演进路线，对开发者的工具选择具有参考意义。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/feSV9dcs3V8amUQyJYN7">JetBrains 公开预览 AI IDE Air</a> (InfoQ)
+  老牌 IDE 厂商 JetBrains 公开预览了 AI IDE Air，重点押注 Agent 编排能力。这表明开发工具正在从单纯的代码编辑器演变为 AI Agent 的协调中心，未来开发者可能更多扮演“指挥官”角色，而非逐行编写代码。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy">LangChain 创始人称运行框架决定 Agent 上限</a> (InfoQ)
+  LangChain 创始人提出观点，认为模型能力不再是唯一关键，真正决定 Agent 上限的是运行框架。随着基础模型逐渐同质化，如何构建稳定、可靠的运行架构成为 Agent 落地的核心挑战，这一趋势将引导开发者更多关注架构设计。</p>
+</li>
+<li>
+<p><a href="https://www.bbc.com/news/articles/cge84xqjg5lo">欧洲对含开箱游戏实施最低 16 岁年龄分级</a> (Hacker News)
+  欧洲出台新规，含有战利品箱的游戏将获得最低 16 岁的年龄分级。这一政策反映了监管机构对游戏内购机制可能诱导未成年人消费的担忧，全球游戏行业面临更严格的合规压力，商业模式或将随之调整。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://www.canirun.ai/">Can I run AI locally? 本地运行 AI 硬件检测工具</a> (Hacker News)
+  这是一个帮助用户检测本地硬件是否支持运行 AI 模型的在线工具。随着开源大模型的普及，用户对本地部署的需求增加，该工具提供了便捷的硬件兼容性自查功能，帮助用户快速判断设备是否满足运行特定模型的条件。</p>
+</li>
+<li>
+<p><a href="https://tui.studio/">TUI Studio：可视化终端 UI 设计工具</a> (Hacker News)
+  一款可视化的终端用户界面设计工具，允许开发者通过图形界面设计命令行应用界面。对于习惯 GUI 操作但需要开发 CLI 工具的开发者来说，这极大地提升了开发效率和界面设计的美观度，降低了 TUI 开发的门槛。</p>
+</li>
+<li>
+<p><a href="https://github.com/TomBadash/MouseControl">Mouser：Logi-Plus 鼠标软件的开源替代品</a> (Hacker News)
+  这是一个开源的鼠标控制软件，旨在作为罗技 Logi Options Plus 的替代品。它解决了官方软件在 Intel Mac 上 CPU 占用过高的问题，为外设用户提供了更轻量、更可控的选择，体现了开源社区对商业软件痛点的响应。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/9bjvHNljpbgKEwwUu6Nl">Vue Router 5 将文件式路由整合进核心</a> (InfoQ)
+  Vue Router 5 版本宣布将文件式路由整合进核心，且不引入破坏性变更。这一改进简化了路由配置流程，提升了开发体验，是 Vue 生态在开发者体验优化上的重要一步，值得前端开发者关注。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>
