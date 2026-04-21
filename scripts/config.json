@@ -1,11 +1,11 @@
 {
   "llm": {
-    "model": "6d3a57c3a6fb465e968b604783b89eda",
-    "max_tokens": 2200,
+    "model": "z-ai/glm4.7",
+    "max_tokens": 16384,
     "temperature": 0.6,
     "top_p": 0.8,
     "top_k": 40,
-    "base_url": "https://wishub-x6.ctyun.cn/v1/chat/completions",
+    "base_url": "https://integrate.api.nvidia.com/v1/chat/completions",
     "timeout_seconds": 120,
     "retries": 3
   },
