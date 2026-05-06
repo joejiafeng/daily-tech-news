@@ -302,20 +302,24 @@ def main() -> None:
 
     output_dir = PROJECT_ROOT / config["output"]["output_dir"]
     ensure_output_dir(output_dir)
+    sources_file = output_dir / f"{date_str}.sources.json"
+    if not os.path.exists(sources_file):
+        v2ex_items = fetch_v2ex(config, tz)
+        hn_items = fetch_hackernews(config, tz)
+        rss_items = fetch_rss(config, tz)
 
-    v2ex_items = fetch_v2ex(config, tz)
-    hn_items = fetch_hackernews(config, tz)
-    rss_items = fetch_rss(config, tz)
-
-    sources_payload = {
-        "date": date_str,
-        "generated_at": now.isoformat(),
-        "v2ex": v2ex_items,
-        "hackernews": hn_items,
-        "rss": rss_items,
-    }
-    save_json(output_dir / f"{date_str}.sources.json", sources_payload)
-
+        sources_payload = {
+            "date": date_str,
+            "generated_at": now.isoformat(),
+            "v2ex": v2ex_items,
+            "hackernews": hn_items,
+            "rss": rss_items,
+        }
+        save_json(output_dir / f"{date_str}.sources.json", sources_payload)
+    else:
+        print("已存在 sources 文件，跳过获取素材步骤")
+    with open(sources_file, "r", encoding="utf-8") as r_f:
+        sources_dict = json.load(r_f)
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     base_url = os.environ.get("ANTHROPIC_BASE_URL") or config["llm"]["base_url"]
     if not api_key:
@@ -325,9 +329,9 @@ def main() -> None:
     system_prompt = "你是资深科技编辑，擅长将多源科技新闻整理为高质量中文简报。"
     user_prompt = build_prompt(
         date_str,
-        v2ex_items,
-        hn_items,
-        rss_items,
+        sources_dict["v2ex"],
+        sources_dict["hackernews"],
+        sources_dict["rss"],
         config["digest"],
     )
 

@@ -68,17 +68,23 @@ def messages_create(
         "messages": messages,
     }
     if system:
-        payload["system"] = system
+        messages = [{"role": "system", "content": system}] + messages
+        payload["messages"] = messages
     if temperature is not None:
         payload["temperature"] = temperature
     if top_p is not None:
         payload["top_p"] = top_p
-    if top_k is not None:
-        payload["top_k"] = top_k
+    # if top_k is not None:
+    #     payload["top_k"] = top_k
 
+    # headers = {
+    #     "Authorization": f"Bearer {api_key}",
+    #     "Content-Type": "application/json",
+    # }
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
+        "accept": "application/json",
+        "content-type": "application/json"
     }
 
     last_error: Optional[Exception] = None
@@ -98,17 +104,17 @@ def messages_create(
 
         if not response.ok:
             raise RuntimeError(
-                f"SiliconFlow API error {response.status_code}: {response.text}"
+                f"API error {response.status_code}: {response.text}"
             )
 
         data = response.json()
         text = _extract_openai_text_blocks(data.get("choices", []))
         if not text:
             raise RuntimeError(
-                f"SiliconFlow response has no text blocks: {json.dumps(data)[:800]}"
+                f"response has no text blocks: {json.dumps(data)[:800]}"
             )
         return (text, data) if return_raw else text
 
     if last_error:
         raise last_error
-    raise RuntimeError("SiliconFlow request failed unexpectedly.")
+    raise RuntimeError("request failed unexpectedly.")
