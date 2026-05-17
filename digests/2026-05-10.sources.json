@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T12:06:54.932845+08:00",
+  "generated_at": "2026-05-10T12:10:39.457523+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://github.com/imtomt/ymawky",
       "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y he...",
       "published": "2026-05-10T11:01:44+08:00",
-      "score": 64
+      "score": 67
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "summary": "https://xunroll.com/thread/2053047748191232310 Recent and related: Zig → Rust porting guide - https://news.ycombinator.com/item?id=48016880 - May 2026 (540 comments)",
       "published": "2026-05-09T18:12:55+08:00",
-      "score": 462
+      "score": 463
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "summary": "",
       "published": "2026-05-10T11:22:02+08:00",
-      "score": 8
+      "score": 9
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
       "summary": "",
       "published": "2026-05-07T20:09:47+08:00",
-      "score": 32
+      "score": 33
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://chrismorgan.info/no-query-strings",
       "summary": "Related: https://susam.net/no-query-strings.html",
       "published": "2026-05-10T00:28:36+08:00",
-      "score": 304
+      "score": 305
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
       "summary": "",
       "published": "2026-05-07T01:52:29+08:00",
-      "score": 49
+      "score": 51
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,7 @@
       "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
       "summary": "",
       "published": "2026-05-07T22:19:55+08:00",
-      "score": 64
+      "score": 65
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,7 @@
       "url": "https://github.com/ThatXliner/rust-but-lisp",
       "summary": "",
       "published": "2026-05-10T05:46:27+08:00",
-      "score": 96
+      "score": 97
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://github.com/nooga/let-go",
       "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than...",
       "published": "2026-05-10T01:52:13+08:00",
-      "score": 117
+      "score": 118
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
       "summary": "",
       "published": "2026-05-07T01:00:03+08:00",
-      "score": 38
+      "score": 39
     },
     {
       "source": "Hacker News",
@@ -218,7 +218,7 @@
       "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
       "summary": "",
       "published": "2026-05-07T21:01:21+08:00",
-      "score": 66
+      "score": 67
     },
     {
       "source": "Hacker News",
@@ -263,16 +263,16 @@
       "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
       "summary": "",
       "published": "2026-05-10T09:52:55+08:00",
-      "score": 7
+      "score": 8
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Emerich Juettner: The One Dollar Counterfeiter",
-      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
       "summary": "",
-      "published": "2026-05-07T20:40:35+08:00",
-      "score": 3
+      "published": "2026-05-09T03:45:21+08:00",
+      "score": 104
     }
   ],
   "rss": [
@@ -309,7 +309,7 @@
       "category": "product",
       "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
       "url": "https://36kr.com/p/3801398177324550?f=rss",
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组成之...",
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯��� 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组...",
       "published": "2026-05-09T09:43:25+08:00"
     },
     {
@@ -365,6 +365,15 @@
       "url": "https://36kr.com/p/3800022823951363?f=rss",
       "summary": "文 | 张冰冰 编辑 | 阿至 36氪获悉， 北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问， 资金将用于产品研发、市场拓展及产线落地。 「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。20...",
       "published": "2026-05-08T10:25:30+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "中国医生在尼日尔首次引入免取骨颈椎手术",
+      "url": "https://36kr.com/newsflashes/3802958088216325?f=rss",
+      "summary": "5月10日电，尼亚美消息：中国第25批援尼日尔医疗队近日在尼日尔综合示范医院成功引入钛笼辅助自体椎骨颈椎融合术。该术式无需额外从患者髂骨取骨，填补了尼日尔在颈椎外科领域的一项技术空白。（证券时报）",
+      "published": "2026-05-10T12:09:01+08:00"
     },
     {
       "source": "36kr",
@@ -538,15 +547,6 @@
       "published": "2026-05-09T16:56:08+08:00"
     },
     {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "荣耀在宁波成立新公司，注册资本100万",
-      "url": "https://36kr.com/newsflashes/3801817110322697?f=rss",
-      "summary": "36氪获悉，天眼查App显示，5月9日，宁波星耀终端商业有限公司成立，法定代表人为文洁，注册资本100万人民币，经营范围包括移动终端设备销售、家用电器销售、电子产品销售等，由荣耀旗下深圳星耀终端有限公司全资持股。",
-      "published": "2026-05-09T16:48:21+08:00"
-    },
-    {
       "source": "sspai",
       "source_type": "rss",
       "category": "product",
@@ -637,184 +637,184 @@
       "published": "2026-05-06T17:30:05+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“8车企因锁电被约谈”乌龙消息背后，谁来给车主解“锁”？",
-      "url": "https://www.huxiu.com/article/4857137.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:59:02+08:00"
+      "category": "tech",
+      "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "末日来临，有钱的先走",
-      "url": "https://www.huxiu.com/article/4857135.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:50:24+08:00"
+      "category": "tech",
+      "title": "借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+      "url": "https://www.infoq.cn/article/49peofDkBrNCVx41WNO7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T16:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“老鼠仓”操盘手，竟成了这家私募合规“守门人”",
-      "url": "https://www.huxiu.com/article/4857134.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:41:36+08:00"
+      "category": "tech",
+      "title": "“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文",
+      "url": "https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T02:19:41+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "梁建章：马斯克妈妈养育孩子的智慧",
-      "url": "https://www.huxiu.com/article/4857129.html?f=rss",
-      "summary": "祝所有母亲节日快乐",
-      "published": "2026-05-10T11:38:32+08:00"
+      "category": "tech",
+      "title": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+      "url": "https://www.infoq.cn/article/4pLw4WvN9LqCMkiu2eoV?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:56:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "拍短剧的都跑去干旅拍了",
-      "url": "https://www.huxiu.com/article/4857133.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:27:34+08:00"
+      "category": "tech",
+      "title": "颠覆认知：运维 Agent 靠知识，Coding Agent 靠约束！",
+      "url": "https://www.infoq.cn/video/fXEzyFJ4jDYk0H0fPSIX?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:54:17+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "阿里与DeepSeek仅仅是杭州邻居",
-      "url": "https://www.huxiu.com/article/4857132.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:27:03+08:00"
+      "category": "tech",
+      "title": "开源项目的信任危机，也许是那群“以为自己会写代码”的资本大佬造成的",
+      "url": "https://www.infoq.cn/article/TUsD1lkUSAbDfHsZcoYc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:50:40+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "背靠背两篇Cell：揭开大脑磁刺激为何能够快速抗抑郁",
-      "url": "https://www.huxiu.com/article/4857128.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:11:52+08:00"
+      "category": "tech",
+      "title": "拓扑变更时担心丢数据？其实有个优雅解法",
+      "url": "https://www.infoq.cn/video/02CDXSPj0dQxJ0DMuW9C?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:41:11+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "国产光刻机SSA800批量交付，良率超90%？别被忽悠了",
-      "url": "https://www.huxiu.com/article/4857127.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:09:03+08:00"
+      "category": "tech",
+      "title": "不止技术！Valkey 火爆背后藏着开源社区的核心密码",
+      "url": "https://www.infoq.cn/video/rijQ2WioDtfSuNv2gQkS?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:37:23+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "戴帽和摘帽",
-      "url": "https://www.huxiu.com/article/4857124.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:04:58+08:00"
+      "category": "tech",
+      "title": "AI 把编程这件事接管之后，作为程序员的我该何去何从？",
+      "url": "https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "面对全球风险事件，中国市场真的更脆弱吗？",
-      "url": "https://www.huxiu.com/article/4857123.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T11:04:02+08:00"
+      "category": "tech",
+      "title": "停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南",
+      "url": "https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T20:32:48+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "车企流言恐惧日",
-      "url": "https://www.huxiu.com/article/4857077.html?f=rss",
-      "summary": "锁电，2026 中国车企大恐慌",
-      "published": "2026-05-10T10:33:39+08:00"
+      "category": "tech",
+      "title": "Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下",
+      "url": "https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T20:26:47+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "当妈妈学会讨厌孩子后，才能真正开始爱TA",
-      "url": "https://www.huxiu.com/article/4857119.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T10:32:38+08:00"
+      "category": "tech",
+      "title": "Cloudflare构建了面向LLM的高性能基础设施",
+      "url": "https://www.infoq.cn/article/wvRSqDH2uloYeu4f6GB0?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T20:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "决裂前夜，宗馥莉突发削藩，娃哈哈老将惨遭无情大清洗",
-      "url": "https://www.huxiu.com/article/4857118.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T10:27:48+08:00"
+      "category": "tech",
+      "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
+      "url": "https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T19:12:41+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "AI转型的最后一刀，是砍向自己",
-      "url": "https://www.huxiu.com/article/4857117.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T10:18:57+08:00"
+      "category": "tech",
+      "title": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "url": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T18:14:19+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "预测即权力：AI的未来是被发明出来的，但大多数人正在被它驯养",
-      "url": "https://www.huxiu.com/article/4857083.html?f=rss",
-      "summary": "从注意力到意图：你的欲望正在被提前塑形",
-      "published": "2026-05-10T10:10:00+08:00"
+      "category": "tech",
+      "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "DeepSeek上桌费才500亿",
-      "url": "https://www.huxiu.com/article/4857115.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T10:01:18+08:00"
+      "category": "tech",
+      "title": "DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+      "url": "https://www.infoq.cn/article/w9R1DwXoM3yKbjzcV94H?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T17:53:43+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "泡泡玛特被看穿了",
-      "url": "https://www.huxiu.com/article/4857098.html?f=rss",
-      "summary": "泡泡玛特卖LABUBU冰箱，这次市场不买帐了",
-      "published": "2026-05-10T10:00:00+08:00"
+      "category": "tech",
+      "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
+      "url": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T03:56:50+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "分歧看法- 从有色到宏观",
-      "url": "https://www.huxiu.com/article/4857114.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T09:55:46+08:00"
+      "category": "tech",
+      "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
+      "url": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T02:27:15+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“风暴前夕”：5月15日三大宏观事件前瞻",
-      "url": "https://www.huxiu.com/article/4857112.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T09:40:51+08:00"
+      "category": "tech",
+      "title": "Confluent将模式ID移至Kafka头部，以简化模式治理",
+      "url": "https://www.infoq.cn/article/dKD2lUNaMQggrCcQjxw2?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T00:50:18+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "14亿，雅诗兰黛为中国代购付出代价",
-      "url": "https://www.huxiu.com/article/4857109.html?f=rss",
-      "summary": "",
-      "published": "2026-05-10T09:23:18+08:00"
+      "category": "tech",
+      "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
+      "url": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T00:44:01+08:00"
     }
   ]
 }

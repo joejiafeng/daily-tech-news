@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "generated_at": "2026-03-05T10:48:58.421877+08:00",
+  "generated_at": "2026-03-05T10:51:31.415771+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1195707",
       "summary": "调查一下大家玩的时间最长的游戏是哪个？",
       "published": "2026-03-04T12:19:26+08:00",
-      "score": 263
+      "score": 264
     },
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1195736",
       "summary": "两家谈了男方出彩礼包含订婚酒水香烟黄金约 50W ，女方陪嫁未知，说是不能问,目前是谈完了，毕竟涉及到金钱谈的过程中有拉扯环节，但是女友因为这个，觉得我爸爸不好相处，一开始我以为是玩笑，元宵节前喊了好几次来家里吃饭（加上我女友就四个人）一直说看看，结果元宵节确实没来，告知我是这个原因，搞得我挺不舒服的。 家庭情况，我家是普通城市家庭房车都有，女友农村家...",
       "published": "2026-03-04T14:09:54+08:00",
-      "score": 232
+      "score": 234
     },
     {
       "source": "V2EX",
@@ -54,7 +54,7 @@
       "url": "https://www.v2ex.com/t/1195767",
       "summary": "养宠物狗的人大概不会用衣架把狗腿上抽成一道道淤青吧，就算狗犯错了要教训下最多也就拖鞋拍下屁股，也不会连续用衣架打到腿上都是淤青吧。 因此我觉得我过得不如一条狗。",
       "published": "2026-03-04T15:34:59+08:00",
-      "score": 84
+      "score": 85
     },
     {
       "source": "V2EX",
@@ -92,7 +92,7 @@
       "url": "https://github.com/googleworkspace/cli",
       "summary": "",
       "published": "2026-03-05T08:22:09+08:00",
-      "score": 128
+      "score": 131
     },
     {
       "source": "Hacker News",
@@ -101,7 +101,7 @@
       "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
       "summary": "https://www.apple.com/macbook-neo/",
       "published": "2026-03-04T22:16:41+08:00",
-      "score": 1585
+      "score": 1589
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://bill.newgrounds.com/news/post/1607118",
       "summary": "",
       "published": "2026-03-05T04:16:03+08:00",
-      "score": 341
+      "score": 344
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://www.fubardaily.com",
       "summary": "",
       "published": "2026-03-05T09:50:51+08:00",
-      "score": 18
+      "score": 20
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
       "summary": "",
       "published": "2026-03-05T07:51:10+08:00",
-      "score": 247
+      "score": 248
     },
     {
       "source": "Hacker News",
@@ -151,15 +151,6 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "What's Driving Rising Business Costs?",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/",
-      "summary": "",
-      "published": "2026-03-05T08:54:31+08:00",
-      "score": 16
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Humans 40k yrs ago developed a system of conventional signs",
       "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
       "summary": "",
@@ -169,11 +160,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "What's Driving Rising Business Costs?",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/",
+      "summary": "",
+      "published": "2026-03-05T08:54:31+08:00",
+      "score": 16
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Moss is a pixel canvas where every brush is a tiny program",
       "url": "https://www.moss.town/",
       "summary": "",
       "published": "2026-03-04T18:21:13+08:00",
-      "score": 189
+      "score": 190
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://www.carolinecrampton.com/the-view-from-rss/",
       "summary": "",
       "published": "2026-03-05T04:19:43+08:00",
-      "score": 78
+      "score": 79
     },
     {
       "source": "Hacker News",
@@ -236,7 +236,7 @@
       "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
       "summary": "",
       "published": "2026-03-04T20:04:31+08:00",
-      "score": 286
+      "score": 288
     },
     {
       "source": "Hacker News",
@@ -356,6 +356,15 @@
       "url": "https://36kr.com/p/3706785150546307?f=rss",
       "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，临阁能源科技（苏州）有限公司（以下简称“临阁能源”）近日完成数千万元天使轮融资，本轮投资方为天空工场创投，融资资金将重点投入核心技术研发、持续丰富产品矩阵，推进产品的规模化化生产交付，并加快全球渠道布局。 作为MOVA的生态链企业，临阁能源是一家聚焦家庭阳台储能场景的智能硬件与能源方案服务商，专注阳台储能产品的研发与...",
       "published": "2026-03-04T10:00:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "阿里成立基础模型支持小组，加大AI研发投入和吸纳人才力度",
+      "url": "https://36kr.com/newsflashes/3709452514586757?f=rss",
+      "summary": "36氪获悉，今天上午，阿里巴巴CEO吴泳铭在内部邮件中回应林俊旸离职一事。他表示，将继续坚持开源模型策略，持续加大AI研发投入和吸纳优秀人才力度。",
+      "published": "2026-03-05T10:50:13+08:00"
     },
     {
       "source": "36kr",
@@ -529,15 +538,6 @@
       "published": "2026-03-05T09:30:58+08:00"
     },
     {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "A股三大指数集体高开，油气股调整",
-      "url": "https://36kr.com/newsflashes/3709371080568960?f=rss",
-      "summary": "36氪获悉，A股三大指数集体高开，沪指高开0.67%，深成指高开1.74%，创业板指高开2.27%；半导体板块大涨，华灿光电涨停，佰维存储涨超10%，芯原股份涨超5%；AI穿戴设备走强，迦南智能涨超18%；油气股调整，准油股份跌停，中国石油跌超4%。",
-      "published": "2026-03-05T09:27:23+08:00"
-    },
-    {
       "source": "sspai",
       "source_type": "rss",
       "category": "product",
@@ -628,96 +628,6 @@
       "published": "2026-03-02T17:41:03+08:00"
     },
     {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "小鹏的2026，没有Plan B",
-      "url": "http://www.huxiu.com/article/4838881.html?f=wangzhan",
-      "summary": "出品|虎嗅汽车组 作者|杨杰 头图|小鹏官方 2026年开年，小鹏汽车的日子不好过。 一方面，市场淡季冲击之下，小鹏汽车交付量有所波动，引发行业聚焦；另一方面，董事长何小鹏高调“炮轰”现有L2级辅助驾驶为“缝合怪”，直言自动驾驶将在未来1-3年内到来，再度将这家车企推向了舆论的风口浪尖。 身处市场动荡期，当其他车企纷纷用“冰箱彩电大沙发”和真金白银的优...",
-      "published": "2026-03-04T14:17:55+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "史上最忙AI春节档：海量新品，如何才能不焦虑？",
-      "url": "http://www.huxiu.com/article/4837484.html?f=wangzhan",
-      "summary": "刚刚过去的春节档，应该有很多人跟我一样本来可以开心休息的，结果被各种国内外AI新产品新功能各种刷屏，焦虑不断、心力憔悴，难道普通人真的跟不上AI的发展节奏了吗？ 枪仔帮你把春节期间的AI信息差，一期视频都给你补上，来看一下史上最忙AI春节档，都发生了什么？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-03T18:30:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "全网狂吹，永久投资组合，能持续赚吗?",
-      "url": "http://www.huxiu.com/article/4837439.html?f=wangzhan",
-      "summary": "有这么一个神仙策略，据说只要无脑买入，从此不用预测行情，也不用钻研技术，更不用担心股灾，无论股市怎么走它都能稳如泰山，让你闭着眼也能穿越牛熊，在躺平中持续盈利，你心动了吗？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-03T18:00:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "让财务官当CEO，利润全球第一的丰田也缺钱了？",
-      "url": "http://www.huxiu.com/article/4838597.html?f=wangzhan",
-      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|丰田官网 暴跌43%。 3月1日消息，丰田在2026财年第三季度（ 2025年10-12月 ）的净利润为1.26万亿日元，较2025财年同期减少0.93万亿日元，同比减少43%，几近腰斩。 丰田宣布从2026年4月1日起，丰田首席财务官近健太（Kenta Kon）接替佐藤恒治（Koji Sato）担任丰田公司CEO...",
-      "published": "2026-03-03T17:15:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "一年千亿，短剧生意比电影都大了？",
-      "url": "http://www.huxiu.com/article/4838156.html?f=wangzhan",
-      "summary": "短剧火到一年千亿，比电影还赚钱，七亿用户上头。一集短剧3分钟，没有一分钟是浪费的，全是算计。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-03T17:00:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "百年松下集团，把彩电业务交给了中国",
-      "url": "http://www.huxiu.com/article/4837825.html?f=wangzhan",
-      "summary": "百年松下，将彩电业务交到中国手中。创维官宣与松下合作，全面负责全球松下品牌电视的生产、销售和渠道拓展。2026年起，松下将北美和欧洲电视销售业务移交给创维，未来仅专注日本本土和高端机型。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-03T09:53:36+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "遗忘，就是对暴力的重复",
-      "url": "http://www.huxiu.com/article/4837962.html?f=wangzhan",
-      "summary": "互联网上流行一句话：“除了病痛，一切痛苦都是价值观带来的。” 仿佛只要换个心态，痛苦就会消失。但这句治愈系的鸡汤背后，隐藏着极其残酷的权力逻辑。如果痛苦只是“想多了”，那为什么有些痛会让我们感受到真实的心碎和身体的震颤？ 本节目是【情感政治系列】的Part1——痛苦篇。痛的真相：痛苦不是为了让我们“感同身受”，而是为了划清“自我”与“世界”的边界。共情...",
-      "published": "2026-03-02T20:00:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "除夕夜与王兴兴的访谈：揭秘春晚幕后，与宇树这一年",
-      "url": "http://www.huxiu.com/article/4837789.html?f=wangzhan",
-      "summary": "除夕夜的夜晚，宇树刚刚完成了马年春晚的表演节目《武BOT》。这是宇树第三次登上中国春晚舞台，25台宇树机器人组成一个集群，和中国最顶尖的武术学校，塔沟武校的人类小演员们，一起完成了一场震撼的表演。这场表演被全球媒体称为，展现了人形机器人运控的巅峰。这场表演，不仅展现了全球最强的运控能力，也超越了宇树自己。 自2025年蛇年春晚爆红以后，宇树站在行业之巅...",
-      "published": "2026-03-02T19:00:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "投资也有性价比？认识夏普比",
-      "url": "http://www.huxiu.com/article/4837958.html?f=wangzhan",
-      "summary": "买基金的时候，经常看到夏普比，看起来好像很重要，但这是什么意思呢？今天就来聊一聊。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-02T17:06:39+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "伊朗战争：美国的终极野心将如何影响资本市场？",
-      "url": "http://www.huxiu.com/article/4838211.html?f=wangzhan",
-      "summary": "风浪越大、鱼越贵？还是不立危墙之下？这确实是个问题。估计本周的资本市场，是相当紧张刺激的了。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-02T16:28:42+08:00"
-    },
-    {
       "source": "infoq",
       "source_type": "rss",
       "category": "tech",
@@ -806,6 +716,96 @@
       "url": "https://www.infoq.cn/article/TgdAMDxAiG0A4NWMZjyI?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "published": "2026-03-04T23:00:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "10小时连崩4次、Claude疯狂宕机！刚把ChatGPT干到295%卸载量，就没顶住二次“爆红”？",
+      "url": "https://www.infoq.cn/article/ahajHtW6IWVZ2gp7bBHA?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T22:52:42+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "马云现身谈AI：未来一天不用工作八小时，但很多熟悉工种会消失",
+      "url": "https://www.infoq.cn/article/blMfufW3klIctS0CXD8D?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T22:46:21+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "大模型记忆系统 MemOS 2.0：StarDust 技术演进与关键挑战｜QCon北京",
+      "url": "https://www.infoq.cn/article/qAd3vVp3IdXx7dNw3vvH?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T19:07:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "平台工程实验室扩展了formae的多云支持",
+      "url": "https://www.infoq.cn/article/RcBF9xRZMeX3uLhwT5sj?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T19:05:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "OpenClaw能“边用边训”了：智能体强化学习训练框架AReaL v1.0稳定版发布",
+      "url": "https://www.infoq.cn/article/NDDJfG3lJCHjSI43k1I4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T18:52:41+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "覆盖 35 万开发者的应用风险数据库发布，聚焦儿童隐私与广告链路数据暴露",
+      "url": "https://www.infoq.cn/article/fuqDscvvQ8CoeeG4Xbf0?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T18:35:27+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "Java近期资讯：JDK26-RC2、Payara平台、Hibernate、Quarkus、Apache Camel、Jakarta EE 12",
+      "url": "https://www.infoq.cn/article/WatXh6eUqiCCPFHYscqF?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T18:26:30+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "AI“氛围编程”威胁开源，维护者面临危机",
+      "url": "https://www.infoq.cn/article/m8YV2acr2KKMSpskuSPj?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T18:10:31+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "股东变对手？OpenAI被爆砸钱研发GitHub替代方案，硬刚微软",
+      "url": "https://www.infoq.cn/article/23s4CDCMmMiFvR7CcRXK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T17:39:36+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "模力工场 033 周 AI 应用榜：从评论区互动到游戏陪玩，AI 已悄悄加载完成",
+      "url": "https://www.infoq.cn/article/3AV33wXig2vBy4s5hkIP?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-04T04:00:00+08:00"
     }
   ]
 }

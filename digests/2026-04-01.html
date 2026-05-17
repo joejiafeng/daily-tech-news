@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-04-01</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-04-01</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-04-01</h1>
+<p>OpenAI 新一轮融资估值高达 8520 亿美元，资本市场对 AGI 的押注持续加码。安全领域警报频传，axios 遭遇供应链投毒，Claude Code 意外泄露源码，开发者需警惕潜在风险。硬件赛道迎来创新潮，vivo 发布影像旗舰 X300 系列，AI 戒指等新型可穿戴设备试图开辟垂直场景新路径。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html">OpenAI 估值达 8520 亿美元</a> (Hacker News)
+  OpenAI 完成新一轮融资，估值飙升至 8520 亿美元，显示出顶级 AI 公司在资本市场依然拥有极强的吸金能力。这笔资金将进一步加剧 AI 领域的军备竞赛，加速模型迭代与商业化落地，同时也推高了行业整体的准入门槛。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1202470">axios@1.14.1 遭遇供应链投毒</a> (V2EX)
+  知名 HTTP 库 axios 的 1.14.1 版本被植入恶意代码，这是一次针对开发者及 MCP 用户的高隐蔽性 0-day 攻击。攻击者通过 npx 安装引入伪装的加密库，目前 npm 官方尚未公开披露，建议开发者立即排查项目依赖。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3746862709686786?f=rss">vivo 发布 X300 系列影像旗舰</a> (36kr)
+  vivo 发布年度旗舰 X300 系列，包括主打专业影像的 X300 Ultra 和全能旗舰 X300s。新机重点强化了与蔡司联合开发的镜头群，并支持外接增距镜，试图通过硬件创新与算法优化，在移动影像领域建立更深的护城河。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3747681306657540?f=rss">拉普拉斯中标特斯拉光伏项目近百亿订单</a> (36kr)
+  国内光伏设备商拉普拉斯中标特斯拉光伏项目第二期，订单规模近百亿人民币，占其 2025 年营收的 183%。这标志着中国光伏制造设备在国际市场的竞争力，也反映了特斯拉在能源业务上的持续扩张。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3747666648400647?f=rss">中芯国际在上海成立新半导体公司</a> (36kr)
+  中芯国际全资持股的上海芯三维半导体有限公司成立，注册资本 4.32 亿美元。此举或意味着中芯国际在集成电路制造，特别是三维集成或先进封装领域的进一步布局，以应对日益增长的芯片性能与集成度需求。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.v2ex.com/t/1202562">Claude Code 源码意外泄露</a> (V2EX)
+  Anthropic 的 CLI 工具 Claude Code 源码疑似通过 npm registry 的 map 文件泄露。开发者可通过特定命令下载并分析其架构，这暴露了 AI 工具链在分发过程中的安全隐患，也为竞争对手研究其实现逻辑提供了机会。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3746892878480132?f=rss">全球首款 AI 笔记戒指开启预售</a> (36kr)
+  Vocci Ring 亮相 CES 2026，区别于传统健康监测戒指，它聚焦声学交互与生产力工具属性。这一趋势表明 AI 硬件正在从通用的生理数据采集，转向为记者、律师等特定职业提供垂直场景的深度解决方案。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3746889894461960?f=rss">四家机器人厂商联合投资数据公司</a> (36kr)
+  多家头部机器人厂商投资“智域基石”，旨在构建具身智能时代的数据基础设施。这反映出行业共识：高质量、结构化的物理世界数据已成为提升机器人任务成功率的瓶颈，数据争夺战已从互联网延伸至物理世界。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/oBwDcReTgYrw0qNiTeO9">苹果国行 AI 上线乌龙事件</a> (InfoQ)
+  国行版苹果 AI 凌晨突袭上线后光速撤回，暴露了跨国 AI 服务在本地化合规与部署上的复杂性。这一乌龙事件反映出苹果正在积极推进 AI 落地中国，但面临监管审核与技术对接的双重挑战。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/JiCrwYbL9x7yJ6p37t44">理想智驾核心跳槽具身智能赛道</a> (InfoQ)
+  理想智驾核心人物夏中谱离职，空降无界动力任联席 CTO。随着自动驾驶技术栈与具身智能的高度重合，越来越多自动驾驶人才流向机器人领域，预示着具身智能将成为下一个技术爆发点。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://ministack.org/">Ministack：LocalStack 的替代方案</a> (Hacker News)
+  Ministack 作为 LocalStack 的替代品出现，为开发者提供本地云环境模拟。对于需要离线开发或测试云服务的场景，它提供了一个轻量级的新选择，有助于降低云开发的调试成本和环境配置复杂度。</p>
+</li>
+<li>
+<p><a href="https://solvespace.com/webver.pl">开源 CAD 工具 Solvespace 推出网页版</a> (Hacker News)
+  轻量级开源参数化 CAD 工具 Solvespace 现已支持在浏览器中直接运行。这一更新打破了桌面软件的限制，让用户无需安装即可快速进行 3D 建模，降低了 CAD 技术的使用门槛。</p>
+</li>
+<li>
+<p><a href="https://cohere.com/blog/transcribe">Cohere Transcribe 语音识别 API 发布</a> (Hacker News)
+  Cohere 推出 Transcribe 语音识别服务，进一步丰富其企业级 AI 产品矩阵。开发者可以将其集成到应用中，利用其多语言支持和高准确率特性，构建语音转文字相关的自动化工作流。</p>
+</li>
+<li>
+<p><a href="https://arxiv.org/abs/2602.04118">TinyLoRA：低成本微调新思路</a> (Hacker News)
+  论文提出 TinyLoRA 方法，仅需极少参数即可实现模型推理能力的提升。这项研究为在资源受限的边缘设备上部署和微调大模型提供了新的技术路径，具有重要的工程实践价值。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/prime/story/zhuanglesha-260331">少数派编辑部 AI 实战用法拼盘</a> (少数派)
+  文章分享了编辑部成员在实际工作中使用 AI 工具的经验与心得。不同于泛泛而谈的科普，这些来自一线的“打工”实践案例，能为内容创作者提供更具参考价值的 AI 提效方法论。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

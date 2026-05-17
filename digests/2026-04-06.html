@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-04-06</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-04-06</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-04-06</h1>
+<p>今日科技圈热点频出，中国 AI 大模型调用量连续五周超越美国，显示出强劲的增长势头与应用落地活力。Google 发布开源模型 Gemma 4，支持手机端离线运行 Agent，进一步降低了 AI 应用的硬件门槛。资本市场上，AI 赋能传统产业成为融资热点，矿石分选、智能投影等领域均获大额融资，显示出技术向实体经济渗透的深层趋势。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3754746077921799?f=rss">中国AI大模型周调用量连续五周超越美国</a> (36氪)
+    OpenRouter 最新数据显示，上周中国 AI 大模型周调用量升至 12.96 万亿 Token，环比增长 31.48%，连续五周高于美国。这一数据标志着中国 AI 大模型在应用层面已形成规模化优势，用户活跃度与生态繁荣度显著提升。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/post/108209">Google 发布 Gemma 4 开源系列模型</a> (少数派)
+    Google 正式发布 Gemma 4 开源系列模型，支持在手机端离线运行 Agent，并优化了内存占用。该系列模型的发布降低了开发者的准入门槛，使得在边缘设备上部署高性能 AI 成为可能，有望推动 AI 应用从云端向端侧下沉。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3751046517129735?f=rss">神州数码2025年营收超1400亿，AI业务增长近五成</a> (36氪)
+    神州数码发布 2025 年财报，全年营收 1438 亿元，其中 AI 相关业务收入达 330 亿元，同比增长 48%。AI 业务已正式迈入规模化落地期，成为与传统分销业务并重的核心增长引擎，印证了企业数字化转型的加速。</p>
+</li>
+<li>
+<p><a href="https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/">微软条款称 Copilot 仅供娱乐目的</a> (Hacker News)
+    微软在其服务条款中声明，Copilot 仅“供娱乐目的”使用。这一条款引发了关于 AI 生成内容可靠性与法律责任归属的讨论，提醒企业在关键业务流程中依赖生成式 AI 时需保持审慎态度。</p>
+</li>
+<li>
+<p><a href="https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic">投资者从 OpenAI 转向 Anthropic</a> (Hacker News)
+    据媒体报道，投资者正重新评估 OpenAI 的市场地位，并将目光转向 Anthropic。这一趋势反映了资本市场对 AI 领域技术路线、商业化前景及治理结构的重新考量，行业竞争格局依然充满变数。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3754713105957637?f=rss">商务部等六部门：发展“人工智能+电商”</a> (36氪)
+    商务部等六部门发布指导意见，提出发展“人工智能+电商”，引导企业加强大模型技术研发应用。政策层面的明确支持，将加速 AI 在电商领域的渗透，优化消费体验并降低运营成本，推动行业智能化升级。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3753526848897792?f=rss">清华系团队研发矿石AI智能分选机获融资</a> (36kr)
+    霍里思特完成近 2 亿元 C 轮融资，其研发的矿石 AI 智能分选设备已在国内全矿种落地。这表明 AI 技术正从虚拟世界走向硬核工业，通过解决传统行业痛点，技术赋能实体经济的商业价值正在被市场验证。</p>
+</li>
+<li>
+<p><a href="https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/">在日本，机器人填补劳动力缺口</a> (Hacker News)
+    在日本，机器人正被用于填补没人愿意从事的工作岗位。这展示了“物理 AI”在老龄化社会中的实际应用价值，意味着机器人技术已具备在非结构化环境中大规模替代人力的成熟度。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1203662">程序员热议 AI 对职业的影响</a> (V2EX)
+    V2EX 社区热议 AI 时代程序员的生存现状，讨论焦点在于 AI 是让个体变强还是导致职业淘汰。这反映了开发者群体对新技术的焦虑与适应，AI 正在重塑编程工作的技能树与价值链。</p>
+</li>
+<li>
+<p><a href="https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb">雇主利用个人数据压低薪资</a> (Hacker News)
+    报道指出雇主正利用个人数据计算求职者可接受的最低薪资。这一现象揭示了大数据时代求职者面临的信息不对称风险，数据隐私保护在劳动关系中的重要性日益凸显。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://github.com/kessler/gemma-gem">Gemma Gem：浏览器端运行的 AI 模型</a> (Hacker News)
+    这是一个 Chrome 扩展项目，通过 WebGPU 在浏览器中加载 Gemma 4 (2B) 模型。它无需 API Key 和云端支持，即可让 AI 读取网页内容并进行交互，为端侧 AI 隐私保护和无服务器部署提供了优秀的实践范例。</p>
+</li>
+<li>
+<p><a href="https://github.com/mohshomis/modo">Modo：开源 AI 代码编辑器</a> (Hacker News)
+    Modo 是一款开源的 AI 代码编辑器，旨在作为 Kiro、Cursor 和 Windsurf 的替代品。对于关注数据隐私和工具可定制性的开发者来说，开源方案提供了更透明的选择，有助于构建个性化的开发工作流。</p>
+</li>
+<li>
+<p><a href="https://github.com/arman-bd/guppylm">GuppyLM：从零构建微型 LLM</a> (Hacker News)
+    该项目从零构建了一个约 900 万参数的 LLM，包含 60K 合成对话数据，代码仅约 130 行 PyTorch。非常适合初学者在 Colab 上快速训练，以直观理解 Transformer 架构和大模型的基本运作原理。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&amp;utm_medium=article">ESLint v10 发布</a> (InfoQ)
+    ESLint v10 正式发布，但已有开发者开始考虑迁移至 Biome。前端工具链的迭代从未停止，新版本带来了规则与性能的更新，同时也折射出 Rust 工具链对传统 JavaScript 生态的冲击。</p>
+</li>
+<li>
+<p><a href="https://sspai.com/post/69901">愿君多修葺，此物最相思：数字遗产保护</a> (少数派)
+    文章探讨了数字遗产对现代人的重要性，特别是隐私数据可能带来的“社会性死亡”风险。在数字化生存日益深入的今天，如何妥善处理逝者的数字资产与隐私，是一个值得每个人深思的法律与伦理课题。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

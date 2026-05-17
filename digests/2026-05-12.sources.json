@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T12:00:07.600674+08:00",
+  "generated_at": "2026-05-12T12:02:16.886593+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1211894",
       "summary": "留下你们的邮箱！然后去注册！可以获得 100 刀！注册完看网站公告！ https://cp.coolplay-api.fun:55555/",
       "published": "2026-05-11T14:59:42+08:00",
-      "score": 246
+      "score": 247
     },
     {
       "source": "V2EX",
@@ -119,7 +119,7 @@
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "summary": "",
       "published": "2026-05-12T04:45:55+08:00",
-      "score": 251
+      "score": 252
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "summary": "",
       "published": "2026-05-12T01:53:08+08:00",
-      "score": 268
+      "score": 269
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://github.com/davmlaw/they_live_adblocker",
       "summary": "",
       "published": "2026-05-12T08:37:54+08:00",
-      "score": 45
+      "score": 46
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "https://github.com/tsirysndr/rockbox-zig",
       "summary": "",
       "published": "2026-05-09T21:03:33+08:00",
-      "score": 35
+      "score": 37
     },
     {
       "source": "Hacker News",
@@ -218,7 +218,7 @@
       "url": "https://thinkingmachines.ai/blog/interaction-models/",
       "summary": "",
       "published": "2026-05-12T04:53:37+08:00",
-      "score": 123
+      "score": 124
     },
     {
       "source": "Hacker News",
@@ -228,6 +228,15 @@
       "summary": "Unlocked: https://www.nytimes.com/2026/05/11/us/politics/google-hacker... , https://archive.ph/I4Ui5 https://apnews.com/article/google-ai-cybersecurity-exploitat... https://www....",
       "published": "2026-05-11T21:20:14+08:00",
       "score": 134
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+      "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+      "summary": "",
+      "published": "2026-05-12T10:22:04+08:00",
+      "score": 32
     },
     {
       "source": "Hacker News",
@@ -250,11 +259,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
-      "url": "https://www.npmjs.com/package/@gkiely/safe-install",
-      "summary": "In light of the ongoing npm supply chain compromises, I built safe-install: https://www.npmjs.com/package/@gkiely/safe-install It brings a couple of protections I wanted from np...",
-      "published": "2026-05-12T08:30:10+08:00",
-      "score": 10
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "summary": "",
+      "published": "2026-05-12T00:22:31+08:00",
+      "score": 120
     },
     {
       "source": "Hacker News",
@@ -264,15 +273,6 @@
       "summary": "",
       "published": "2026-05-10T10:06:19+08:00",
       "score": 42
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "summary": "",
-      "published": "2026-05-12T00:22:31+08:00",
-      "score": 120
     }
   ],
   "rss": [
@@ -291,7 +291,7 @@
       "category": "product",
       "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
       "url": "https://36kr.com/p/3805672617959173?f=rss",
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本���融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆...",
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同��立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖...",
       "published": "2026-05-12T10:11:24+08:00"
     },
     {
@@ -365,6 +365,15 @@
       "url": "https://36kr.com/p/3801745491943169?f=rss",
       "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。 长曜创新成立于2022年，长期专...",
       "published": "2026-05-10T09:27:31+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "恒指午间休盘涨0.3%，恒生科技指数跌0.39%",
+      "url": "https://36kr.com/newsflashes/3805782449987081?f=rss",
+      "summary": "36氪获悉，恒指午间休盘涨0.3%，恒生科技指数跌0.39%；有色金属、石油石化板块领涨，北方矿业涨超5%，中国石油股份涨超4%；半导体板块跌幅居前，兆易创新跌超4%，华虹半导体跌超3%；南向资金净买入14.2亿港元。",
+      "published": "2026-05-12T12:02:06+08:00"
     },
     {
       "source": "36kr",
@@ -538,13 +547,13 @@
       "published": "2026-05-12T09:27:23+08:00"
     },
     {
-      "source": "36kr",
+      "source": "sspai",
       "source_type": "rss",
       "category": "product",
-      "title": "央行公开市场开展5亿元7天期逆回购操作",
-      "url": "https://36kr.com/newsflashes/3805626532601353?f=rss",
-      "summary": "36氪获悉，央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%。Wind数据显示，今日无逆回购到期。",
-      "published": "2026-05-12T09:23:30+08:00"
+      "title": "App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备",
+      "url": "https://sspai.com/post/73727",
+      "summary": "希望大家都可以在灾害中保持冷静，保证安全。 查看全文",
+      "published": "2026-05-12T11:01:33+08:00"
     },
     {
       "source": "sspai",
@@ -628,193 +637,184 @@
       "published": "2026-05-08T18:04:50+08:00"
     },
     {
-      "source": "sspai",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "product",
-      "title": "在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛",
-      "url": "https://sspai.com/post/109521",
-      "summary": "新一届WWDC26全球开发者大会还有一个月时间就要开幕，作为每年WWDC大会的「前菜」，第七届Swift学生挑战赛也一如以往在大会开幕前夕圆满收官。在这场一年一度的全球性Apple编程竞赛中，今年共有 ... 查看全文",
-      "published": "2026-05-08T17:31:36+08:00"
+      "category": "tech",
+      "title": "企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？",
+      "url": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T19:40:08+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "没有段永平“表白”王宁，OPPO会有这个母亲节文案吗？",
-      "url": "https://www.huxiu.com/article/4857608.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:49:24+08:00"
+      "category": "tech",
+      "title": "从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮",
+      "url": "https://www.infoq.cn/article/VR3wFlNWgGXD4zDEHTYv?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T19:08:18+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "互联网算法鼻祖坠落：前浪终究还是死在了沙滩上",
-      "url": "https://www.huxiu.com/article/4857606.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:47:22+08:00"
+      "category": "tech",
+      "title": "Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+      "url": "https://www.infoq.cn/article/YxxhwlcTWclI5ErKROKv?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T18:19:56+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中国最赚钱高铁，也要涨价了",
-      "url": "https://www.huxiu.com/article/4857604.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:45:56+08:00"
+      "category": "tech",
+      "title": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+      "url": "https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T18:07:30+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "铁轨、海港与南洋旧梦：马来西亚调研感想",
-      "url": "https://www.huxiu.com/article/4857602.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:41:40+08:00"
+      "category": "tech",
+      "title": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+      "url": "https://www.infoq.cn/article/pj9tgUcrEjORYM1zyUzx?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "外企的时代已经过去了",
-      "url": "https://www.huxiu.com/article/4857570.html?f=rss",
-      "summary": "我们不必怀念它",
-      "published": "2026-05-12T11:40:32+08:00"
+      "category": "tech",
+      "title": "Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+      "url": "https://www.infoq.cn/article/5GrIHXTlPQpGTQtjY5pg?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T17:17:20+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "转转转运不容易",
-      "url": "https://www.huxiu.com/article/4857601.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:36:01+08:00"
+      "category": "tech",
+      "title": "Figma自研了Redis代理，实现六个9可用性",
+      "url": "https://www.infoq.cn/article/8Q9hEDB6cqe9qpW6mJh6?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T05:24:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "穿SK海力士工作服去相亲？存储背后会藏着韩国国运吗？",
-      "url": "https://www.huxiu.com/article/4857423.html?f=rss",
-      "summary": "谁能在下一个周期拥有定价权，才是真正的科技赢家",
-      "published": "2026-05-12T11:30:00+08:00"
+      "category": "tech",
+      "title": "黄仁勋被授予 CMU 荣誉博士！陈立武亲自为其授袍，不用英特尔为其代工的英伟达，改策略了？",
+      "url": "https://www.infoq.cn/article/VcwHpVl26WTsTtOrK6YL?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T05:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "对追星女孩的仇恨从哪来",
-      "url": "https://www.huxiu.com/article/4857600.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:28:54+08:00"
+      "category": "tech",
+      "title": "Mistral为Le Chat新增远程智能体与Work模式",
+      "url": "https://www.infoq.cn/article/14UTzo6myptzQ1GqBdOG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T04:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "47岁资本大佬戴学斌，涉嫌刑事犯罪被拘，旗下蓝润系曾坐拥超千亿元资产，知情人：去年就已有风声",
-      "url": "https://www.huxiu.com/article/4857599.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:22:32+08:00"
+      "category": "tech",
+      "title": "GitHub升级CodeQL：以声明式安全建模实现更快且更灵活的分析",
+      "url": "https://www.infoq.cn/article/UZhARgaRAyQl6ysULrY3?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T03:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "黄仁勋为何没有收到那张访华“邀请函”",
-      "url": "https://www.huxiu.com/article/4857594.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:08:16+08:00"
+      "category": "tech",
+      "title": "AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题",
+      "url": "https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T02:54:30+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "著名无神论者道金斯：AI是否具有意识",
-      "url": "https://www.huxiu.com/article/4857592.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:07:10+08:00"
+      "category": "tech",
+      "title": "38万应用暴露、2000+应用泄密！AI编程把“内网”变公网",
+      "url": "https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T02:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“前任”最美，长剧急call四大名著",
-      "url": "https://www.huxiu.com/article/4857591.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:01:54+08:00"
+      "category": "tech",
+      "title": "Claude Code的Auto模式深度解析：Anthropic带有人类审批门控的自治编码系统",
+      "url": "https://www.infoq.cn/article/UMuOBcU1lJ6jrOsQGlZK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-12T02:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "游戏改编电影拯救好莱坞？",
-      "url": "https://www.huxiu.com/article/4857589.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T11:00:01+08:00"
+      "category": "tech",
+      "title": "有奖征文｜4 天 4000 Star的 Agent 沙箱，等你来开箱赢奖励",
+      "url": "https://xie.infoq.cn/article/51ce079a86529ccd83bcd3570?utm_source=rss&utm_medium=article",
+      "summary": "前 20 篇 InfoQ首发优质内容，奖励 ¥100 京东卡 点击查看原文>",
+      "published": "2026-05-11T18:54:51+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一顿饭局速通中国青铜器",
-      "url": "https://www.huxiu.com/article/4857394.html?f=rss",
-      "summary": "饭桌上如何秒懂青铜器？",
-      "published": "2026-05-12T11:00:00+08:00"
+      "category": "tech",
+      "title": "靠AI把股价干涨735%，这家公司开始成批裁掉可替代岗，全员招聘须CEO点头",
+      "url": "https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-11T23:54:27+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中部省会，集体盯上地铁环线",
-      "url": "https://www.huxiu.com/article/4857588.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T10:48:35+08:00"
+      "category": "tech",
+      "title": "Cloudflare推出Flagship：基于OpenFeature的边缘原生特性开关服务",
+      "url": "https://www.infoq.cn/article/SZPmsh1abFmQuE598sbS?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-11T23:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "OPPO道歉了，但那场失控的审判还没结束",
-      "url": "https://www.huxiu.com/article/4857584.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T10:40:18+08:00"
+      "category": "tech",
+      "title": "Amazon CloudWatch 预览支持 OpenTelemetry Metrics",
+      "url": "https://www.infoq.cn/article/zxqxYI9HUWWttJpprFCS?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-11T22:25:07+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "ZM最大的风险",
-      "url": "https://www.huxiu.com/article/4857569.html?f=rss",
-      "summary": "舆论发酵很可能使得后续合作和投入更加谨慎",
-      "published": "2026-05-12T10:32:05+08:00"
+      "category": "tech",
+      "title": "Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/GDqP9LMP0KMrRyyjEaAF?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-11T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "巨额分红、关税狙击与迟到的A股红灯，阿麦斯冲刺“糖果第一股”，曾经的金多多成中国第一大糖品牌？",
-      "url": "https://www.huxiu.com/article/4857575.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T10:28:06+08:00"
+      "category": "tech",
+      "title": "GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控",
+      "url": "https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T23:11:06+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "买入49亿，退场剩0元，西王食品海外跨界“暴雷”，昔日粮油一哥为何无奈出局？",
-      "url": "https://www.huxiu.com/article/4857574.html?f=rss",
-      "summary": "",
-      "published": "2026-05-12T10:27:49+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "都2026了，老黄竟然还没把N卡这bug完全修好",
-      "url": "https://www.huxiu.com/article/4856188.html?f=rss",
-      "summary": "老黄要是能弹个确认让用户选设备，也比现在强多了",
-      "published": "2026-05-12T10:20:00+08:00"
+      "category": "tech",
+      "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
+      "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T23:07:51+08:00"
     }
   ]
 }

@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-04-10</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-04-10</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-04-10</h1>
+<p>AI 领域今日动态频出，Anthropic 新模型发布与 Claude Code 的争议引发开发者社区热议，阿里与小米在多模态与端侧模型上亦有不俗表现。产业方面，欣旺达确认供货特斯拉，蔚来发布旗舰 SUV ES9，联想则通过收购补齐存储短板。工具层面，GitButler 获融资探索后 Git 时代，Claude Code 源码泄露事件再次敲响供应链安全警钟。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3759598959969030?f=rss">欣旺达装车特斯拉，供应全球车型｜36氪独家</a> (36kr)
+    欣旺达动力已进入特斯拉全球供应链，成为其第五家动力电池供应商，产品已从义乌工厂出货，搭载于上海工厂销往海外的车型上。这标志着特斯拉在中国供应链布局的进一步扩大，也体现了国产电池厂商在国际市场的竞争力提升。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx">Anthropic 那个“强到不敢发”的模型，终于来了！</a> (InfoQ)
+    Anthropic 发布了备受期待的新模型，此前因能力过强而暂缓发布。该模型的推出引发了行业对 AI 安全与能力边界的再次讨论，同时也展示了 Anthropic 在大模型研发上的技术实力与审慎态度。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3760368626614786?f=rss">OpenAI负责“星际之门”的高管Peter Hoeschele已离开公司</a> (36kr)
+    负责 OpenAI 星际之门项目的高管 Peter Hoeschele 离职，该项目涉及大规模 AI 基础设施建设。核心高管的变动可能对 OpenAI 的算力基础设施建设进度产生一定影响，也反映了 AI 巨头内部组织架构的持续调整。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3760357866537729?f=rss">联想集团收购高端存储公司infinidat</a> (36kr)
+    联想集团宣布完成对全球高端企业级存储解决方案提供商 Infinidat 的收购，交易历时超一年。此次收购补齐了联想 ISG 业务在高端存储上的短板，有助于完善其在企业级基础设施领域的布局，提升整体解决方案能力。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3760392327398151?f=rss">蔚来ES9 开启预售，整车售价52.8万起</a> (36kr)
+    蔚来行政旗舰 SUV ES9 正式发布并开启预售，整车预售价 52.8 万元起，BaaS 模式起售价更低。作为蔚来体系创新的集大成之作，ES9 的推出旨在进一步巩固其在高端 SUV 市场的地位，与现有车型形成更完整的产品矩阵。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3760355006153474?f=rss">多模态大模型HappyHorse或由阿里团队研发</a> (36kr)
+    近期引发热议的多模态大模型 HappyHorse 被曝由阿里团队研发，其在文本转视频赛道表现优异。这显示了阿里在多模态 AI 领域的持续投入与探索，未来生活实验室的独立运作也体现了大厂在 AI 创新机制上的调整。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3760441492980229?f=rss">小米MiMo获Kilo多个热门场景榜单第一</a> (36kr)
+    小米 MiMo-V2-Pro 推出 Token Plan 后热度不减，在 Kilo Gateway 生态的多个场景使用占比排名第一。这表明小米自研大模型在特定应用场景下已具备较强竞争力，正逐步融入开发者生态并获认可。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3759372854706953?f=rss">对话美团GN06刘炯：美团为什么做了一款AI浏览器？</a> (36kr)
+    美团 GN06 团队推出 AI 浏览器「Tabbit」，试图在主营业务外寻找 AI Native 增长点。浏览器作为 AI 入口的价值被重新审视，美团此举意在探索 AI 时代的交互新范式，而非仅仅跟随行业热点。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3760310709174784?f=rss">早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界</a> (36kr)
+    初创公司 Chance AI 提出 Visual Agent 概念，致力于让 AI 从“看见”而非“提问”开始交互。这种软硬一体的视觉交互方案，试图突破当前纯文本对话的局限，为 AI 落地提供了更具沉浸感和自然感的新路径。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax">Claude Code史诗级负优化！大厂AI主管批思考深度暴跌</a> (InfoQ)
+    Claude Code 被指性能下降、思考深度暴跌，引发开发者社区热议，官方回应未能平息争议。这一事件反映了 AI 编程工具在迭代过程中面临的稳定性挑战，以及开发者对模型能力透明度的敏感与关注。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://blog.gitbutler.com/series-a">We've raised $17M to build what comes after Git</a> (Hacker News)
+    GitButler 宣布获 1700 万美元融资，致力于开发 Git 之后的下一代版本控制系统。该项目旨在解决现有工具在分支管理和协作上的痛点，为日益复杂的软件开发流程提供更现代化的解决方案。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi">Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码</a> (InfoQ)
+    Anthropic 因 npm 源映射文件配置失误，意外泄露了 Claude Code 的部分源码。该事件为 AI 厂商敲响了安全警钟，即便是顶尖团队在软件供应链安全上也存在疏漏，开发者需引以为戒。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/LsqHHXER21x6BNZ2Q7BM">谷歌开源实验性多智能体编排测试平台 Scion</a> (InfoQ)
+    谷歌开源了 Scion 平台，用于多智能体系统的编排与测试。随着 Agent 架构日益复杂，该工具为开发者提供了标准化的测试环境，有助于提升多智能体系统的稳定性与可观测性。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/r5EHCug4069tix7kDGLf">TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体</a> (InfoQ)
+    TigerFS 允许将 PostgreSQL 数据库挂载为文件系统，方便开发者与 AI 智能体直接操作数据。这种创新的数据交互方式降低了数据处理的门槛，为 AI Agent 直接读写数据库提供了新的技术路径。</p>
+</li>
+<li>
+<p><a href="https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/">How NASA built Artemis II’s fault-tolerant computer</a> (Hacker News)
+    文章详细介绍了 NASA 如何为 Artemis II 任务构建容错计算机系统。在极端太空环境下保障计算可靠性的工程实践，为高可靠性系统设计提供了极具参考价值的案例。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

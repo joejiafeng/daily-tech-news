@@ -1,0 +1,244 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-03-23</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-03-23</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-03-23</h1>
+<p>今日科技圈聚焦 AI 算力基建与自动驾驶安全。台积电 2nm 产能排至 2028 年，显示 AI 算力需求持续高涨；小米汽车事故鉴定报告揭示电路设计隐患，引发行业对电动车安全标准的反思。此外，AI 对就业市场的冲击及科研生态的影响成为热议话题。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://www.v2ex.com/t/1200186">小米汽车事故鉴定报告：电路击穿致车门无法开启</a> (V2EX)
+  事故鉴定报告显示，小电瓶控制电路被高压击穿导致车门无法打开，而非车身结构变形。若电动车门具备备份电源或机械解锁功能，车主或有生还可能。该事件可能推动行业重新审视电动车门的安全冗余设计标准。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3734924902514694">台积电 2nm 产能供不应求，排单至 2028 年以后</a> (36kr)
+  受 AI 与 HPC 需求强劲推动，台积电 2nm 及 A16 制程产能严重不足，英伟达、Meta 等大客户排队抢产能。这表明高性能计算硬件需求远未触顶，先进制程产能已成为科技巨头竞争的关键瓶颈。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3734923951243526">小鹏汽车成立 Robotaxi 业务部</a> (36kr)
+  小鹏汽车正式成立 Robotaxi 业务部，统筹产品定义、研发测试及运营，计划今年下半年开启载客示范运营。此举标志着小鹏从 L2+ 辅助驾驶向 L4 级自动驾驶商业化迈出关键一步，加速技术变现闭环。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3734958614921478">阿里明日或将发布重要芯片产品</a> (36kr)
+  阿里巴巴达摩院将于明日举行玄铁 RISC-V 生态大会，预计发布针对 AI Agent 算力需求的新芯片。去年其已发布首款服务器级 RISC-V CPU，此次发布将进一步推动 RISC-V 架构在高性能计算领域的落地。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3734870653944070">韩国 3 月前 20 天芯片出口同比飙升 163.9%</a> (36kr)
+  韩国海关数据显示，半导体出口额创历史同期新高，主要受人工智能强劲需求驱动。作为全球半导体风向标，韩国芯片出口的爆发式增长再次印证了全球 AI 产业正处于高速扩张期。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.v2ex.com/t/1200248">死亡螺旋若隐若现：AI 替代人工的经济后果</a> (V2EX)
+  有观点指出 AI 提升效率导致裁员，进而引发消费降级与产品滞销的恶性循环。这一“死亡螺旋”模型揭示了技术进步可能带来的结构性经济风险，引发关于全民基本收入（UBI）等社会保障方案的讨论。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs">为应对 AI 垃圾满天飞，arXiv 脱离康奈尔大学独立运营</a> (InfoQ)
+  预印本平台 arXiv 宣布脱离康奈尔大学独立运营，以更灵活地应对“AI 垃圾”论文泛滥的挑战。随着生成式 AI 降低学术造假成本，科研出版界正面临严峻的审核压力，平台治理模式亟待升级。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx">基于 AI 的机器人攻陷 GitHub Actions 工作流</a> (InfoQ)
+  攻击者利用 AI 机器人渗透进微软、DataDog 等知名项目的 CI/CD 流程。这表明随着开发流程自动化程度提高，供应链安全面临新的智能化攻击威胁，开发者需警惕基础设施被滥用的风险。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4">Cursor 新模型被指就是 Kimi K2.5</a> (InfoQ)
+  Cursor 新发布的模型被指与 Kimi K2.5 高度相似，联创承认确为此模型但未提前说明。该事件引发了开发者社区对 AI 编程工具透明度及模型“套壳”营销的质疑，信任机制成为竞争关键。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://github.com/danveloper/flash-moe">Flash-MoE：在笔记本上运行 397B 参数模型</a> (Hacker News)
+  这是一个开源项目，展示了如何在消费级笔记本电脑上运行超大规模混合专家模型。该项目通过优化显存管理和计算策略，降低了超大模型的研究门槛，为个人开发者提供了探索前沿 AI 的可能性。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1200245">撸了个日语视频字幕提取翻译工具</a> (V2EX)
+  开发者发布了一款针对日语视频优化的字幕提取与翻译工具，支持 Windows 和 macOS。该工具利用 Whisper 等模型实现高效转录与翻译，解决了特定语种视频内容理解的语言障碍，实用性强。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/ugASUiY5dmLERPkwoKVw">微软发布 MCP C# SDK 1.0 版本</a> (InfoQ)
+  微软发布了全面支持最新协议规范的 MCP C# SDK，方便开发者构建 AI Agent 与外部数据源的连接。该工具的推出降低了 AI 智能体的开发门槛，有助于推动 AI Agent 生态的标准化发展。</p>
+</li>
+<li>
+<p><a href="https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/">The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a> (Hacker News)
+  这篇文章深入剖析了经典游戏《过山车大亨》的优化代码，展示了如何在有限的硬件资源下实现复杂的模拟运算。对于现代开发者而言，这是一篇极佳的底层优化与性能压榨技术深读文章。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

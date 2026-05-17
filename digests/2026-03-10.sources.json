@@ -1,6 +1,6 @@
 {
   "date": "2026-03-10",
-  "generated_at": "2026-03-10T10:46:00.483482+08:00",
+  "generated_at": "2026-03-10T10:48:11.772391+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1196878",
       "summary": "![image.png]( https://image.baidu.com/search/down?url=https://tva1.sinaimg.cn/large/9a9ead2fly1ib0q7hoiw3j20c80960tx.jpg) ### 中转站地址： https://api.autocode.space GPT 全系模型直接 0 元开蹬，...",
       "published": "2026-03-09T15:41:04+08:00",
-      "score": 159
+      "score": 166
     },
     {
       "source": "V2EX",
@@ -45,7 +45,7 @@
       "url": "https://www.v2ex.com/t/1196998",
       "summary": "官网地址： https://apipool.dev ## 🤖 当前支持模型 ### Claude 系列（官方 Max 号池） 💡 1x 倍率（限制 Claude Code 客户端） 💡 1.3x 倍率（不限制客户端） - claude-opus-4-6 - claude-sonnet-4-6 - 以及 Claude 4.5 等各种模型 说明： 1 ）只...",
       "published": "2026-03-10T01:08:14+08:00",
-      "score": 109
+      "score": 113
     },
     {
       "source": "V2EX",
@@ -63,7 +63,7 @@
       "url": "https://www.v2ex.com/t/1196815",
       "summary": "上次介绍了中转站的商业模式，大家反馈良好，本周继续抽奖 https://cn.v2ex.com/t/1196011 夜间低峰期不定期开放 claude/codex 免费渠道，白天尽量保证大家 coding 稳定 上周抽奖结果公示，https://cn.v2ex.com/t/1196438 --- * 注册地址 https://terminal.pub/...",
       "published": "2026-03-09T13:00:40+08:00",
-      "score": 83
+      "score": 86
     },
     {
       "source": "V2EX",
@@ -81,7 +81,7 @@
       "url": "https://www.v2ex.com/t/1196844",
       "summary": "事情是这样的 周末电动车后鼓刹坏了，一直显示正在刹车，用手往前顶才能正常骑行。 去了第一个雅迪店，雅迪店说我这个车把摔断了，需要换把手 90 元。直觉告诉我有问题，这跟把手有什么关系？ 然后我就去找了旁边不远处露天的修车大爷他说你这个是闸线松了，然后鼓刹里边锈死了，导致的。 经过研究诊断，发现闸线那头也锈死了，拧不下来，最终换了一条闸线和鼓刹总成模块，...",
       "published": "2026-03-09T14:25:27+08:00",
-      "score": 71
+      "score": 73
     },
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
       "summary": "",
       "published": "2026-03-10T08:16:44+08:00",
-      "score": 86
+      "score": 87
     },
     {
       "source": "Hacker News",
@@ -111,6 +111,15 @@
       "summary": "",
       "published": "2026-03-10T01:02:22+08:00",
       "score": 401
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The “JVG algorithm” only wins on tiny numbers",
+      "url": "https://scottaaronson.blog/?p=9615",
+      "summary": "",
+      "published": "2026-03-10T08:35:19+08:00",
+      "score": 33
     },
     {
       "source": "Hacker News",
@@ -133,20 +142,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "The “JVG algorithm” only wins on tiny numbers",
-      "url": "https://scottaaronson.blog/?p=9615",
-      "summary": "",
-      "published": "2026-03-10T08:35:19+08:00",
-      "score": 30
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
       "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
       "summary": "",
       "published": "2026-03-09T23:12:53+08:00",
-      "score": 366
+      "score": 367
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "http://www.darkrealms.ca/",
       "summary": "",
       "published": "2026-03-06T23:40:45+08:00",
-      "score": 36
+      "score": 37
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
       "summary": "",
       "published": "2026-03-10T00:54:31+08:00",
-      "score": 164
+      "score": 165
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
       "summary": "",
       "published": "2026-03-10T04:36:43+08:00",
-      "score": 243
+      "score": 244
     },
     {
       "source": "Hacker News",
@@ -236,7 +236,7 @@
       "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
       "summary": "",
       "published": "2026-03-10T01:20:29+08:00",
-      "score": 352
+      "score": 353
     },
     {
       "source": "Hacker News",
@@ -245,7 +245,7 @@
       "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
       "summary": "https://www.wired.com/story/bluesky-ceo-jay-graber-is-steppi... ( https://web.archive.org/web/20260309191134/https://www.wired... ) https://toni.org/2026/03/09/coming-off-the-be...",
       "published": "2026-03-10T03:09:03+08:00",
-      "score": 316
+      "score": 317
     },
     {
       "source": "Hacker News",
@@ -637,96 +637,6 @@
       "published": "2026-03-07T11:59:51+08:00"
     },
     {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "全网疯抢的AI“小龙虾”到底割了多少打工人的韭菜？",
-      "url": "http://www.huxiu.com/article/4840479.html?f=wangzhan",
-      "summary": "事先声明：我只是个臭搞钱的，不是搞技术的。本期视频是以普通用户的视角来看待小龙虾热潮的，绝不代表高玩视角，专业人士请移步专业讨论，或者尽情笑话我。 经过几天高强度测试和对周边玩家的访谈，我还得出了以下观点：1、这东西的门槛不止安装，希望更高效的训练AI，基础代码技能、对AI底层技术理解能力还是要有的，但提示词的想法，创意，尤其是精炼或许更重要。2、To...",
-      "published": "2026-03-10T09:42:30+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "B站，巨头眼里的香饽饽",
-      "url": "http://www.huxiu.com/article/4840187.html?f=wangzhan",
-      "summary": "作者｜Eastland 头图｜视觉中国 2026年3月5日，哔哩哔哩（ NASDA:BILI；HK:09626 )发布《2025年第四季度及全年业绩公告》。根据报告，2025年营收303.5亿、同比增长13.1%；净利润11.9亿，首次实现年度盈利。 2025年前三季度，哔哩哔哩（ 以下简称B站 ）累计盈利6.77亿，全年盈利早在投资人意料之中。靓丽财...",
-      "published": "2026-03-10T06:43:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "看完今年两会代表们的热门建议，更接地气、更懂老百姓了",
-      "url": "http://www.huxiu.com/article/4840155.html?f=wangzhan",
-      "summary": "高考英语降到100分、拒绝高价彩礼、防止AI冲击就业、带货博主负责产品真实性、废除劳务派遣制度、驾照考试增加智驾内容……今年两会代表和委员的议案提案好像比往年都更精彩、更贴近生活了。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-09T18:46:20+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "狂热的小龙虾，大厂的AI阳谋",
-      "url": "http://www.huxiu.com/article/4840062.html?f=wangzhan",
-      "summary": "“小龙虾会颠覆世界”，这个念头确实很吸引人，但很可能，跟漂亮国当年的淘金热一样，真正躺赢的，只有卖铲子的商人。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-09T14:50:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集",
-      "url": "http://www.huxiu.com/article/4840071.html?f=wangzhan",
-      "summary": "本文来自微信公众号： 短剧黑马 ，作者：短剧黑马，题图来自：AI生成 一、离谱新闻广为流传 今天这篇稿子，是被读者催着写的。 “所谓的一部短剧80集，其实48小时只做了几分钟，根本没有成片。所谓5个亿播放量——那剧都没有，何来播放量？播放量有这么算的吗？三观要碎了啊。” “这里面好几个甲方直接截图马上来问我们其他制作公司了。是不是一部几十集AI短剧只要...",
-      "published": "2026-03-08T12:52:48+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "刀片再出鞘，王传福能否杀出“逆风局”？",
-      "url": "http://www.huxiu.com/article/4839882.html?f=wangzhan",
-      "summary": "出品|虎嗅汽车组 作者|王亚骏 头图|视觉中国 “我想，没有人，比我们比亚迪更懂电池。”在3月5日举办的比亚迪技术发布会上，一向低调的王传福并未掩锋芒。 当晚，比亚迪发布了第二代刀片电池、新的闪充技术，并展示了仰望U7、大唐和宋Ultra等10款车型。 图源：发布会 在发布会上，第二代刀片电池是首个被介绍的产品，王传福并没有过多解释其技术原理，而是重点...",
-      "published": "2026-03-07T10:40:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "激光雷达，能拉爆鸿蒙五界的销量吗？",
-      "url": "http://www.huxiu.com/article/4839768.html?f=wangzhan",
-      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|视觉中国 896线。地球上线数最高的车载激光雷达发布了。 3月4日，华为在深圳举行鸿蒙智行技术焕新发布会，正式推出新一代双光路图像级激光雷达，官方称其为“全球量产最高线数”的激光雷达产品。在业界普遍只有192线激光雷达且迟迟无法突破的沉闷氛围中，华为在这个单品科技创新上实现了跨越。 那么提升四倍线数的激光雷达有什么...",
-      "published": "2026-03-06T19:00:01+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "别认为小鹏还只是个造车的",
-      "url": "http://www.huxiu.com/article/4839667.html?f=wangzhan",
-      "summary": "多年之后，也许没人还会记得小鹏是个造车企业。 “我非常坚信1-3年全自动驾驶会落地、3-5年所有汽车都会成为强力超级智能体。”在3月2日的小鹏第二代VLA媒体体验日上，小鹏汽车董事长 CEO何小鹏如是说道。 小鹏第二代VLA（视觉-语言-动作）模型相比第一代，最核心、最本质的区别在于技术架构的“颠覆性重构”： 它开创性地去掉了中间的“语言翻译”环节，让...",
-      "published": "2026-03-06T18:13:49+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "阿里不希望任何人上“神坛”？",
-      "url": "http://www.huxiu.com/article/4839506.html?f=wangzhan",
-      "summary": "阿里不想让任何人成为“神”，林俊旸却在AI圈成了传奇：93年出生，一年升到P10，却突然宣布离开，连马斯克都点赞了他的千问3.5开源模型。对于阿里这种公司，它永远能找到下一位周畅、林俊旸。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-06T14:41:47+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "战火烧至霍尔木兹海峡，全球油价要涨上天？",
-      "url": "http://www.huxiu.com/article/4839330.html?f=wangzhan",
-      "summary": "这场由美国和以色列引燃的冲突，已经让全球能源格局和经济走势山呼海啸般动荡？霍尔木兹海峡被封禁，全球原油价格会涨到天上去吗？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-06T09:42:50+08:00"
-    },
-    {
       "source": "infoq",
       "source_type": "rss",
       "category": "tech",
@@ -815,6 +725,96 @@
       "url": "https://www.infoq.cn/article/XiMNJ9e87lH8Xu9CpUHG?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "published": "2026-03-10T03:02:30+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "终端大模型操作系统的架构、优化与展望",
+      "url": "https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-10T02:30:10+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "ODCC联合NVIDIA、焱融等首发KVCache评测结果｜焱融AI存储实现推理提速降本双突破",
+      "url": "https://www.infoq.cn/article/zVRRjI7EfCiEoYTS2QqH?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-10T01:15:07+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "Uforwarder：优步的可扩展Kafka消费者代理，助力高效的事件驱动微服务",
+      "url": "https://www.infoq.cn/article/yB0DZ1c5uLDdkVsJvgWY?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T22:00:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "从上下文到长期记忆：大模型记忆工程的架构设计与实践",
+      "url": "https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T20:05:44+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "GlassFish 8.0发布，兼容Jakarta EE 11，增强安全性并改进数据访问",
+      "url": "https://www.infoq.cn/article/rLVi30GAlEd0bX8VxTBZ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T18:30:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "鹅厂带大家“养虾”，昨天刚装、今天就裸奔！田渊栋：OpenClaw就像拿着所有秘密的笨小孩出门办事",
+      "url": "https://www.infoq.cn/article/wZ6OLl08OyezbYDCLrQT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T18:19:58+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "从 Demo 到规模落地：AIOps Agent 在复杂云原生场景下的研发范式与数据飞轮实践｜QCon北京",
+      "url": "https://www.infoq.cn/article/5ydQqEFM2Kkskgyl0u3X?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T18:10:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "谷歌研究院探索多智能体协调的扩展原则",
+      "url": "https://www.infoq.cn/article/8uzPv9ggRNrgDLtb7ywE?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T18:00:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，揭秘Anthropic 如何连续推出两个AI 爆款？",
+      "url": "https://www.infoq.cn/article/58MqJzPWvi2Mtdu147Qv?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T17:53:35+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "雷军：不推荐普通用户在主力设备升级“龙虾”；鹅厂门口排队装OpenClaw，”龙虾之父“点赞；OpenAI 开源计划：开发者免费享半年 ChatGPT Pro 订阅 | AI周报",
+      "url": "https://www.infoq.cn/article/oRLbiZDv9maVQDk0swaR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-09T17:46:07+08:00"
     }
   ]
 }

@@ -188,7 +188,7 @@ HTML_TEMPLATE = """
 
     <footer>
         <div class="container">
-            Daily Tech News · 由 GLM-4.7 自动生成
+            Daily Tech News · 由 GLM-5.1 自动生成
         </div>
     </footer>
 </body>

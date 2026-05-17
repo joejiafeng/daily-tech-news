@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-02-06</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-02-06</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-02-06</h1>
+<p>今日科技圈焦点集中在 AI 与资本市场的双重震荡。亚马逊豪掷 2000 亿美元押注 AI 基础设施，而 Claude Opus 4.6 与 GPT-5.3-Codex 的发布则标志着编程助手进入新阶段；国内方面，美团 7.17 亿美元收购叮咚买菜，即时零售格局生变。与此同时，比特币暴跌引发市场恐慌，开发者社区也就 Rust 与 Go 的优劣展开了新一轮激辩。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3670220575826824?f=rss">美团拟7.17亿美元收购叮咚买菜</a> (36kr)
+    美团公告将以约7.17亿美元的初始对价全资收购叮咚买菜中国业务，海外业务将剥离。此举标志着即时零售赛道进入巨头争战期，美团将进一步巩固其在生鲜电商领域的市场地位。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3671121105838977?f=rss">亚马逊称今年将斥资2000亿美元用于人工智能建设</a> (36kr)
+    亚马逊宣布计划今年斥资2000亿美元用于数据中心、芯片等AI基础设施建设，远超分析师预期。这一激进的投资策略令投资者担忧短期利润受压，但也显示了其对AI赛道的长期决心。</p>
+</li>
+<li>
+<p><a href="https://www.anthropic.com/news/claude-opus-4-6">Claude Opus 4.6</a> (Hacker News)
+    Anthropic 发布了最新的 Claude Opus 4.6 模型。官方演示显示，该模型具备强大的 Agent 协作能力，甚至能够指挥多个 Agent 团队成功构建一个 C 语言编译器，展示了 AI 在复杂系统构建上的突破。</p>
+</li>
+<li>
+<p><a href="https://openai.com/index/introducing-gpt-5-3-codex/">GPT-5.3-Codex</a> (Hacker News)
+    OpenAI 推出了 GPT-5.3-Codex，这是其代码生成模型的最新迭代。新模型在编程辅助、代码重构及多语言支持方面均有显著提升，旨在进一步加速开发者的工作流程，巩固其在 AI 编程领域的领先地位。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1191089">BTC 最低 60000，又上热搜了，你们还好么？</a> (V2EX)
+    比特币价格暴跌，最低触及 60000 美元，导致超过 21 万人爆仓。黄金、白银等避险资产也同步下跌，市场恐慌情绪蔓延，引发了投资者对于加密货币市场高波动性的再次关注。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.v2ex.com/t/1190921">2026 年了，为什么我依然认为 Rust 是过度设计，而 Golang 才是工程界的终极答案？</a> (V2EX)
+    文章引发热议，观点认为大部分公司更需业务快速上线而非极致内存安全。作者推崇 Go 语言的大道至简，认为其维护成本低，相比之下 Rust 的学习曲线陡峭和编译时间过长，可能是在浪费工程生命。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1191023">AI 编程先别说好不好用，贵是真的贵，个人真用得起么</a> (V2EX)
+    用户吐槽 AI 编程工具费用高昂，简单的代码重构和对话消耗了数十美元。这反映了当前 AI 编程工具在个人开发者普及过程中面临的成本门槛问题，Token 计费模式对高频用户构成经济压力。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3668863813559170?f=rss">世界模型，是自动驾驶的终极答案吗？</a> (36kr)
+    小鹏、蔚来、华为等车企纷纷布局“世界模型”，试图通过模拟真实物理环境来提升自动驾驶能力。文章探讨了这一技术路线的潜力与挑战，分析其是否为解决长尾问题的终极方案。</p>
+</li>
+<li>
+<p><a href="http://www.huxiu.com/article/4832087.html?f=wangzhan">AI时代，我们的PC到底“芯”在哪里？</a> (虎嗅)
+    文章探讨了现有 PC 架构在运行 AI 应用时的瓶颈，如风扇噪音大、续航短。指出真正的 AI PC 需要针对 AI 场景重构硬件架构，如搭载 Intel Core Ultra 等专用芯片，以实现高效能体验。</p>
+</li>
+<li>
+<p><a href="http://www.huxiu.com/article/4832467.html?f=wangzhan">AI进县城，靠红包能行么？</a> (虎嗅)
+    腾讯、阿里、字节等巨头在春节期间通过红包大战将 AI 推向县城市场。然而，下沉市场用户对 AI 功能认知不足，单纯靠红包撒钱能否真正培养用户习惯并实现 AI 技术的普惠仍存疑。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://www.v2ex.com/t/1190896">建议给所有需要公网暴露的 web 服务套一层 authelia</a> (V2EX)
+    针对近期 NAS 漏洞引发的安全担忧，推荐使用 Authelia 为公网 Web 服务添加统一认证层。相比 VPN，它部署更简单，无需客户端，且能与科学上网共存，有效提升自建服务的安全性。</p>
+</li>
+<li>
+<p><a href="https://mrbruh.com/amd/">The RCE that AMD won't fix</a> (Hacker News)
+    安全研究员披露了一个 AMD 处理器的远程代码执行漏洞，但厂商拒绝修复。该漏洞细节的公开引发了社区对硬件供应链安全及厂商责任归属的激烈讨论，提醒用户关注底层硬件风险。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/0dTBmTp4SlBVvoaybNCh">Rspress 2.0发布：面向体验与AI的全新升级</a> (InfoQ)
+    Rspress 2.0 正式发布，新版本专注于提升开发者体验并集成了 AI 能力。作为一款基于 Rust 的静态站点生成器，它在构建速度和现代化文档编写方面进行了大幅优化，适合技术文档和博客搭建。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/AGkTiCi5OlEABJQpfhI2">谁写的代码谁负责！Cursor 发布 Agent Trace</a> (InfoQ)
+    Cursor 推出了 Agent Trace 功能，旨在解决 AI 生成代码的责任归属和调试难题。该功能可以追踪代码的生成来源和修改历史，确保开发者对 AI 辅助编写的代码拥有完全的掌控权和可追溯性。</p>
+</li>
+<li>
+<p><a href="https://www.tigerdata.com/blog/its-2026-just-use-postgres">It's 2026, Just Use Postgres</a> (Hacker News)
+    文章重申了 PostgreSQL 在现代技术栈中的核心地位。随着 2026 年数据库技术的发展，Postgres 凭借其强大的扩展性、稳定性和丰富的功能生态，依然是大多数应用场景下的最佳默认选择。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

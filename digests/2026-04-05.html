@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-04-05</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-04-05</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-04-05</h1>
+<p>AI 技术正从模型层向应用层和基础设施层深度渗透，神州数码 AI 业务近五成增长与 Cloudflare 用 AI 重构开发流程即是明证。与此同时，端侧模型与算力资源的争夺战愈演愈烈，Google 开源 Gemma 4 与 Anthropic 收紧第三方额度政策，分别代表了开源生态与商业闭环的两种路径。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3751993972802307">Anthropic宣布正式封杀OpenClaw</a> (36kr)
+    Anthropic 宣布其 AI 编程工具 Claude Code 订阅服务不再包含对 OpenClaw 等第三方工具的使用额度，称订阅模式并非为此类高频调用设计。这一举措反映了头部大模型公司在算力资源紧张下，开始收紧接口权限以保障核心用户体验。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3751046517129735?f=rss">神州数码2025年营收超1400亿，AI相关业务增长近五成</a> (36kr)
+    神州数码 2025 年财报显示 AI 业务收入达 330 亿元，同比增长 48%，已成为与传统分销业务并重的增长极。这标志着 AI 技术已从概念验证阶段迈入规模化落地期，企业数字化转型需求正转化为实实在在的营收。</p>
+</li>
+<li>
+<p><a href="https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop">AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0</a> (Hacker News)
+    一名 AWS 工程师报告称，升级到 Linux 7.0 内核后，PostgreSQL 性能意外下降了约 50%。该问题可能源于内核调度或内存管理的变更，目前修复方案尚不明确，提醒依赖 PostgreSQL 的生产环境在升级内核时需极度谨慎。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3753250849145608">兆瓦级氢燃料航空涡桨发动机首飞成功</a> (36kr)
+    中国航发集团自主研制的 AEP100 氢燃料发动机配装无人机成功首飞，标志着我国在绿色航空动力领域取得突破。随着绿氢成本下降，该技术有望率先在低空物流领域应用，推动航空业能源转型。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3752222571725570">特斯拉超级充电桩全球突破80000根</a> (36kr)
+    特斯拉宣布其全球超级充电桩数量已突破 8 万根，进一步巩固了其全球最大快速充电网络的地位。这一基础设施的扩张对于缓解用户里程焦虑、推动电动汽车普及具有重要意义。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html">How many products does Microsoft have named 'Copilot'?</a> (Hacker News)
+    文章梳理了微软产品线中名为 "Copilot" 的产品数量，揭示了微软 "AI All-in" 的战略决心，但也暴露了品牌命名混乱的问题。这种“万物皆 Copilot”的策略虽然强化了 AI 属性，但也可能导致用户认知模糊。</p>
+</li>
+<li>
+<p><a href="https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai">Functional programming accellerates agentic feature development</a> (Hacker News)
+    文章指出函数式编程（FP）因其无副作用和确定性特点，正成为开发 AI 智能体（Agent）系统的最佳范式。在 AI 代码生成日益普及的当下，FP 架构能更好地控制复杂性，提高系统的可预测性和可维护性。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1203495">2 年以后的硬件和本地大模型</a> (V2EX)
+    社区热议随着内存价格波动和本地大模型需求激增，两年后 256G 内存能否普及。这反映了开发者对摆脱云端限制、实现高性能本地推理的强烈渴望，硬件配置的升级将直接决定个人开发者的生产力边界。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3749816005657093?f=rss">叽伴：用「共同经历」重新定义AI社交</a> (36kr)
+    针对 AI 社交产品普遍面临的“角色失忆”和留存率低问题，叽伴尝试通过“共同经历”机制构建长期记忆。这反映了 AI 应用正从单纯的对话娱乐向深度情感陪伴演进，记忆机制是突破用户体验瓶颈的关键。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd">一个周末 + 1100 美元，干完 5 人 6 个月的活</a> (infoq)
+    Cloudflare 团队利用 AI 辅助，仅用极低成本和时间就完成了原本需要大团队长期投入的 Next.js 功能复刻。这一案例极具象征意义，预示着 AI 正在重塑软件工程的成本结构和生产效率，小团队也能构建复杂系统。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://github.com/siddharthvaddem/openscreen">OpenScreen is an open-source alternative to Screen Studio</a> (Hacker News)
+    OpenScreen 是一款开源的屏幕录制工具，旨在作为 Screen Studio 的免费替代品，帮助用户快速制作高质量的演示视频。对于需要频繁录制产品演示或教程的开发者来说，这是一个极具性价比的选择。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR">谷歌重磅开源Gemma 4！手机离线跑 Agent</a> (infoq)
+    Google 发布了 Gemma 4 开源系列模型，优化了内存占用，支持在手机端离线运行 Agent 任务。这为移动端 AI 应用开发提供了强大的底层支持，降低了端侧智能的开发门槛。</p>
+</li>
+<li>
+<p><a href="https://github.com/teamchong/turboquant-wasm">Show HN: TurboQuant-WASM – Google's vector quantization in the browser</a> (Hacker News)
+    这是一个将 Google 的向量量化算法移植到 WebAssembly 的开源项目，实现了在浏览器端高效运行向量量化计算。对于需要在 Web 端处理大规模向量检索或压缩的开发者，具有很高的实用价值。</p>
+</li>
+<li>
+<p><a href="https://composerprogrammer.com/introductiontocomputermusic.pdf">Introduction to Computer Music 【pdf】</a> (Hacker News)
+    这是一份关于计算机音乐的详尽教程 PDF，涵盖了从基础理论到编程实现的各个方面。对于对音频处理、生成式音乐或信号处理感兴趣的开发者，这是一份不可多得的系统性学习资料。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1203503">Claude Code 又送了 $100 的 extra balance</a> (V2EX)
+    有用户反馈 Claude Code 再次发放了 100 美元的额外额度，建议开发者检查账户是否可领取。这可能是 Anthropic 为了推广其编程工具或缓解近期额度调整带来的用户情绪而进行的促销活动。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,244 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-03-17</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-03-17</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-03-17</h1>
+<p>今日科技圈重磅消息频出，阿里巴巴发布全球首个企业级 Agent 平台“悟空”，黄仁勋在 GTC 2026 预言 SaaS 模式将终结。与此同时，Meta 裁员风波引发 AI 替代人工的热议，开源社区则迎来了 Leanstral 等重磅工具更新，基础设施与 AI 应用的演进正在加速。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3726450246302340">阿里发布全球首个企业级 Agent 平台“悟空”</a> (36kr)
+  阿里巴巴发布企业级 AI 原生工作平台“悟空”，旨在让每个团队拥有 24 小时工作的 AI 团队。该平台将独立应用并内置钉钉，服务超 2000 万企业组织，标志着企业级 Agent 商业化落地迈出关键一步。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?">黄仁勋 GTC 2026 演讲：所有 SaaS 公司都将消失</a> (InfoQ)
+  黄仁勋在 GTC 2026 上抛出重磅观点，认为所有 SaaS 公司都将消失，未来属于 AI 原生应用。他同时宣布 NVIDIA 的 Token 成本全球最低，并预告 Feynman 架构，展现了算力与 AI 模型深度融合的趋势。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/HS2jaSrSCcIz0ev22ZqX?">曝 Meta 狂砍 20% 岗位，AI 智能体或取代工程团队</a> (InfoQ)
+  Meta 被曝裁员超 1.6 万人，传闻称其计划用 AI 智能体取代整个工程团队。这一激进举措反映了科技巨头在 AI 时代对人力资源结构的剧烈调整，引发了关于程序员职业未来的广泛讨论。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3726444587104645">禾赛科技加入 NVIDIA Halos AI 系统检测实验室</a> (36kr)
+  禾赛科技宣布加入 NVIDIA Halos AI 系统检测实验室，成为首个获得 ANAB 认证的全球项目成员。此举意味着激光雷达将在统一框架下进行功能安全与 AI 合规评估，加速自动驾驶安全标准的落地。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3726435376249477">三星或停售三折叠屏手机</a> (36kr)
+  尽管市场需求强劲，三星因生产成本过高决定停止在韩销售首款三折叠手机 Galaxy Z TriFold。这显示了折叠屏技术在追求形态创新与量产成本控制之间仍面临巨大挑战。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/">Meta 重申对 jemalloc 的承诺</a> (Hacker News)
+  Meta 工程团队发文强调对内存分配器 jemalloc 的持续投入，这对大规模基础设施和高性能计算至关重要。在 AI 算力需求爆炸的当下，底层内存管理的优化成为提升系统效率的关键一环。</p>
+</li>
+<li>
+<p><a href="https://arxiv.org/abs/2603.12229">语言模型团队即分布式系统</a> (Hacker News)
+  一篇新论文提出将语言模型团队视为分布式系统来理解和管理，为 AI 协作提供了新的理论框架。这种视角有助于解决大模型在复杂任务中的协调与效率问题，是 AI 架构演进的重要方向。</p>
+</li>
+<li>
+<p><a href="https://news.ycombinator.com/item?id=47401042">Voygr：面向智能体的地图 API</a> (Hacker News)
+  YC W26 孵化的 Voygr 旨在为 AI 智能体提供更好的地图 API，解决现有地图服务对机器不友好的问题。随着 Agent 应用爆发，专门针对 AI 的“真实世界”接口将成为新的基础设施赛道。</p>
+</li>
+<li>
+<p><a href="https://kevinboone.me/small_web_is_big.html">The “small web” is bigger than you might think</a> (Hacker News)
+  文章探讨了“小型网络”的规模与价值，指出独立博客和个人站点依然拥有庞大的生命力。在巨头平台算法垄断的背景下，去中心化的内容生态和轻量级网页设计正在引发开发者的重新思考。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://mistral.ai/news/leanstral">Leanstral：开源的可信编码与形式化证明 Agent</a> (Hacker News)
+  Mistral 推出 Leanstral，这是一个专注于代码生成和形式化证明的开源 Agent。它基于 Lean 4，旨在提高代码的可信度，为追求高可靠性的软件开发者提供了强大的辅助工具。</p>
+</li>
+<li>
+<p><a href="https://github.com/mr-fatalyst/oxyde">Oxyde：基于 Rust 核心的 Pydantic 原生异步 ORM</a> (Hacker News)
+  Oxyde 是一款专为 FastAPI 设计的 ORM，核心由 Rust 编写，支持 Pydantic 原生模型。它解决了开发者重复定义模型的痛点，提供了高性能的异步数据库操作体验。</p>
+</li>
+<li>
+<p><a href="https://gitclassic.com">GitClassic：轻量级 GitHub 客户端</a> (Hacker News)
+  GitClassic 是一个极简的 GitHub Web 客户端，页面大小仅 14KB。它支持 Issues、PR 及差异对比，为追求速度和纯净体验的开发者提供了一个替代官方臃肿界面的选择。</p>
+</li>
+<li>
+<p><a href="https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860">打造可靠的本地托管语音助手</a> (Hacker News)
+  一篇详细教程分享了如何搭建可靠且体验良好的本地语音助手，基于 Home Assistant 实现。这为注重隐私和本地化控制的极客用户提供了完整的解决方案，展示了开源智能家居的潜力。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

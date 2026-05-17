@@ -1,6 +1,6 @@
 {
   "date": "2026-03-14",
-  "generated_at": "2026-03-14T10:47:08.112806+08:00",
+  "generated_at": "2026-03-14T10:49:16.437443+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -50,19 +50,19 @@
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "给妈妈买个 iPhone 17e 可以吗？",
-      "url": "https://www.v2ex.com/t/1197974",
-      "summary": "我妈妈平时主要就是刷刷短视频，听听书啥的，用不着啥性能，之前一直用的一个二手的 iphone11 ，就是电池不太行了，倒是不卡。 一直用的二手，考虑给她换一个新的 iPhone,买 17 还是 17e 。 大家有什么建议？",
-      "published": "2026-03-13T11:25:25+08:00",
-      "score": 53
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
       "title": "极客湾恢复更新：小米笔记本 Pro 上手体验：性能表现优秀的超轻薄本！",
       "url": "https://www.v2ex.com/t/1198056",
       "summary": "视频链接： [小米笔记本 Pro 上手体验：性能表现优秀的超轻薄本！] https://www.bilibili.com/video/BV1hrcUzkELd/?share_source=copy_web&vd_source=835fa75e6a281bbf9bb9df438719f586",
       "published": "2026-03-13T15:15:35+08:00",
+      "score": 54
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "给妈妈买个 iPhone 17e 可以吗？",
+      "url": "https://www.v2ex.com/t/1197974",
+      "summary": "我妈妈平时主要就是刷刷短视频，听听书啥的，用不着啥性能，之前一直用的一个二手的 iphone11 ，就是电池不太行了，倒是不卡。 一直用的二手，考虑给她换一个新的 iPhone,买 17 还是 17e 。 大家有什么建议？",
+      "published": "2026-03-13T11:25:25+08:00",
       "score": 53
     },
     {
@@ -92,7 +92,7 @@
       "url": "https://claude.com/blog/1m-context-ga",
       "summary": "",
       "published": "2026-03-14T01:19:01+08:00",
-      "score": 304
+      "score": 308
     },
     {
       "source": "Hacker News",
@@ -101,7 +101,7 @@
       "url": "https://lwn.net/Articles/1062779/",
       "summary": "",
       "published": "2026-03-14T09:19:18+08:00",
-      "score": 76
+      "score": 78
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
       "summary": "",
       "published": "2026-03-14T06:52:05+08:00",
-      "score": 87
+      "score": 88
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://www.canirun.ai/",
       "summary": "",
       "published": "2026-03-13T20:46:10+08:00",
-      "score": 969
+      "score": 970
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
       "summary": "",
       "published": "2026-03-10T00:01:23+08:00",
-      "score": 48
+      "score": 49
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "https://github.com/TomBadash/MouseControl",
       "summary": "I discovered this project because all-of-a-sudden Logi Options Plus software updater started taking 40-60% of my Intel Macbook Pro until I killed the process (of course it resta...",
       "published": "2026-03-14T02:42:54+08:00",
-      "score": 211
+      "score": 213
     },
     {
       "source": "Hacker News",
@@ -164,7 +164,7 @@
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "summary": "",
       "published": "2026-03-13T20:31:09+08:00",
-      "score": 444
+      "score": 446
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,7 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "summary": "",
       "published": "2026-03-14T02:34:12+08:00",
-      "score": 222
+      "score": 224
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,7 @@
       "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
       "summary": "",
       "published": "2026-03-13T22:11:36+08:00",
-      "score": 203
+      "score": 204
     },
     {
       "source": "Hacker News",
@@ -200,7 +200,7 @@
       "url": "https://tui.studio/",
       "summary": "",
       "published": "2026-03-13T18:32:45+08:00",
-      "score": 565
+      "score": 566
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
       "summary": "",
       "published": "2026-03-14T06:28:04+08:00",
-      "score": 143
+      "score": 144
     },
     {
       "source": "Hacker News",
@@ -227,7 +227,7 @@
       "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
       "summary": "https://archive.ph/rP4cb (text at bottom) https://x.com/elonmusk/status/2032201568335044978 , https://xcancel.com/elonmusk/status/2032201568335044978 https://economictimes.india...",
       "published": "2026-03-14T00:40:42+08:00",
-      "score": 338
+      "score": 341
     },
     {
       "source": "Hacker News",
@@ -250,20 +250,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "New 'negative light' technology hides data transfers in plain sight",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+      "summary": "",
+      "published": "2026-03-12T04:46:24+08:00",
+      "score": 67
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Lost Doctor Who Episodes Found",
       "url": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
       "summary": "",
       "published": "2026-03-13T13:18:01+08:00",
       "score": 232
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
-      "url": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
-      "summary": "",
-      "published": "2026-03-14T03:15:06+08:00",
-      "score": 57
     }
   ],
   "rss": [
@@ -498,7 +498,7 @@
       "category": "product",
       "title": "郭明錤：英伟达下一代Rubin平台启动新材测试，PCB升级周期将至",
       "url": "https://36kr.com/newsflashes/3721355909544581?f=rss",
-      "summary": "分析师郭明錤最新供应链调查，英伟达已与PCB厂商就下一代覆铜板（CCL）材料M10启动测试，目标应用涵盖Rubin Ultra及Feynman平台的正交背板与交换刀片主板。若M10测试如期推进，量产时间节点锁定在2027年下半年，届时将开启新一轮AI服务器PCB材料的规模化采购周期，相关供应链厂商有望迎来��绩催化窗口。（财联社）",
+      "summary": "分析师郭明錤最新供应链调查，英伟达已与PCB厂商就下一代覆铜板（CCL）材料M10启动测试，目标应用涵盖Rubin Ultra及Feynman平台的正交背板与交换刀片主板。若M10测试如期推进，量产时间节点锁定在2027年下半年，届时将开启新一轮AI服务器PCB材料的规模化采购周期，相关供应链厂商有望迎来业绩催化窗口。（财联社）",
       "published": "2026-03-13T20:38:59+08:00"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date": "2026-03-03",
-  "generated_at": "2026-03-03T10:53:56.720796+08:00",
+  "generated_at": "2026-03-03T11:12:53.048691+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1195195",
       "summary": "# 🚀 VBCode 中转站 ## 🌐 官方地址 👉 https://vbcode.io --- ## ⚡ 当前可用服务 ### 1️⃣ Claude Code – AWS （逆向渠道） - 💡 倍率：0.35 倍率 - ✅ 支持 Opus 4.6, sonnet 4.6 - ✅ 支持 网络搜索 - ✅ 支持 缓存 - ✅ 支持 深度思考 --- ##...",
       "published": "2026-03-02T15:01:20+08:00",
-      "score": 241
+      "score": 253
     },
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1195155",
       "summary": "无意看到知乎一个问答 [每天重启路由器有好处还是有害？] https://www.zhihu.com/question/392412428/answer/1772992455?share_code=VerCUmrwuWLY&utm_psn=2011784588310115802 引用高赞的一个回答： ``` 所以我的建议是，光猫和路由器每周重启一次。如...",
       "published": "2026-03-02T13:02:31+08:00",
-      "score": 78
+      "score": 79
     },
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1195147",
       "summary": "具体位置就不说了，大家可以猜猜 然后就是必须夸夸我老婆，帮我避免很多不必要的习俗 1 、 请女方的亲友来吃饭，要先给出 600 红包+一些礼品（喜糖，中华烟，旺仔，牛奶），诚邀他们来参加喜宴 2 、 一定要有订婚，订婚会有改口流程，亲友们吃的第一顿是订婚宴(亲友不会给红包，就是吃饭) 3 、 结婚宴，关系好点的亲友会在原来 600 的基础上加 200-...",
       "published": "2026-03-02T11:43:55+08:00",
-      "score": 72
+      "score": 76
     },
     {
       "source": "V2EX",
@@ -36,7 +36,7 @@
       "url": "https://www.v2ex.com/t/1195184",
       "summary": "父母年纪大了，过年期间去打听了下墓地的价格，竟然要 8 万一个，真的买不起啊。",
       "published": "2026-03-02T14:32:25+08:00",
-      "score": 65
+      "score": 72
     },
     {
       "source": "V2EX",
@@ -45,7 +45,7 @@
       "url": "https://www.v2ex.com/t/1195213",
       "summary": "如何和自己释怀？这跳楼机导致我，心态彻底炸了，红变绿 红变绿，每天在红变绿中度过，今天又是红 5000 变绿 4000 ，哎今天 心态彻底崩了 ![]( https://i.imgur.com/iKSBhb7.jpeg) ![]( https://i.imgur.com/XJffp0l.jpeg)",
       "published": "2026-03-02T15:48:41+08:00",
-      "score": 52
+      "score": 53
     },
     {
       "source": "V2EX",
@@ -54,7 +54,7 @@
       "url": "https://www.v2ex.com/t/1195169",
       "summary": "NAS 入门用户，通过群晖自带的 Synology Photos / Drive ，外网访问速度很慢，希望能实现 4K 视频串流播放（如在线播放 NAS 存储的电影），及文件下载提速（期望能外网实现 2MB/s 的访问速度），家中的是 200Mbp 的电信网络。 求助各位大佬，有何好办法？希望尽量简单。",
       "published": "2026-03-02T13:58:28+08:00",
-      "score": 51
+      "score": 52
     },
     {
       "source": "V2EX",
@@ -63,16 +63,25 @@
       "url": "https://www.v2ex.com/t/1195255",
       "summary": "炒股 12 年了，感觉自己有点水平不过因为基础低到现在也才 A7 ，如果搞合伙公司/私募好搞吗？ https://xueqiu.com/5086985657/377543623",
       "published": "2026-03-02T17:31:29+08:00",
-      "score": 48
+      "score": 50
     },
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "ios 端的 tg 是被限速了吗",
-      "url": "https://www.v2ex.com/t/1195162",
-      "summary": "我有三台设备 - iPhone (air/16pro/14pro) - Android (vivo/小米) - MacBook air 在同一 WiFi & 同一节点的情况下, 在 tg 点开视频的话, 加载速度肉眼可见的 Android ≈ MacBook(mac 还是会比 Android 慢点不过可以忍受) >> iOS, 尝试过换节点, 换第三方...",
-      "published": "2026-03-02T13:47:45+08:00",
-      "score": 37
+      "title": "微信是如何识别远程控制环境的？",
+      "url": "https://www.v2ex.com/t/1195332",
+      "summary": "我平时经常需要远程到他人电脑上协助处理问题，但发现一个比较稳定的现象：只要在远程会话中操作微信客户端，基本都会触发“环境异常”，随后被强制下线，几乎是 100% 复现。 从这个表现来看，微信客户端应该具备一定的运行环境识别能力。比如，它是否会检测当前系统的会话类型？是否会枚举系统进程，识别是否存在远程控制软件？又或者是通过分析操作环境特征，比如鼠标轨迹...",
+      "published": "2026-03-03T08:09:30+08:00",
+      "score": 43
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "昨天看了清华投毒案，为什么凶手找不到？",
+      "url": "https://www.v2ex.com/t/1195345",
+      "summary": "还有凶手真的是她的室友吗？ 有没有人分析下",
+      "published": "2026-03-03T09:22:01+08:00",
+      "score": 43
     }
   ],
   "hackernews": [
@@ -83,25 +92,16 @@
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
       "summary": "",
       "published": "2026-03-03T06:32:35+08:00",
-      "score": 616
+      "score": 643
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Zuckerberg's internal emails rendered as Facebook Messenger",
-      "url": "https://zuckmail.vercel.app/",
+      "title": "OpenClaw Exposure Watchboard",
+      "url": "https://openclaw.allegro.earth/",
       "summary": "",
-      "published": "2026-03-03T09:38:35+08:00",
-      "score": 75
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Closure of the Weatheradio Service in Canada",
-      "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
-      "summary": "",
-      "published": "2026-03-03T07:03:59+08:00",
-      "score": 80
+      "published": "2026-03-03T10:47:46+08:00",
+      "score": 22
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://www.ntik.me/posts/voice-agent",
       "summary": "I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no p...",
       "published": "2026-03-03T05:23:40+08:00",
-      "score": 187
+      "score": 205
     },
     {
       "source": "Hacker News",
@@ -119,12 +119,21 @@
       "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
       "summary": "",
       "published": "2026-03-03T06:49:47+08:00",
-      "score": 73
+      "score": 74
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "What Are Your Guilty Displeasures?",
+      "title": "Closure of the Weatheradio Service in Canada",
+      "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
+      "summary": "",
+      "published": "2026-03-03T07:03:59+08:00",
+      "score": 82
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "What are your guilty displeasures?",
       "url": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
       "summary": "",
       "published": "2026-03-01T16:22:05+08:00",
@@ -133,11 +142,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Welcome (back) to Macintosh",
-      "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+      "title": "British Columbia to end time changes, adopt year-round daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
       "summary": "",
-      "published": "2026-03-03T05:09:47+08:00",
-      "score": 260
+      "published": "2026-03-03T04:30:52+08:00",
+      "score": 476
     },
     {
       "source": "Hacker News",
@@ -146,16 +155,7 @@
       "url": "https://physics.aps.org/articles/v19/24",
       "summary": "",
       "published": "2026-03-03T07:22:50+08:00",
-      "score": 35
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "British Columbia to end time changes, adopt year-round daylight time",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "summary": "",
-      "published": "2026-03-03T04:30:52+08:00",
-      "score": 466
+      "score": 37
     },
     {
       "source": "Hacker News",
@@ -164,7 +164,7 @@
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
       "summary": "",
       "published": "2026-03-02T22:11:23+08:00",
-      "score": 332
+      "score": 335
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,25 @@
       "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
       "summary": "",
       "published": "2026-03-02T22:54:58+08:00",
-      "score": 250
+      "score": 253
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Welcome (back) to Macintosh",
+      "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+      "summary": "",
+      "published": "2026-03-03T05:09:47+08:00",
+      "score": 266
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "RCade: Building a Community Arcade Cabinet",
+      "url": "https://www.frankchiarulli.com/blog/building-the-rcade/",
+      "summary": "",
+      "published": "2026-02-27T03:09:18+08:00",
+      "score": 54
     },
     {
       "source": "Hacker News",
@@ -187,20 +205,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "RCade: Building a Community Arcade Cabinet",
-      "url": "https://www.frankchiarulli.com/blog/building-the-rcade/",
+      "title": "Against Query Based Compilers",
+      "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
       "summary": "",
-      "published": "2026-02-27T03:09:18+08:00",
-      "score": 50
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Show HN: Giggles – A batteries-included React framework for TUIs",
-      "url": "https://github.com/zion-off/giggles",
-      "summary": "i built a framework that handles focus and input routing automatically for you -- something born out of the things that ink leaves to you, and inspired by charmbracelet's bubble...",
-      "published": "2026-03-03T10:26:44+08:00",
-      "score": 3
+      "published": "2026-03-01T20:54:47+08:00",
+      "score": 30
     },
     {
       "source": "Hacker News",
@@ -214,20 +223,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "The Excommunicated Devs Making Games with AI",
-      "url": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
-      "summary": "",
-      "published": "2026-03-03T10:16:52+08:00",
-      "score": 6
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Against Query Based Compilers",
-      "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
-      "summary": "",
-      "published": "2026-03-01T20:54:47+08:00",
-      "score": 27
+      "title": "Show HN: Giggles – A batteries-included React framework for TUIs",
+      "url": "https://github.com/zion-off/giggles",
+      "summary": "i built a framework that handles focus and input routing automatically for you -- something born out of the things that ink leaves to you, and inspired by charmbracelet's bubble...",
+      "published": "2026-03-03T10:26:44+08:00",
+      "score": 4
     },
     {
       "source": "Hacker News",
@@ -236,7 +236,7 @@
       "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
       "summary": "",
       "published": "2026-03-02T14:48:07+08:00",
-      "score": 2079
+      "score": 2083
     },
     {
       "source": "Hacker News",
@@ -245,16 +245,25 @@
       "url": "https://0xparc.org/writings/programmable-cryptography-1",
       "summary": "",
       "published": "2026-03-01T06:43:40+08:00",
-      "score": 46
+      "score": 47
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "The Cathode Ray Tube site",
-      "url": "https://www.crtsite.com/didactic-crt.html",
-      "summary": "",
-      "published": "2026-03-01T18:51:46+08:00",
-      "score": 9
+      "title": "Ask HN: Who is hiring? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47219668",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post...",
+      "published": "2026-03-03T00:00:27+08:00",
+      "score": 176
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "iPhone 17e",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "summary": "https://www.apple.com/iphone-17e/",
+      "published": "2026-03-02T22:03:00+08:00",
+      "score": 206
     }
   ],
   "rss": [
@@ -280,9 +289,9 @@
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "GEO服务商「PureblueAI清蓝」完成数千万元天使轮融资，发布新AI营销数字员工平台 | 36氪首发",
+      "title": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工",
       "url": "https://36kr.com/p/3705907852800136?f=rss",
-      "summary": "36氪获悉，北京清蓝智汇科技有限公司（简称 PureblueAI 清蓝）正式宣布完成数千万元人民币天使轮融资。本轮融资由祥峰中国（Vertex China）领投，老股东英诺基金及一村淞灵、36氪跟投。 本轮融资资金，将主要用于新一代产品开发与技术迭代、全行业生态拓展及业务布局，同时将持续携手投资方与生态伙伴，打造 AI 口碑营销领域的标杆性解决方案，助...",
+      "summary": "作者 | 邓咏仪 编辑 | 苏建勋 36氪获悉，国内AI营销技术服务公司「PureblueAI清蓝」正式宣布完成数千万元人民币天使轮融资。本轮融资由祥峰中国（Vertex China）领投，老股东英诺基金及一村淞灵、36氪跟投。 本轮融资资金，将主要用于新一代产品开发与技术迭代、全行业生态拓展及业务布局，同时将持续携手投资方与生态伙伴，打造 AI 口碑...",
       "published": "2026-03-03T09:00:26+08:00"
     },
     {
@@ -347,6 +356,60 @@
       "url": "https://36kr.com/p/3705249084895369?f=rss",
       "summary": "AWE2026“入境指南”。 如果“懂生活的科技”有形状，它会是什么样？ 是一台比你更懂你情绪的智能音箱，还是一个能自动除湿、还会用卡通云朵卖萌的空调？是一台见到木地板就静音、遇到地毯就发力的扫地机器人，还是一台会提醒你“该吃水果了”的智能冰箱？ 如果你在去年的AWE现场逛过36氪打造的“未来+机器人展区”，你可能已经触摸过这个问题的答案。那一次，我们...",
       "published": "2026-03-02T11:35:28+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "网易港股盘中一度上涨近4%",
+      "url": "https://36kr.com/newsflashes/3706641466617986?f=rss",
+      "summary": "36氪获悉，网易港股盘中一度上涨近4%，周一公司公告称，正在评估在香港转换为“双重主要上市”地位的影响。",
+      "published": "2026-03-03T11:10:41+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "苹果全新机型iPhone 17e天猫首发，4499元起",
+      "url": "https://36kr.com/newsflashes/3706641298206856?f=rss",
+      "summary": "36氪获悉，北京时间3月2日，iPhone 17e、新款iPad Air在天猫全球同步首发。 目前，iPhone 17e、新款iPad Air已在天猫启动预约，售价分别为4499元起、4799元起。3月4日22点15分，开启售卖。",
+      "published": "2026-03-03T11:10:30+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "去哪儿旅行：“免票效应”拉动多个景区周边酒店预订激增2倍以上",
+      "url": "https://36kr.com/newsflashes/3706635964903555?f=rss",
+      "summary": "36氪获悉，今年元宵节落在3月份，天气暖和，“踏春潮”也提前来到。去哪儿旅行数据显示，平台上不仅“灯会”“元宵”关键词搜索量翻番，一些适宜户外踏春的景区也迎来大量客流。加上庐山等多个景区发布3月免票公告，带动目的地文旅热度增长迅速。数据显示，庐山周边的酒店预订量一周内激增5倍，九江酒店增2.6倍，安徽马鞍山、河南焦作等免票景区周边酒店预订量也分别增超3...",
+      "published": "2026-03-03T11:05:05+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "港股大模型概念股走强，MINIMAX-WP涨超20%",
+      "url": "https://36kr.com/newsflashes/3706626670424193?f=rss",
+      "summary": "36氪获悉，港股大模型概念股走强，MINIMAX-WP涨超20%，智谱涨超10%。",
+      "published": "2026-03-03T10:55:37+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "工信部等六部门：引导金融机构对光伏行业绿色技术改造、废旧光伏组件综合利用项目提供信贷融资支持",
+      "url": "https://36kr.com/newsflashes/3706626415325571?f=rss",
+      "summary": "36氪获悉，工业和信息化部等六部门发布关于促进光伏组件综合利用的指导意见，其中提出，支持光伏组件综合利用行业企业积极参与制造业单项冠军、专精特新中小企业和高新技术企业申报。发挥国家产融合作平台作用，引导金融机构对光伏行业绿色技术改造、废旧光伏组件综合利用项目提供信贷融资支持。拓展股权、债权等多元化融资渠道，鼓励社会资本积极参与废旧光伏组件综合利用。利用...",
+      "published": "2026-03-03T10:55:22+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "工信部等六部门：推动拆解利用全产业链一体化发展",
+      "url": "https://36kr.com/newsflashes/3706626141712771?f=rss",
+      "summary": "36氪获悉，工业和信息化部等六部门发布关于促进光伏组件综合利用的指导意见，其中提出，推动拆解利用全产业链一体化发展。鼓励光伏组件生产企业、光伏电站、综合利用企业等积极延伸产业链条，一体布局光伏组件表层结构拆解、层压件分离、组分提取等工艺流程，促进生产过程集约化、一体化，助力产业规模化发展。",
+      "published": "2026-03-03T10:55:05+08:00"
     },
     {
       "source": "36kr",
@@ -475,60 +538,6 @@
       "published": "2026-03-03T09:51:10+08:00"
     },
     {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "英伟达取代美光科技成为摩根士丹利新的首选芯片股",
-      "url": "https://36kr.com/newsflashes/3706553161592961?f=rss",
-      "summary": "英伟达再次成为摩根士丹利在芯片板块的首选股，从美光科技手中夺回了这一位置。分析师约瑟夫．摩尔（Joseph Moore）表示，尽管有迹象表明英伟达业务表现有所改善，但该公司股价近来难以走高。他指出：“未来几个月，这些担忧应该会转变为对2027年的热情。”摩尔在给客户的报告中写道：“可持续性更难，但全面的核实表明，超大规模云服务提供商将进行多年的支出增长...",
-      "published": "2026-03-03T09:48:47+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "“小雨智造”完成数亿元B轮融资",
-      "url": "https://36kr.com/newsflashes/3706544256626820?f=rss",
-      "summary": "36氪获悉，3月3日，通用具身智能科技公司“小雨智造”宣布完成数亿元B轮融资。本轮融资由华业天成领投，招银国际、茅台基金、贵州省科创天使基金共同跟投，老股东滴滴和小米联合创始人黎万强追加投资。小雨智造创始人乔忠良表示，本轮融资将用于加大具身大模型投入，持续布局工业场景，与供应链企业展开战略合作加速量产。",
-      "published": "2026-03-03T09:37:24+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "沪指突破1月14日的阶段高点",
-      "url": "https://36kr.com/newsflashes/3706546138132614?f=rss",
-      "summary": "36氪获悉，创业板指涨超1%，沪指拉升涨近0.2%，突破1月14日的阶段高点，为2015年7月2日以来新高。",
-      "published": "2026-03-03T09:33:42+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "A股三大指数集体高开，油气股持续走强",
-      "url": "https://36kr.com/newsflashes/3706540235059335?f=rss",
-      "summary": "36氪获悉，A股三大指数集体高开，沪指高开0.16%，深成指高开0.23%，创业板指高开0.68%；油气股持续走强，中曼石油、准油股份涨停，通源石油逼近涨停；光伏、光模块领涨，固德威涨超6%，德业股份、长光华芯涨超5%；黄金珠宝、稀土跌幅居前，山金国际跌超4%，中稀有色跌超3%。",
-      "published": "2026-03-03T09:27:42+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "央行今日开展343亿元7天期逆回购操作",
-      "url": "https://36kr.com/newsflashes/3706535460942213?f=rss",
-      "summary": "36氪获悉，央行公开市场开展343亿元7天期逆回购操作，操作利率1.40%。Wind数据显示，今日5260亿元逆回购到期。",
-      "published": "2026-03-03T09:22:51+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "恒指开盘涨0.5%，恒生科技指数涨0.58%",
-      "url": "https://36kr.com/newsflashes/3706535256715396?f=rss",
-      "summary": "36氪获悉，恒指开盘涨0.5%，恒生科技指数涨0.58%；电气设备、半导体板块领涨，钧达股份涨超4%，宁德时代、沃尔核材、英诺赛科涨超2%；油气板块持续走强，中港石油涨15%，山东墨龙、百勤油服涨超14%。",
-      "published": "2026-03-03T09:22:38+08:00"
-    },
-    {
       "source": "sspai",
       "source_type": "rss",
       "category": "product",
@@ -617,6 +626,15 @@
       "url": "https://sspai.com/post/106645",
       "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。《生化危机》系列是由卡普空（Capcom）打造的经典生存恐怖游戏IP，自1996年诞生以来，凭借紧张压迫的氛围、资源管理与动作解谜融合的 ... 查看全文",
       "published": "2026-02-27T14:35:19+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划",
+      "url": "https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-03T19:00:00+08:00"
     },
     {
       "source": "infoq",
@@ -788,15 +806,6 @@
       "url": "https://www.infoq.cn/article/GcPU9NHkexyuriC2cBM2?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "published": "2026-02-28T23:18:33+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "Claude突遭特朗普高调 “封杀”！Altman公开声援“死对头”后，却用同款协议顺利过关了",
-      "url": "https://www.infoq.cn/article/h8WsVXZzHtP9W6l2mQqO?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-02-28T23:01:12+08:00"
     }
   ]
 }

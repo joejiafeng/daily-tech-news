@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "generated_at": "2026-03-08T10:53:04.556242+08:00",
+  "generated_at": "2026-03-08T11:10:41.339278+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1196478",
       "summary": "之前一直使用 google play 订阅 claude code ，已经习惯了 claude code 的使用方式，但是最近已经连续被封了三四个账号了，不想再折腾了，打算直接用国内的编程套餐了，看了一圈，好像大家对 GLM5 的评价稍好，但是最近 glm 的编程套餐已经限购了，一直买不到，大家还有其他曲线救国的方式么？",
       "published": "2026-03-07T11:52:02+08:00",
-      "score": 57
+      "score": 60
     },
     {
       "source": "V2EX",
@@ -28,15 +28,6 @@
       "summary": "本人 0 代码经验，用 AI 写出来的 SKILL 。最近玩 Openclaw ，大家有需要可以使用。 主要功能是通过对话，skill 可以搜索对应的电影，并列出种数高的资源，回复后自动加入到本地的 transmission 下载。 github：（虽然比较拉，还是在这求各位大佬们 stars ） https://github.com/dengqiju...",
       "published": "2026-03-07T21:03:08+08:00",
       "score": 43
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
-      "title": "我实话，我真不建议你现在就去养 小龙虾",
-      "url": "https://www.v2ex.com/t/1196469",
-      "summary": "最近 OpenClaw 很火，我已经帮大家折腾过了。结论就是，方向挺好，但是为时过早，这个玩意虽然能自动化，但是效率很低，配置极其复杂，你需要折腾很久，token 杀死，分分钟扣你的 api 额度没商量。 还有一点，也是最重要的，非常尴尬的是，你根本不知道要用它去自动化点什么比较好。好像没有什么特别有价值的活非得让它才更干好。真有什么自动化需求，好像直...",
-      "published": "2026-03-07T11:05:01+08:00",
-      "score": 30
     },
     {
       "source": "V2EX",
@@ -54,7 +45,7 @@
       "url": "https://www.v2ex.com/t/1196481",
       "summary": "所谓成功可定义为被广泛使用或是有可观收入。 在个人维度上的效率提升是否真的在推动社会进步？",
       "published": "2026-03-07T11:59:58+08:00",
-      "score": 20
+      "score": 21
     },
     {
       "source": "V2EX",
@@ -91,6 +82,15 @@
       "summary": "有美区 apple one 的会员，包含 apple tv 会员 今年 apple tv 买了 f1 直播的版权 通过 apple tv 看 f1 直播提示 此视频在你当前所在国家或地区无法观看 全局挂梯子也不行",
       "published": "2026-03-07T13:40:35+08:00",
       "score": 15
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "刚安装的 OpenClaw 被莫名奇妙流入了广告",
+      "url": "https://www.v2ex.com/t/1196487",
+      "summary": "平时都习惯在 OC 上开 verbose 但以看他的 tools 的调用过程中发现以下异常内容 ``` {\"command\":\"find /home/xxxx/.openclaw -maxdepth 3 \\( -name '.json' -o -name '.yaml' -o -name '.yml' -o -name '.toml' -o -name...",
+      "published": "2026-03-07T13:14:51+08:00",
+      "score": 13
     }
   ],
   "hackernews": [
@@ -101,7 +101,7 @@
       "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
       "summary": "",
       "published": "2026-03-08T08:44:32+08:00",
-      "score": 69
+      "score": 80
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://github.com/0x0mer/CasNum",
       "summary": "",
       "published": "2026-03-08T04:43:51+08:00",
-      "score": 200
+      "score": 205
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
       "summary": "",
       "published": "2026-03-08T00:55:18+08:00",
-      "score": 238
+      "score": 243
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
       "summary": "",
       "published": "2026-03-06T15:17:48+08:00",
-      "score": 156
+      "score": 158
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://pulsefeedback.io/",
       "summary": "",
       "published": "2026-03-04T22:24:24+08:00",
-      "score": 17
+      "score": 24
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
       "summary": "",
       "published": "2026-03-08T05:10:08+08:00",
-      "score": 57
+      "score": 61
     },
     {
       "source": "Hacker News",
@@ -155,16 +155,7 @@
       "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
       "summary": "",
       "published": "2026-03-08T04:55:48+08:00",
-      "score": 247
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Ki Editor - an editor that operates on the AST",
-      "url": "https://ki-editor.org/",
-      "summary": "",
-      "published": "2026-03-07T18:29:13+08:00",
-      "score": 375
+      "score": 254
     },
     {
       "source": "Hacker News",
@@ -173,7 +164,7 @@
       "url": "https://github.com/karpathy/autoresearch",
       "summary": "",
       "published": "2026-03-08T04:22:45+08:00",
-      "score": 48
+      "score": 52
     },
     {
       "source": "Hacker News",
@@ -187,20 +178,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Iranian Women Graduate in Stem 3× the Rate of U.S. Women and Has 5× More PhDs",
-      "url": "https://hrnews1.substack.com/p/iranian-women-graduate-in-stem-at",
-      "summary": "",
-      "published": "2026-03-08T09:50:45+08:00",
-      "score": 24
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "macOS code injection for fun and no profit (2024)",
       "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
       "summary": "",
       "published": "2026-03-05T01:05:00+08:00",
-      "score": 75
+      "score": 76
     },
     {
       "source": "Hacker News",
@@ -214,6 +196,33 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Lisp-style C++ template meta programming",
+      "url": "https://github.com/mistivia/lmp",
+      "summary": "",
+      "published": "2026-03-08T06:21:57+08:00",
+      "score": 25
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "summary": "",
+      "published": "2026-03-05T18:23:15+08:00",
+      "score": 13
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The surprising whimsy of the Time Zone Database",
+      "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+      "summary": "",
+      "published": "2026-03-08T02:32:05+08:00",
+      "score": 51
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Overheads (2023)",
       "url": "https://blog.xoria.org/hidden-overheads/",
       "summary": "",
@@ -223,29 +232,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Lisp-style C++ template meta programming",
-      "url": "https://github.com/mistivia/lmp",
-      "summary": "",
-      "published": "2026-03-08T06:21:57+08:00",
-      "score": 23
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "The surprising whimsy of the Time Zone Database",
-      "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
-      "summary": "",
-      "published": "2026-03-08T02:32:05+08:00",
-      "score": 48
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "The influence of anxiety: Harold Bloom and literary inheritance",
       "url": "https://thepointmag.com/examined-life/the-influence-of-anxiety/",
       "summary": "",
       "published": "2026-03-04T15:02:05+08:00",
-      "score": 16
+      "score": 17
     },
     {
       "source": "Hacker News",
@@ -263,16 +254,25 @@
       "url": "https://tropes.fyi/tropes-md",
       "summary": "",
       "published": "2026-03-08T05:08:40+08:00",
+      "score": 102
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Compiling Prolog to Forth [pdf]",
+      "url": "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf",
+      "summary": "",
+      "published": "2026-03-04T06:45:10+08:00",
       "score": 99
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "title": "Put the zip code first",
+      "url": "https://zipcodefirst.com",
       "summary": "",
-      "published": "2026-03-05T18:23:15+08:00",
-      "score": 10
+      "published": "2026-03-08T07:26:26+08:00",
+      "score": 258
     }
   ],
   "rss": [
@@ -365,6 +365,24 @@
       "url": "https://36kr.com/p/3710171805806976?f=rss",
       "summary": "距2026美加墨世界杯开幕不足100天，作为官方赞助商，海信于3月5日在青岛一口气推出覆盖电视、空调、洗衣机等家电的全品类AI新品。 在电视上，海信把AI做成“观赛搭子”。RGB-Mini LED旗舰电视UX2026款除了强调画质提升，更突出“AI观赛”体验：支持赛中AI查询阵容及识别场上球员，并提供三场比赛同屏观看模式，赛后还能生成战术总结与复盘。...",
       "published": "2026-03-05T23:23:30+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "王毅：继续优化人员往来政策，进一步释放免签红利",
+      "url": "https://36kr.com/newsflashes/3713715991261320?f=rss",
+      "summary": "王毅说，我们将继续优化人员往来政策，进一步释放免签红利，完善各项配套服务，让外国朋友来华旅游生活更加舒适便捷，让中国公民“走出去”也更加顺畅安全。（新华社）",
+      "published": "2026-03-08T11:07:15+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "王毅谈中欧关系：相互依赖不是风险，利益交融不是威胁",
+      "url": "https://36kr.com/newsflashes/3713707227820162?f=rss",
+      "summary": "王毅说，中欧合作的事实表明，相互依赖不是风险，利益交融不是威胁，开放合作不会损害经济安全，筑墙设垒只能孤立自己。我们乐见欧洲的朋友们走出保护主义的“小阁楼”，来到中国市场的“健身房”，到这里来强筋壮骨，提升竞争能力。（新华社）",
+      "published": "2026-03-08T10:58:20+08:00"
     },
     {
       "source": "36kr",
@@ -516,7 +534,7 @@
       "category": "product",
       "title": "美团联合联想百应上线OpenClaw远程部署服务",
       "url": "https://36kr.com/newsflashes/3712385828581513?f=rss",
-      "summary": "3月7日消息，美团近日联合联想旗下IT服务品牌联想百应推出OpenClaw远程部署服务，面向全国用户提供一站式远程部署解决方案。据美团数据，截至目前，“OpenClaw”相关搜索量环比增长超3倍。（界面新闻）",
+      "summary": "3月7日消息，美团近日联合联想旗下IT服务品��联想百应推出OpenClaw远程部署服务，面向全国用户提供一站式远程部署解决方案。据美团数据，截至目前，“OpenClaw”相关搜索量环比增长超3倍。（界面新闻）",
       "published": "2026-03-07T14:35:16+08:00"
     },
     {
@@ -527,24 +545,6 @@
       "url": "https://36kr.com/newsflashes/3712326079558017?f=rss",
       "summary": "3月7日消息，近日引发广泛争议的千问核心负责人林俊旸于朋友圈发文告别Qwen道：“今天 last day，当大家为我鼓掌那一下，我真是忍住了泪水，不管别人说我什么，我至少内心里真觉得做到了为兄弟们好为阿里云好为集团好，虽然很多真没做到位抱歉。” “不是这几天，我都不知道这世界这么多人爱我。”林俊旸嘱咐道，“要加油啊，坤坤！还有很多事情没做呢！”（新浪科技）",
       "published": "2026-03-07T14:08:11+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "蜂巢能源1月全球动力电池装机量升至第八",
-      "url": "https://36kr.com/newsflashes/3712466105757827?f=rss",
-      "summary": "根据SNEResearch最新数据，2026年1月蜂巢能源全球动力电池装机量1.9GWh，同比增长16.3%，市占率提升至2.7%，排名上升至全球第八。海外市场持续发力成为增长主因。依托宝马MINI独家供应、Stellantis短刀电池批量交付及VinFast配套放量，蜂巢能源海外装机高速增长，全球化战略加速落地。",
-      "published": "2026-03-07T13:55:48+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "西井科技更新IPO辅导备案",
-      "url": "https://36kr.com/newsflashes/3712320657453192?f=rss",
-      "summary": "证监会官网信息显示，上海西井科技股份有限公司（简称“西井科技”）已于近日更新A股IPO辅导备案，辅导机构为申万宏源证券。西井科技成立于2015年，是一家正向自研无人驾驶商用车的中国科技企业，致力于通过AI智能化能力为大物流行业客户提供数字化升级和绿色转型解决方案。西井科技2025年底完成F+轮融资，由申万投资领投，建投投资、中银资产等机构联合参投。（财联社）",
-      "published": "2026-03-07T13:41:42+08:00"
     },
     {
       "source": "sspai",
@@ -637,6 +637,105 @@
       "published": "2026-03-05T08:37:55+08:00"
     },
     {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "刀片再出鞘，王传福能否杀出“逆风局”？",
+      "url": "http://www.huxiu.com/article/4839882.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|王亚骏 头图|视觉中国 “我想，没有人，比我们比亚迪更懂电池。”在3月5日举办的比亚迪技术发布会上，一向低调的王传福并未掩锋芒。 当晚，比亚迪发布了第二代刀片电池、新的闪充技术，并展示了仰望U7、大唐和宋Ultra等10款车型。 图源：发布会 在发布会上，第二代刀片电池是首个被介绍的产品，王传福并没有过多解释其技术原理，而是重点...",
+      "published": "2026-03-07T10:40:05+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "激光雷达，能拉爆鸿蒙五界的销量吗？",
+      "url": "http://www.huxiu.com/article/4839768.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|视觉中国 896线。地球上线数最高的车载激光雷达发布了。 3月4日，华为在深圳举行鸿蒙智行技术焕新发布会，正式推出新一代双光路图像级激光雷达，官方称其为“全球量产最高线数”的激光雷达产品。在业界普遍只有192线激光雷达且迟迟无法突破的沉闷氛围中，华为在这个单品科技创新上实现了跨越。 那么提升四倍线数的激光雷达有什么...",
+      "published": "2026-03-06T19:00:01+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "别认为小鹏还只是个造车的",
+      "url": "http://www.huxiu.com/article/4839667.html?f=wangzhan",
+      "summary": "多年之后，也许没人还会记得小鹏是个造车企业。 “我非常坚信1-3年全自动驾驶会落地、3-5年所有汽车都会成为强力超级智能体。”在3月2日的小鹏第二代VLA媒体体验日上，小鹏汽车董事长 CEO何小鹏如是说道。 小鹏第二代VLA（视觉-语言-动作）模型相比第一代，最核心、最本质的区别在于技术架构的“颠覆性重构”： 它开创性地去掉了中间的“语言翻译”环节，让...",
+      "published": "2026-03-06T18:13:49+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "阿里不希望任何人上“神坛”？",
+      "url": "http://www.huxiu.com/article/4839506.html?f=wangzhan",
+      "summary": "阿里不想让任何人成为“神”，林俊旸却在AI圈成了传奇：93年出生，一年升到P10，却突然宣布离开，连马斯克都点赞了他的千问3.5开源模型。对于阿里这种公司，它永远能找到下一位周畅、林俊旸。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-06T14:41:47+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "战火烧至霍尔木兹海峡，全球油价要涨上天？",
+      "url": "http://www.huxiu.com/article/4839330.html?f=wangzhan",
+      "summary": "这场由美国和以色列引燃的冲突，已经让全球能源格局和经济走势山呼海啸般动荡？霍尔木兹海峡被封禁，全球原油价格会涨到天上去吗？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-06T09:42:50+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "大众用增程“炮轰”自己",
+      "url": "http://www.huxiu.com/article/4839284.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|《飞驰人生》剧照 大众掏出了自己压箱底的发动机，做了一台增程器。 2026年3月初，大众首台EA211黄金增程器正式下线，将搭载于ID. ERA 9X，月底开启预售。 这是一台基于EA211 1.5T EVO II改造而来的增程器。原版EA211在大众体系中广泛应用于朗逸、速腾、宝来、高尔夫、帕萨特、探岳,甚至奥迪...",
+      "published": "2026-03-05T14:35:45+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "吉利智能辅助驾驶整合后，首访掌舵人陈奇",
+      "url": "http://www.huxiu.com/article/4839192.html?f=wangzhan",
+      "summary": "铆足劲，真正冲到行业头部！ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-05T10:53:02+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "小鹏的2026，没有Plan B",
+      "url": "http://www.huxiu.com/article/4838881.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|杨杰 头图|小鹏官方 2026年开年，小鹏汽车的日子不好过。 一方面，市场淡季冲击之下，小鹏汽车交付量有所波动，引发行业聚焦；另一方面，董事长何小鹏高调“炮轰”现有L2级辅助驾驶为“缝合怪”，直言自动驾驶将在未来1-3年内到来，再度将这家车企推向了舆论的风口浪尖。 身处市场动荡期，当其他车企纷纷用“冰箱彩电大沙发”和真金白银的优...",
+      "published": "2026-03-04T14:17:55+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "史上最忙AI春节档：海量新品，如何才能不焦虑？",
+      "url": "http://www.huxiu.com/article/4837484.html?f=wangzhan",
+      "summary": "刚刚过去的春节档，应该有很多人跟我一样本来可以开心休息的，结果被各种国内外AI新产品新功能各种刷屏，焦虑不断、心力憔悴，难道普通人真的跟不上AI的发展节奏了吗？ 枪仔帮你把春节期间的AI信息差，一期视频都给你补上，来看一下史上最忙AI春节档，都发生了什么？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-03T18:30:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "全网狂吹，永久投资组合，能持续赚吗?",
+      "url": "http://www.huxiu.com/article/4837439.html?f=wangzhan",
+      "summary": "有这么一个神仙策略，据说只要无脑买入，从此不用预测行情，也不用钻研技术，更不用担心股灾，无论股市怎么走它都能稳如泰山，让你闭着眼也能穿越牛熊，在躺平中持续盈利，你心动了吗？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-03T18:00:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
+      "url": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-08T19:00:00+08:00"
+    },
+    {
       "source": "infoq",
       "source_type": "rss",
       "category": "tech",
@@ -716,105 +815,6 @@
       "url": "https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "published": "2026-03-07T00:18:43+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌",
-      "url": "https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-07T00:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop",
-      "url": "https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T23:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "Kubernetes引入节点就绪控制器来提高Pod调度可靠性",
-      "url": "https://www.infoq.cn/article/L8Ozfyk1Epmm2SpwWqDT?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T22:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "Chrome 144提供Temporal API：推进JavaScript日期/时间的标准化",
-      "url": "https://www.infoq.cn/article/i2uiflYNMtTwmxeVCTxp?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T19:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "去哪儿旅行研发工程师刘洋确认出席QCon北京，分享智能体平台如何助力运营提效 1 万 PD",
-      "url": "https://www.infoq.cn/article/vhvC3K6BIR9dhJ1FVqK2?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T18:10:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持",
-      "url": "https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T18:04:45+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "中国金融机构人才发展与培训白皮书（2026年）",
-      "url": "https://www.infoq.cn/minibook/Ea8hFxwccb3Q190l6pI2?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T18:03:53+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "Pinterest基于CDC的摄取系统将数据库延迟从24小时缩短至15分钟",
-      "url": "https://www.infoq.cn/article/4QxbOWVR1c1CipCUI2Lk?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T18:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "OpenClaw 热潮下，团队级 AI Coding 怎么落地？",
-      "url": "https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T02:09:30+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "Gemini 账户 48 小时被盗刷 57 万，三人创业团队站在破产边缘",
-      "url": "https://www.infoq.cn/article/Gki16Stu5jqbooE6pgvs?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T02:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
-      "url": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T01:11:04+08:00"
     }
   ]
 }

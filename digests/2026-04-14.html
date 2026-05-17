@@ -1,0 +1,244 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-04-14</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-04-14</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-04-14</h1>
+<p>今日科技圈风云变幻，OpenAI 被曝正在研发“替你用电脑”的 Super App，MiniMax 也重磅开源 M2.7 模型，AI Agent 战事进一步升级。与此同时，WordPress 插件供应链遭植入后门、开源安全工具 Trivy 遭攻击，安全警钟再次敲响。开发者工具层面，Bun 新版内置浏览器自动化引发关注。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/">WordPress 30 款插件被收购后植入后门</a> (Hacker News)
+    安全研究人员发现有人收购了 30 个 WordPress 插件并在其中植入后门，这是一起严重的供应链攻击事件。这提醒开发者和网站管理员在引入第三方依赖时需进行严格的安全审计，同时也暴露了商业插件收购背后潜在的安全风险。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV">OpenAI 被曝研发“替你用电脑”的 Super App</a> (InfoQ)
+    据报道，OpenAI 正在开发一款能够自主操作电脑的“Super App”，新模型 Spud 预计几周内登场。这标志着 AI 从单纯的对话生成向自主执行复杂任务的 Agent 迈进了一大步，未来用户可能只需下达指令，AI 即可完成跨应用的操作。</p>
+</li>
+<li>
+<p><a href="https://www.oschina.net/news/420305">MiniMax M2.7 模型宣布开源</a> (开源中国)
+    MiniMax 宣布 M2.7 模型正式开源，并在首日完成了与华为昇腾、摩尔线程、NVIDIA 等多家海内外芯片厂商及推理平台的适配。此举降低了国内开发者的使用门槛，有助于推动国产 AI 生态的繁荣，特别是在多芯片兼容性方面具有积极意义。</p>
+</li>
+<li>
+<p><a href="https://www.oschina.net/news/420235">马斯克 X 平台推出 XChat，采用 Rust 开发</a> (开源中国)
+    马斯克旗下 X 平台推出的独立通讯应用 XChat 正式上线 App Store 预购，主打无广告、无追踪及端到端加密。该应用采用 Rust 语言开发，支持 iOS 26 及以上系统，被视为马斯克打造“X 版微信”生态的重要一步。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec">红帽被曝裁撤中国区研发团队</a> (InfoQ)
+    据消息称红帽裁撤了中国区研发团队并将相关业务迁至印度，最高赔偿达 N+6。这一变动引发了业界对跨国科技公司在华研发战略调整的关注，同时也折射出全球开源商业公司在当前经济环境下的业务重组压力。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.oschina.net/news/420611">智能助理智能体可信能力技术规范发布</a> (开源中国)
+    中国人工智能产业发展联盟等机构联合发布了《智能助理智能体可信能力技术规范》，旨在规范产品质量和行为可信。随着 Agent 产品爆发，建立统一的技术标准对于保障用户安全、推动规模化应用至关重要，标志着行业从野蛮生长走向规范化。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/TO5Qtp6GDufPrNOsoeMx">开源安全工具 Trivy 遭供应链攻击</a> (InfoQ)
+    知名开源安全工具 Trivy 遭遇供应链攻击，引发行业紧急响应。作为广泛使用的安全扫描工具，其自身被攻击再次印证了“安全工具本身也可能成为攻击载体”的悖论，凸显了软件供应链安全治理的紧迫性和复杂性。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV">DHH 谈 AI：程序员黄金时代到头了</a> (InfoQ)
+    Rails 之父 DHH 表示虽然现在是他最爽的编程时刻之一，但程序员的黄金时代已经结束。他认为 AI 极大提升了效率，但也拉低了门槛，开发者需要从单纯的代码编写者转变为更高层次的架构设计者和问题解决者，以适应新的技术范式。</p>
+</li>
+<li>
+<p><a href="https://amd-gaia.ai/docs">GAIA：本地硬件运行 AI Agent 的开源框架</a> (Hacker News)
+    GAIA 是一个开源框架，旨在让 AI Agent 能够直接在本地硬件上运行。这一趋势反映了市场对数据隐私和低延迟推理的需求，开发者可以在不依赖云端 API 的情况下构建和部署智能体，为边缘计算和隐私敏感场景提供了新的解决方案。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://www.oschina.net/news/420302/bun-1-3-12-released">Bun v1.3.12 发布：内置浏览器自动化与原生 Cron</a> (开源中国)
+    JavaScript 运行时 Bun 发布 1.3.12 版本，带来了重量级更新：内置无头浏览器自动化、原生进程内 Cron 调度以及终端 Markdown 渲染。这些功能的集成使得 Bun 不再仅仅是一个运行时，更是一个全能的开发工具箱，大幅提升了开发体验。</p>
+</li>
+<li>
+<p><a href="https://duckdb.org/library/design-and-implementation-of-duckdb-internals/">DuckDB 内部设计与实现解析</a> (Hacker News)
+    这是一篇深入解析 DuckDB 内部架构的技术长文，详细介绍了其数据处理引擎的设计原理。对于数据库开发者和数据工程师来说，这是一份极佳的学习资料，有助于理解现代分析型数据库如何实现高性能的 OLAP 查询。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1205693">截图工具 PixPin 3.0 正式发布</a> (V2EX)
+    截图工具 PixPin 发布 3.0 大版本更新，新增文字识别、长截图、录屏和标注等功能。作者经过两年多的打磨，使其功能更加完善，对于需要高效截图和标注的用户来说，是一款不可多得的国产效率工具。</p>
+</li>
+<li>
+<p><a href="https://www.oschina.net/news/420596/kkfileview-5-0-0-released">kkFileView 5.0.0 发布：文件预览体验大升级</a> (开源中国)
+    历经 8 年开发，kkFileView 5.0.0 正式发布，带来了首页改版和压缩包预览功能的全面升级。作为一款支持多种文档格式在线预览的开源项目，新版本在用户体验和稳定性上有了显著提升，适合企业文档管理场景集成。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

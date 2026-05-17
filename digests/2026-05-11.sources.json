@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T12:17:27.836097+08:00",
+  "generated_at": "2026-05-11T12:21:05.234616+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1211699",
       "summary": "这座城市的口号是“来了就是深圳人”， 但没告诉你——深圳人分两种： 一种在万象城买包， 一种在垃圾桶里找包。 早上 7 点，去公园的公共直饮水机。不是喝水，是用瓶子接水回去煮。深圳的自来水有一股漂白粉味，直饮水没有。省下一桶桶装水钱。 早餐去城中村的“爱心粥摊”。别不好意思，那些穿西装打领带的年轻人也在排队。你只需要说一句“谢谢义工阿姨”。 中午 11...",
       "published": "2026-05-10T22:25:30+08:00",
-      "score": 98
+      "score": 99
     },
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
       "summary": "",
       "published": "2026-05-11T01:54:02+08:00",
-      "score": 1063
+      "score": 1068
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "summary": "",
       "published": "2026-05-11T01:19:28+08:00",
-      "score": 747
+      "score": 751
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "summary": "",
       "published": "2026-05-11T09:23:51+08:00",
-      "score": 135
+      "score": 138
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://jola.dev/posts/running-local-models-on-m4",
       "summary": "",
       "published": "2026-05-11T07:09:10+08:00",
-      "score": 173
+      "score": 175
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
       "summary": "",
       "published": "2026-05-11T01:43:10+08:00",
-      "score": 444
+      "score": 445
     },
     {
       "source": "Hacker News",
@@ -164,7 +164,7 @@
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
       "summary": "",
       "published": "2026-05-11T07:39:55+08:00",
-      "score": 72
+      "score": 73
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,7 @@
       "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
       "summary": "",
       "published": "2026-05-07T23:34:04+08:00",
-      "score": 63
+      "score": 64
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
       "summary": "",
       "published": "2026-05-08T13:00:05+08:00",
-      "score": 22
+      "score": 24
     },
     {
       "source": "Hacker News",
@@ -214,15 +214,6 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Shelf Source: Tom MacWright",
-      "url": "https://roadlessread.com/views/ss-macwright",
-      "summary": "",
-      "published": "2026-05-10T01:28:00+08:00",
-      "score": 5
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Traces Of Humanity",
       "url": "https://tracesofhumanity.org/hello-world/",
       "summary": "",
@@ -232,11 +223,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Shelf Source: Tom MacWright",
+      "url": "https://roadlessread.com/views/ss-macwright",
+      "summary": "",
+      "published": "2026-05-10T01:28:00+08:00",
+      "score": 5
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
       "summary": "",
       "published": "2026-05-09T16:37:41+08:00",
-      "score": 687
+      "score": 688
     },
     {
       "source": "Hacker News",
@@ -245,16 +245,7 @@
       "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
       "summary": "",
       "published": "2026-05-11T07:02:31+08:00",
-      "score": 24
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-      "summary": "",
-      "published": "2026-05-11T05:16:58+08:00",
-      "score": 189
+      "score": 25
     },
     {
       "source": "Hacker News",
@@ -263,16 +254,25 @@
       "url": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
       "summary": "",
       "published": "2026-05-08T19:21:26+08:00",
-      "score": 61
+      "score": 62
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Conway's Law and Cross-Hatching",
-      "url": "https://willmanning.com/writing/conways-law-and-cross-hatching",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
       "summary": "",
-      "published": "2026-05-09T01:15:07+08:00",
-      "score": 3
+      "published": "2026-05-11T05:16:58+08:00",
+      "score": 191
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "summary": "",
+      "published": "2026-05-08T19:26:38+08:00",
+      "score": 93
     }
   ],
   "rss": [
@@ -534,7 +534,7 @@
       "category": "product",
       "title": "乘联分会：4月新能源乘用车市场零售84.9万辆，同比下降6.8%",
       "url": "https://36kr.com/newsflashes/3804286263631624?f=rss",
-      "summary": "36氪获悉，乘联分会数据显示，4月新能���乘用车市场零售84.9万辆，同比下降6.8%，环比下降0.3%；1-4月新能源乘用车市场零售275.8万辆，同比下降17.2%。4月常规燃油乘用车零售53万辆，同比下降37%，环比下降33%。",
+      "summary": "36氪获悉，乘联分会数据显示，4月新能源乘用车市场零售84.9万辆，同比下降6.8%，环比下降0.3%；1-4月新能源乘用车市场零售275.8万辆，同比下降17.2%。4月常规燃油乘用车零售53万辆，同比下降37%，环比下降33%。",
       "published": "2026-05-11T10:40:06+08:00"
     },
     {
@@ -637,184 +637,184 @@
       "published": "2026-05-07T17:03:10+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "最有用的AI 硬件，是键盘上最“没用”的按键",
-      "url": "https://www.huxiu.com/article/4857315.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T12:09:18+08:00"
+      "category": "tech",
+      "title": "Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/GDqP9LMP0KMrRyyjEaAF?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-11T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "作为硬科技投资人，死也要死在硬科技上",
-      "url": "https://www.huxiu.com/article/4857313.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T12:06:02+08:00"
+      "category": "tech",
+      "title": "GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控",
+      "url": "https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T23:11:06+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一个容易被忽略的涨薪水的思路",
-      "url": "https://www.huxiu.com/article/4857312.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T12:05:06+08:00"
+      "category": "tech",
+      "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
+      "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T23:07:51+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "为什么美国社会这么相信有外星人？",
-      "url": "https://www.huxiu.com/article/4857311.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T12:02:56+08:00"
+      "category": "tech",
+      "title": "微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦",
+      "url": "https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T23:05:05+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "哪吒仙饮，快招行业最严厉的父亲",
-      "url": "https://www.huxiu.com/article/4855744.html?f=rss",
-      "summary": "哪吒仙饮初心是坏的，但被广大网友们执行好了",
-      "published": "2026-05-11T12:00:00+08:00"
+      "category": "tech",
+      "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Nature：下一代口服小分子GLP-1减肥药，重塑大脑奖赏系统，减少享乐性进食",
-      "url": "https://www.huxiu.com/article/4857306.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T11:40:18+08:00"
+      "category": "tech",
+      "title": "借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+      "url": "https://www.infoq.cn/article/49peofDkBrNCVx41WNO7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T16:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "5亿融资背后，和余轶南、赵哲伦谈真正的机器人进家",
-      "url": "https://www.huxiu.com/article/4857305.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T11:37:46+08:00"
+      "category": "tech",
+      "title": "“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文",
+      "url": "https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T02:19:41+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中国家电，没那么乐观",
-      "url": "https://www.huxiu.com/article/4857304.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T11:36:40+08:00"
+      "category": "tech",
+      "title": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+      "url": "https://www.infoq.cn/article/4pLw4WvN9LqCMkiu2eoV?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:56:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "对话97年亿万富翁：AI时代，如何成为前5%的人",
-      "url": "https://www.huxiu.com/article/4856540.html?f=rss",
-      "summary": "找到属于自己的游戏和人生标尺，幸福未必输给亿万富翁",
-      "published": "2026-05-11T11:25:00+08:00"
+      "category": "tech",
+      "title": "颠覆认知：运维 Agent 靠知识，Coding Agent 靠约束！",
+      "url": "https://www.infoq.cn/video/fXEzyFJ4jDYk0H0fPSIX?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:54:17+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "文旅部整治摆渡车，奈何中西部早就“养不起”景区了",
-      "url": "https://www.huxiu.com/article/4857298.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T11:09:47+08:00"
+      "category": "tech",
+      "title": "开源项目的信任危机，也许是那群“以为自己会写代码”的资本大佬造成的",
+      "url": "https://www.infoq.cn/article/TUsD1lkUSAbDfHsZcoYc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:50:40+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "闭卷考试，人工智能时代教育最重要的防线",
-      "url": "https://www.huxiu.com/article/4857297.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T11:07:28+08:00"
+      "category": "tech",
+      "title": "拓扑变更时担心丢数据？其实有个优雅解法",
+      "url": "https://www.infoq.cn/video/02CDXSPj0dQxJ0DMuW9C?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:41:11+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "杀人？还要诛心？到底能不能用“老公”代指偶像？从OPPO母亲节文案想到的",
-      "url": "https://www.huxiu.com/article/4857275.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T10:54:09+08:00"
+      "category": "tech",
+      "title": "不止技术！Valkey 火爆背后藏着开源社区的核心密码",
+      "url": "https://www.infoq.cn/video/rijQ2WioDtfSuNv2gQkS?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:37:23+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "税务局大力整治开票经济，国企贸易公司要小心上下游和仓库方先暴雷",
-      "url": "https://www.huxiu.com/article/4857295.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T10:51:18+08:00"
+      "category": "tech",
+      "title": "AI 把编程这件事接管之后，作为程序员的我该何去何从？",
+      "url": "https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-10T01:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "22万张GPU全送人了，马斯克在下一盘远超AI的棋",
-      "url": "https://www.huxiu.com/article/4856691.html?f=rss",
-      "summary": "马斯克这盘棋，比AI大得多",
-      "published": "2026-05-11T10:50:00+08:00"
+      "category": "tech",
+      "title": "停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南",
+      "url": "https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T20:32:48+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "施耐德、森马和钉钉：Agent该如何扛起企业KPI？",
-      "url": "https://www.huxiu.com/article/4856916.html?f=rss",
-      "summary": "高效的个人，永远拼不出高效的公司",
-      "published": "2026-05-11T10:42:06+08:00"
+      "category": "tech",
+      "title": "Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下",
+      "url": "https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T20:26:47+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "普利策奖获得者李翊云：一个作家本人认证过的精神疾病患者",
-      "url": "https://www.huxiu.com/article/4857281.html?f=rss",
-      "summary": "在阴霾和惨烈的现实面前，文字很容易成为巧言令色的工具",
-      "published": "2026-05-11T10:41:20+08:00"
+      "category": "tech",
+      "title": "Cloudflare构建了面向LLM的高性能基础设施",
+      "url": "https://www.infoq.cn/article/wvRSqDH2uloYeu4f6GB0?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T20:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "DeepSeekV4，引动国产半导体超级周期",
-      "url": "https://www.huxiu.com/article/4855848.html?f=rss",
-      "summary": "谁能率先吃到这波春风，就看谁能率先解决产能",
-      "published": "2026-05-11T10:28:34+08:00"
+      "category": "tech",
+      "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
+      "url": "https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T19:12:41+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "那些对AI讲出一生的老人",
-      "url": "https://www.huxiu.com/article/4857288.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T10:28:28+08:00"
+      "category": "tech",
+      "title": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "url": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T18:14:19+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "别神话自有品牌了，它比钟薛高更脆弱：一场“假冒不伪劣”的商品狂欢",
-      "url": "https://www.huxiu.com/article/4857287.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T10:26:02+08:00"
+      "category": "tech",
+      "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "解散xAI、背刺OpenAI，马斯克究竟要干啥？",
-      "url": "https://www.huxiu.com/article/4857252.html?f=rss",
-      "summary": "",
-      "published": "2026-05-11T10:23:27+08:00"
+      "category": "tech",
+      "title": "DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+      "url": "https://www.infoq.cn/article/w9R1DwXoM3yKbjzcV94H?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-09T17:53:43+08:00"
     }
   ]
 }

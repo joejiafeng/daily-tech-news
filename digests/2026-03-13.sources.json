@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "generated_at": "2026-03-13T10:48:17.700662+08:00",
+  "generated_at": "2026-03-13T10:50:35.924320+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1197767",
       "summary": "刚失业，本来依靠工作今年相亲谈个对象结婚的，现在好了，失业了，这谁还敢给我介绍啊，现在也是焦虑的不行，年级又大了，又没对象，又失业，哎。。。。",
       "published": "2026-03-12T15:57:20+08:00",
-      "score": 193
+      "score": 194
     },
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1197720",
       "summary": "婆媳问题真的头疼。 老婆刚生完孩子在我妈家里住，我妈和她妈妈一起照顾她。因为宝宝每次吃奶多少、怎么喂的小事，婆媳俩闹得很僵，现在已经到了见面尴尬、谁也不理谁的地步。 老婆觉得自己是妈妈，喂奶要按她的要求来，但我妈没有按她的意思做，她觉得不被尊重、一直被否定，越想越委屈，控制不住哭了。 我妈觉得就是带孩子的小事，有话好好说就行，没必要哭、更没必要闹，觉得...",
       "published": "2026-03-12T14:17:25+08:00",
-      "score": 130
+      "score": 131
     },
     {
       "source": "V2EX",
@@ -63,7 +63,7 @@
       "url": "https://www.v2ex.com/t/1197880",
       "summary": "还单身的哥们，有危机感吗？？？",
       "published": "2026-03-13T08:30:04+08:00",
-      "score": 73
+      "score": 74
     },
     {
       "source": "V2EX",
@@ -72,7 +72,7 @@
       "url": "https://www.v2ex.com/t/1197884",
       "summary": "又到周五了，大家一般周五晚上怎么安排？周五晚上应该是幸福感最高的一个晚上啊",
       "published": "2026-03-13T08:44:03+08:00",
-      "score": 53
+      "score": 54
     },
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
       "summary": "",
       "published": "2026-03-13T05:01:10+08:00",
-      "score": 898
+      "score": 902
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://malus.sh",
       "summary": "https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_... https://malus.sh/blog.html",
       "published": "2026-03-12T21:42:04+08:00",
-      "score": 1069
+      "score": 1071
     },
     {
       "source": "Hacker News",
@@ -133,20 +133,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "\"This Is Not the Computer for You\"",
-      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "summary": "",
-      "published": "2026-03-13T09:45:49+08:00",
-      "score": 10
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
       "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
       "summary": "",
       "published": "2026-03-12T22:48:57+08:00",
       "score": 343
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "\"This Is Not the Computer for You\"",
+      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "summary": "",
+      "published": "2026-03-13T09:45:49+08:00",
+      "score": 12
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,7 @@
       "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
       "summary": "",
       "published": "2026-03-09T22:54:31+08:00",
-      "score": 34
+      "score": 36
     },
     {
       "source": "Hacker News",
@@ -187,20 +187,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "“Design me a highly resilient database”",
-      "url": "https://nikogura.com/DatabaseDesign.html",
-      "summary": "",
-      "published": "2026-03-08T14:26:14+08:00",
-      "score": 43
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
       "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
       "summary": "See also: https://alternativecreditinvestor.com/2025/10/22/us-banks-ex...",
       "published": "2026-03-12T20:44:45+08:00",
-      "score": 273
+      "score": 274
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "“Design me a highly resilient database”",
+      "url": "https://nikogura.com/DatabaseDesign.html",
+      "summary": "",
+      "published": "2026-03-08T14:26:14+08:00",
+      "score": 44
     },
     {
       "source": "Hacker News",
@@ -245,7 +245,7 @@
       "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
       "summary": "",
       "published": "2026-03-12T19:41:14+08:00",
-      "score": 313
+      "score": 314
     },
     {
       "source": "Hacker News",
@@ -316,7 +316,7 @@
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "加速心脏电生理产品国产替代，「艾科脉医疗」完成超���元Pre-B轮融资｜36氪首发",
+      "title": "加速心脏电生理产品国产替代，「艾科脉医疗」完成超亿元Pre-B轮融资｜36氪首发",
       "url": "https://36kr.com/p/3719908411078275?f=rss",
       "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，「艾科脉医疗」已完成超亿元Pre-B轮融资。本轮融资由中金资本旗下基金领投，元璟资本及知名产业投资人跟投，星桥资本担任独家财务顾问。募集资金将主要用于加速公司脉冲电场消融系统、三维标测系统及系列电生理耗材的研发和商业化落地。 心血管领域是全球第二大医疗器械市场，心脏电生理作为其重要细分方向，已实现20余年连续增长。...",
       "published": "2026-03-13T08:00:00+08:00"
@@ -637,87 +637,6 @@
       "published": "2026-03-11T11:30:00+08:00"
     },
     {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "蔚来穿过“生死线”，盈利模型还有待检验",
-      "url": "http://www.huxiu.com/article/4841400.html?f=wangzhan",
-      "summary": "出品|虎嗅汽车组 作者|杨杰 头图|视觉中国 3月10日晚，蔚来交出了一份让市场不得不重新审视它的财报：2025年第四季度，首次实现单季净利润2.83亿元。 成立11年，历经数次“生死时刻”，蔚来终于摘掉了悬在头顶多年的达摩克利斯之剑。那个曾经的“最惨男人”李斌，带着他的蔚来走进了新的赛场。 在近期举行的财报沟通会中，李斌直言，汽车行业的竞争，是泥泞路...",
-      "published": "2026-03-12T17:28:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "国产AI助手谁最好用？国产AI助手工作能力测评",
-      "url": "http://www.huxiu.com/article/4841087.html?f=wangzhan",
-      "summary": "AI已经能解决我工作里遇到的大部分文字上的问题了......本期视频用豆包、千问、元宝、Kimi和DeepSeek五家AI，实测文本归纳、数据分析、行业洞察和写作能力。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-12T17:00:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "为啥都说美国袭击伊朗是“AI战争”的序幕？",
-      "url": "http://www.huxiu.com/article/4841080.html?f=wangzhan",
-      "summary": "一开年，川普连着搞了几波大的，都在短时间内取得了战果。相传，这全靠AI“打通了战争全链路”。在“AI战争”的都市传说当中，大模型公司Anthropic、和神秘情报公司Palantir成了主角，我们今天来聊聊Palantir。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-12T11:50:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "莲花不是“极氪王”，但留给它证明自己的时间不多了",
-      "url": "http://www.huxiu.com/article/4841321.html?f=wangzhan",
-      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|视觉中国 当比亚迪打算进军F1、凯迪拉克签约周冠宇、上海F1赛道迎来新赛季，拥有78年赛道基因的路特斯（ 莲花 ）却反其道而行之，推出了一款家用SUV。 全新莲花For Me已于3月10日开启小订，新车使用2.0T插混动力，预计3月29日正式上市。 这款搭载2.0T插混系统、拥有952匹马力的中大型SUV，迅速引发...",
-      "published": "2026-03-12T11:38:00+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "中国厨房，进入“智驾”时代？",
-      "url": "http://www.huxiu.com/article/4841175.html?f=wangzhan",
-      "summary": "当厨房拥有了与汽车相似的发展刻度，被解放的不仅仅是双手，更是那些被琐碎家务捆绑的、本该更幸福的生活。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-11T20:36:43+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "龙虾太火，互联网老炮组团进场了",
-      "url": "http://www.huxiu.com/article/4840928.html?f=wangzhan",
-      "summary": "“能和AI聊天就不要和人类聊天，删除所有90年之前出生人的联系方式，千万不要沾染任何老登气息”。孙宇晨这段暴论刚出来的时候，我还有点生气：但我发现，已经有人对号入座了。傅盛、朱啸虎、李开复，最年轻的48岁，最老的64岁，都在这波明显由年轻人主导的龙虾热中，密集发声。要么是开直播展示自己如何与时俱进，要么是拼命渲染AI焦虑，比如说：今后就不需要给人看的网...",
-      "published": "2026-03-11T14:55:06+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "控制权变更落定，探迹科技成真爱美家控股股东",
-      "url": "http://www.huxiu.com/article/4840962.html?f=wangzhan",
-      "summary": "探迹科技入主真爱美家已取得重大的阶段性进展。3月10日，真爱美家 （003041.SZ） 发布公告，公司控股股东协议转让股份已于3月9日完成过户登记手续，控股股东正式变更为广州探迹远擎科技合伙企业 （有限合伙） ，持有上市公司29.99%的股份，真爱美家实际控制人变更为黎展先生。 按此前披露的并购方案，本次股份转让完成后，探迹远擎后续将发起部分要约收购...",
-      "published": "2026-03-11T12:02:33+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "全民追捧“养龙虾”，一代人有一代人的鸡蛋要领",
-      "url": "http://www.huxiu.com/article/4840774.html?f=wangzhan",
-      "summary": "一代人有一代人的鸡蛋要领，如今这代人的鸡蛋可能就是“养龙虾”了，这里的“龙虾”说的不是水产动物，而是当前爆火的OpenClaw，这是一款号称能“接管电脑，解放双手”的开源智能体。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
-      "published": "2026-03-11T10:22:16+08:00"
-    },
-    {
-      "source": "huxiu",
-      "source_type": "rss",
-      "category": "business",
-      "title": "那个帮小鹏敲钟的人，回去给大众“续命”了",
-      "url": "http://www.huxiu.com/article/4840855.html?f=wangzhan",
-      "summary": "出品|虎嗅汽车组 作者|杨杰 头图|大众官方 3月10日，大众汽车集团公布最新的2025财年业绩报告。 这是一份喜忧参半的成绩单：全球销售收入3219亿欧元，与上年基本持平；但营业利润仅为88.7亿欧元，同比腰斩53.5%。美国关税、保时捷战略调整、汇率波动成为压垮利润的三座大山。 同一天，大众安徽内部官宣：李鹏程出任首席营销官（CMO），进入经管会，...",
-      "published": "2026-03-11T09:26:19+08:00"
-    },
-    {
       "source": "infoq",
       "source_type": "rss",
       "category": "tech",
@@ -815,6 +734,87 @@
       "url": "https://www.infoq.cn/video/x3UVebSCmJWamlwlWSuF?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "published": "2026-03-13T01:35:14+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "AI 时代数智底座：TDSQL Boundless 多模态数据库 | 腾讯云数据库 DBTalk",
+      "url": "https://www.infoq.cn/video/seXsywpeoZxdyCAUUGDk?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-13T01:26:50+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "Netflix将400个生产集群的RDS PostgreSQL自动迁移到Aurora PostgreSQL",
+      "url": "https://www.infoq.cn/article/B4pa7kXcvKVpX1rVmFkG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-13T00:00:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "变更即指标：用交付信号度量系统可靠性",
+      "url": "https://www.infoq.cn/article/poY7Rdf7tyGlS1da15ZJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-12T21:00:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "国内首个国产AI推理千卡集群落地梁文锋家乡，采用云天励飞全自研AI推理芯片",
+      "url": "https://www.infoq.cn/article/IPr0osV9pNO48ThJL2ds?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-12T19:55:30+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "一份政府报告 | 五年 AI 风向，企业如何跑完智能化转型的“最后一公里”？",
+      "url": "https://www.infoq.cn/article/Vr1eeLLDCjLk0ZyHI0NE?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-12T19:19:44+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "我用 OpenClaw 建了个市场，让 AI Agent 来雇人干活",
+      "url": "https://www.infoq.cn/article/rGAsy0KR5E2VtKg9sTOK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-12T18:46:16+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "大模型驱动下的生成式搜推：淘宝闪购全链路重构实践｜QCon北京",
+      "url": "https://www.infoq.cn/article/ZyIWzVDqUEDctGFyYWaO?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-12T18:13:00+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "Rspress 2.0 发布：AI 原生文档、更快启动速度与全新设计主题",
+      "url": "https://www.infoq.cn/article/Kf7qHzF2jGKLovi675il?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-12T17:56:55+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注",
+      "url": "https://www.infoq.cn/article/M4mTvpBuXvDUbz6Cl9ym?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-03-12T17:53:21+08:00"
     }
   ]
 }

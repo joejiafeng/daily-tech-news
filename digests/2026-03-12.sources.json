@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "generated_at": "2026-03-12T10:51:03.037895+08:00",
+  "generated_at": "2026-03-12T10:53:17.799181+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1197352",
       "summary": "## 说说你最爱的游戏是什么？ 电脑游戏玩的已经很少了，现在都是玩手机游戏了。 网游 * 英雄联盟 * 金铲铲 * 炉石传说 单机 * 杀戮尖塔 * 文明 6 * 我的世界",
       "published": "2026-03-11T11:23:54+08:00",
-      "score": 196
+      "score": 197
     },
     {
       "source": "V2EX",
@@ -97,6 +97,15 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "ICE/DHS gets hacked, all Contractors exposed",
+      "url": "https://micahflee.github.io/ice-contracts/",
+      "summary": "",
+      "published": "2026-03-12T10:03:01+08:00",
+      "score": 21
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Show HN: s@: decentralized social networking over static sites",
       "url": "http://satproto.org/",
       "summary": "",
@@ -110,7 +119,7 @@
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
       "summary": "",
       "published": "2026-03-11T23:35:50+08:00",
-      "score": 546
+      "score": 547
     },
     {
       "source": "Hacker News",
@@ -119,16 +128,7 @@
       "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
       "summary": "",
       "published": "2026-03-12T04:56:52+08:00",
-      "score": 153
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "ICE/DHS gets hacked, all Contractors exposed",
-      "url": "https://micahflee.github.io/ice-contracts/",
-      "summary": "",
-      "published": "2026-03-12T10:03:01+08:00",
-      "score": 10
+      "score": 154
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "summary": "",
       "published": "2026-03-12T03:29:29+08:00",
-      "score": 2891
+      "score": 2893
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
       "summary": "",
       "published": "2026-03-11T12:44:46+08:00",
-      "score": 419
+      "score": 420
     },
     {
       "source": "Hacker News",
@@ -164,7 +164,7 @@
       "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
       "summary": "https://archive.ph/DEwy7",
       "published": "2026-03-12T02:17:30+08:00",
-      "score": 167
+      "score": 168
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,7 @@
       "url": "https://tradingeconomics.com/commodity/urea",
       "summary": "",
       "published": "2026-03-12T09:59:47+08:00",
-      "score": 49
+      "score": 50
     },
     {
       "source": "Hacker News",
@@ -196,6 +196,15 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Show HN: A context-aware permission guard for Claude Code",
+      "url": "https://github.com/manuelschipper/nah/",
+      "summary": "We needed something like --dangerously-skip-permissions that doesn’t nuke your untracked files, exfiltrate your keys, or install malware. Claude Code's permission system is allo...",
+      "published": "2026-03-12T07:26:25+08:00",
+      "score": 43
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Show HN: Autoresearch@home",
       "url": "https://www.ensue-network.ai/autoresearch",
       "summary": "autoresearch@home is a collaborative research collective where AI agents share GPU resources to collectively improve a language model. Think SETI@home, but for model training. H...",
@@ -210,15 +219,6 @@
       "summary": "",
       "published": "2026-03-08T20:59:47+08:00",
       "score": 7
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Show HN: A context-aware permission guard for Claude Code",
-      "url": "https://github.com/manuelschipper/nah/",
-      "summary": "We needed something like --dangerously-skip-permissions that doesn’t nuke your untracked files, exfiltrate your keys, or install malware. Claude Code's permission system is allo...",
-      "published": "2026-03-12T07:26:25+08:00",
-      "score": 41
     },
     {
       "source": "Hacker News",
@@ -241,20 +241,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
-      "url": "https://poloclub.github.io/cnn-explainer/",
-      "summary": "",
-      "published": "2026-03-08T19:22:42+08:00",
-      "score": 31
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Entities enabling scientific fraud at scale (2025)",
       "url": "https://doi.org/10.1073/pnas.2420092122",
       "summary": "",
       "published": "2026-03-11T21:32:12+08:00",
       "score": 264
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
+      "url": "https://poloclub.github.io/cnn-explainer/",
+      "summary": "",
+      "published": "2026-03-08T19:22:42+08:00",
+      "score": 31
     },
     {
       "source": "Hacker News",
@@ -534,7 +534,7 @@
       "category": "product",
       "title": "Wayve、Uber和日产将开展自动驾驶出租车合作，目标年底在日本东京试点",
       "url": "https://36kr.com/newsflashes/3719267051648389?f=rss",
-      "summary": "当地时间3月11日，Wayve、Uber和日产宣布签署合作备忘录，共同开发自动驾驶出租车。各方将着手准备于2026年底在日本东京开展试点部署，届时将推出搭载Wayve人工智能驾驶系统的日产��风，乘客可通过Uber平台叫车。声明称，这将是Uber在日本推出的首个自动驾驶汽车项目，也是Wayve和Uber在全球十多座城市推出自动驾驶出租车服务目标的一部分...",
+      "summary": "当地时间3月11日，Wayve、Uber和日产宣布签署合作备忘录，共同开发自动驾驶出租车。各方将着手准备于2026年底在日本东京开展试点部署，届时将推出搭载Wayve人工智能驾驶系统的日产聆风，乘客可通过Uber平台叫车。声明称，这将是Uber在日本推出的首个自动驾驶汽车项目，也是Wayve和Uber在全球十多座城市推出自动驾驶出租车服务目标的一部分。...",
       "published": "2026-03-12T09:14:05+08:00"
     },
     {

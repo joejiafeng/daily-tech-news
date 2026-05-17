@@ -1,6 +1,6 @@
 {
   "date": "2026-03-07",
-  "generated_at": "2026-03-07T10:40:23.904395+08:00",
+  "generated_at": "2026-03-07T10:42:56.389350+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -92,7 +92,7 @@
       "url": "https://plasma-bigscreen.org",
       "summary": "",
       "published": "2026-03-07T07:59:16+08:00",
-      "score": 161
+      "score": 162
     },
     {
       "source": "Hacker News",
@@ -133,6 +133,15 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "summary": "The bugs are the ones that say \"using Claude from Anthropic\" here: https://www.mozilla.org/en-US/security/advisories/mfsa2026-1... https://blog.mozilla.org/en/firefox/hardening-...",
+      "published": "2026-03-06T19:53:18+08:00",
+      "score": 500
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "The Shady World of IP Leasing",
       "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
       "summary": "",
@@ -142,11 +151,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "summary": "The bugs are the ones that say \"using Claude from Anthropic\" here: https://www.mozilla.org/en-US/security/advisories/mfsa2026-1... https://blog.mozilla.org/en/firefox/hardening-...",
-      "published": "2026-03-06T19:53:18+08:00",
-      "score": 499
+      "title": "Maybe There's a Pattern Here?",
+      "url": "https://dynomight.net/pattern/",
+      "summary": "",
+      "published": "2026-03-05T10:58:10+08:00",
+      "score": 8
     },
     {
       "source": "Hacker News",
@@ -191,25 +200,7 @@
       "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
       "summary": "https://xcancel.com/JosephPolitano/status/202991636466461124... https://bsky.app/profile/josephpolitano.bsky.social/post/3mg...",
       "published": "2026-03-07T01:46:45+08:00",
-      "score": 746
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Maybe There's a Pattern Here?",
-      "url": "https://dynomight.net/pattern/",
-      "summary": "",
-      "published": "2026-03-05T10:58:10+08:00",
-      "score": 6
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
-      "url": "https://news.ycombinator.com/item?id=47282777",
-      "summary": "I’m ready to retire. In my younger days, I remember a few pivotal moments for me as a young nerd. Active Server Pages. COM components. VB6. I know these are laughable today but...",
-      "published": "2026-03-07T08:05:06+08:00",
-      "score": 108
+      "score": 748
     },
     {
       "source": "Hacker News",
@@ -228,6 +219,15 @@
       "summary": "",
       "published": "2026-03-06T22:16:06+08:00",
       "score": 189
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+      "url": "https://news.ycombinator.com/item?id=47282777",
+      "summary": "I’m ready to retire. In my younger days, I remember a few pivotal moments for me as a young nerd. Active Server Pages. COM components. VB6. I know these are laughable today but...",
+      "published": "2026-03-07T08:05:06+08:00",
+      "score": 110
     },
     {
       "source": "Hacker News",
@@ -254,7 +254,7 @@
       "url": "https://libresprite.github.io/",
       "summary": "",
       "published": "2026-03-06T17:22:00+08:00",
-      "score": 264
+      "score": 266
     },
     {
       "source": "Hacker News",
@@ -282,7 +282,7 @@
       "category": "product",
       "title": "求购强脑科技老股份额；求购持有清微智能老股的基金LP份额｜资情留言板第180期",
       "url": "https://36kr.com/p/3711367816556675?f=rss",
-      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖��方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第180期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎...",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第180期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与...",
       "published": "2026-03-06T19:19:44+08:00"
     },
     {
@@ -628,6 +628,96 @@
       "published": "2026-03-04T20:09:04+08:00"
     },
     {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "激光雷达，能拉爆鸿蒙五界的销量吗？",
+      "url": "http://www.huxiu.com/article/4839768.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|视觉中国 896线。地球上线数最高的车载激光雷达发布了。 3月4日，华为在深圳举行鸿蒙智行技术焕新发布会，正式推出新一代双光路图像级激光雷达，官方称其为“全球量产最高线数”的激光雷达产品。在业界普遍只有192线激光雷达且迟迟无法突破的沉闷氛围中，华为在这个单品科技创新上实现了跨越。 那么提升四倍线数的激光雷达有什么...",
+      "published": "2026-03-06T19:00:01+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "别认为小鹏还只是个造车的",
+      "url": "http://www.huxiu.com/article/4839667.html?f=wangzhan",
+      "summary": "多年之后，也许没人还会记得小鹏是个造车企业。 “我非常坚信1-3年全自动驾驶会落地、3-5年所有汽车都会成为强力超级智能体。”在3月2日的小鹏第二代VLA媒体体验日上，小鹏汽车董事长 CEO何小鹏如是说道。 小鹏第二代VLA（视觉-语言-动作）模型相比第一代，最核心、最本质的区别在于技术架构的“颠覆性重构”： 它开创性地去掉了中间的“语言翻译”环节，让...",
+      "published": "2026-03-06T18:13:49+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "阿里不希望任何人上“神坛”？",
+      "url": "http://www.huxiu.com/article/4839506.html?f=wangzhan",
+      "summary": "阿里不想让任何人成为“神”，林俊旸却在AI圈成了传奇：93年出生，一年升到P10，却突然宣布离开，连马斯克都点赞了他的千问3.5开源模型。对于阿里这种公司，它永远能找到下一位周畅、林俊旸。 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-06T14:41:47+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "战火烧至霍尔木兹海峡，全球油价要涨上天？",
+      "url": "http://www.huxiu.com/article/4839330.html?f=wangzhan",
+      "summary": "这场由美国和以色列引燃的冲突，已经让全球能源格局和经济走势山呼海啸般动荡？霍尔木兹海峡被封禁，全球原油价格会涨到天上去吗？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-06T09:42:50+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "大众用增程“炮轰”自己",
+      "url": "http://www.huxiu.com/article/4839284.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|《飞驰人生》剧照 大众掏出了自己压箱底的发动机，做了一台增程器。 2026年3月初，大众首台EA211黄金增程器正式下线，将搭载于ID. ERA 9X，月底开启预售。 这是一台基于EA211 1.5T EVO II改造而来的增程器。原版EA211在大众体系中广泛应用于朗逸、速腾、宝来、高尔夫、帕萨特、探岳,甚至奥迪...",
+      "published": "2026-03-05T14:35:45+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "吉利智能辅助驾驶整合后，首访掌舵人陈奇",
+      "url": "http://www.huxiu.com/article/4839192.html?f=wangzhan",
+      "summary": "铆足劲，真正冲到行业头部！ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-05T10:53:02+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "小鹏的2026，没有Plan B",
+      "url": "http://www.huxiu.com/article/4838881.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|杨杰 头图|小鹏官方 2026年开年，小鹏汽车的日子不好过。 一方面，市场淡季冲击之下，小鹏汽车交付量有所波动，引发行业聚焦；另一方面，董事长何小鹏高调“炮轰”现有L2级辅助驾驶为“缝合怪”，直言自动驾驶将在未来1-3年内到来，再度将这家车企推向了舆论的风口浪尖。 身处市场动荡期，当其他车企纷纷用“冰箱彩电大沙发”和真金白银的优...",
+      "published": "2026-03-04T14:17:55+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "史上最忙AI春节档：海量新品，如何才能不焦虑？",
+      "url": "http://www.huxiu.com/article/4837484.html?f=wangzhan",
+      "summary": "刚刚过去的春节档，应该有很多人跟我一样本来可以开心休息的，结果被各种国内外AI新产品新功能各种刷屏，焦虑不断、心力憔悴，难道普通人真的跟不上AI的发展节奏了吗？ 枪仔帮你把春节期间的AI信息差，一期视频都给你补上，来看一下史上最忙AI春节档，都发生了什么？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-03T18:30:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "全网狂吹，永久投资组合，能持续赚吗?",
+      "url": "http://www.huxiu.com/article/4837439.html?f=wangzhan",
+      "summary": "有这么一个神仙策略，据说只要无脑买入，从此不用预测行情，也不用钻研技术，更不用担心股灾，无论股市怎么走它都能稳如泰山，让你闭着眼也能穿越牛熊，在躺平中持续盈利，你心动了吗？ 下载虎嗅APP ，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "published": "2026-03-03T18:00:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "让财务官当CEO，利润全球第一的丰田也缺钱了？",
+      "url": "http://www.huxiu.com/article/4838597.html?f=wangzhan",
+      "summary": "出品|虎嗅汽车组 作者|邢书博 头图|丰田官网 暴跌43%。 3月1日消息，丰田在2026财年第三季度（ 2025年10-12月 ）的净利润为1.26万亿日元，较2025财年同期减少0.93万亿日元，同比减少43%，几近腰斩。 丰田宣布从2026年4月1日起，丰田首席财务官近健太（Kenta Kon）接替佐藤恒治（Koji Sato）担任丰田公司CEO...",
+      "published": "2026-03-03T17:15:00+08:00"
+    },
+    {
       "source": "infoq",
       "source_type": "rss",
       "category": "tech",
@@ -716,96 +806,6 @@
       "url": "https://www.infoq.cn/article/vhvC3K6BIR9dhJ1FVqK2?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "published": "2026-03-06T18:10:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "华为看好的具身公司又融10亿！极佳视界宣布完成Pre-B轮融资，老股东超额加持",
-      "url": "https://www.infoq.cn/article/3s5PXoP3xckCe80oVEeB?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T18:04:46+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "中国金融机构人才发展与培训白皮书（2026年）",
-      "url": "https://www.infoq.cn/minibook/Ea8hFxwccb3Q190l6pI2?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T18:03:53+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "Pinterest基于CDC的摄取系统将数据库延迟从24小时缩短至15分钟",
-      "url": "https://www.infoq.cn/article/4QxbOWVR1c1CipCUI2Lk?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T18:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "OpenClaw 热潮下，团队级 AI Coding 怎么落地？",
-      "url": "https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T02:09:30+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "Gemini 账户 48 小时被盗刷 57 万，三人创业团队站在破产边缘",
-      "url": "https://www.infoq.cn/article/Gki16Stu5jqbooE6pgvs?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T02:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
-      "url": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T01:11:04+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": ".NET 11 ASP.NET Core预览版1带来全新的Blazor组件、改进的导航功能以及WebAssembly支持",
-      "url": "https://www.infoq.cn/article/GTCTH14eAiKrxaAoA7uc?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T01:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放",
-      "url": "https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T00:12:39+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "借鉴Kotlin/Android技术架构，构建可扩展的SwiftUI iOS应用",
-      "url": "https://www.infoq.cn/article/bZG6mCd01ibW34TJZcww?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-06T00:00:00+08:00"
-    },
-    {
-      "source": "infoq",
-      "source_type": "rss",
-      "category": "tech",
-      "title": "微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发",
-      "url": "https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "published": "2026-03-05T23:00:00+08:00"
     }
   ]
 }

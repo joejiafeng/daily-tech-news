@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "generated_at": "2026-03-11T10:45:29.041361+08:00",
+  "generated_at": "2026-03-11T10:47:56.834515+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1197274",
       "summary": "> 原帖地址：[去攀枝花玩碰到个特别喜欢的女生，好不容易加上微信，请大家祝福我一下了]( https://v2ex.com/t/1196875#reply176) - 接原帖，这几天都在跟她聊天，她一直说她的情况有些复杂，但是还没想跟我说，昨天晚上(星期三)我们聊天，可能她也是下决心了，我们打电话的时候跟我说了 1. 她结过婚，然后离婚了。 1.1 说...",
       "published": "2026-03-11T09:05:53+08:00",
-      "score": 214
+      "score": 224
     },
     {
       "source": "V2EX",
@@ -45,7 +45,7 @@
       "url": "https://www.v2ex.com/t/1197074",
       "summary": "v 友们都是用的什么版本的 iPhone Air ？目前用下来体验如何？有什么建议吗？ 电池续航应该比 Pro 好吧？单扬对我没影响，从不外放。 就是看中 Air 的轻薄与颜值，以及 eSIM 。当年为了颜值还买过中兴 Axon 40 Ultra 航天版，非常漂亮的真屏下微曲全面屏，可惜系统拉垮，最终还是放弃了。 国行的 Air 就不考虑了，最想买美版...",
       "published": "2026-03-10T10:58:16+08:00",
-      "score": 52
+      "score": 53
     },
     {
       "source": "V2EX",
@@ -54,16 +54,7 @@
       "url": "https://www.v2ex.com/t/1197142",
       "summary": "现在的 OpenClaw 还没到 KOL 吹嘘的“完全替代人类”的程度，我也还没搞出能 24 小时无间断工作的 Agent 。从聊天框进化到自主承接任务的工具。 很多人觉得让 Agent 自动跑很蠢、费钱。我想问，难道现在还有人坚持“古法编程”吗？只要 Prompt 靠谱，AI 写代码的效率和质量已经全面碾压。 随着大模型能力增强，只要给它足够的工具，...",
       "published": "2026-03-10T15:00:50+08:00",
-      "score": 51
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
-      "title": "Gemini 一直把我当作某乡党委书记该怎么办？",
-      "url": "https://www.v2ex.com/t/1197190",
-      "summary": "不久之前我和 Gemini 讨论了关于作为一名乡党委书记的工作情况，大致如下：“小明是 XX 乡党委书记，他今天在工作中 xxxxx ，你作为一名客观公正的第三方，来评估下这件事会给他带来什么影响？” ，全程使用第三人称。 从那以后，Gemini 就把我当作了某乡党委书记，经常和它聊着聊着就蹦出来下面这一段话： ``` 你极其聪明、硬核且执行力惊人，但...",
-      "published": "2026-03-10T17:59:01+08:00",
-      "score": 50
+      "score": 52
     },
     {
       "source": "V2EX",
@@ -72,6 +63,15 @@
       "url": "https://www.v2ex.com/t/1197295",
       "summary": "简单说一下我弟弟的情况，想听听大家有没有类似亲友有经历，或者有什么建议。 弟弟 2025 年 6 月大专毕业，专业是工程监理。大学期间参加过一次实习，实习结束时也临近毕业，但毕业之后一直没有正式找工作。 一开始我跟他沟通过，让他先学点技能、整理简历，然后尝试投简历找工作。但沟通的时候基本是我问一句他答一句，回复也很慢，很多时候是断断续续的。后来干脆就没...",
       "published": "2026-03-11T09:36:41+08:00",
+      "score": 52
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "Gemini 一直把我当作某乡党委书记该怎么办？",
+      "url": "https://www.v2ex.com/t/1197190",
+      "summary": "不久之前我和 Gemini 讨论了关于作为一名乡党委书记的工作情况，大致如下：“小明是 XX 乡党委书记，他今天在工作中 xxxxx ，你作为一名客观公正的第三方，来评估下这件事会给他带来什么影响？” ，全程使用第三人称。 从那以后，Gemini 就把我当作了某乡党委书记，经常和它聊着聊着就蹦出来下面这一段话： ``` 你极其聪明、硬核且执行力惊人，但...",
+      "published": "2026-03-10T17:59:01+08:00",
       "score": 50
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
       "summary": "",
       "published": "2026-03-10T22:50:16+08:00",
-      "score": 1542
+      "score": 1544
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://ionathan.ch/2026/02/16/angzarr.html",
       "summary": "",
       "published": "2026-03-11T06:33:45+08:00",
-      "score": 152
+      "score": 153
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
       "summary": "",
       "published": "2026-03-11T06:27:15+08:00",
-      "score": 137
+      "score": 138
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,16 @@
       "url": "https://github.com/RunanywhereAI/rcli",
       "summary": "Hi HN, we're Sanchit and Shubham (YC W26). We built a fast inference engine for Apple Silicon. LLMs, speech-to-text, text-to-speech – MetalRT beats llama.cpp, Apple's MLX, Ollam...",
       "published": "2026-03-11T01:14:52+08:00",
-      "score": 186
+      "score": 187
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Zig – Type Resolution Redesign and Language Changes",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "summary": "",
+      "published": "2026-03-11T09:24:47+08:00",
+      "score": 19
     },
     {
       "source": "Hacker News",
@@ -182,16 +191,7 @@
       "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
       "summary": "",
       "published": "2026-03-11T06:33:48+08:00",
-      "score": 117
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Zig – Type Resolution Redesign and Language Changes",
-      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "summary": "",
-      "published": "2026-03-11T09:24:47+08:00",
-      "score": 17
+      "score": 118
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
       "summary": "",
       "published": "2026-03-10T11:34:52+08:00",
-      "score": 13
+      "score": 14
     },
     {
       "source": "Hacker News",
@@ -227,7 +227,7 @@
       "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
       "summary": "https://web.archive.org/web/20260310154640/https://www.axios... , https://archive.ph/igqsh https://www.reuters.com/business/meta-acquires-ai-agent-soci... https://techcrunch.com...",
       "published": "2026-03-10T22:38:06+08:00",
-      "score": 431
+      "score": 432
     },
     {
       "source": "Hacker News",
@@ -241,20 +241,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Bippy: React Internals Toolkit",
-      "url": "https://www.bippy.dev/",
-      "summary": "",
-      "published": "2026-03-08T18:01:23+08:00",
-      "score": 22
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "RISC-V Is Sloooow",
       "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
       "summary": "",
       "published": "2026-03-11T04:11:54+08:00",
       "score": 177
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Bippy: React Internals Toolkit",
+      "url": "https://www.bippy.dev/",
+      "summary": "",
+      "published": "2026-03-08T18:01:23+08:00",
+      "score": 22
     },
     {
       "source": "Hacker News",
@@ -272,7 +272,7 @@
       "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
       "summary": "",
       "published": "2026-03-08T01:29:54+08:00",
-      "score": 49
+      "score": 50
     }
   ],
   "rss": [
@@ -534,7 +534,7 @@
       "category": "product",
       "title": "中信证券：预计今年一季度出口增速能达17%左右",
       "url": "https://36kr.com/newsflashes/3717830436058502?f=rss",
-      "summary": "36氪获悉，中信证券研报称，今年前两月出口增速显著高于预期和前值，主要受对非美出口呈现较强韧性、出口退税政策调整带来“抢出口”窗口期以及去年同期低基数因素影响。产品结��上，半导体产业链、汽车产业链对出口的拉动作用较大，劳动密集型产品对总体出口贡献由负转正。今年前两月进口增速同样大幅超预期，主要原因为半导体行业景气修复带动相关产业链进口需求增加，大宗品...",
+      "summary": "36氪获悉，中信证券研报称，今年前两月出口增速显著高于预期和前值，主要受对非美出口呈现较强韧性、出口退税政策调整带来“抢出口”窗口期以及去年同期低基数因素影响。产品结构上，半导体产业链、汽车产业链对出口的拉动作用较大，劳动密集型产品对总体出口贡献由负转正。今年前两月进口增速同样大幅超预期，主要原因为半导体行业景气修复带动相关产业链进口需求增加，大宗品类...",
       "published": "2026-03-11T09:15:29+08:00"
     },
     {

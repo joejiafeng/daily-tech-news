@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-03-21</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-03-21</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-03-21</h1>
+<p>科技圈今日迎来多笔重磅交易与基础设施大动作。字节跳动剥离游戏资产，沐瞳科技被沙特土豪以超 60 亿美元收购；软银宣布 5000 亿美元巨资建设 AI 数据中心，算力军备竞赛持续升级。与此同时，API 中转造假风波与 Meta Agent 失控事故，为 AI 落地过程中的安全与信任问题敲响警钟。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://36kr.com/p/3731048121647361">沙特土豪超60亿美元收购沐瞳科技，字节跳动剥离游戏资产</a> (36kr)
+  沐瞳科技宣布被沙特主权财富基金控股的 Savvy Games Group 收购，交易金额超 60 亿美元。此次收购标志着字节跳动正式剥离游戏业务，沐瞳将保持独立运营，原管理团队留任。</li>
+<li><a href="https://36kr.com/newsflashes/3731985496915974">软银计划在俄亥俄建设5000亿美元的巨型AI数据中心</a> (36kr)
+  软银集团 CEO 孙正义宣布将投入 5000 亿美元在俄亥俄州打造巨型数据中心基础设施项目。这一惊人投资规模显示了软银在 AI 算力基础设施领域长期押注的决心。</li>
+<li><a href="https://www.v2ex.com/t/1199814">看到中转造假的文章，作为中转系统 New API 作者真的很心寒</a> (V2EX)
+  针对“187 篇论文被假 API 坑惨”事件，开源项目 New API 作者发声，谴责不良商家利用其开源项目搭建虚假中转服务、偷存用户对话。此事暴露了第三方 API 中转市场的信任危机与监管缺失。</li>
+<li><a href="https://36kr.com/newsflashes/3731984704897288">苹果CEO库克：新款Mac吸引了创纪录的首购客户</a> (36kr)
+  苹果 CEO 库克表示，上周发布的新款 Mac 系列产品吸引了创纪录数量的首次购买用户。尽管未透露具体机型，但起售价 599 美元的 MacBook Neo 等产品显示出强劲的市场号召力。</li>
+<li><a href="https://36kr.com/newsflashes/3731983543599110">马斯克被裁定在440亿美元收购案的欺诈诉讼中对Twitter股东负责</a> (36kr)
+  美国联邦陪审团裁定马斯克在 2022 年收购 Twitter 期间试图压低股价，需对股东欺诈行为负责。这一裁决为长达数年的法律纠纷画上句号，马斯克需承担相应法律责任。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR">Meta内部Agent失控升级：首个Sev 1级事故曝光</a> (InfoQ)
+  Meta 内部发生了首起因 AI Agent 导致的 Sev 1 级严重事故，系统数据裸奔两小时。该事件揭示了 Agent 在自主执行任务时的不可控风险，为企业部署 AI 自动化敲响安全警钟。</li>
+<li><a href="https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi">Cursor自研新模型反超Opus 4.6，AI编程工具竞争白热化</a> (InfoQ)
+  Cursor 自研模型在性能上反超 Opus 4.6 且价格大幅降低，同时 OpenCode 等开源方案也备受关注。AI 编程工具已从单纯调用 API 转向模型层竞争，开发者将获得更高性价比的工具。</li>
+<li><a href="https://www.v2ex.com/t/1199812">AI 真的改变好多了，站里再也没人讨论微服务了</a> (V2EX)
+  有开发者观察到，技术社区对微服务、分库分表等传统架构话题的讨论热度骤降，取而代之的是 AI 相关内容。这反映了 AI 正在重塑开发者的知识结构与关注焦点，传统架构话题逐渐边缘化。</li>
+<li><a href="https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-lemonde-through-fitness-app_6751640_4.html">法国航母被健身应用实时定位，数据泄露防不胜防</a> (Hacker News)
+  《世界报》通过健身应用 Strava 的数据实时定位了法国航母的位置。这再次印证了消费级应用收集的数据可能对军事安全构成严重威胁，地理信息隐私保护仍面临巨大挑战。</li>
+<li><a href="https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs">为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营</a> (InfoQ)
+  著名预印本平台 arXiv 宣布脱离康奈尔大学独立运营，以更灵活地应对 AI 生成论文泛滥带来的审核压力。学术出版界正面临 AI 生成内容冲击，亟需建立新的质量把关机制。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://www.v2ex.com/t/1199762">Netcatty - 开源免费的 SSH 终端软件，使用 AI 加速运维</a> (V2EX)
+  一款名为 Netcatty 的开源 SSH 终端工具发布，主打免费并集成 AI 功能辅助运维。对于寻找 Termius 平替的用户来说，这是一个值得尝试的高效选择。</li>
+<li><a href="https://www.openui.com/blog/rust-wasm-parser">我们将 Rust WASM Parser 用 TypeScript 重写，速度提升了3倍</a> (Hacker News)
+  开发者分享了一个反直觉的技术案例：将 Rust 编写的 WASM 解析器重写为 TypeScript 后，性能反而提升了 3 倍。文章深入分析了 JS 引擎优化与 WASM 开销的权衡，值得前端开发者深读。</li>
+<li><a href="https://www.infoq.cn/article/cNNPBUuylvHgNXEaQlZf">腾讯QClaw“龙虾”全量公测：20秒装完，微信远程控电脑</a> (InfoQ)
+  腾讯跨平台效率工具 QClaw 开启公测，主打 20 秒极速安装与微信远程控制。该工具整合了文件传输、远程控制等功能，适合需要轻量级远程办公场景的用户。</li>
+<li><a href="https://github.com/arnoldrobbins/LinuxByExample-2e">Linux Applications Programming by Example: The Fundamental APIs</a> (Hacker News)
+  一本关于 Linux 应用编程的开源书籍发布了第二版，详细讲解了 Linux 核心 API。适合想要深入理解 Linux 系统编程底层原理的开发者作为案头参考书。</li>
+<li><a href="https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx">我把 MiniMax M2.7 扔进真实业务里：它替我省了 BI 和程序员的钱</a> (InfoQ)
+  一篇关于 MiniMax 最新模型 M2.7 的实战评测，作者将其应用于真实业务场景。文章详细记录了模型在 BI 分析与代码生成方面的表现，为国产大模型落地提供了参考案例。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>

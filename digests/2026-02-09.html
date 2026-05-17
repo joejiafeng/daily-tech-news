@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-02-09</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-02-09</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-02-09</h1>
+<p>2026年2月9日，科技圈焦点集中在AI与机器人领域的突破性进展。韩国交易所发生惊天乌龙，Claude Opus 4.6则在编程领域展现惊人实力。同时，千问App因活动火爆导致宕机，再次验证了AI应用的巨大流量潜力。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3675308250506115?f=rss">韩国加密货币交易所Bithumb误发超400亿美元比特币</a> (36kr)
+  韩国加密货币交易所Bithumb因系统故障误发62万枚比特币，价值超400亿美元，虽然交易被迅速回滚，但暴露了中心化交易所风控系统的脆弱性。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/NPCsobRV3mTlFpYgZh1s?utm_source=rss&amp;utm_medium=article">16个Agent组队，两周干翻37年GCC</a> (InfoQ)
+  Claude Opus 4.6 首秀惊人，16个Agent协作两周内用Rust重写了拥有37年历史的GCC编译器核心，成功编译Linux内核并运行Doom，展示了AI在复杂系统编程中的巨大潜力。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3672535692059273?f=rss">千问回应“春节30亿免单”页面崩了</a> (36kr)
+  千问APP“春节30亿免单”活动上线后因流量过大导致页面崩溃，官方回应称正在紧急加资源。此外，其红包分享链接也被微信屏蔽，反映了平台间流量争夺的激烈。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3672535692059273?f=rss">英伟达据悉今年或将不推出任何新游戏显卡</a> (36kr)
+  消息称英伟达今年可能不会发布任何新的游戏显卡，这意味着RTX 50系列可能要等到2027年。此举或许与公司重心转向AI数据中心及产能分配有关。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3673532021105283?f=rss">王慧文“点将”Clawdbot，我们和一位中国Clawdbot创业者聊了聊</a> (36kr)
+  美团联合创始人王慧文发布英雄帖，瞄准当下最火的Clawdbot（现改名为“OpenClaw”）赛道，积极投资、攒聚人才，显示出其对具身智能机器人赛道的强烈看好和投入。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.infoq.cn/article/sENVOV0ITGMHaOVDF5MT?utm_source=rss&amp;utm_medium=article">“公司终局是纯 AI、纯机器人！”马斯克酒后激进预言</a> (InfoQ)
+  马斯克在酒后发表激进言论，预言未来公司将完全由AI和机器人组成，并提到Starship将实现一小时一发，Optimus将自我复制以降低成本，描绘了极端自动化的未来图景。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3675484021498757?f=rss">小红书正研发视频剪辑类AI产品OpenStoryline</a> (36kr)
+  小红书技术团队正在研发基于AI智能体的视频剪辑产品OpenStoryline，支持对话剪辑。这表明内容平台正通过AI工具降低创作门槛，进一步争夺短视频市场份额。</p>
+</li>
+<li>
+<p><a href="https://eclecticlight.co/2026/01/30/more-malware-from-google-search/">More Mac malware from Google search</a> (Hacker News)
+  谷歌搜索结果中再次出现针对Mac用户的恶意软件，通过伪装成合法应用诱导下载。这提醒用户，即使在使用macOS时，也需对搜索结果保持警惕，不可盲目信任。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3675454204994179?f=rss">日东纺拟年内上调T型玻纤价格</a> (36kr)
+  受AI芯片需求爆发影响，T型玻璃纤维布供应趋紧，主要供应商日东纺计划年内上调价格，涨幅或达25%。这预示着AI硬件成本的上涨可能将传导至消费电子终端。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/7KwNvRQgcWYJi7aPlGLo?utm_source=rss&amp;utm_medium=article">TypeScript 之父 Anders Hejlsberg：别折腾“AI新语言”了</a> (InfoQ)
+  Anders Hejlsberg认为，真正的变革不在于创造新的AI编程语言，而在于IDE将让位于AI Agent。开发者将更多地与Agent交互，而非直接编写代码，标志着开发范式的根本转变。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://github.com/mitchellh/vouch">Vouch</a> (Hacker News)
+  由HashiCorp创始人Mitchell Hashimoto发布的新工具，旨在简化身份验证流程。虽然具体功能细节尚在完善，但鉴于作者的影响力，该项目在开发者社区引起了广泛关注。</p>
+</li>
+<li>
+<p><a href="https://github.com/stablyai/agent-slack">Show HN: Slack CLI for Agents</a> (Hacker News)
+  一个专为Slack设计的Agent命令行工具，允许用户在Slack中直接与Agent交互。由于团队工作流高度依赖Slack，该工具填补了MCP协议之外的集成空白，提升了办公自动化效率。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/m3ty3OAyVmyJMhaiFL8M?utm_source=rss&amp;utm_medium=article">挑战 Claude Code，9.5 万星！又一款开源 AI 编程神器火了</a> (InfoQ)
+  一款新兴的开源AI编程工具迅速走红，GitHub星标突破9.5万，被视为Claude Code的有力挑战者。它提供了强大的代码生成和补全功能，为开发者提供了除商业产品之外的优质选择。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/ZzvIZlrHj7PqMKQSuaqT?utm_source=rss&amp;utm_medium=article">Astro发布了版本6 Beta版</a> (InfoQ)
+  Astro 6 Beta版本发布，重新设计了开发服务器，并提供了对Cloudflare Workers的一流支持。此次更新旨在提升构建性能和边缘计算体验，适合现代Web开发者关注。</p>
+</li>
+<li>
+<p><a href="https://sandboxspirit.com/blog/art-of-roads-in-games/">Art of Roads in Games</a> (Hacker News)
+  这篇文章深入探讨了游戏开发中道路设计的艺术与技术。从几何构造到纹理处理，分析了如何创建逼真的虚拟道路，是游戏开发者和图形学爱好者的优质阅读材料。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-4.7 自动生成
+        </div>
+    </footer>
+</body>
+</html>
