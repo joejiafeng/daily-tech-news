@@ -1,0 +1,216 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-05-23</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-05-23</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-05-23</h1>
+<p>AI 商业化成本与估值齐飞，硬件生态与底层工具悄然演进。从微软对 AI 成本的反思到 Anthropic 冲刺 9000 亿美元估值，资本与技术的博弈进入新阶段；同时，开发者工具与端侧混合 AI 方案正为下一波应用落地铺路。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://36kr.com/newsflashes/3821194878947715">Anthropic 最快下周完成逾 300 亿美元融资轮</a> (36kr)
+  Anthropic 即将完成超 300 亿美元融资，估值突破 9000 亿美元，有望超越 OpenAI 成为全球估值最高 AI 初创。红杉等顶级机构领投，标志着大模型赛道资本集中度进一步加剧。</li>
+<li><a href="https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/">微软报告称 AI 比人工更昂贵</a> (Hacker News)
+  微软指出当前使用 AI 的成本仍高于雇佣人类员工，这直接挑战了“AI 无限降本”的行业预设。Token 消耗与 Agent 运行的高昂算力开销，成为 AI 深度商业化必须跨越的鸿沟。</li>
+<li><a href="https://36kr.com/newsflashes/3821193075954054">SpaceX 星舰实施第 12 次试飞</a> (36kr)
+  SpaceX 新一代重型运载火箭“星舰”第 12 次试飞成功升空。此次启用新版飞船与助推器、搭载升级版“猛禽”发动机，并首次使用重新设计的发射台，旨在真实飞行环境中验证新系统性能。</li>
+<li><a href="https://36kr.com/p/3821371042877575?f=rss">北大孵化机器人“大脑芯片”企业获数亿元融资</a> (36kr)
+  维泛智能完成数亿元种子轮融资，专注具身智能“大小脑”融合芯片。该项目孵化自北大类脑芯片实验室，融资由中关村资本等领投，显示资本市场对底层算力与机器人核心硬件的持续重仓。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://36kr.com/newsflashes/3821197146722696?f=rss">英特尔推出混合 AI 解决方案 SuperClaw</a> (36kr)
+  英特尔推出主打隐私与低成本的混合智能体方案 SuperClaw。采用本地优先架构，降低 70% 云端 Token 消耗，并以 99% 准确率识别敏感信息，预示端云协同与隐私保护正成为 AI 落地新趋势。</li>
+<li><a href="https://36kr.com/newsflashes/3821221746266498?f=rss">星巴克叫停 AI 库存自动盘点工具</a> (36kr)
+  星巴克上线仅 9 个月的 AI 库存盘点工具因频繁出错被叫停。这表明 AI 在传统实体业务场景的落地仍存挑战，视觉识别等技术在复杂非标环境中的鲁棒性亟待提升，盲目迷信 AI 不可取。</li>
+<li><a href="https://36kr.com/p/3820298219425924?f=rss">江行智能：物理 AI 从实验室走向规模化落地</a> (36kr)
+  中国工业物理 AI 的优势在于场景密度与基建底座。江行智能提出三层模型并在电网巡检落地，核心算法准确率达 99%。说明工业 AI 的壁垒不在于参数规模，而在于对垂直行业的深度理解。</li>
+<li><a href="https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/">CISA 试图遏制数据泄露</a> (Hacker News)
+  美国网络安全和基础设施安全局正面临严重数据泄露危机，议员要求给出解释。作为国家级网安机构自身失守，凸显出在日益复杂的攻击面前，即使是安全监管机构也面临极大的防御压力。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://deno.com/blog/v2.8">Deno 2.8 发布</a> (Hacker News)
+  Deno 2.8 版本正式发布，为 JavaScript/TypeScript 运行时带来重要更新。开发者在构建现代 Web 应用时可关注其新特性，进一步提升开发效率与运行时性能表现。</li>
+<li><a href="https://www.kanbots.dev/">开源看板桌面应用：每张卡片运行并行 Agent</a> (Hacker News)
+  Kanbots 是一款开源的看板桌面应用，创新性地在每个卡片上运行并行 Agent。将 AI Agent 深度融入项目管理工具，为开发者提供了一种自动化工作流编排的新思路与实用工具。</li>
+<li><a href="https://www.anthropic.com/research/glasswing-initial-update">Project Glasswing：Anthropic 初步更新</a> (Hacker News)
+  Anthropic 发布 Project Glasswing 初步更新，披露了其在模型可解释性与机制研究方面的最新进展。对于关注大模型底层运作原理与安全对齐的研究者，这是一篇极具深度的必读技术长文。</li>
+<li><a href="https://sspai.com/post/110044">浏览器扩展合集：6 款实用有趣的新玩意</a> (sspai)
+  少数派整理了近期 6 款实用且有趣的浏览器扩展。通过这些小工具，用户可以有效增强浏览器的功能性与可玩性，是提升日常数字生活效率与体验的实用指南。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
