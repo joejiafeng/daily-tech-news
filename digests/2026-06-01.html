@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-06-01</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-06-01</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-06-01</h1>
+<p>今日科技圈迎来多项重磅发布与行业转折。英伟达新一代Vera Rubin平台全面投产，并推出DSX平台加速AI工厂落地；AI编程工具计费模式迎来巨变，Copilot正式转向Token计费；同时，数据安全与具身智能领域的新动态也值得开发者与产业界密切关注。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3834124762589061?f=rss">英伟达新一代平台Vera Rubin已全面投产</a> (36kr)
+  英伟达CEO黄仁勋宣布Vera Rubin平台全面投产，采用美光等三家HBM内存，提供机柜级AI工厂底座。其供应链规模达上一代Blackwell两倍，组装效率大幅提升，Anthropic与OpenAI等将率先采用新款Vera芯片。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1216878">今日，Copilot正式转向Token计费</a> (V2EX)
+  GitHub Copilot于UTC零点准时变更计费模式，正式转向Token计费并更新了模型价格文档。此举结束了其作为唯一不按Token计费AI平台的历史，将深刻影响开发者的AI编程工具使用成本与习惯。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3833985105782402?f=rss">苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移</a> (36kr)
+  苹果代工厂龙旗南昌工厂引入两台智元精灵G2人形机器人，承担平板产线上下料作业，工作节拍已接近熟练员工。这标志着人形机器人正式融入3C制造产线，或引发制造业产能的深刻变革。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3834096288917382?f=rss">蔚来5月交付37705辆汽车，同比增长62.3%</a> (36kr)
+  蔚来公布5月交付数据达37705辆，同比增长62.3%，今年累计交付超15万台。同时小鹏5月交付32158辆，环比增长4%。造车新势力交付量持续攀升，显示新能源汽车市场需求依然强劲。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3834080621848451?f=rss">英伟达CEO黄仁勋：Token就是资产，已成为获利的营收单位</a> (36kr)
+  黄仁勋在Gtc Taipei 2026指出，Token不仅是代码单位，更是能制造利润的资产。AI公司需建造更多AI工厂来生产Token，这解释了算力需求的火箭式飙升，揭示了AI产业商业模式的本质转变。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3834037865146249?f=rss">英特尔拟年底前推出新AI芯片，将使用更便宜内存与风冷技术</a> (36kr)
+  英特尔计划年底推出“Crescent Island”GPU，主打AI推理任务，采用比竞品更便宜的内存与风冷技术。在英伟达主导训练芯片市场的背景下，英特尔选择从推理侧与成本控制切入，差异化竞争意图明显。</p>
+</li>
+<li>
+<p><a href="https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration">ChatGPT for Google Sheets exfiltrates workbooks</a> (Hacker News)
+  安全研究发现，Google Sheets的ChatGPT插件存在数据泄露风险，可将用户工作簿数据外泄。这再次敲响AI工具安全警钟，第三方AI插件在提升办公效率的同时，其数据权限与隐私保护机制亟待审视。</p>
+</li>
+<li>
+<p><a href="https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0">What if remote working, not AI, is to blame for weak junior hiring?</a> (Hacker News)
+  文章探讨初级开发者招聘疲软的真正原因，指出远程办公可能比AI替代更该背锅。远程模式削弱了新人的指导与成长环境，导致企业不愿培养初级人才，这为理解当前开发者就业困境提供了产业视角的补充。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://github.com/viggy28/streambed">Show HN: Streambed – Stream Postgres to Iceberg on S3</a> (Hacker News)
+  Streambed是一款开源工具，支持将Postgres数据流式传输到S3上的Iceberg数据湖，并兼容Postgres Wire协议。为开发者提供了一种高效、低成本构建实时数据管道与数据湖架构的实用方案。</p>
+</li>
+<li>
+<p><a href="https://prismml.com/news/bonsai-image-4b">1-Bit Bonsai Image 4B Image Generation for Local Devices</a> (Hacker News)
+  Bonsai Image 4B发布，这是一款专为本地设备设计的40亿参数1-Bit图像生成模型。通过极低比特量化技术，大幅降低显存与算力需求，使端侧设备运行高质量AI生图成为可能，适合本地AI开发者关注。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1216881">Codex账号触发风控，要求手机号验证但原号码不可用导致无法登录</a> (V2EX)
+  有用户反馈Codex账号触发风控陷入死循环：需手机号验证但原接码平台号码已失效。这暴露出AI工具账号风控与接码注册间的冲突，建议开发者尽量使用正规实名手机号绑定核心生产力AI账号，避免资产丢失。</p>
+</li>
+<li>
+<p><a href="https://darylcecile.net/notes/speed-of-prototyping-age-of-ai">The Speed of Prototyping in the Age of AI</a> (Hacker News)
+  本文探讨了AI时代下原型开发速度的质变。AI工具极大缩短了从想法到可用原型的周期，改变了传统开发流程与试错成本。文章对开发者如何利用AI加速产品验证、重塑敏捷开发思维具有很好的启发意义。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
