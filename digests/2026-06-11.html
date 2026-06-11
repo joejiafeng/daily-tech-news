@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-06-11</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-06-11</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-06-11</h1>
+<p>今日科技圈动态频出，字节AI制药业务启动拆分融资，标志着AI4S进入产业化新阶段；Anthropic新模型Fable因安全护栏与数据留存政策引发争议；半导体与具身智能领域持续吸金，开源工具与模型生态亦迎来重要更新。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://36kr.com/p/3846956646124036?f=rss">字节AI制药开启拆分融资，AI4S进入产业化阶段</a> (36kr)
+  字节跳动AI制药业务线已启动拆分与独立融资，拆分后字节仍将控股。核心团队、算法及管线资产将整体进入新主体，并继续获火山引擎算力支持，标志着AI for Science走向产业化深水区。</li>
+<li><a href="https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models">Anthropic要求Fable和Mythos类模型保留30天数据</a> (Hacker News)
+  Anthropic宣布对Fable和Mythos类模型实施30天数据留存政策。此举引发开发者对隐私与数据控制权的担忧，可能影响企业级客户在敏感场景下的模型选型与部署策略。</li>
+<li><a href="https://36kr.com/p/3846789531404549?f=rss">清华系团队做出全球首个实时理解生理与情绪的基座模型</a> (36kr)
+  微面科技完成顺为资本投资的数百万美元融资，推出全球首个实时理解生理与情绪的基座模型。该模型打破AI极度依赖显性输入的局限，通过感知非语言信息打造新一代人机交互范式。</li>
+<li><a href="https://36kr.com/newsflashes/3848289916196100?f=rss">Omdia：第一季度半导体市场营收突破3000亿美元</a> (36kr)
+  2026年Q1半导体营收环比增长27%达3190亿美元，存储器营收环比增幅超80%成为核心推力。预计Q2增长势头延续，半导体产业在AI算力需求拉动下进入强劲复苏周期。</li>
+<li><a href="https://www.huxiu.com/article/4866312.html?f=rss">《置身钉内》引发钉钉巨震，90后陈宇森出任CEO</a> (虎嗅)
+  阿里钉钉发生重大人事变动，无招下马，90后陈宇森上位成为阿里最年轻的事业部CEO。此次换帅旨在应对内部危机与外部竞争，为钉钉在AI时代的协同办公红海中寻找新突破口。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/">网络安全研究员对Anthropic Fable的安全护栏表示不满</a> (Hacker News)
+  Anthropic新模型Fable的安全限制引发安全社区反弹。过度严苛的护栏阻碍了安全漏洞测试与红队演练，凸显出AI厂商在保障安全与不妨碍合法安全研究之间难以平衡的困境。</li>
+<li><a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/">AI Agent在Fedora等系统中失控</a> (Hacker News)
+  AI智能体在Fedora等系统运行中出现失控现象，为当前火热的Agent开发敲响警钟。随着AI自主执行权限扩大，系统级沙箱隔离与权限边界控制成为亟待解决的底层安全问题。</li>
+<li><a href="https://www.v2ex.com/t/1219506">存储行业萎缩致招聘难：技术栈更迭的因果循环</a> (V2EX)
+  因2015年后行业转云和k8s，存储需求断崖下降致人才断层。如今卡32岁年龄限制，反使符合要求的新人极难寻觅，折射出技术栈变迁对人才结构的深远影响与招聘脱节。</li>
+<li><a href="https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838">Transformer注意力机制存在执行控制缺陷</a> (Hacker News)
+  最新研究指出Transformer注意力机制存在执行控制缺陷，这从认知机理上解释了大模型在复杂逻辑推理和长上下文处理中易“分心”或幻觉的原因，为下一代架构演进指明方向。</li>
+<li><a href="https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability">PyCharm不安全的代码补全是否为漏洞？</a> (Hacker News)
+  开发者探讨IDE中AI代码补全的潜在安全隐患。若模型在补全时引入不安全代码模式或恶意依赖，可能成为供应链攻击的新入口，提示开发者在提效同时需加强代码审查。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://bytecodealliance.org/articles/the-road-to-component-model-1-0">WASM Component Model 1.0 之路</a> (Hacker News)
+  WebAssembly组件模型迎来1.0里程碑，该规范允许不同语言编写的WASM模块无缝互操作。这将极大推动WASM在服务端与边缘计算生态的繁荣，构建真正的跨语言组件复用架构。</li>
+<li><a href="https://www.extend.ai/ui">Show HN: Extend UI – 面向现代文档应用的开源UI套件</a> (Hacker News)
+  Extend UI开源了14个现代文档应用组件，支持PDF、DOCX和XLSX查看器，及边界框引用、文件上传与电子签名等功能。采用MIT协议，为开发者构建文档处理工具提供极大便利。</li>
+<li><a href="https://www.v2ex.com/t/1219388">剪贴板内容自动存储并同步Git的工具</a> (V2EX)
+  开发者推出剪贴板自动存储与Git同步工具，支持MacOS/Windows/Android。用户复制或截图的内容可自动存入Git仓库，特别适合与AI交互时沉淀知识，打造个人轻量级知识库。</li>
+<li><a href="https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html">CSS：无法避免的糟糕部分</a> (Hacker News)
+  一篇深度长文剖析CSS设计中那些“无法避免的糟糕部分”。文章从语言设计角度解析CSS历史包袱与工程妥协，帮助前端开发者理解其底层逻辑，从而在工程实践中更从容地规避陷阱。</li>
+<li><a href="https://www.adafruit.com/product/6125?src=raspberrypi">树莓派 5 推出 16GB 内存版本</a> (Hacker News)
+  树莓派5正式推出16GB RAM版本，大幅提升内存容量。这使得在边缘设备上本地运行大语言模型、处理复杂数据集或运行重度容器化服务成为可能，进一步拓宽了创客与开发者的硬件边界。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
