@@ -1,0 +1,218 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-06-15</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-06-15</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-06-15</h1>
+<p>今日科技圈风起云涌，SpaceX挂牌上市与智谱开源GLM-5.2模型成为焦点，而Fable 5模型因禁令火速下线则引发AI安全深思。资本层面，海洋具身智能与柔性机器人赛道接连刷新融资纪录，硬科技持续吸金。工具侧，离线转录与网页归档等实用项目为开发者带来新选择。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://36kr.com/newsflashes/3853947992921094?f=rss">智谱推出最新一代旗舰模型GLM-5.2</a> (36kr)
+  智谱宣布推出最新旗舰模型GLM-5.2，提供1M长上下文并在长程任务中保持领先。该模型遵循MIT协议开源，预计将显著降低开发门槛，并大幅助益其开放平台及API业务的调用量提升。</li>
+<li><a href="https://sspai.com/post/111045">SpaceX正式挂牌，市值达2.1万亿美元</a> (sspai)
+  SpaceX正式登陆纳斯达克，发行价13美元，市值高达2.1万亿美元。马斯克在星舰基地远程敲钟，标志着这家致力于火星移民的太空巨头迈入新阶段，但也引发了市场对巨无霸IPO抽血流动性的担忧。</li>
+<li><a href="https://36kr.com/p/3853011900142848?f=rss">海洋具身智能公司「世航智能」拿下创纪录10亿融资</a> (36kr)
+  海洋具身智能公司世航智能完成超10亿元A轮融资，创全球海洋机器人领域单轮最大规模。摩尔线程、昆仑芯等产业方及金沙江创投等入局，显示资本对海洋机器人这一具身智能细分赛道的高度看好。</li>
+<li><a href="https://sspai.com/post/111045">Fable 5 和 Mythos 5 模型因美国商务部禁令下线</a> (sspai)
+  Fable 5模型发布仅72小时即因美国商务部禁令被迫下线。该事件凸显了前沿AI模型在安全合规与监管层面的巨大不确定性，AI狂奔背后的监管刹车正对行业产生直接且深远的影响。</li>
+<li><a href="https://36kr.com/newsflashes/3853914162992134?f=rss">我国攻克硅基量子芯片关键材料</a> (36kr)
+  我国科学家首次实现丰度超99.99%的硅-28同位素自主量产，关键指标达国际先进水平。这一“纯硅”突破解决了硅基量子芯片的材料卡脖子难题，为自主可控的量子计算产业打下坚实基础。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://36kr.com/p/3853016586359817?f=rss">VLA不会死，但世界模型是未来</a> (36kr)
+  智源研究院院长指出，具身智能暴露了当前AI在物理世界的短板，机器人懂识别却不懂物理预判。世界模型正试图补齐这一缺陷，从学术热词变为行业刚需，这决定了具身智能能否真正走向通用。</li>
+<li><a href="https://www.v2ex.com/t/1220413">怎么通俗地和老板解释：国外的旗舰模型到底强在哪里？</a> (V2EX)
+  国内模型与国外旗舰模型在编程等复杂任务上仍存显著差距。研发团队在申请采购预算时常遇阻力，这反映出企业对AI工具提效的认知滞后，不愿为顶级AI付费可能最终导致团队在效率竞争中被淘汰。</li>
+<li><a href="https://36kr.com/p/3846972367866119?f=rss">AI时代留学就业白皮书：学历溢价与信息差正系统性失效</a> (36kr)
+  AI浪潮正重塑全球就业逻辑，大量高薪专业基础性任务面临被批量替代的风险。传统留学路径依赖的学历溢价骤降，年轻一代陷入人机协同时代“何以确立不可替代价值”的身份焦虑，技能重塑迫在眉睫。</li>
+<li><a href="https://36kr.com/newsflashes/3853862209099011?f=rss">美国顶级基金经理：巨无霸IPO引发流动性紧缩，纳指恐跌35%</a> (36kr)
+  通胀压力叠加SpaceX等巨无霸IPO抽血，正引发市场流动性紧缩。半导体和成长股近期大幅波动，顶级基金经理警告纳指年内恐跌35%，科技股的高估值在流动性收紧周期下面临严峻考验。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://traceapp.info">Show HN: Trace – 离线Mac会议转录工具</a> (Hacker News)
+  Trace是一款非侵入式、快捷键驱动的Mac应用，支持在设备端本地录音并转录会议内容。其核心亮点在于全程离线运行保障隐私，且支持在通话中实时标记重点，极大提升了会后复盘与信息检索效率。</li>
+<li><a href="https://github.com/tamnd/kage">Show HN: Kage – 将任意网站打包为单文件离线查看</a> (Hacker News)
+  Kage能将任意网站镜像为单个二进制文件供离线浏览。对于需要存档网页、保存交互式文档或进行无网环境演示的用户而言，该工具极大简化了网页资源的打包与分发流程，非常实用。</li>
+<li><a href="https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0">TorchCodec 0.14: 支持HDR视频与CUDA加速解码</a> (Hacker News)
+  Meta发布的TorchCodec 0.14版本引入了CPU和CUDA的HDR视频解码支持，并附带快速Wav解码器。这对AI视觉研究者处理高质量视频训练数据及多媒体开发者处理高动态范围内容意义重大。</li>
+<li><a href="https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1">形式化方法与编程的未来</a> (Hacker News)
+  Jane Street深研形式化方法在编程中的应用。文章探讨了如何通过数学证明保障代码正确性，随着系统复杂度飙升，传统测试已触及天花板，形式化方法正从金融等高危领域走向更广泛的工程实践，值得深读。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
