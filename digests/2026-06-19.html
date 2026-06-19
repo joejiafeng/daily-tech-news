@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-06-19</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-06-19</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-06-19</h1>
+<p>今日科技圈动态不断，AI 应用与安全治理仍是核心焦点。Anthropic 承诺加强安全沟通以解监管之忧，Waymo 则因安全隐患召回数千辆自动驾驶出租车；产业侧，穹彻智能与芯生视界斩获新融资，SpaceX 拟发行巨额债券；工具侧，MCP 零接触 OAuth 与多款实用开发工具值得关注。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3859408242004996">Anthropic 承诺加强与美政府沟通以解 AI 安全隐患</a> (36kr)
+  因高性能 AI 模型存在安全隐患遭监管整治，Anthropic 向美商务部提交方案，承诺与白宫深度合作以尽快消除风险。此举凸显 AI 安全已成为监管红线，合规沟通将直接影响前沿模型的商业化进程。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3859411565532422">Waymo 因驶入施工路段风险召回 3800 余辆自动驾驶出租车</a> (36kr)
+  Waymo 宣布召回数千辆搭载第五代系统的自动驾驶出租车，隐患为车辆可能无法识别封闭标识而高速闯入施工区域。此次召回再次表明，L4 级自动驾驶在应对长尾边缘场景时仍存技术短板。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3859573996983560">SpaceX 拟发行至少 200 亿美元潜在债券</a> (36kr)
+  在完成创纪录 IPO 后，SpaceX 承销行正筹备至少 200 亿美元的债券发行，最快下周一启动，募集资金将用于对到期过桥贷款进行再融资。此举将极大扩充其资金储备，支撑星舰与星网计划。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3856708724315400?f=rss">穹彻智能完成数亿元融资，具身智能赛道持续吸金</a> (36kr)
+  具身智能企业穹彻智能完成数亿元新融资，由无锡数据集团及上海交大等机构投资。红杉与阿里曾押注的该公司，正加速具身大脑研发，资本涌入显示具身智能正从学术走向产业落地关键期。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3855480467543042?f=rss">北大科学家下场做脑机接口，芯生视界种子轮融近亿元</a> (36kr)
+  侵入式脑机接口公司芯生视界完成近亿元种子轮融资，经纬创投领投。公司由北大科学家创立，在瘫痪治疗等医疗场景已验证安全有效，AI 与具身智能的进化也进一步放大了脑机接口的想象空间。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.v2ex.com/t/1221368">我司为强制使用 AI 开发实施的新绩效考核办法</a> (V2EX)
+  某公司按 AI 模型调用次数/token 数从高到低排名强制考核，后 1/4 扣 10 分。这种唯 token 论的 KPI 暴露出管理层对 AI 的误解，AI 生产力提升在于质量而非盲目调用量，畸形考核可能适得其反。</p>
+</li>
+<li>
+<p><a href="https://www.huxiu.com/article/4868671.html?f=rss">吴恩达戳破 Agent 狂奔事实：写代码不再是稀缺能力</a> (huxiu)
+  随 AI 编程能力飙升，写代码本身已非稀缺资源，真正稀缺的是“知道该写什么”的系统设计与需求定义能力。这标志着开发者角色正从代码执行者向架构决策者转变，提示工程与业务理解愈发关键。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3859409625256963">亚马逊员工公开批评数据中心扩张遭内部调查</a> (36kr)
+  五名亚马逊工程师公开反对 AI 数据中心疯狂扩张并呼吁监管，随后遭公司内部调查。这反映了科技巨头内部在 AI 算力扩张与环保/社区责任间的深层撕裂，员工发声正面临企业利益考验。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3859404287480835">瑞典呼吁禁止特斯拉 FSD 在欧盟落地，除非禁用超速功能</a> (36kr)
+  瑞典交通局建议反对特斯拉 FSD 监督版在欧盟推广，除非取消其无视限速功能。这表明欧洲监管对自动驾驶的安全容忍度极低，FSD 若想进入欧洲市场，必须向当地严苛交规妥协重构逻辑。</p>
+</li>
+<li>
+<p><a href="https://www.huxiu.com/article/4868704.html?f=rss">陪跑 AI 项目后的 6 个生死关：AI 落地仍存挑战</a> (huxiu)
+  长文总结了 AI 项目落地的 6 大生死关，揭示从技术验证到商业变现的残酷现实。AI 不是万能药，数据质量、场景匹配与组织适配等非技术因素，往往才是决定项目成败的关键。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/">Zero-Touch OAuth for MCP</a> (Hacker News)
+  MCP 协议推出零接触 OAuth 企业级托管认证，极大简化了 Agent 调用外部工具时的授权流程。开发者无需再处理繁琐的鉴权逻辑，即可实现安全无缝的 API 交互，是构建企业级 AI Agent 的关键基础设施。</p>
+</li>
+<li>
+<p><a href="https://www.greybeam.ai/blog/duckdb-internals-part-1">DuckDB Internals: Why Is DuckDB Fast? (Part 1)</a> (Hacker News)
+  深度解析 DuckDB 高性能的内部机制，涵盖其向量化执行引擎与列式存储设计。对于需要本地极速分析的数据工程师而言，理解其底层原理有助于更好地优化查询性能，是数据库调优的必读长文。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1221330">MD Preview 全平台上线：专为 AI 生成 Markdown 文档的本地预览器</a> (V2EX)
+  开发者分享自研小工具 MD Preview，现已覆盖 Win/Mac/Linux/Android/iOS。它主打 Read-first 本地预览，专为解决 AI 生成的 Markdown 文档查看痛点设计，轻量无侵入，是处理 AI 输出的实用利器。</p>
+</li>
+<li>
+<p><a href="https://simonwillison.net/2026/Jun/18/datasette-apps/">Datasette Apps: 在 Datasette 内托管自定义 HTML 应用</a> (Hacker News)
+  Simon Willison 推出 Datasette Apps，允许开发者在 Datasette 内直接托管自定义 HTML 应用。这使轻量级数据发布与交互式可视化构建更加便捷，无需额外部署前端服务即可快速搭建数据应用。</p>
+</li>
+<li>
+<p><a href="https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/">CS 6120: Advanced Compilers 自学在线课程</a> (Hacker News)
+  康奈尔大学高级编译器课程开放自学版，涵盖现代编译器前沿技术。对于想深入理解编程语言底层优化、代码生成与类型系统的开发者，这是一份不可多得的系统级硬核学习资源。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
