@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-06-25</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-06-25</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-06-25</h1>
+<p>今日科技圈风云激荡，OpenAI 首款自研 AI 推理芯片正式亮相，Anthropic 指控阿里非法提取模型能力引发行业震动；国内资本市场半导体板块全线走强，科创50指数大涨；同时，AI 代码工具与开源生态持续繁荣，开发者迎来效率与成本的新博弈。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/">OpenAI unveils its first custom chip, built by Broadcom</a> (Hacker News)
+  OpenAI 联合博通发布了首款自研 AI 推理芯片 Jalapeño，标志着 OpenAI 正式切入硬件底层，旨在降低推理成本并摆脱对英伟达的绝对依赖，对 AI 算力格局影响深远。</li>
+<li><a href="https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/">Anthropic says Alibaba illicitly extracted Claude AI model capabilities</a> (Hacker News)
+  Anthropic 指控阿里巴巴非法提取其 Claude AI 模型能力，此事件再次凸显了 AI 巨头间围绕模型知识产权与数据提取的激烈冲突，可能引发行业合规与监管新波澜。</li>
+<li><a href="https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/">Qualcomm to Acquire Modular</a> (Hacker News)
+  高通宣布收购 AI 初创公司 Modular（Mojo 语言开发商），此举意在强化高通在端侧 AI 编译与推理生态的布局，加速 AI 在移动与边缘设备上的原生部署。</li>
+<li><a href="https://36kr.com/newsflashes/3868027429000193?f=rss">科创50指数涨幅扩大至4%</a> (36kr)
+  A股科创50指数大涨4%，佰维存储、海光信息等半导体个股涨幅居前；沪深两市成交额突破2万亿元，资金加速涌入硬科技板块，国产替代逻辑持续强化。</li>
+<li><a href="https://36kr.com/newsflashes/3868014159238407?f=rss">我国发电装机突破40亿千瓦</a> (36kr)
+  国家能源局宣布我国发电装机达40.1亿千瓦稳居全球首位，非化石能源装机占比升至62%，煤电降至32%，能源结构实现历史性反转，绿电转型迈出决定性一步。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/">Computer use in Gemini 3.5 Flash</a> (Hacker News)
+  谷歌在 Gemini 3.5 Flash 中引入计算机使用能力，AI 从对话助手进化为能直接操作图形界面的智能体，标志着 AI Agent 向真实工作流自动化迈出了关键一步。</li>
+<li><a href="https://www.v2ex.com/t/1222513">公司搞 token 调用排名了，使用率低的影响绩效考核</a> (V2EX)
+  有公司对内部 32B 模型搞 token 调用排名，调用量低者影响绩效。这反映了企业推行 AI 强制落地时的畸形管理，AI 时代开发者沦为刷量牛马，违背了技术提效的初衷。</li>
+<li><a href="https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open">GLM-5.2 is a step change for open agents</a> (Hacker News)
+  GLM-5.2 被视为开放智能体的质变，其核心在于大幅提升了 Agent 的可用性与复杂任务执行能力，预示着开源模型在端到端智能体应用中正快速逼近甚至超越闭源水平。</li>
+<li><a href="https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley">Zombie unicorns are haunting Silicon Valley</a> (Hacker News)
+  硅谷正被“僵尸独角兽”困扰，高息环境下无法上市也难盈利的企业僵而不死。这折射出创投市场退出通道受阻，资本正被迫从盲目扩张转向审视商业本质与健康度。</li>
+<li><a href="https://www.huxiu.com/article/4870118?f=rss">2026，10000个中国版Codex 大乱斗</a> (虎嗅)
+  国内 Codex 中转站与套壳应用呈井喷之势，V2EX 上相关推广泛滥。这揭示了 AI 应用同质化竞争的惨烈现状，底层算力依赖与上层创新匮乏的矛盾日益凸显。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://rubyllm.com/">RubyLLM: A Ruby framework for all major AI providers</a> (Hacker News)
+  RubyLLM 是一个支持所有主流 AI 供应商的 Ruby 框架，为 Ruby 开发者提供统一接口，极大降低了在 Rails 等传统生态中集成多模型 AI 能力的门槛。</li>
+<li><a href="https://github.com/wolfoo2931/linkedrecords/">Show HN: Write SaaS apps where users control where their data is stored</a> (Hacker News)
+  LinkedRecords 是一个开源的后端即服务项目，允许用户自行控制数据存储位置。在数据隐私焦虑加剧的当下，为 SaaS 开发者提供了兼顾便利与合规的新范式。</li>
+<li><a href="https://blog.cloudflare.com/oauth-for-all/">Cloudflare launched self-managed OAuth for all</a> (Hacker News)
+  Cloudflare 面向所有用户推出自管理 OAuth 功能，极大简化了第三方应用接入的认证流程，开发者无需深究复杂协议即可快速构建安全的身份验证体系。</li>
+<li><a href="https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html">Optimizing 【sqlx:test】 rebuild time</a> (Hacker News)
+  深度长文探讨如何优化 Rust 中 sqlx 测试的编译重构时间，针对 Rust 数据库编译慢的痛点给出了实用方案，对追求极致开发体验的 Rustacean 极具参考价值。</li>
+<li><a href="https://www.jimmont.com/llm-style-token-costs">What I'm Finding About LLM Code Style and Token Costs</a> (Hacker News)
+  文章分析了 LLM 代码风格与 Token 消耗的关系，揭示了不同代码编写方式如何显著影响 API 成本，为开发者在使用 AI 编程时优化提示词与代码结构提供了实用指南。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
