@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-06-27</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-06-27</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-06-27</h1>
+<p>今日科技圈迎来AI模型与监管的双重地震：OpenAI发布GPT-5.6系列，Anthropic的Mythos 5则获准重新部署至部分美国机构，同时美方将决定GPT-5.6的使用权。产业端，电子行业利润受算力需求爆发推动激增，我国核聚变超导磁体研发也取得国际领先突破。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://36kr.com/newsflashes/3870811056821506">OpenAI开启GPT-5.6系列限量预览</a> (36kr)
+  OpenAI发布下一代模型GPT-5.6系列，包含旗舰Sol、均衡模型Terra及低成本模型Luna。Terra性能与GPT-5.5相当但价格减半，Luna主打极致性价比，全面开放将在未来几周内进行。</li>
+<li><a href="https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/">美国政府将决定GPT-5.6使用权</a> (Hacker News)
+  OpenAI表示，美国政府将对最新AI模型GPT-5.6的用户进行审查与筛选。这意味着前沿AI模型的分发开始受到严格的国家安全与政策监管约束。</li>
+<li><a href="https://36kr.com/newsflashes/3870807206663171">Anthropic获批将Mythos 5重新部署至部分美国机构</a> (36kr)
+  经与美国政府合作，Anthropic的Mythos 5获准重新部署至一批美国机构。公司正继续争取扩大访问并使Fable 5恢复公众使用，标志着AI监管博弈初现曙光。</li>
+<li><a href="https://36kr.com/newsflashes/3870821042312192">1—5月份电子行业利润同比增长103.9%</a> (36kr)
+  国家统计局数据显示，受全球AI技术变革带来的高端算力与存储芯片需求爆发推动，1—5月电子行业利润大增103.9%，成为拉动规上工业企业利润增长的核心动力。</li>
+<li><a href="https://36kr.com/newsflashes/3870820130018562">我国核聚变堆超导磁体研发取得重要突破</a> (36kr)
+  国家重大科技设施聚变堆主机关键系统取得突破，目前全球尺寸最大的聚变堆超导磁体通过验收，高温超导中心螺管线圈核心性能也达国际领先，为未来商用聚变奠定基础。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://www.v2ex.com/t/1223127">Anthropic指控阿里巴巴对Claude进行大规模蒸馏攻击</a> (V2EX)
+  Anthropic致信美国会议员，指控阿里创建近2.5万虚假账户对Claude进行已知最大规模蒸馏攻击。这凸显了闭源与开源模型间数据窃取与版权保护的激烈博弈。</li>
+<li><a href="https://www.v2ex.com/t/1223057">AI革命下普通人的吃亏困局</a> (V2EX)
+  打工人因AI降本增效面临裁员与双倍工作量，小老板被焦虑绑架狂充AI token，消费者承担硬件涨价成本。AI红利分配不均正引发广泛的产业与社会焦虑。</li>
+<li><a href="https://36kr.com/p/3866837793952769">张亚勤：AI不是泡沫，但AI公司有泡沫</a> (36kr)
+  张亚勤院士指出当前具身智能与AI投资创业热潮需降温，AI技术本身具有长期价值，但部分AI公司估值过高。行业应更冷静务实，避免急躁带来的资源错配。</li>
+<li><a href="https://blog.doubleword.ai/frontier-os-llm">闭源与开源LLM的差距正在缩小</a> (Hacker News)
+  随着开源权重模型能力快速追赶，闭源模型凭借规模建立的护城河正受冲击。开源生态的演进将重塑AI产业格局，降低开发者使用门槛并削弱头部闭源厂商的绝对定价权。</li>
+<li><a href="https://spectrum.ieee.org/ai-in-mathematics">AI在数学领域引发重大追问</a> (Hacker News)
+  AI在数学证明中的深度介入，正迫使学界重新审视数学发现本质、人机协作边界及证明可靠性。这不仅是工具升级，更是对人类认知范式与科学哲学的深层挑战。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://github.com/workweave/router">Show HN: Smart model routing直接接入Claude、Codex和Cursor</a> (Hacker News)
+  一款智能模型路由工具，可无缝插入各类编程Agent，根据请求内容自动将任务分配给最合适的模型。有效解决开发者面对多模型时的选择困难，优化调用成本与响应质量。</li>
+<li><a href="https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/">MicroVMs：运行具有完整生命周期控制的隔离沙箱</a> (Hacker News)
+  AWS Lambda推出MicroVMs沙箱运行环境，提供完整生命周期控制。为AI代码执行、安全测试等高风险场景提供轻量且强隔离的运行方案，大幅提升云端执行安全性。</li>
+<li><a href="https://sspai.com/prime/story/create-webview-in-shortcuts">探索快捷指令上限：用网页视图创建丰富界面与交互</a> (sspai)
+  深度教程指导如何突破iOS快捷指令原生UI限制，利用网页视图构建复杂交互界面。为自动化工作流提供更灵活的前端展现方案，极大拓展了快捷指令的实用边界。</li>
+<li><a href="https://github.com/Tessil/hopscotch-map">C++版hopscotch hashing快速哈希表实现</a> (Hacker News)
+  基于hopscotch hashing算法的高性能C++哈希表与哈希集合开源库。在保证高缓存友好性的同时提供优异查找性能，是C++开发者优化底层性能的利器。</li>
+<li><a href="https://github.com/dbos-inc/dbosify-py">Show HN: DBosify——基于Postgres的Temporal替代方案</a> (Hacker News)
+  开源的轻量级工作流编排工具，可直接替换Temporal并基于Postgres运行。降低了微服务架构下分布式工作流管理的复杂度与基础设施成本，适合中小团队快速落地。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
