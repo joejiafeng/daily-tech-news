@@ -1,0 +1,218 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-07-01</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-07-01</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-07-01</h1>
+<p>今日科技圈迎来 AI 模型与产品的集中爆发，Anthropic 连发多款新模型并调整出口管制；国内新能源车企6月交付数据出炉，零跑同比大增近一倍；同时，具身智能与端侧原生 AI 成为资本与产业界的新共识，开发者生态与工具链也在持续演进。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://www.anthropic.com/news/claude-sonnet-5">Anthropic 发布 Claude Sonnet 5 及 Fable 5</a> (Hacker News)
+  Anthropic 正式发布 Claude Sonnet 5，同时宣布 Fable 5 将于明日在 Claude 平台全球上线。美国商务部已解除对 Fable 5 和 Mythos 5 的出口管制，Anthropic 也将扩大“Glasswing”计划，使更多国际合作伙伴获得使用权限。</li>
+<li><a href="https://36kr.com/newsflashes/3876509896962054">零跑汽车6月交付93376台，同比增长95%</a> (36kr)
+  零跑汽车公布6月全球交付量达93376台，同比增长95%，上半年累计交付超35.6万台。与此同时，“蔚小理”也披露了6月成绩单，蔚来交付40597辆同比增62.9%，小鹏交付40126辆同比增15.9%，理想交付30895辆同比下降14.8%。</li>
+<li><a href="https://36kr.com/p/3873626697470985?f=rss">Kimi 估值升至315亿美元，ARR突破3亿美元</a> (36kr)
+  大模型独角兽 Kimi 母公司估值攀升至315亿美元，其年度经常性收入（ARR）已突破3亿美元大关，显示出国产大模型在商业化探索上取得了实质性进展。</li>
+<li><a href="https://36kr.com/newsflashes/3876519322120450?f=rss">宁德时代巧克力换电落地2000座，覆盖180城</a> (36kr)
+  宁德时代旗下巧克力换电宣布上半年全国换电站累计落地2000座，覆盖31省份180城，中小城市覆盖率突破80%，香港首批换电站投入运营。下半年站点总量将冲击3000座，全国首个标准化轻卡换电生态也已同步成型。</li>
+<li><a href="https://36kr.com/newsflashes/3876553479352585?f=rss">美国2026年Q1 PC出货量同比下滑7%</a> (36kr)
+  Omdia 研究显示，2026年第一季度美国PC出货量降至1580万台，创2023年第三季度以来最大跌幅。下滑主要受内存与存储价格大涨带来的成本压力，以及 Windows 11 升级周期结束导致商用需求提前释放的影响。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://36kr.com/p/3875047283659777?f=rss">万亿市场格局未定：「端侧原生」给物理AI新解法</a> (36kr)
+  2026年被产业界视为物理AI元年，英伟达CEO黄仁勋多次强调物理AI的ChatGPT时刻已来。中国AI公司提出“端侧原生”理念，试图打破大模型仅停留在屏幕内的局限，为物理AI在真实世界的落地提供新路径。</li>
+<li><a href="https://36kr.com/p/3875059110221064?f=rss">前百度自动驾驶主任创业，做机器人“世界通行模型”</a> (36kr)
+  具身智能公司纽娲机器人完成5000万元天使轮融资，由蓝湖资本领投。创始人杨睿刚博士曾任百度自动驾驶与机器人实验室主任。公司主攻机器人的“世界通行模型”，半年内连获两轮融资，具身智能赛道正吸引顶尖人才与资本加速涌入。</li>
+<li><a href="https://thereallo.dev/blog/claude-code-prompt-steganography">Claude Code 被发现使用隐写术标记请求</a> (Hacker News)
+  有开发者发现 Claude Code 在处理请求时会采用隐写术进行标记。这一机制可能会在用户不知情的情况下嵌入追踪信息，引发社区对 AI 编程工具透明度、数据隐私及代码生成安全性的广泛担忧。</li>
+<li><a href="https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1">从脑电波到文字：无需手术的脑机通信新路径</a> (Hacker News)
+  Meta 发布 Brain2Qwerty 研究，展示了一条无需外科手术即可通过脑电波转化为文字的通信新路径。该技术结合AI与脑机接口，为失去语言能力的人群带来希望，也标志着非侵入式脑机接口技术取得重要突破。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://github.com/google/copybara">Google Copybara：跨代码库迁移工具</a> (Hacker News)
+  Google 开源的 Copybara 工具主要用于在不同代码仓库之间移动和转换代码。对于需要维护多个分支或进行大规模代码迁移的开发团队而言，该工具能有效解决代码同步与重构的痛点，提升工程效率。</li>
+<li><a href="https://ngrok.com/blog/i-ported-kubernetes-to-the-browser">将 Kubernetes 移植到浏览器中运行</a> (Hacker News)
+  开发者成功将 Kubernetes 移植到浏览器端，推出 Webernetes 项目。该工具让开发者无需本地配置复杂的集群环境即可在浏览器中直接体验和学习 K8s，极大降低了云原生技术的学习门槛与实操成本。</li>
+<li><a href="https://lilianweng.github.io/posts/2026-06-24-scaling-laws/">Scaling Laws, Carefully</a> (Hacker News)
+  Lilian Weng 发布关于大模型 Scaling Laws 的深度长文。文章细致梳理了扩展法则的底层逻辑与边界条件，提醒从业者在算力狂飙时代需谨慎看待规模效应，对理解大模型演进趋势与算力分配极具参考价值。</li>
+<li><a href="https://verdagon.dev/blog/ante-blending-borrowing-rc">Ante：融合借用检查与引用计数的新方式</a> (Hacker News)
+  编程语言 Ante 提出了一种将借用检查与引用计数相融合的内存管理新方案。试图在 Rust 严格的借用检查与 GC 语言的灵活性之间找到平衡点，为系统级编程语言的内存安全设计提供了极具启发性的新思路。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
