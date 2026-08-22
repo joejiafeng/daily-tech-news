@@ -1,6 +1,6 @@
 {
   "llm": {
-    "model": "z-ai/glm-5.3",
+    "model": "deepseek-ai/deepseek-v4-flash-0731",
     "max_tokens": 16384,
     "temperature": 0.6,
     "top_p": 0.8,
