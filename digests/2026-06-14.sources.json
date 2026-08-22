@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T13:00:54.646847+08:00",
+  "generated_at": "2026-06-14T13:03:19.745075+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://juniperspring.org/posts/honda-evil-valet/",
       "summary": "",
       "published": "2026-06-14T08:49:46+08:00",
-      "score": 130
+      "score": 133
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,16 @@
       "url": "https://twitter.com/jietang/status/2065784751345287314",
       "summary": "https://digg.com/tech/ii9xibgn",
       "published": "2026-06-14T00:18:31+08:00",
-      "score": 444
+      "score": 445
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "summary": "",
+      "published": "2026-06-13T19:40:20+08:00",
+      "score": 633
     },
     {
       "source": "Hacker News",
@@ -133,11 +142,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "url": "https://github.com/kekcleader/FreeOberon",
       "summary": "",
-      "published": "2026-06-13T19:40:20+08:00",
-      "score": 632
+      "published": "2026-06-11T22:34:46+08:00",
+      "score": 52
     },
     {
       "source": "Hacker News",
@@ -151,20 +160,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-      "url": "https://github.com/kekcleader/FreeOberon",
-      "summary": "",
-      "published": "2026-06-11T22:34:46+08:00",
-      "score": 52
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
       "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "summary": "",
       "published": "2026-06-13T21:34:00+08:00",
-      "score": 329
+      "score": 330
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,7 @@
       "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
       "summary": "",
       "published": "2026-06-12T19:59:40+08:00",
-      "score": 21
+      "score": 23
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://ataraxy-labs.github.io/weave/",
       "summary": "",
       "published": "2026-06-14T10:45:38+08:00",
-      "score": 10
+      "score": 11
     },
     {
       "source": "Hacker News",
@@ -200,7 +200,7 @@
       "url": "https://martinfowler.com/architecture/",
       "summary": "",
       "published": "2026-06-14T12:07:37+08:00",
-      "score": 4
+      "score": 5
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://openai.com/form/codex-for-oss/",
       "summary": "",
       "published": "2026-06-12T06:20:03+08:00",
-      "score": 201
+      "score": 202
     },
     {
       "source": "Hacker News",
@@ -268,11 +268,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
-      "url": "https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf",
+      "title": "A low-carbon computing platform from your retired phones",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
       "summary": "",
-      "published": "2026-06-11T23:06:28+08:00",
-      "score": 3
+      "published": "2026-06-13T17:38:32+08:00",
+      "score": 262
     }
   ],
   "rss": [
@@ -543,7 +543,7 @@
       "category": "product",
       "title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
       "url": "https://36kr.com/newsflashes/3851548249412869?f=rss",
-      "summary": "6月13日，在2026年中国汽车重庆论坛上，吉利控股集团董事长李书福发表视频演讲时称，接下来将有序关停并转吉利汽车集团有限公司相关冗余主体，集中优势资源做强吉利汽车控股有限公司核心上市平台，从而构建治理架构更加清晰、权责更加明确、运转高效、全球合规的现代企业运营体系，让“一个吉利”从战略共识，全面转化为体系优势、治理优势、全球生存能力优势，为集中精力做...",
+      "summary": "6月13日，在2026年中国汽车重庆论坛上，吉利控股集团董事长李书福发表视频演讲时称，接下来将有序关停并转吉利汽车集团有限公司相关冗余主体，集中优势资源做强吉利汽车控股有限公司核心上市平台，从而构建治理架构更加清晰、权责更加明确、运转高效、全球合规的现代企业运营体系，让“一个吉利”从战略共识，全面转化为体系优势、治理优势、全球生存能力优势，为集中精��...",
       "published": "2026-06-13T19:57:29+08:00"
     },
     {
@@ -637,184 +637,184 @@
       "published": "2026-06-11T14:58:32+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "0元接手73%股权，“90后”杨潇成知名药企实控人，其任董事长以来，年薪大涨，公司净利却连续4年下滑，此前1亿元增持的股份也被套",
-      "url": "https://www.huxiu.com/article/4867152.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T12:58:06+08:00"
+      "category": "tech",
+      "title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
+      "url": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-14T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "火爆的玻璃基板离真正落地还有多远？",
-      "url": "https://www.huxiu.com/article/4867151.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T12:49:38+08:00"
+      "category": "tech",
+      "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
+      "url": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-14T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中国顶级儿童医院，要造100万个AI儿科医生",
-      "url": "https://www.huxiu.com/article/4867150.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T12:46:44+08:00"
+      "category": "tech",
+      "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+      "url": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-13T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "利率规则重写，贷款罚息可以更低些",
-      "url": "https://www.huxiu.com/article/4867149.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T12:43:04+08:00"
+      "category": "tech",
+      "title": "AI驱动的网络钓鱼：技术演变与实施方式",
+      "url": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-13T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "大脑结构，真的能反映智商吗？",
-      "url": "https://www.huxiu.com/article/4867148.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T12:41:03+08:00"
+      "category": "tech",
+      "title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-13T17:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "被骂15年，精神小妹终于翻身？",
-      "url": "https://www.huxiu.com/article/4867147.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T12:37:36+08:00"
+      "category": "tech",
+      "title": "我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-13T03:52:51+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "遇见小面的高管们，得理要饶人啊，诉棍是律师行业的耻辱",
-      "url": "https://www.huxiu.com/article/4867139.html?f=rss",
-      "summary": "把人往死里整，都会有反噬的。",
-      "published": "2026-06-14T12:24:09+08:00"
+      "category": "tech",
+      "title": "5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅",
+      "url": "https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-13T02:29:05+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
-      "url": "https://www.huxiu.com/article/4867143.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T11:57:38+08:00"
+      "category": "tech",
+      "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
+      "url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-13T00:30:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "收视近二十年最佳，NBA等到下一个乔丹和姚明了？",
-      "url": "https://www.huxiu.com/article/4867140.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T11:41:00+08:00"
+      "category": "tech",
+      "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
+      "url": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-13T00:03:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "GLM5.2：给国产模型追赶Anthropic 又提了一口气",
-      "url": "https://www.huxiu.com/article/4867137.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T11:22:19+08:00"
+      "category": "tech",
+      "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
+      "url": "https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T23:07:04+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“竞品今年促销力度太大了”，这不是甩锅，而是企业没给经销商、一线业务足够的支持",
-      "url": "https://www.huxiu.com/article/4867134.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T10:53:35+08:00"
+      "category": "tech",
+      "title": "Uber 如何通过批处理实现单账户每秒 30+ 次更新",
+      "url": "https://www.infoq.cn/article/pXMkt6weMsrbNNvZR0pM?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T22:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "茉莉奶白纽约“被叛”：一纸诉讼背后，茶饮出海的加盟困局",
-      "url": "https://www.huxiu.com/article/4867103.html?f=rss",
-      "summary": "一场“谁是恶人”的罗生门",
-      "published": "2026-06-14T10:44:59+08:00"
+      "category": "tech",
+      "title": "人效近 400 万如何炼成?  在 Snowflake 硅谷总部重新理解了 AI 时代的 Builder ｜ 奇遇旧金山收官篇",
+      "url": "https://www.infoq.cn/video/7LNG31pHhuTxEptTLMsD?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T19:41:16+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "哈啰给钛媒体递了一把刀",
-      "url": "https://www.huxiu.com/article/4867132.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T10:21:12+08:00"
+      "category": "tech",
+      "title": "打破向量检索的局限：RAG 混合检索实践",
+      "url": "https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T18:49:36+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "从南京到霍尔木兹：低轨卫星如何补齐导航安全短板",
-      "url": "https://www.huxiu.com/article/4867131.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T10:15:46+08:00"
+      "category": "tech",
+      "title": "身临其境 沉浸互动——大型赛事直播与互动实战指南",
+      "url": "https://www.infoq.cn/minibook/wqj338Aub43YjjTYEDEx?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T18:43:05+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Codex和Claude Code负责人都不写提示词了，AI 圈爆火的Loop到底是什么",
-      "url": "https://www.huxiu.com/article/4867130.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T10:12:52+08:00"
+      "category": "tech",
+      "title": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+      "url": "https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T18:21:33+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "地狱女主和“恨文化”，怎么就统治了古偶剧？",
-      "url": "https://www.huxiu.com/article/4867128.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T09:59:43+08:00"
+      "category": "tech",
+      "title": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+      "url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Intel传奇CEO：如何面对战略拐点？",
-      "url": "https://www.huxiu.com/article/4867127.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T09:27:08+08:00"
+      "category": "tech",
+      "title": "硅谷大厂，员工人均月花5万养 AI",
+      "url": "https://www.infoq.cn/article/g0gwDH3edWuateVXqp6N?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T02:59:27+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "亏损7亿、膜材独供、商业化受阻，汉诺医疗拿什么撑起“ECMO第一股”？",
-      "url": "https://www.huxiu.com/article/4867126.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T09:16:08+08:00"
+      "category": "tech",
+      "title": "OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了",
+      "url": "https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T02:57:28+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "票房冠军≠最赚钱：中国影史回报比最高的十部电影",
-      "url": "https://www.huxiu.com/article/4867125.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T09:15:16+08:00"
+      "category": "tech",
+      "title": "Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代",
+      "url": "https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T02:20:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "鹅腿阿姨是个好人",
-      "url": "https://www.huxiu.com/article/4867124.html?f=rss",
-      "summary": "",
-      "published": "2026-06-14T09:13:01+08:00"
+      "category": "tech",
+      "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
+      "url": "https://www.infoq.cn/article/FoxOEsYuLGTKgu8wbhdY?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-12T01:34:00+08:00"
     }
   ]
 }

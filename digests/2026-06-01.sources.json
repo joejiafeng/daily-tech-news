@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T13:08:02.110905+08:00",
+  "generated_at": "2026-06-01T13:12:34.894019+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1216836",
       "summary": "各位大佬好，我最近想认真找结婚对象，写了个征友帖，麻烦大家有合适资源或靠谱朋友帮忙留意/转发，先谢过～我在京上班，91 年河南焦作女生 https://www.douban.com/group/topic/485989262/?_spm_id=NjU1MDYwNjQ&_i=0235410YUUmPvE 个人情况: 河南人，普本私企程序员，县城农村家庭，...",
       "published": "2026-05-31T22:07:11+08:00",
-      "score": 194
+      "score": 196
     },
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1216904",
       "summary": "先是反复感染过几轮（每次大爆发基本都中，只是后面症状都很轻），现在感觉呼吸系统感觉很差，很容易感冒，稍微凉一点没注意就留鼻涕感冒了。一感冒肺就很难受，咳得厉害。而且现在感冒稍微重一点，1 周好不了，得 2 周往上。",
       "published": "2026-06-01T09:21:36+08:00",
-      "score": 124
+      "score": 126
     },
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1216940",
       "summary": "前天偶然撇见她和一个男人聊天，看到那个男的发了张她的床照，当时看到心头一紧，晚上趁她睡着了翻了下她的手机，和多位男士的亲密照片，床照，还有 szq 照片，又翻了翻微信 发现和很多男人保持暧昧关系，甚至在同一时刻脚踏三条船，我原来只是她没得选之后的下下选择。她对别人说过的那些情话 从来没对我说过。看完之后心慌 胸闷，难受的想吐，心一直在绞痛。跑出去买了包...",
       "published": "2026-06-01T10:45:34+08:00",
-      "score": 97
+      "score": 98
     },
     {
       "source": "V2EX",
@@ -86,11 +86,11 @@
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "今日， Copilot 正式转向 Token 计费",
-      "url": "https://www.v2ex.com/t/1216878",
-      "summary": "真准时，UTC 0 点准时转变 ![]( https://i.v2ex.co/z8sVl97Q.png) 文档也更新了最新的模型价格： https://docs.github.com/zh/copilot/reference/copilot-billing/models-and-pricing 此前是唯一不按 Token 计费的 ai 平台，变更计费方...",
-      "published": "2026-06-01T08:24:46+08:00",
-      "score": 39
+      "title": "我的理财方案,想更进一步,求推荐",
+      "url": "https://www.v2ex.com/t/1216889",
+      "summary": "之前都是买货币基金,今年开始买债券基金,上个月开始定投沪深 300 和中证 500(目前还是亏.....). 最近被这张图吸引到了.上豆包查了下,偏差不大. ![]( https://i.imgur.com/6LsH2za.jpeg) 感觉如果放长线的话,几乎稳赚不亏啊. 我的想法: 1. 炒股是懒得碰的,这么多股,真没那么多心思去研究.碰运气的话,这...",
+      "published": "2026-06-01T08:54:30+08:00",
+      "score": 40
     }
   ],
   "hackernews": [
@@ -101,7 +101,7 @@
       "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
       "summary": "",
       "published": "2026-06-01T06:59:50+08:00",
-      "score": 132
+      "score": 135
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
       "summary": "",
       "published": "2026-05-31T22:13:20+08:00",
-      "score": 576
+      "score": 578
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://prismml.com/news/bonsai-image-4b",
       "summary": "",
       "published": "2026-05-31T23:04:52+08:00",
-      "score": 330
+      "score": 332
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://jbkempf.com/blog/2026/dav2d/",
       "summary": "",
       "published": "2026-05-31T19:44:45+08:00",
-      "score": 419
+      "score": 420
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
       "summary": "",
       "published": "2026-06-01T04:35:38+08:00",
-      "score": 132
+      "score": 133
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
       "summary": "",
       "published": "2026-05-31T20:41:19+08:00",
-      "score": 316
+      "score": 317
     },
     {
       "source": "Hacker News",
@@ -164,7 +164,7 @@
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
       "summary": "",
       "published": "2026-06-01T01:02:23+08:00",
-      "score": 168
+      "score": 171
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,7 @@
       "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
       "summary": "",
       "published": "2026-05-28T16:28:23+08:00",
-      "score": 104
+      "score": 105
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
       "summary": "",
       "published": "2026-05-30T01:50:11+08:00",
-      "score": 125
+      "score": 126
     },
     {
       "source": "Hacker News",
@@ -214,20 +214,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "url": "https://twitter.com/i/status/2060746160558543217",
-      "summary": "",
-      "published": "2026-06-01T02:57:48+08:00",
-      "score": 452
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Linux/M68k",
       "url": "http://www.linux-m68k.org/",
       "summary": "",
       "published": "2026-05-29T19:46:52+08:00",
-      "score": 77
+      "score": 79
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "summary": "",
+      "published": "2026-06-01T02:57:48+08:00",
+      "score": 454
     },
     {
       "source": "Hacker News",
@@ -236,7 +236,16 @@
       "url": "https://specification.website/",
       "summary": "",
       "published": "2026-05-31T15:09:50+08:00",
-      "score": 465
+      "score": 466
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Restartable Sequences",
+      "url": "https://justine.lol/rseq/",
+      "summary": "",
+      "published": "2026-05-31T22:38:48+08:00",
+      "score": 193
     },
     {
       "source": "Hacker News",
@@ -250,11 +259,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Restartable Sequences",
-      "url": "https://justine.lol/rseq/",
+      "title": "The Genius of the Barn Owl's Feathers",
+      "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
       "summary": "",
-      "published": "2026-05-31T22:38:48+08:00",
-      "score": 192
+      "published": "2026-05-29T06:21:59+08:00",
+      "score": 6
     },
     {
       "source": "Hacker News",
@@ -263,16 +272,7 @@
       "url": "https://github.com/viggy28/streambed",
       "summary": "",
       "published": "2026-06-01T02:43:05+08:00",
-      "score": 81
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "summary": "",
-      "published": "2026-05-31T15:16:18+08:00",
-      "score": 281
+      "score": 82
     }
   ],
   "rss": [
@@ -637,184 +637,184 @@
       "published": "2026-05-28T17:42:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "叮咚鸡、库里库里，如何成为小学生黑话？",
-      "url": "https://www.huxiu.com/article/4863305.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T12:39:20+08:00"
+      "category": "tech",
+      "title": "谷歌推出适用于 Genkit 应用程序的中间件架构",
+      "url": "https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-01T19:48:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "乌鲁木齐杉杉奥莱，为啥把自己活成了旅游景点？",
-      "url": "https://www.huxiu.com/article/4863304.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T12:30:47+08:00"
+      "category": "tech",
+      "title": "Snowflake 换了战场：守住数据之后，要管住AI",
+      "url": "https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-01T19:18:50+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“几乎没有机构不看光芯片了”",
-      "url": "https://www.huxiu.com/article/4863289.html?f=rss",
-      "summary": "站在光里，别光站在那里",
-      "published": "2026-06-01T12:25:00+08:00"
+      "category": "tech",
+      "title": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-01T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "从奶油风到“适我化”，一个家居博主眼中的赛道变迁",
-      "url": "https://www.huxiu.com/article/4863302.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T12:23:18+08:00"
+      "category": "tech",
+      "title": "Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+      "url": "https://www.infoq.cn/article/4lvrePvgNC6vuCKkvZKe?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-01T17:57:18+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "提前看看，今年新iPhone 系统长什么样",
-      "url": "https://www.huxiu.com/article/4863301.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T12:10:07+08:00"
+      "category": "tech",
+      "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
+      "url": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-31T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "地方国企集团管控贸易子公司，最难的是：一收就死一放就乱、自己不懂业务、既要营收还不要风险、、、",
-      "url": "https://www.huxiu.com/article/4863300.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T12:09:42+08:00"
+      "category": "tech",
+      "title": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-30T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一省一圈，又一批国家级都市圈，来了",
-      "url": "https://www.huxiu.com/article/4863297.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T12:01:08+08:00"
+      "category": "tech",
+      "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "url": "https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-30T15:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "内蒙古到底属于东北、华北，还是西北？",
-      "url": "https://www.huxiu.com/article/4862725.html?f=rss",
-      "summary": "内蒙古到底有多散装？",
-      "published": "2026-06-01T12:00:00+08:00"
+      "category": "tech",
+      "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
+      "url": "https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-30T02:26:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "当孩子们习惯了被投喂“AI泔水”，如何守护数字时代的童年？",
-      "url": "https://www.huxiu.com/article/4863295.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:57:32+08:00"
+      "category": "tech",
+      "title": "OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？",
+      "url": "https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T23:40:58+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "为什么中国几乎没有儿童美术馆？",
-      "url": "https://www.huxiu.com/article/4863294.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:56:18+08:00"
+      "category": "tech",
+      "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
+      "url": "https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T23:10:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "航段费大幅下调，多少机票代理熬不到年底？",
-      "url": "https://www.huxiu.com/article/4863292.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:50:17+08:00"
+      "category": "tech",
+      "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
+      "url": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
+      "summary": "提交你的问题，我们替你去问！ 点击查看原文>",
+      "published": "2026-05-19T00:39:32+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "43亿合同里的\"融资中介\"：海康威视凭什么能垫资85%？",
-      "url": "https://www.huxiu.com/article/4863290.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:43:06+08:00"
+      "category": "tech",
+      "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
+      "url": "https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T19:18:01+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "鲜食，咖啡，冰杯已火，便利店下一个突破口在哪？",
-      "url": "https://www.huxiu.com/article/4863288.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:39:53+08:00"
+      "category": "tech",
+      "title": "Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座",
+      "url": "https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:55:22+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "五年减少3900万，儿童节，越来越冷清了",
-      "url": "https://www.huxiu.com/article/4863286.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:35:26+08:00"
+      "category": "tech",
+      "title": "编程 Agent 可能是软件开发史上最昂贵的错误之一",
+      "url": "https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:42:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "GPT-Image-2实测：AI生图越过临界点了",
-      "url": "https://www.huxiu.com/article/4862783.html?f=rss",
-      "summary": "这才是AI真正可怕的地方",
-      "published": "2026-06-01T11:32:00+08:00"
+      "category": "tech",
+      "title": "中国不会有 Snowflake——但这未必是坏事",
+      "url": "https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:31:35+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "改朝换代中的无间道",
-      "url": "https://www.huxiu.com/article/4863285.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:28:13+08:00"
+      "category": "tech",
+      "title": "当“码农”成为历史：AI时代工程师的生存法则",
+      "url": "https://www.infoq.cn/article/KlDKF5Tvz2lmVxCf63Tz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:26:47+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "去留之间：大学“青椒”生存日志",
-      "url": "https://www.huxiu.com/article/4863283.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:26:00+08:00"
+      "category": "tech",
+      "title": "美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“再来一瓶”变“再来一坑”？饮料行业的促销利器一元乐享，为什么很多企业做不好？",
-      "url": "https://www.huxiu.com/article/4863282.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:24:25+08:00"
+      "category": "tech",
+      "title": "超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化",
+      "url": "https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T17:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "赵凤仪：葡萄酒教育不是灌输知识，是唤醒自信",
-      "url": "https://www.huxiu.com/article/4863280.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:20:08+08:00"
+      "category": "tech",
+      "title": "去硅谷前，聊聊我们为什么率先支持 Snowflake 发起的 OSI 标准",
+      "url": "https://www.infoq.cn/article/PpExuT6pwqGeTqIhqoHL?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T05:29:45+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "掀起学术打假风暴后，耿同学突然“沉默”了",
-      "url": "https://www.huxiu.com/article/4863276.html?f=rss",
-      "summary": "",
-      "published": "2026-06-01T11:12:44+08:00"
+      "category": "tech",
+      "title": "Agent 能用，为什么还是不好用？",
+      "url": "https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-28T23:45:04+08:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T12:38:10.221568+08:00",
+  "generated_at": "2026-05-23T12:05:08.415074+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1214689",
       "summary": "最近在买电车，了解到蔚来换电以及最近的锁电门事件。 理性分析下，蔚来换电是不是非常有优势的赛道，也是比较好的选择，虽然 baas 每个月会有对应的换电费用，也就是永续贷。 电车最有价值，风险最大的就是电池，通过 bass 买入，把这部分风险交给蔚来公司，不需要担心电池老化，锁电等恶心人操作，同时出远门时可以申请 100 度电池，跑个 400 公里也没啥...",
       "published": "2026-05-22T13:53:18+08:00",
-      "score": 105
+      "score": 104
     },
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1214784",
       "summary": "",
       "published": "2026-05-22T18:41:06+08:00",
-      "score": 95
+      "score": 92
     },
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1214693",
       "summary": "Surge 作者将𝕏个人简介修改为已退休 https://x.com/blankwonder Surge 在 macOS 上的体验确实不错，稳定性很好，我这边基本没遇到过什么问题，作为网关使用也很方便。它的 Dashboard 和整体 UI 设计也很直观，这部分体验明显优于不少同类产品，用起来确实更顺手，Mac 平台上整体完成度很高。 最近更新加入的...",
       "published": "2026-05-22T14:10:27+08:00",
-      "score": 61
+      "score": 59
     },
     {
       "source": "V2EX",
@@ -36,7 +36,7 @@
       "url": "https://www.v2ex.com/t/1214791",
       "summary": "自己的渠道稳定开号，所以成本和价格都比较可控。新站活动期间，当前倍率为 `0.04`，欢迎 V 友体验。 ## 定价计费 - **使用倍率**：当前倍率 `0.04`，即 `1 元 ≈ 25 美元额度` - **计费方式**：按量计费，用多少扣多少，余额长期有效不过期 ## 站点地址 [happycode.vip]( https://happycode...",
       "published": "2026-05-22T18:59:10+08:00",
-      "score": 60
+      "score": 56
     },
     {
       "source": "V2EX",
@@ -88,20 +88,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "title": "Is AI Profitable Yet?",
+      "url": "https://isaiprofitable.com/",
       "summary": "",
-      "published": "2026-05-23T05:36:55+08:00",
-      "score": 271
+      "published": "2026-05-23T10:10:38+08:00",
+      "score": 184
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Microsoft reports AI is more expensive than paying human employees",
-      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
       "summary": "",
-      "published": "2026-05-23T11:44:16+08:00",
-      "score": 49
+      "published": "2026-05-23T05:36:55+08:00",
+      "score": 259
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
       "summary": "",
       "published": "2026-05-22T23:22:04+08:00",
-      "score": 560
+      "score": 553
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
       "summary": "",
       "published": "2026-05-23T03:31:45+08:00",
-      "score": 359
+      "score": 354
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
       "summary": "",
       "published": "2026-05-20T20:42:46+08:00",
-      "score": 27
+      "score": 24
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
       "summary": "",
       "published": "2026-05-23T06:05:39+08:00",
-      "score": 100
+      "score": 95
     },
     {
       "source": "Hacker News",
@@ -146,16 +146,7 @@
       "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
       "summary": "",
       "published": "2026-05-20T17:03:44+08:00",
-      "score": 50
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Google Is Killing ChromeOS: Aluminium OS, Its Android-Based Replacement",
-      "url": "https://techjournal.org/google-aluminium-os-replacing-chromeos",
-      "summary": "",
-      "published": "2026-05-23T11:51:42+08:00",
-      "score": 11
+      "score": 45
     },
     {
       "source": "Hacker News",
@@ -164,7 +155,16 @@
       "url": "https://www.kanbots.dev/",
       "summary": "",
       "published": "2026-05-23T02:17:57+08:00",
-      "score": 191
+      "score": 188
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "SpaceX launches Starship v3 rocket",
+      "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+      "summary": "",
+      "published": "2026-05-23T07:41:55+08:00",
+      "score": 203
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,7 @@
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "summary": "",
       "published": "2026-05-23T00:54:31+08:00",
-      "score": 158
+      "score": 152
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,16 @@
       "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
       "summary": "",
       "published": "2026-05-20T19:58:24+08:00",
-      "score": 43
+      "score": 42
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "\"Stick\" – A primitive/fun interactive demo of a tiny rig to animate layout",
+      "url": "https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html",
+      "summary": "",
+      "published": "2026-05-20T18:17:16+08:00",
+      "score": 16
     },
     {
       "source": "Hacker News",
@@ -200,16 +209,7 @@
       "url": "https://deno.com/blog/v2.8",
       "summary": "",
       "published": "2026-05-22T19:23:30+08:00",
-      "score": 329
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "\"Stick\" – A primitive/fun interactive demo of a tiny rig to animate layout",
-      "url": "https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html",
-      "summary": "",
-      "published": "2026-05-20T18:17:16+08:00",
-      "score": 16
+      "score": 326
     },
     {
       "source": "Hacker News",
@@ -218,16 +218,7 @@
       "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
       "summary": "",
       "published": "2026-05-23T08:34:25+08:00",
-      "score": 93
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "summary": "",
-      "published": "2026-05-22T18:38:26+08:00",
-      "score": 366
+      "score": 80
     },
     {
       "source": "Hacker News",
@@ -236,16 +227,16 @@
       "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
       "summary": "",
       "published": "2026-05-22T22:36:27+08:00",
-      "score": 117
+      "score": 109
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
-      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
       "summary": "",
-      "published": "2026-05-20T23:06:31+08:00",
-      "score": 102
+      "published": "2026-05-22T18:38:26+08:00",
+      "score": 360
     },
     {
       "source": "Hacker News",
@@ -254,28 +245,28 @@
       "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
       "summary": "",
       "published": "2026-05-23T01:05:32+08:00",
-      "score": 102
+      "score": 100
     },
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "SpaceX launches Starship v3 rocket",
-      "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
+      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
       "summary": "",
-      "published": "2026-05-23T07:41:55+08:00",
-      "score": 208
+      "published": "2026-05-20T23:06:31+08:00",
+      "score": 99
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "A Forth-inspired language for writing websites",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "summary": "",
+      "published": "2026-05-22T23:00:50+08:00",
+      "score": 133
     }
   ],
   "rss": [
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
-      "url": "https://36kr.com/p/3821371042877575?f=rss",
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。 维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑”融合芯片研...",
-      "published": "2026-05-23T12:20:48+08:00"
-    },
     {
       "source": "36kr",
       "source_type": "rss",
@@ -361,37 +352,10 @@
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "供需格局持续重构，铝价后市上行可期",
-      "url": "https://36kr.com/newsflashes/3821223420580228?f=rss",
-      "summary": "今年以来，内外盘铝市走出显著的分化行情，伦铝、沪铝期货价格同步上行但涨幅差距显著，呈现出外强内弱的特征。近一个月以来，两者价格均在高位区间维持震荡。业内人士表示，中东地缘冲突引发的海外市场供给收缩是本轮铝价上涨的核心驱动力，但海内外库存水平迥异，造成了内外盘价格走势分化。目前来看，全球铝市供给偏紧格局已定，随着国内铝材出口持续回暖、库存逐步进入去化周期...",
-      "published": "2026-05-23T12:24:20+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "富途：已回购约1.6亿美元美国存托股份",
-      "url": "https://36kr.com/newsflashes/3821372698661251?f=rss",
-      "summary": "36氪获悉，富途控股宣布，截至2026年5月23日，公司已回购价值约1.6亿美元的美国存托股份，此次回购系根据公司此前于2025年11月18日公布的股份回购计划进行的。",
-      "published": "2026-05-23T12:21:19+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "商务部：1-4月全国吸收外资2876.9亿元人民币",
-      "url": "https://36kr.com/newsflashes/3821372272660615?f=rss",
-      "summary": "36氪获悉，据商务部网站，2026年1-4月，全国新设立外商投资企业20113家，同比增长6.8%；实际使用外资金额2876.9亿元人民币，同比下降10.3%。从行业看，制造业实际使用外资788.8亿元人民币，服务业实际使用外资2041.5亿元人民币。高技术产业实际使用外资1163.3亿元人民币，同比增长20.3%，占全国实际使用外资的40.4%，较去...",
-      "published": "2026-05-23T12:20:53+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "SpaceX IPO将包含散户配售",
-      "url": "https://36kr.com/newsflashes/3821222961025157?f=rss",
-      "summary": "SpaceX表示，其计划在纳斯达克上市的部分股份将通过Robinhood、富达投资和嘉信理财等平台，以与机构投资者相同的IPO价格直接面向散户投资者发售。此举旨在扩大投资者基础，让普通投资者也能参与这一备受瞩目的上市盛宴。（新浪财经）",
-      "published": "2026-05-23T12:07:54+08:00"
+      "title": "让好项目，更早被看见",
+      "url": "https://36kr.com/p/3820226045104257?f=rss",
+      "summary": "提交报道链接： https://36kr.com/seek-report-new?t=1779418211266 36氪AI寻求报道 很多项目第一次被行业真正看见，往往已经不是它最需要被看见的时候。 那时候，它可能已经拿了融资，跑出了数据，进入了热门赛道，也开始频繁出现在投资人、媒体和产业方的视野里。 但创业不是从融资新闻开始的。 在更早的时候，一个项...",
+      "published": "2026-05-22T16:55:24+08:00"
     },
     {
       "source": "36kr",
@@ -538,13 +502,40 @@
       "published": "2026-05-22T20:55:05+08:00"
     },
     {
-      "source": "sspai",
+      "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "这个周末，来深圳文博会和少数派打个卡吧",
-      "url": "https://sspai.com/post/110052",
-      "summary": "熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ... 查看全文",
-      "published": "2026-05-23T11:29:35+08:00"
+      "title": "热门中概股美股盘前普跌，富途控股跌超37%",
+      "url": "https://36kr.com/newsflashes/3820460116480385?f=rss",
+      "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，富途控股跌超37%，老虎证券跌超36%，拼多多、爱奇艺、蔚来跌超5%，京东、理想汽车跌超4%，阿里巴巴跌超3%，百度跌超2%，网易、小鹏集团跌超1%。",
+      "published": "2026-05-22T20:53:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "美股大型科技股盘前普涨，英特尔涨超1%",
+      "url": "https://36kr.com/newsflashes/3820458165178499?f=rss",
+      "summary": "36氪获悉，美股大型科技股盘前普涨，截至发稿，英特尔涨超1%，特斯拉涨0.8%，英伟达涨0.58%，奈飞涨0.47%，微软涨0.42%，苹果涨0.36%，谷歌涨0.21%，亚马逊涨0.16%，Meta涨0.07%。",
+      "published": "2026-05-22T20:51:01+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "老虎国际：内地客户资产占比约10%",
+      "url": "https://36kr.com/newsflashes/3820454545559936?f=rss",
+      "summary": "中国证监会联合八部委发布《关于规范内地投资者跨境证券期货基金经营活动的相关通告》，就行业相关经营活动进一步明确监管要求。老虎国际表示，将严格按照监管机构出台的全行业规范要求，稳步推进相关合规工作。老虎国际称，2023年以来，公司已全面停止为中国内地身份用户开设账户，同步停止对外广告、营销推广及活动，持续加强账户审核、身份核验及反欺诈管理机制。截至202...",
+      "published": "2026-05-22T20:47:20+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国城矿业：拟23.68亿元购买国城实业40%股权",
+      "url": "https://36kr.com/newsflashes/3820447530782855?f=rss",
+      "summary": "36氪获悉，国城矿业公告，公司拟通过支付现金方式购买中信信托（代表中信信托・信华57号权益类信托计划）持有的国城实业40%的股权，交易价格23.68亿元。交易完成后，国城实业成为公司全资子公司，公司钼矿资源储量的权益占比将得到提升，有利于强化公司整体业务布局及产业整合，进一步增厚公司归母净利润。",
+      "published": "2026-05-22T20:40:11+08:00"
     },
     {
       "source": "sspai",
@@ -628,184 +619,193 @@
       "published": "2026-05-20T15:05:04+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "sspai",
       "source_type": "rss",
-      "category": "business",
-      "title": "无印良品葡萄酒业务遇冷",
-      "url": "https://www.huxiu.com/article/4860814.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T12:32:50+08:00"
+      "category": "product",
+      "title": "自动补全生僻字，让 Kindle 从底层告别小方块",
+      "url": "https://sspai.com/post/109625",
+      "summary": "本文将分享如何修改 Kindle 底层的 upstart 配置，实现开机自动挂载花园明朝（HanaMin）字体。这不仅能修复字典弹窗，更能让古籍正文中所有生僻字完美显示，达成全系统视觉统一。 查看全文",
+      "published": "2026-05-20T11:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "李彦宏不再恋战大模型",
-      "url": "https://www.huxiu.com/article/4859781.html?f=rss",
-      "summary": "用DAA重写AI估值逻辑",
-      "published": "2026-05-23T12:27:39+08:00"
+      "category": "tech",
+      "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "url": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "1000元难配齐一套基础穿搭，太平鸟被吐槽烧钱鸟，太平鸟再次创业不太平",
-      "url": "https://www.huxiu.com/article/4860811.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T12:22:19+08:00"
+      "category": "tech",
+      "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
+      "url": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T04:34:12+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“国民补剂”塌房，几十亿鱼油保健品市场，全是营销骗局？",
-      "url": "https://www.huxiu.com/article/4860810.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T12:19:05+08:00"
+      "category": "tech",
+      "title": "Anthropic 推出 MCP 隧道，供私有代理访问内部系统",
+      "url": "https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T04:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "蔚来盈利，薄如蝉翼",
-      "url": "https://www.huxiu.com/article/4860789.html?f=rss",
-      "summary": "车市失血，蔚来止血",
-      "published": "2026-05-23T12:10:00+08:00"
+      "category": "tech",
+      "title": "Agoda 构建多模态内容系统，链接图片和评论",
+      "url": "https://www.infoq.cn/article/l48TRuhZJve9omIaa2Ih?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T02:47:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Moonshots播客：67%的美国数据中心选址农村地区，这是自页岩气革命以来最大的地理财富转移",
-      "url": "https://www.huxiu.com/article/4860809.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T12:06:18+08:00"
+      "category": "tech",
+      "title": "别再骂 Claude 限速了，Anthropic Boris 亲口承认：最挑剔的用户，反而最离不开我们",
+      "url": "https://www.infoq.cn/article/SuTZe24r2UTRkR82ODl9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T02:42:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "大起大落的观察窗口：AI上游的内部分化",
-      "url": "https://www.huxiu.com/article/4860807.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T11:53:09+08:00"
+      "category": "tech",
+      "title": "为创造，再一次信仰之跃 ｜AdventureX 2026 开启招募",
+      "url": "https://www.infoq.cn/article/165EQogRaOttWJ4bFQGl?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T02:35:52+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“AI焦虑”这个超级大生意，现在终于彻底跑通了",
-      "url": "https://www.huxiu.com/article/4860800.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T11:19:33+08:00"
+      "category": "tech",
+      "title": "GitHub面临生存之战！多位员工曝内部乱象：独立文化要没了，封杀Claude Code才能“活”",
+      "url": "https://www.infoq.cn/article/VZ4KvkToY57zj0ycsdBF?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T02:17:13+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "油价冲破100美元后，为什么最先倒下的总是这类国家",
-      "url": "https://www.huxiu.com/article/4860796.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T11:02:39+08:00"
+      "category": "tech",
+      "title": "AI Coding 很强，为什么企业没提速？",
+      "url": "https://www.infoq.cn/video/L2Joj8CCghK126zbga2h?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T02:15:47+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "改编一部成一部，紫金陈现象不是玄学",
-      "url": "https://www.huxiu.com/article/4860795.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T11:00:47+08:00"
+      "category": "tech",
+      "title": "Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆",
+      "url": "https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T02:13:51+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "利润率268%，一吨净赚5000元，全球疯抢的战略资源，中国为何不慌？",
-      "url": "https://www.huxiu.com/article/4859935.html?f=rss",
-      "summary": "这东西平时不起眼，但真正出问题时可能比芯片还重要",
-      "published": "2026-05-23T11:00:00+08:00"
+      "category": "tech",
+      "title": "中经社发布“十五五”新产业研究智能体，可自主生成产业链分析报告",
+      "url": "https://www.infoq.cn/article/2Gb32HBQU3CtTGm7oqq3?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T02:01:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "富途一夜跌掉35%：一张罚单撕开合规套利的底裤",
-      "url": "https://www.huxiu.com/article/4860794.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:59:33+08:00"
+      "category": "tech",
+      "title": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+      "url": "https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T01:32:03+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "市值被长江存储带飞，营收却不及十年前，六个核桃已经成为养元“不值一提”的主业了？",
-      "url": "https://www.huxiu.com/article/4860793.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:44:36+08:00"
+      "category": "tech",
+      "title": "千问云发布，阿里云将模型路由、认证、用量查询全面 CLI、SKill化",
+      "url": "https://www.infoq.cn/article/zvEY7iEgQOTcIlXDPJ0i?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T00:08:57+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "英伟达科学家的20分钟演讲：机器人终局，2040预言",
-      "url": "https://www.huxiu.com/article/4860790.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:38:13+08:00"
+      "category": "tech",
+      "title": "TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵",
+      "url": "https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-23T00:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "人类文明集体倒车，新周期已冉冉升起",
-      "url": "https://www.huxiu.com/article/4860781.html?f=rss",
-      "summary": "所有人都在往回看，区别只是看向哪个方向的过去",
-      "published": "2026-05-23T10:30:00+08:00"
+      "category": "tech",
+      "title": "Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍",
+      "url": "https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-22T21:31:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
-      "url": "https://www.huxiu.com/article/4860787.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:22:04+08:00"
+      "category": "tech",
+      "title": "Fonttrio 发布：面向 shadcn/ui 的开源字体搭配注册表",
+      "url": "https://www.infoq.cn/article/18Gjtm6SMtUzuylOEVab?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-22T19:03:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "未来十年的数据工程：从Modern Data Stack 到Data Engineering Harness",
-      "url": "https://www.huxiu.com/article/4860786.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:21:38+08:00"
+      "category": "tech",
+      "title": "Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击",
+      "url": "https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-22T18:40:43+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "别为10万+作恶：从印度“要崩”，看新闻的低智化共谋",
-      "url": "https://www.huxiu.com/article/4860785.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:19:39+08:00"
+      "category": "tech",
+      "title": "阶跃星辰副总裁俞刚确认出席AICon上海站，分享多模态生成与理解的架构演进",
+      "url": "https://www.infoq.cn/article/VcK5bVdskQZ2j7uEdbvN?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-22T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "最近几个月的AI大模型独立应用实践-2-岗位已经模糊",
-      "url": "https://www.huxiu.com/article/4860784.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:13:24+08:00"
+      "category": "tech",
+      "title": "Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码",
+      "url": "https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-22T17:47:34+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "AI 团队协作案例：全链路研发提效实践分享",
-      "url": "https://www.huxiu.com/article/4860783.html?f=rss",
-      "summary": "",
-      "published": "2026-05-23T10:08:39+08:00"
+      "category": "tech",
+      "title": "每个企业都需要自己的 Token Factory？超聚变提出“智企”新范式",
+      "url": "https://www.infoq.cn/article/Zo1ZBl76YWyW6Eucq7eT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-22T06:47:33+08:00"
+    },
+    {
+      "source": "infoq",
+      "source_type": "rss",
+      "category": "tech",
+      "title": "Navigation API 达基线版本，已经可以作为 History API 的替代方案使用",
+      "url": "https://www.infoq.cn/article/Bqh3ALTNTBO78PJ8kwyR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-22T02:30:00+08:00"
     }
   ]
 }

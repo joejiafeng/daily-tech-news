@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T12:47:43.901580+08:00",
+  "generated_at": "2026-07-01T12:50:49.926863+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -92,7 +92,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "summary": "",
       "published": "2026-07-01T01:59:52+08:00",
-      "score": 976
+      "score": 978
     },
     {
       "source": "Hacker News",
@@ -101,7 +101,7 @@
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "summary": "",
       "published": "2026-06-30T23:44:24+08:00",
-      "score": 1577
+      "score": 1579
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "summary": "",
       "published": "2026-07-01T07:55:12+08:00",
-      "score": 432
+      "score": 436
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
       "summary": "",
       "published": "2026-07-01T09:23:09+08:00",
-      "score": 39
+      "score": 40
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://claude.com/product/claude-science",
       "summary": "",
       "published": "2026-07-01T01:07:41+08:00",
-      "score": 402
+      "score": 403
     },
     {
       "source": "Hacker News",
@@ -160,20 +160,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
+      "summary": "",
+      "published": "2026-06-29T06:16:20+08:00",
+      "score": 136
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "From brain waves to words: a new path to communication without surgery",
       "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "summary": "",
       "published": "2026-07-01T05:29:13+08:00",
       "score": 130
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "url": "https://mechanical-pencil.com/products/car",
-      "summary": "",
-      "published": "2026-06-29T06:16:20+08:00",
-      "score": 135
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
       "summary": "https://github.com/ngrok/webernetes https://webernetes-demo.ngrok.app/",
       "published": "2026-07-01T04:48:36+08:00",
-      "score": 204
+      "score": 205
     },
     {
       "source": "Hacker News",
@@ -245,7 +245,7 @@
       "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
       "summary": "",
       "published": "2026-06-27T01:55:50+08:00",
-      "score": 39
+      "score": 40
     },
     {
       "source": "Hacker News",
@@ -263,7 +263,7 @@
       "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
       "summary": "",
       "published": "2026-07-01T03:47:24+08:00",
-      "score": 99
+      "score": 100
     }
   ],
   "rss": [
@@ -628,184 +628,184 @@
       "published": "2026-06-29T07:13:43+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "日本人是怎样把发酵变成健康玄学的",
-      "url": "https://www.huxiu.com/article/4871783.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T12:39:20+08:00"
+      "category": "tech",
+      "title": "Cloudflare 推出支持零信任部署和迁移的代理技能",
+      "url": "https://www.infoq.cn/article/fTk8yti9vUIP9hbP5Lcs?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T19:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "不要现炒要预制，这届消费者给太二酸菜鱼整不会了",
-      "url": "https://www.huxiu.com/article/4871782.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T12:38:07+08:00"
+      "category": "tech",
+      "title": "在企业内部构建欧洲云编排平台",
+      "url": "https://www.infoq.cn/article/WauDgmzsNkHocILNI86f?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T17:40:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "复旦系半导体“小巨人”IPO获受理，拟募资12亿，产品落地中芯国际产线",
-      "url": "https://www.huxiu.com/article/4871781.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T12:30:26+08:00"
+      "category": "tech",
+      "title": "8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？",
+      "url": "https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T02:29:30+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "年轻人，这次可能真的不喝白酒了",
-      "url": "https://www.huxiu.com/article/4871780.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T12:27:09+08:00"
+      "category": "tech",
+      "title": "网易有道CEO周枫：Harness即产品",
+      "url": "https://www.infoq.cn/article/3X8E2FVCllu24XYVoPeK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T02:23:05+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一年开机不超10次，电视正在被国人赶出客厅",
-      "url": "https://www.huxiu.com/article/4871778.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T12:18:13+08:00"
+      "category": "tech",
+      "title": "Arm 计算平台加持，联想车计算推动 L4 级自动驾驶出租车规模化落地",
+      "url": "https://www.infoq.cn/article/Ny7RygQpB3cbBUvU57GW?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T02:03:03+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "邢波再出手：上次“骂”完世界模型，这次轮到智能体了",
-      "url": "https://www.huxiu.com/article/4871776.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T12:10:59+08:00"
+      "category": "tech",
+      "title": "物理 AI 演进之路：从受控环境走向现实世界",
+      "url": "https://www.infoq.cn/article/erU6ZuSI5qowMlIGSr8i?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T01:56:34+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "电车疯狂变大，停车位都装不下了",
-      "url": "https://www.huxiu.com/article/4871774.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T12:08:06+08:00"
+      "category": "tech",
+      "title": "Cursor、OpenClaw 同时出手，“口袋编程”时代来了：程序员只用“动嘴”！",
+      "url": "https://www.infoq.cn/article/6WCaAMdgSR8r46j3OZd4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T01:46:54+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "YONEX的护城河是羽毛球鄙视链",
-      "url": "https://www.huxiu.com/article/4871772.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T11:56:37+08:00"
+      "category": "tech",
+      "title": "Anthropic 负责人：HTML 比 MD 更利于人类跟进智能体协作流程",
+      "url": "https://www.infoq.cn/article/i3eauD7F8KF9gVY3SD18?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-07-01T01:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "起底*ST东智新实控人王建英：百亿私募不复辉煌，产业资本体量较小",
-      "url": "https://www.huxiu.com/article/4871769.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T11:50:03+08:00"
+      "category": "tech",
+      "title": "Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API",
+      "url": "https://www.infoq.cn/article/d5MOPSyGi5XPi1erhUW3?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T23:21:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "深圳全域旅游规划：成为一座“值得停留”的城市",
-      "url": "https://www.huxiu.com/article/4871768.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T11:47:38+08:00"
+      "category": "tech",
+      "title": "3000块钱，这支中国团队把ChatGPT成功的“秘密”用在了机器人训练上",
+      "url": "https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T23:07:50+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "隐秘的直播“杀猪盘”盯上中老年人：付费请演员演绎剧情，有主播一个月卖3000万元",
-      "url": "https://www.huxiu.com/article/4871759.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T11:38:36+08:00"
+      "category": "tech",
+      "title": "Snowflake 语义模型与视图构建指南：最佳实践及避坑红黑榜 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/OS5epqdWCWKyETZORvk2?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T23:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "AI第一次参加世界杯，能打几分？",
-      "url": "https://www.huxiu.com/article/4871757.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T11:34:02+08:00"
+      "category": "tech",
+      "title": "AI 接进企业之后，API 安全开始成为新盲区",
+      "url": "https://www.infoq.cn/article/QODhrm0I3LSV0uGhFdWt?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T22:15:38+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中国算力过剩是个伪命题，但比它更危险的事正在发生",
-      "url": "https://www.huxiu.com/article/4871756.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T11:33:41+08:00"
+      "category": "tech",
+      "title": "从 VCloud 到 Agentic VCloud：Agent 时代的范式重构",
+      "url": "https://www.infoq.cn/article/4S4eBkKoq9Btx37VdTMW?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T21:30:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "为“手搓5纳米”正名：也不全是吹牛啊",
-      "url": "https://www.huxiu.com/article/4871753.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T11:30:06+08:00"
+      "category": "tech",
+      "title": "AWS 为 Cognito 增加多区域故障切换能力",
+      "url": "https://www.infoq.cn/article/5GF5hkjpFZqR7EMGkSvR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T21:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "青藏铁路全线通车20年，去打卡的文青换了三代",
-      "url": "https://www.huxiu.com/article/4871697.html?f=rss",
-      "summary": "青藏铁路通车运行20周年",
-      "published": "2026-07-01T11:10:00+08:00"
+      "category": "tech",
+      "title": "Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈",
+      "url": "https://www.infoq.cn/article/5sAu5pdOatCpxaIU4vOw?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T19:02:41+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "5年撤销5000个专业布点，大学专业“大洗牌”，真的来了？",
-      "url": "https://www.huxiu.com/article/4871275.html?f=rss",
-      "summary": "知识与能力才是最稳的底牌",
-      "published": "2026-07-01T11:00:00+08:00"
+      "category": "tech",
+      "title": "Atlassian 揭秘 Forge 计费架构：如何在分布式环境下实现大规模用量计费",
+      "url": "https://www.infoq.cn/article/5a8OTMYRHj6XZIpOTVoo?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T18:50:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "赛力斯的硬科技估值，只差一次认知上的切换",
-      "url": "https://www.huxiu.com/article/4871743.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T10:58:46+08:00"
+      "category": "tech",
+      "title": "非科班出身技术Geek，被DeepSeek改写人生（上集）",
+      "url": "https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T18:22:29+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "谢娜的演唱会，章泽天的播客",
-      "url": "https://www.huxiu.com/article/4871742.html?f=rss",
-      "summary": "",
-      "published": "2026-07-01T10:56:46+08:00"
+      "category": "tech",
+      "title": "不要将租户隔离托付给LLM！如何在 Snowflake 上正确打造多租户 Cortex Agent ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/NHTl88E7s4WPWwEOdijD?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T17:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "五月硅谷调研有感",
-      "url": "https://www.huxiu.com/article/4871618.html?f=rss",
-      "summary": "Token 定价是下一个重要议题。",
-      "published": "2026-07-01T10:52:24+08:00"
+      "category": "tech",
+      "title": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+      "url": "https://www.infoq.cn/article/30O5wT7GIPEtIpiXeAS0?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T17:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "长城越野神车卖不动了，只因油价太高？",
-      "url": "https://www.huxiu.com/article/4871736.html?f=rss",
-      "summary": "长城越野神车卖不动了，只因油价太高？",
-      "published": "2026-07-01T10:44:45+08:00"
+      "category": "tech",
+      "title": "超越 CLEAN 和 MVP：在 Android 中构建离线优先的响应式数据层",
+      "url": "https://www.infoq.cn/article/dPgYc639VWEXxbPzmBK1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T02:44:00+08:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T12:14:52.528823+08:00",
+  "generated_at": "2026-06-06T12:17:06.221231+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -137,7 +137,7 @@
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "summary": "",
       "published": "2026-06-05T23:00:31+08:00",
-      "score": 368
+      "score": 369
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
       "summary": "",
       "published": "2026-06-06T00:18:48+08:00",
-      "score": 301
+      "score": 302
     },
     {
       "source": "Hacker News",
@@ -178,11 +178,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "summary": "",
+      "published": "2026-06-06T11:41:32+08:00",
+      "score": 3
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Did Claude increase bugs in rsync?",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
       "summary": "",
       "published": "2026-06-05T20:43:33+08:00",
-      "score": 343
+      "score": 344
     },
     {
       "source": "Hacker News",
@@ -196,11 +205,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
-      "url": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
+      "title": "My Agent Skill for Test-Driven Development",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
       "summary": "",
-      "published": "2026-06-04T21:17:25+08:00",
-      "score": 21
+      "published": "2026-06-04T22:10:40+08:00",
+      "score": 151
     },
     {
       "source": "Hacker News",
@@ -214,11 +223,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "My Agent Skill for Test-Driven Development",
-      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
+      "url": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
       "summary": "",
-      "published": "2026-06-04T22:10:40+08:00",
-      "score": 151
+      "published": "2026-06-04T21:17:25+08:00",
+      "score": 21
     },
     {
       "source": "Hacker News",
@@ -232,20 +241,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Ask HN: Why is the HN crowd so anti-AI?",
-      "url": "https://news.ycombinator.com/item?id=48420827",
-      "summary": "Genuine question. Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introdu...",
-      "published": "2026-06-06T10:31:51+08:00",
-      "score": 26
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
       "summary": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m... https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
       "published": "2026-06-06T00:55:30+08:00",
       "score": 378
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "url": "https://news.ycombinator.com/item?id=48420827",
+      "summary": "Genuine question. Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introdu...",
+      "published": "2026-06-06T10:31:51+08:00",
+      "score": 26
     },
     {
       "source": "Hacker News",
@@ -264,15 +273,6 @@
       "summary": "",
       "published": "2026-06-06T07:13:12+08:00",
       "score": 37
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "summary": "",
-      "published": "2026-06-05T23:39:38+08:00",
-      "score": 281
     }
   ],
   "rss": [
@@ -534,7 +534,7 @@
       "category": "product",
       "title": "美国5月非农就业人数增加17.2万人",
       "url": "https://36kr.com/newsflashes/3840259317549318?f=rss",
-      "summary": "美国劳工统计局6月5日发布数据显示，美国5月非农就业人数增加17.2万人。（界面）",
+      "summary": "美国劳工统计局6月5日发���数据显示，美国5月非农就业人数增加17.2万人。（界面）",
       "published": "2026-06-05T20:33:47+08:00"
     },
     {
@@ -637,184 +637,184 @@
       "published": "2026-06-04T11:02:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录",
-      "url": "https://www.huxiu.com/article/4864984.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T12:13:31+08:00"
+      "category": "tech",
+      "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+      "url": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-06T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "YC200家公司排队却只有1个程序员，Finney & Diffraqtion创始人：客户愿意为任何解法买单，不管多粗糙",
-      "url": "https://www.huxiu.com/article/4864983.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T12:09:46+08:00"
+      "category": "tech",
+      "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "url": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-06T17:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "我放了50只蚊子，然后用三台风扇赶走了它们",
-      "url": "https://www.huxiu.com/article/4864751.html?f=rss",
-      "summary": "如何让夏天清爽无蚊？",
-      "published": "2026-06-06T12:00:00+08:00"
+      "category": "tech",
+      "title": "架构变更案例：面向演进式架构的实用方法",
+      "url": "https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-06T02:03:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "用什么AI 暴露了你的阶层？没那么简单",
-      "url": "https://www.huxiu.com/article/4864982.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T11:50:48+08:00"
+      "category": "tech",
+      "title": "openJiuwen 社区又上新： JiuwenSwarm 给 Harness 装上「后训练」",
+      "url": "https://www.infoq.cn/article/lk4PwQKXhgPSlM7a8ACU?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-06T00:27:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "160多家上市公司去年环境处罚记录未消除，煤炭行业超四成公司在榜",
-      "url": "https://www.huxiu.com/article/4864980.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T11:46:36+08:00"
+      "category": "tech",
+      "title": "从流水线到蜂巢：AI 时代企业组织如何进化",
+      "url": "https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T22:41:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "库克送Siri最后一程",
-      "url": "https://www.huxiu.com/article/4864973.html?f=rss",
-      "summary": "“苹果已经没有借口不交付成果了。”",
-      "published": "2026-06-06T11:44:09+08:00"
+      "category": "tech",
+      "title": "超越客户 360：通过自适应体验赢得谨慎消费者的技术栈 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/g4wSu5ZhdrugHA4KXSw9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T21:53:25+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "买得起装不起、装得起用不起，空调为何变成印度奢侈品？",
-      "url": "https://www.huxiu.com/article/4864977.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T11:38:44+08:00"
+      "category": "tech",
+      "title": "Node.js 从 27 版本开始改为每年发布一个大版本",
+      "url": "https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T20:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "百亿补贴“退烧”，618白酒告别低价混战：1499元茅台消失了，年份酒和小酒版成新主角",
-      "url": "https://www.huxiu.com/article/4864976.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T11:35:32+08:00"
+      "category": "tech",
+      "title": "我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+      "url": "https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T18:54:39+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "财通基金这只“一年四倍基”赢麻了，场内溢价率达51%，上交所出手：重点监控",
-      "url": "https://www.huxiu.com/article/4864975.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T11:35:19+08:00"
+      "category": "tech",
+      "title": "阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+      "url": "https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "俞浩的“火箭超跑”，追觅造车的最后疯狂？",
-      "url": "https://www.huxiu.com/article/4864953.html?f=rss",
-      "summary": "追觅造车，只坑穷人？",
-      "published": "2026-06-06T10:35:43+08:00"
+      "category": "tech",
+      "title": "DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析",
+      "url": "https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T17:35:19+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "3.5万亿的末日叙事：AI没有意识，但它正在制造最昂贵的幻觉",
-      "url": "https://www.huxiu.com/article/4864933.html?f=rss",
-      "summary": "真正递归进化的是资本的叙事",
-      "published": "2026-06-06T10:35:00+08:00"
+      "category": "tech",
+      "title": "凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？",
+      "url": "https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T02:51:31+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "储能拯救光伏",
-      "url": "https://www.huxiu.com/article/4864968.html?f=rss",
-      "summary": "光储融合趋势渐成，这能把光伏拉出行业谷底吗？",
-      "published": "2026-06-06T10:32:00+08:00"
+      "category": "tech",
+      "title": "AI开始进入材料实验室：一家中国公司尝试让高分子研发从“经验驱动”走向“智能协同”",
+      "url": "https://www.infoq.cn/article/txk0mfmRmzThahlINCZZ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T02:44:01+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "比亚迪辟谣",
-      "url": "https://www.huxiu.com/article/4864966.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T10:31:05+08:00"
+      "category": "tech",
+      "title": "3 个维度说清楚，工具型产品如何成为 AI 原生产品",
+      "url": "https://www.infoq.cn/video/Cive5P8EQzbhJqFiruWZ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T01:57:06+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "宝马的新座舱，压根不想不卷算力",
-      "url": "https://www.huxiu.com/article/4864965.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T10:28:50+08:00"
+      "category": "tech",
+      "title": "别把懂语义和查事实混为一谈：企业级 Agent 真正缺的是什么？",
+      "url": "https://www.infoq.cn/article/wFkobVelA7W4PRZw9BOd?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T01:56:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "B端产品AI升级：存量报表和预警功能的智能改造经验",
-      "url": "https://www.huxiu.com/article/4864961.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T10:13:45+08:00"
+      "category": "tech",
+      "title": "刚刚，这款国产模型登顶 Artificial Analysis 输出速度榜榜首",
+      "url": "https://www.infoq.cn/article/LxqvV7TqKRi72MksLTd9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T01:52:16+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "绕开DUV的中国答卷：纳米压印走到了产线门口",
-      "url": "https://www.huxiu.com/article/4864959.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T10:10:10+08:00"
+      "category": "tech",
+      "title": "数据库告警看不懂？DBbrain 内核级诊断，秒出根因",
+      "url": "https://www.infoq.cn/video/LhHiqfEGRFMwlQKPHQ76?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T01:40:38+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一个τ定律刷屏全网，华为真找到新路了吗？",
-      "url": "https://www.huxiu.com/article/4864441.html?f=rss",
-      "summary": "新的节奏正被华为带起来",
-      "published": "2026-06-06T10:00:00+08:00"
+      "category": "tech",
+      "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
+      "url": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T01:33:16+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "1929股市大崩盘：这次又不一样了？",
-      "url": "https://www.huxiu.com/article/4864954.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T09:58:34+08:00"
+      "category": "tech",
+      "title": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具",
+      "url": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-05T00:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "AI还能让PC组装商吃多久红利？",
-      "url": "https://www.huxiu.com/article/4864952.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T09:50:37+08:00"
+      "category": "tech",
+      "title": "把数据库运维这件苦差事，交给 AI Agent",
+      "url": "https://www.infoq.cn/article/YKeLhEsd692pgUtqBwSI?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-04T23:10:24+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "蛋白粉原料涨价，受影响的不仅是健身一族",
-      "url": "https://www.huxiu.com/article/4864950.html?f=rss",
-      "summary": "",
-      "published": "2026-06-06T09:37:16+08:00"
+      "category": "tech",
+      "title": "运维不再需要“老师傅”，阿里云操作系统控制台重磅发布 OS 运维 Skills",
+      "url": "https://www.infoq.cn/article/W37w3zzGlPG1UtIhLbRh?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-04T23:07:03+08:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T12:53:16.212809+08:00",
+  "generated_at": "2026-06-11T12:56:17.662103+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -54,7 +54,7 @@
       "url": "https://www.v2ex.com/t/1219524",
       "summary": "![]( https://i.imgur.com/fCyg5mp.png) 他俩是个啥关系？我理解 5 小时有余量，就应该让用啊",
       "published": "2026-06-11T09:45:44+08:00",
-      "score": 52
+      "score": 54
     },
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "summary": "",
       "published": "2026-06-11T08:10:08+08:00",
-      "score": 232
+      "score": 235
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "summary": "",
       "published": "2026-06-11T00:42:00+08:00",
-      "score": 315
+      "score": 318
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://github.com/philipl/pifs",
       "summary": "",
       "published": "2026-06-11T02:54:54+08:00",
-      "score": 602
+      "score": 604
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
       "summary": "https://www.theverge.com/report/947575/microsoft-claude-fabl...",
       "published": "2026-06-10T01:23:40+08:00",
-      "score": 281
+      "score": 284
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
       "summary": "https://en.wikipedia.org/wiki/Cherokee_syllabary#Unicode",
       "published": "2026-06-11T06:07:52+08:00",
-      "score": 128
+      "score": 130
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "https://news.ycombinator.com/item?id=48477135",
       "summary": "Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_. It's been fifteen years since I wrote The Lean Startup, and in that time I've seen som...",
       "published": "2026-06-10T22:47:52+08:00",
-      "score": 580
+      "score": 582
     },
     {
       "source": "Hacker News",
@@ -173,16 +173,7 @@
       "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
       "summary": "",
       "published": "2026-06-11T01:30:48+08:00",
-      "score": 199
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "The Road to the WASM Component Model 1.0",
-      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
-      "summary": "",
-      "published": "2026-06-09T01:12:44+08:00",
-      "score": 14
+      "score": 200
     },
     {
       "source": "Hacker News",
@@ -192,6 +183,15 @@
       "summary": "",
       "published": "2026-06-10T22:02:59+08:00",
       "score": 421
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The Road to the WASM Component Model 1.0",
+      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
+      "summary": "",
+      "published": "2026-06-09T01:12:44+08:00",
+      "score": 15
     },
     {
       "source": "Hacker News",
@@ -218,7 +218,7 @@
       "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
       "summary": "",
       "published": "2026-06-09T13:21:39+08:00",
-      "score": 185
+      "score": 186
     },
     {
       "source": "Hacker News",
@@ -227,7 +227,7 @@
       "url": "https://www.extend.ai/ui",
       "summary": "We're open-sourcing 14 components & examples today for PDF, DOCX, and XLSX viewers, plus bounding box citations, file upload, e-signature, and more. It's MIT licensed and fully...",
       "published": "2026-06-11T00:09:26+08:00",
-      "score": 175
+      "score": 177
     },
     {
       "source": "Hacker News",
@@ -272,7 +272,7 @@
       "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
       "summary": "",
       "published": "2026-06-11T04:05:21+08:00",
-      "score": 199
+      "score": 200
     }
   ],
   "rss": [
@@ -307,7 +307,7 @@
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+      "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜��前线",
       "url": "https://36kr.com/p/3847339087140104?f=rss",
       "summary": "2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕表、与中国当代艺术家刘人岛合作的鎏金系列《名扬四海》联名腕表，以及多枚代表性时计一并陈列。 对这家1846年诞生于瑞士勒洛克的独立制表商而言，这是一个被精...",
       "published": "2026-06-10T21:35:14+08:00"
@@ -453,7 +453,7 @@
       "category": "product",
       "title": "速卖通欧美拉5国上线官方配送服务",
       "url": "https://36kr.com/newsflashes/3848228866544903?f=rss",
-      "summary": "36氪获悉，阿里旗下跨境电商平台速卖通AliExpress近期在美国、波兰、法国、西班牙、墨西哥五国上线官方本地配送服务，覆盖欧洲、北美、拉美三大经济圈。据了解，商家加入后，可依托海外仓实现更稳定、更低成本的\"本地发货、本地配送\"。",
+      "summary": "36氪获悉，阿里旗下跨境电商平台速卖通AliExpress近期在美国、波兰、法国、西班牙、墨西哥五国上线官方本地配送服务，覆盖欧洲、北美、拉美三大经济圈。据了解，商��加入后，可依托海外仓实现更稳定、更低成本的\"本地发货、本地配送\"。",
       "published": "2026-06-11T11:40:50+08:00"
     },
     {
@@ -637,184 +637,184 @@
       "published": "2026-06-09T04:56:14+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "第一届打药运动会，游泳运动员因打药太多浮不起来",
-      "url": "https://www.huxiu.com/article/4866329.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:46:55+08:00"
+      "category": "tech",
+      "title": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+      "url": "https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T19:47:09+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一支K-pop MV疯狂署名130个人，一档顶流中国综艺只署名5个人，差的是什么？",
-      "url": "https://www.huxiu.com/article/4866327.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:40:24+08:00"
+      "category": "tech",
+      "title": "亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+      "url": "https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T19:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "钉钉换帅，陈宇森“有招”吗？",
-      "url": "https://www.huxiu.com/article/4866317.html?f=rss",
-      "summary": "最终还得看悟空能不能打",
-      "published": "2026-06-11T12:36:25+08:00"
+      "category": "tech",
+      "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "腾讯放弃独家版权，版权公司该求变了",
-      "url": "https://www.huxiu.com/article/4866325.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:28:06+08:00"
+      "category": "tech",
+      "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+      "url": "https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T17:23:36+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "《亢奋3》已经沦为北美《小时代》了",
-      "url": "https://www.huxiu.com/article/4866045.html?f=rss",
-      "summary": "擦边贩毒崩老头，美国地狱全景图",
-      "published": "2026-06-11T12:21:00+08:00"
+      "category": "tech",
+      "title": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+      "url": "https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T02:30:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "我在义乌经历了五届世界杯，但今年的感受很不一样……",
-      "url": "https://www.huxiu.com/article/4866324.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:19:15+08:00"
+      "category": "tech",
+      "title": "大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？",
+      "url": "https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T02:06:42+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "搭了3个Agent，我确信AI替代不了市场人",
-      "url": "https://www.huxiu.com/article/4866322.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:15:23+08:00"
+      "category": "tech",
+      "title": "完成亿元天使轮融资，华超神控押注 AI 超声脑机接口",
+      "url": "https://www.infoq.cn/article/C1Fqp2WOao7d72b1kHR1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T02:00:01+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "甲骨文暴跌？AI基建补不了的硬伤：“高息、高债+歇菜软件”",
-      "url": "https://www.huxiu.com/article/4866319.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:13:33+08:00"
+      "category": "tech",
+      "title": "Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病",
+      "url": "https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T02:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "失业、转行、开一人公司，被AI追着杀的这一年",
-      "url": "https://www.huxiu.com/article/4866316.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:07:06+08:00"
+      "category": "tech",
+      "title": "基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7",
+      "url": "https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T01:52:51+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "无招下马，陈宇森上位：阿里用“有情有义”给钉钉换帅",
-      "url": "https://www.huxiu.com/article/4866315.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T12:02:31+08:00"
+      "category": "tech",
+      "title": "TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作重启",
+      "url": "https://www.infoq.cn/article/UjpPCzo8RPwNIt0pSsVp?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T01:04:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "世界杯来了，哪些比赛值得看呢？",
-      "url": "https://www.huxiu.com/article/4866139.html?f=rss",
-      "summary": "剧情与情怀兼具",
-      "published": "2026-06-11T12:00:00+08:00"
+      "category": "tech",
+      "title": "从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？",
+      "url": "https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T00:33:04+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "《置身钉内》引发钉钉巨震，90后陈宇森出任CEO",
-      "url": "https://www.huxiu.com/article/4866312.html?f=rss",
-      "summary": "陈宇森成为阿里巴巴最年轻的事业部CEO",
-      "published": "2026-06-11T11:53:00+08:00"
+      "category": "tech",
+      "title": "零售与消费品公司如何在宏观经济波动中实现同比增长 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/k4K56JbfmpfPXX2eqwR5?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T00:29:10+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "融资最多的机器人公司，一年卖了不到150台",
-      "url": "https://www.huxiu.com/article/4866308.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T11:47:28+08:00"
+      "category": "tech",
+      "title": "AI Native 的门槛，是把你的公司写下来",
+      "url": "https://www.infoq.cn/article/KAqFLsHffhA56VFrekTu?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T00:28:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "为何说昇腾950PR是2026年下半年的投资主线？",
-      "url": "https://www.huxiu.com/article/4866300.html?f=rss",
-      "summary": "下半年华为昇腾950 PR的上市，标志着国产AI算力进入从“能用”到“好用”的关键阶段",
-      "published": "2026-06-11T11:32:58+08:00"
+      "category": "tech",
+      "title": "边缘推理成为AI走向物理世界的核心战场",
+      "url": "https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-11T00:19:47+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "长江后浪推前浪，小米YU7能不能把Model Y拍在沙滩上？",
-      "url": "https://www.huxiu.com/article/4865714.html?f=rss",
-      "summary": "Model Y是过去的王者，YU7正定义新的智能汽车标准",
-      "published": "2026-06-11T11:24:29+08:00"
+      "category": "tech",
+      "title": "精彩预告：“Token 大爆炸〞前夜，数据基础设施何以成为新的变量？",
+      "url": "https://www.infoq.cn/video/6T4qfkUryNoFqOwZtLtV?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-10T22:40:54+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "曹曦成了中国“第二厉害”的投资人",
-      "url": "https://www.huxiu.com/article/4866304.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T11:23:51+08:00"
+      "category": "tech",
+      "title": "仅 6% 企业能完全搞定 AI 治理，SAP 力推 “自主运营企业” 新模式",
+      "url": "https://www.infoq.cn/article/SF45FokGJ2RzGZI4c1lb?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-10T22:14:30+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "科学还是无止境的边疆吗：从“科学的社会契约”看美国科学政策的过去与未来",
-      "url": "https://www.huxiu.com/article/4866297.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T11:01:55+08:00"
+      "category": "tech",
+      "title": "如何通过数据驱动的对话文化支撑平台工程",
+      "url": "https://www.infoq.cn/article/bmqoUAoTCIChMJfB98l2?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-10T22:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "后备箱里的“炸弹”：新能源车私改电池成灰色产业链",
-      "url": "https://www.huxiu.com/article/4866296.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T10:58:41+08:00"
+      "category": "tech",
+      "title": "业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+      "url": "https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-10T21:59:26+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "豪掷15亿，投行出身CEO上任不到三个月，蜜雪冰城首笔私募基金落向何处？",
-      "url": "https://www.huxiu.com/article/4866293.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T10:54:23+08:00"
+      "category": "tech",
+      "title": "亚马逊云科技采用随机图理论取代数据中心的胖树网络，路由器数量减少 69%",
+      "url": "https://www.infoq.cn/article/moJa8OHeY7DXt8rFMRbK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-10T19:28:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "从给不起饲料钱到600万欠款压垮数十亿市值，乳业末端的中小企业正在集体破产",
-      "url": "https://www.huxiu.com/article/4866287.html?f=rss",
-      "summary": "",
-      "published": "2026-06-11T10:50:14+08:00"
+      "category": "tech",
+      "title": "开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+      "url": "https://www.infoq.cn/article/x6kuFZ6QEGbZbotrM0YG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-10T18:46:51+08:00"
     }
   ]
 }

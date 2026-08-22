@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T12:11:44.745282+08:00",
+  "generated_at": "2026-05-30T12:13:57.767743+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -83,7 +83,7 @@
       "url": "https://www.nippon.com/en/japan-data/h02783/",
       "summary": "",
       "published": "2026-05-30T10:20:40+08:00",
-      "score": 31
+      "score": 34
     },
     {
       "source": "Hacker News",
@@ -92,7 +92,7 @@
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
       "summary": "",
       "published": "2026-05-29T23:46:24+08:00",
-      "score": 783
+      "score": 786
     },
     {
       "source": "Hacker News",
@@ -115,20 +115,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "summary": "",
+      "published": "2026-05-30T11:14:25+08:00",
+      "score": 11
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "summary": "",
       "published": "2026-05-30T00:22:01+08:00",
       "score": 321
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "url": "https://www.perryts.com/",
-      "summary": "",
-      "published": "2026-05-30T11:14:25+08:00",
-      "score": 10
     },
     {
       "source": "Hacker News",
@@ -155,7 +155,7 @@
       "url": "https://github.com/HarleyCoops/Math-To-Manim",
       "summary": "",
       "published": "2026-05-27T20:18:19+08:00",
-      "score": 6
+      "score": 8
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,7 @@
       "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
       "summary": "",
       "published": "2026-05-30T09:39:52+08:00",
-      "score": 76
+      "score": 78
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://github.com/jmaczan/tiny-vllm",
       "summary": "",
       "published": "2026-05-30T03:38:27+08:00",
-      "score": 107
+      "score": 108
     },
     {
       "source": "Hacker News",
@@ -426,7 +426,7 @@
       "category": "product",
       "title": "霍尼韦尔旗下量子计算公司 Quantinuum 拟扩大IPO规模",
       "url": "https://36kr.com/newsflashes/3831156793108099?f=rss",
-      "summary": "据报道，霍尼韦尔旗下量子计算公司Quantinuum考虑扩大IPO规模。据悉，该公司拟增加发行股份数量，并将发行价区间提高约10%，可能会使其目标融资额增加数亿美元。（新浪财经）",
+      "summary": "据报道，霍尼韦尔旗下量子计算公司Quantinuum考虑扩大IPO规模。据悉，该公司拟增加发行股份数量，并将发行价区间提高约10%，可能会使其目标融资额增加数亿��元。（新浪财经）",
       "published": "2026-05-30T10:49:30+08:00"
     },
     {
@@ -453,7 +453,7 @@
       "category": "product",
       "title": "商业载人航天穿越者完成Pre-A轮亿元融资",
       "url": "https://36kr.com/newsflashes/3831149360260994?f=rss",
-      "summary": "近日，北京穿越者载人���天科技有限公司完成Pre-A轮亿元融资。本轮由头部互联网战投领投，上市公司探路者集团等产业资本跟投，老股东中天汇富、彬复资本持续加码，光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。（科创板日报）",
+      "summary": "近日，北京穿越者载人航天科技有限公司完成Pre-A轮亿元融资。本轮由头部互联网战投领投，上市公司探路者集团等产业资本跟投，老股东中天汇富、彬复资本持续加码，光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。（科创板日报）",
       "published": "2026-05-30T10:12:09+08:00"
     },
     {
@@ -471,7 +471,7 @@
       "category": "product",
       "title": "丰田汽车计划11月在巴西开设新工厂",
       "url": "https://36kr.com/newsflashes/3831096744142726?f=rss",
-      "summary": "丰田汽车5月29日表示，计划11月初在巴西圣保罗州索罗卡巴市开设其在巴西的第二家工厂，届时该市将成为丰田在巴西的主要工业中心。新工厂是丰田此前宣布的到2030年投资110亿巴西雷亚尔（约合21.8亿美元）计划的一部分。（财联社）",
+      "summary": "丰田汽车5月29日表示，计划11月初在巴西圣保罗州索罗卡巴市开设其在巴西的第二家工厂，届时该市将成为丰田在巴西的主要工业中心。新工厂是丰田此前宣布的到2030年投资110亿巴西雷亚尔（约合21.8���美元）计划的一部分。（财联社）",
       "published": "2026-05-30T09:37:35+08:00"
     },
     {
@@ -619,184 +619,184 @@
       "published": "2026-05-27T17:38:16+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "催票、招待、买票、造假......欢迎来到全预制选秀时代",
-      "url": "https://www.huxiu.com/article/4861072.html?f=rss",
-      "summary": "选秀，已经彻底变成预制菜了",
-      "published": "2026-05-30T12:00:00+08:00"
+      "category": "tech",
+      "title": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-30T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "700亿融资赶紧到位吧，DeepSeek开始限制重生、修改次数了",
-      "url": "https://www.huxiu.com/article/4862909.html?f=rss",
-      "summary": "免费 AI 的每一次“重来”，背后都是算力账",
-      "published": "2026-05-30T11:44:35+08:00"
+      "category": "tech",
+      "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "url": "https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-30T15:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "7805个人类作家，输给一段提示词",
-      "url": "https://www.huxiu.com/article/4862934.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T11:14:23+08:00"
+      "category": "tech",
+      "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
+      "url": "https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-30T02:26:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一组反直觉的数据告诉我们，电影的票房潜力远没有穷尽",
-      "url": "https://www.huxiu.com/article/4862933.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T11:07:15+08:00"
+      "category": "tech",
+      "title": "OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？",
+      "url": "https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T23:40:58+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "免税红利回来了，中国商人飞越半个地球去巴西",
-      "url": "https://www.huxiu.com/article/4862932.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T11:01:08+08:00"
+      "category": "tech",
+      "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
+      "url": "https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T23:10:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "不仅只收流量费了？AI时代，运营商即将开启token收费模式",
-      "url": "https://www.huxiu.com/article/4862533.html?f=rss",
-      "summary": "一场从流量到算力的变革",
-      "published": "2026-05-30T11:00:00+08:00"
+      "category": "tech",
+      "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
+      "url": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
+      "summary": "提交你的问题，我们替你去问！ 点击查看原文>",
+      "published": "2026-05-19T00:39:32+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "比亚迪璇玑A3拆解：车企开始争夺AI 芯片定义权",
-      "url": "https://www.huxiu.com/article/4862930.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:56:39+08:00"
+      "category": "tech",
+      "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
+      "url": "https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T19:18:01+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "苹果用AI重新发明了图像压缩：同样画质，文件只要三分之一",
-      "url": "https://www.huxiu.com/article/4862928.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:47:20+08:00"
+      "category": "tech",
+      "title": "Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座",
+      "url": "https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:55:22+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "被AI“忽悠”了N次后，我们总结了这份避坑指南",
-      "url": "https://www.huxiu.com/article/4862927.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:40:47+08:00"
+      "category": "tech",
+      "title": "编程 Agent 可能是软件开发史上最昂贵的错误之一",
+      "url": "https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:42:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "长鑫科技背后“稳赚”了八家券商",
-      "url": "https://www.huxiu.com/article/4862926.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:39:10+08:00"
+      "category": "tech",
+      "title": "中国不会有 Snowflake——但这未必是坏事",
+      "url": "https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:31:35+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "任天堂简史：硬件服务于内容",
-      "url": "https://www.huxiu.com/article/4862925.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:35:46+08:00"
+      "category": "tech",
+      "title": "当“码农”成为历史：AI时代工程师的生存法则",
+      "url": "https://www.infoq.cn/article/KlDKF5Tvz2lmVxCf63Tz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:26:47+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "微信支付+PayPal，跨境支付暗战“升级”",
-      "url": "https://www.huxiu.com/article/4862924.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:33:57+08:00"
+      "category": "tech",
+      "title": "美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "上市公司“再诉”前实控人，翻出9年前IPO旧账，它要学妙可蓝多“踢掉”创始人？",
-      "url": "https://www.huxiu.com/article/4862923.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:30:14+08:00"
+      "category": "tech",
+      "title": "超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化",
+      "url": "https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T17:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "日均15单，营收200元：一个三线城市网约车司机在算法里抠订单",
-      "url": "https://www.huxiu.com/article/4862742.html?f=rss",
-      "summary": "“虚惊一场的8小时新规”",
-      "published": "2026-05-30T10:30:00+08:00"
+      "category": "tech",
+      "title": "去硅谷前，聊聊我们为什么率先支持 Snowflake 发起的 OSI 标准",
+      "url": "https://www.infoq.cn/article/PpExuT6pwqGeTqIhqoHL?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-29T05:29:45+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "快手拆了可灵，字节拆豆包还会远么",
-      "url": "https://www.huxiu.com/article/4862922.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:26:09+08:00"
+      "category": "tech",
+      "title": "Agent 能用，为什么还是不好用？",
+      "url": "https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-28T23:45:04+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "净利润下滑33%、单店月均GMV下滑17.6%，打垮霸王茶姬的真的只是外卖大战吗？",
-      "url": "https://www.huxiu.com/article/4862920.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:23:05+08:00"
+      "category": "tech",
+      "title": "米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？",
+      "url": "https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-28T23:32:05+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "快消正在失去00后业务员：比外卖抢人更可怕的，是自上而下的“登味儿”管理",
-      "url": "https://www.huxiu.com/article/4862919.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:20:59+08:00"
+      "category": "tech",
+      "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
+      "url": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-28T23:27:30+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "笔记吃灰，如何有效自救？3步盘活你的“个人上下文”",
-      "url": "https://www.huxiu.com/article/4862914.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T10:14:25+08:00"
+      "category": "tech",
+      "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
+      "url": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-28T23:08:42+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“进群后，我从消费30万的VIP变成了被告”",
-      "url": "https://www.huxiu.com/article/4862901.html?f=rss",
-      "summary": "避免被无量商家“割韭菜”，消费者首先要自我觉醒",
-      "published": "2026-05-30T10:00:00+08:00"
+      "category": "tech",
+      "title": "腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk",
+      "url": "https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-28T22:46:52+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "创业不易，几多老板成困兽？",
-      "url": "https://www.huxiu.com/article/4862911.html?f=rss",
-      "summary": "",
-      "published": "2026-05-30T09:58:38+08:00"
+      "category": "tech",
+      "title": "Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
+      "url": "https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-28T22:41:52+08:00"
     }
   ]
 }

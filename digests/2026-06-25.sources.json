@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T12:18:25.035425+08:00",
+  "generated_at": "2026-06-25T12:20:59.385949+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -36,7 +36,7 @@
       "url": "https://www.v2ex.com/t/1222591",
       "summary": "三次挂在靠边停车，两次大于 50CM ，一次压线，我真的要疯了，有好的法子么大佬们求助",
       "published": "2026-06-24T18:01:09+08:00",
-      "score": 95
+      "score": 96
     },
     {
       "source": "V2EX",
@@ -63,7 +63,7 @@
       "url": "https://www.v2ex.com/t/1222517",
       "summary": "最近我区率先实行全额社保，我税前合同写的 1 万，按照 5000 基数交的，现在合法合规应该按照 1 万交差不多我到手还能有个 8400 ，但是公司变相降薪给的方案是全额自己缴纳连公司在内的社保，这显然违反劳动法了。 给的另个方案是公司降到 5000 仍然按照 5000 缴纳基本和之前不变，另外 5000 公司想法子开票最终现金方式给我们，但是 1 如...",
       "published": "2026-06-24T14:20:20+08:00",
-      "score": 55
+      "score": 56
     },
     {
       "source": "V2EX",
@@ -92,7 +92,7 @@
       "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
       "summary": "",
       "published": "2026-06-25T09:14:23+08:00",
-      "score": 92
+      "score": 95
     },
     {
       "source": "Hacker News",
@@ -101,7 +101,7 @@
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "summary": "Announcement: https://openai.com/index/openai-broadcom-jalapeno-inference-... https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus... https://www.cnn.com/2026/06/24/tech...",
       "published": "2026-06-25T01:47:00+08:00",
-      "score": 609
+      "score": 611
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "summary": "",
       "published": "2026-06-25T03:48:01+08:00",
-      "score": 160
+      "score": 162
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
       "summary": "",
       "published": "2026-06-25T08:41:43+08:00",
-      "score": 92
+      "score": 94
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,7 @@
       "url": "https://blog.cloudflare.com/oauth-for-all/",
       "summary": "",
       "published": "2026-06-25T10:18:10+08:00",
-      "score": 41
+      "score": 43
     },
     {
       "source": "Hacker News",
@@ -142,20 +142,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "summary": "",
-      "published": "2026-06-22T23:15:38+08:00",
-      "score": 74
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Show HN: Write SaaS apps where users control where their data is stored",
       "url": "https://github.com/wolfoo2931/linkedrecords/",
       "summary": "Hello HN, I would like to share with you linkedrecords.com - an open source backend as a service I'm working on since some time now. You can think of it as an firebase/convex al...",
       "published": "2026-06-19T15:37:14+08:00",
-      "score": 13
+      "score": 14
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Dostoyevsky isn't difficult",
+      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+      "summary": "",
+      "published": "2026-06-22T23:15:38+08:00",
+      "score": 75
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
       "summary": "",
       "published": "2026-06-25T10:16:15+08:00",
-      "score": 12
+      "score": 14
     },
     {
       "source": "Hacker News",
@@ -289,7 +289,7 @@
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "国产��电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
       "url": "https://36kr.com/p/3868030861645058?f=rss",
       "summary": "文 | 阿至 给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。 这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。 在这一核心环节，一家成立不到4年的创业公司，想通过...",
       "published": "2026-06-25T11:25:46+08:00"
@@ -356,6 +356,15 @@
       "url": "https://36kr.com/p/3866900608701449?f=rss",
       "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了...",
       "published": "2026-06-24T16:17:52+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "IDC：一季度全球手持智能相机市场出货量同比增长33%",
+      "url": "https://36kr.com/newsflashes/3868069256729858?f=rss",
+      "summary": "36氪获悉，国际数据公司（IDC）最新报告显示，2026年第一季度全球手持智能相机市场出货量达到414万台，同比增长33%。销售额超过105亿元人民币，同比增长20%。IDC预计，至2030年，全球手持智能相机市场规模将会超过4000万台，五年复合增长率接近18%。",
+      "published": "2026-06-25T12:18:26+08:00"
     },
     {
       "source": "36kr",
@@ -529,15 +538,6 @@
       "published": "2026-06-25T10:20:49+08:00"
     },
     {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "A股“股王”联讯仪器，股价续创历史新高",
-      "url": "https://36kr.com/newsflashes/3867968048567555?f=rss",
-      "summary": "36氪获悉，A股“股王”联讯仪器高开后持续拉升，盘中一度大涨超7%，最高报2777.77元/股，续创历史新高。",
-      "published": "2026-06-25T10:20:34+08:00"
-    },
-    {
       "source": "sspai",
       "source_type": "rss",
       "category": "product",
@@ -628,184 +628,184 @@
       "published": "2026-06-22T18:04:48+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "好莱坞的罢工为什么挡不住谷歌AI的进军",
-      "url": "https://www.huxiu.com/article/4870132.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T12:05:26+08:00"
+      "category": "tech",
+      "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
+      "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-25T20:12:12+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中国银行为何“铤而走险”？",
-      "url": "https://www.huxiu.com/article/4870119.html?f=rss",
-      "summary": "监管套利空间日渐狭窄",
-      "published": "2026-06-25T11:59:19+08:00"
+      "category": "tech",
+      "title": "PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能",
+      "url": "https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-25T19:03:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "为什么机器人还替代不了矿工？",
-      "url": "https://www.huxiu.com/article/4870129.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:56:31+08:00"
+      "category": "tech",
+      "title": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+      "url": "https://www.infoq.cn/article/IMpqMxeFFGD1UabjiXHr?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-25T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“影子账号”骗捐背后：真实大病患儿家庭陷入流量困境",
-      "url": "https://www.huxiu.com/article/4870120.html?f=rss",
-      "summary": "大病患儿家属正涌向短视频平台",
-      "published": "2026-06-25T11:55:00+08:00"
+      "category": "tech",
+      "title": "Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+      "url": "https://www.infoq.cn/article/Ctbo8axuctQqNcJWQouI?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-25T17:08:34+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "DRG3.0利好头部大三甲，新一轮病种淘汰，冲点内卷还会加剧？",
-      "url": "https://www.huxiu.com/article/4870127.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:54:25+08:00"
+      "category": "tech",
+      "title": "Xcode 27 扩展代理集成，全面改版用户界面，并引入了 DeviceHub",
+      "url": "https://www.infoq.cn/article/VGQNO8bH0sq4kFDb6B7H?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-25T01:39:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "央视起底高考报考乱象，免费的千问，被谁卖成了万元生意？",
-      "url": "https://www.huxiu.com/article/4870126.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:52:13+08:00"
+      "category": "tech",
+      "title": "为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键",
+      "url": "https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-25T01:22:20+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "我反对滥用AI：它正在偷走我们的判断力",
-      "url": "https://www.huxiu.com/article/4870124.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:44:45+08:00"
+      "category": "tech",
+      "title": "Anthropic 解释了 Claude 如何构建自己的执行框架",
+      "url": "https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-25T00:16:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "美的AI：传统产业智能转型的艰难样本",
-      "url": "https://www.huxiu.com/article/4870123.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:43:36+08:00"
+      "category": "tech",
+      "title": "ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架",
+      "url": "https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T22:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "闲鱼正在成为AI 时代最大的“黑市”",
-      "url": "https://www.huxiu.com/article/4870122.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:42:32+08:00"
+      "category": "tech",
+      "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
+      "url": "https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T19:11:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "2026，10000个中国版Codex 大乱斗",
-      "url": "https://www.huxiu.com/article/4870118.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:34:28+08:00"
+      "category": "tech",
+      "title": "全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+      "url": "https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T18:16:58+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "苏超和龙舟，藏着两大经济强省的秘密",
-      "url": "https://www.huxiu.com/article/4868540.html?f=rss",
-      "summary": "一个人可以划得很快，但一群人才能划得更远",
-      "published": "2026-06-25T11:30:00+08:00"
+      "category": "tech",
+      "title": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+      "url": "https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "美光：牛气冲天，“凄凉周期”要变“超级成长”？",
-      "url": "https://www.huxiu.com/article/4870116.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:28:06+08:00"
+      "category": "tech",
+      "title": "亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+      "url": "https://www.infoq.cn/article/ueZqEfU5byzB48PNBfi1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T17:40:58+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "胡葆森开始了“最后的疯狂”",
-      "url": "https://www.huxiu.com/article/4870115.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:27:29+08:00"
+      "category": "tech",
+      "title": "一文读懂，2026 中国峰会到底怎么逛？丨中国峰会",
+      "url": "https://www.infoq.cn/article/HRRlDs5N4z8L0kDXF9w4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T17:20:27+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "微短剧营销，下一个元宇宙泡沫？",
-      "url": "https://www.huxiu.com/article/4870113.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:26:05+08:00"
+      "category": "tech",
+      "title": "人人都是 Builder 的时代，企业的真正挑战是“怎么管”？",
+      "url": "https://www.infoq.cn/article/UXZBCoYhBRFN0WRLVR5x?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T05:13:23+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "微信在金矿上孵化豆包",
-      "url": "https://www.huxiu.com/article/4870111.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:19:30+08:00"
+      "category": "tech",
+      "title": "数据库到底该怎么选？TDSQL 用一套内核给出了三个答案",
+      "url": "https://www.infoq.cn/article/aWFuheF4r0CGI5tor4VH?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T03:32:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "起大早赶晚集，做不成事留不住人，百度成了AI领域的黄埔军校",
-      "url": "https://www.huxiu.com/article/4870108.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T11:09:52+08:00"
+      "category": "tech",
+      "title": "拿下OpenAI Offer后，她复盘了57场面试：Transformer要会手写，LeetCode还得刷",
+      "url": "https://www.infoq.cn/article/85A9DVFo51jUHia88mQ4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T03:09:50+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "工行叫停个人贵金属竞价交易，金价大跌，多家银行调整黄金业务，集体“去杠杆”，专家解读",
-      "url": "https://www.huxiu.com/article/4870104.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T10:59:04+08:00"
+      "category": "tech",
+      "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
+      "url": "https://www.infoq.cn/article/CuH2KDSV1bvb6btQOeRf?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T03:04:13+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中方制裁半年后，日本产业大崩溃来了",
-      "url": "https://www.huxiu.com/article/4868048.html?f=rss",
-      "summary": "对日制裁初见成效，连锁反应来了",
-      "published": "2026-06-25T10:30:00+08:00"
+      "category": "tech",
+      "title": "主题征文｜跟鸿蒙一起迈入 Agent 时代，大展“鸿图”！",
+      "url": "https://www.infoq.cn/article/p0LYKZdFku7y5BkSMNQN?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T02:35:51+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "理想不愿再做宁德时代的附庸，后者能忍？",
-      "url": "https://www.huxiu.com/article/4869902.html?f=rss",
-      "summary": "李想和曾毓群，终究走到了这一步",
-      "published": "2026-06-25T10:21:48+08:00"
+      "category": "tech",
+      "title": "腾讯云发布边缘 Web 与 AI Agent 托管平台 EdgeOne Makers：一键开发部署，分钟级全球上线",
+      "url": "https://www.infoq.cn/article/5iz5ew8NpQXIvvpFphDk?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T01:46:31+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "因开源Google Workspace CLI走红，却被谷歌解雇，Codex直接抢人",
-      "url": "https://www.huxiu.com/article/4870094.html?f=rss",
-      "summary": "",
-      "published": "2026-06-25T10:19:01+08:00"
+      "category": "tech",
+      "title": "使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+      "url": "https://www.infoq.cn/article/2yiUMe6JxKGXK61luSIJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-24T01:12:00+08:00"
     }
   ]
 }

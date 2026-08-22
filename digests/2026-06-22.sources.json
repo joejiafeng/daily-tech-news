@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T13:23:06.472787+08:00",
+  "generated_at": "2026-06-22T13:26:36.050788+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1221864",
       "summary": "周末晚上 8 点我拖完地去厨房把西瓜拿出来吃，吃之前问了她要不要吃，吃的话就过来，她说把西瓜放回去她要吃第一口。 我：西瓜你吃不吃，吃的话就过来。 她：放回去，我要吃第一口。 我：你吃不吃... 她：放回去 我没理他了，自己开吃，过了几分钟，我吃完把西瓜放回去了。 她：你吃完就放回去了，你凭什么吃第一口 我：我为什么不能吃第一口 她：（明显生气了，说连...",
       "published": "2026-06-22T09:42:42+08:00",
-      "score": 257
+      "score": 258
     },
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1221862",
       "summary": "端午自驾宁波蹭朋友的极氪 9X ，高速开 NZP 是真的香！全程不用紧绷着开车，加速、变道、刹车都稳如老司机。 俩娃在后排飞翼屏看动画片，安安稳稳坐完全程，各种新奇黑科技直接看呆我。 不过话说回来，日常通勤代步，这么多花里胡哨的功能真的刚需吗？想问问大家，当初弃油换电车，最打动你的理由是什么？",
       "published": "2026-06-22T09:38:10+08:00",
-      "score": 77
+      "score": 78
     },
     {
       "source": "V2EX",
@@ -54,7 +54,7 @@
       "url": "https://www.v2ex.com/t/1221858",
       "summary": "问个问题，就比如一女的上大学跟男生玩得好，然后大学期间以及毕业后，就经常和小团体出去旅游，打麻将 4 男 2 女（含她）这样子 我是不太喜欢这种，所以想请教下大家啥看法 我担心的是，小团体承载着她们太多的青春回忆，就算以后在一起，怕的是 团体>对象。 我高中的时候也遇到过那种小团体一女的跟其中的一个男的谈恋爱，然后和其他男的开房的，简直刷新三观。",
       "published": "2026-06-22T09:33:19+08:00",
-      "score": 55
+      "score": 56
     },
     {
       "source": "V2EX",
@@ -92,7 +92,7 @@
       "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
       "summary": "",
       "published": "2026-06-22T05:40:53+08:00",
-      "score": 375
+      "score": 377
     },
     {
       "source": "Hacker News",
@@ -101,7 +101,7 @@
       "url": "https://lmao.center/blog/wiggle-accidents/",
       "summary": "",
       "published": "2026-06-20T09:55:16+08:00",
-      "score": 75
+      "score": 78
     },
     {
       "source": "Hacker News",
@@ -128,7 +128,16 @@
       "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
       "summary": "",
       "published": "2026-06-22T05:10:32+08:00",
-      "score": 167
+      "score": 171
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
+      "summary": "",
+      "published": "2026-06-20T11:29:19+08:00",
+      "score": 61
     },
     {
       "source": "Hacker News",
@@ -142,20 +151,11 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Memory Safe Inline Assembly",
-      "url": "https://fil-c.org/inlineasm",
-      "summary": "",
-      "published": "2026-06-20T11:29:19+08:00",
-      "score": 59
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
       "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
       "summary": "",
       "published": "2026-06-22T06:55:23+08:00",
-      "score": 71
+      "score": 73
     },
     {
       "source": "Hacker News",
@@ -164,7 +164,7 @@
       "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
       "summary": "https://xcancel.com/LarsAnders1620/status/206820886474754051...",
       "published": "2026-06-22T12:50:26+08:00",
-      "score": 30
+      "score": 36
     },
     {
       "source": "Hacker News",
@@ -173,7 +173,7 @@
       "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
       "summary": "",
       "published": "2026-06-20T08:42:50+08:00",
-      "score": 22
+      "score": 23
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
       "summary": "",
       "published": "2026-06-19T02:45:03+08:00",
-      "score": 74
+      "score": 75
     },
     {
       "source": "Hacker News",
@@ -200,7 +200,7 @@
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
       "summary": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_...",
       "published": "2026-06-21T20:44:13+08:00",
-      "score": 659
+      "score": 660
     },
     {
       "source": "Hacker News",
@@ -214,20 +214,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "summary": "",
+      "published": "2026-06-21T19:38:01+08:00",
+      "score": 460
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "PowerFox Browser",
       "url": "https://powerfox.jazzzny.me/",
       "summary": "",
       "published": "2026-06-22T05:23:13+08:00",
       "score": 103
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "url": "https://www.beyondallreason.info",
-      "summary": "",
-      "published": "2026-06-21T19:38:01+08:00",
-      "score": 459
     },
     {
       "source": "Hacker News",
@@ -263,7 +263,7 @@
       "url": "https://github.com/paytonjjones/bsharp",
       "summary": "",
       "published": "2026-06-21T20:49:48+08:00",
-      "score": 86
+      "score": 87
     }
   ],
   "rss": [
@@ -505,7 +505,7 @@
       "source": "36kr",
       "source_type": "rss",
       "category": "product",
-      "title": "SK海力士市值一度超越三星电子，成��韩国最具价值企业",
+      "title": "SK海力士市值一度超越三星电子，成为韩国最具价值企业",
       "url": "https://36kr.com/newsflashes/3863807460971521?f=rss",
       "summary": "SK海力士市值一度超越三星电子，成为韩国最具价值企业。（新浪财经）",
       "published": "2026-06-22T11:48:12+08:00"
@@ -628,184 +628,184 @@
       "published": "2026-06-17T15:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "MOSS 全模态技术体系全解析：统一离散化建模、推理优化与情境数据构建路径",
-      "url": "https://www.huxiu.com/article/4869146.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T13:08:14+08:00"
+      "category": "tech",
+      "title": "优步通过实时信号与Listwise排序改进餐厅推荐",
+      "url": "https://www.infoq.cn/article/yz1xWttyNqlIdBbF7GOR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-22T20:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "AI短剧的下一个风口，是孵化原生AI演员？",
-      "url": "https://www.huxiu.com/article/4869145.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:54:52+08:00"
+      "category": "tech",
+      "title": "传统数据架构，还够用吗？",
+      "url": "https://www.infoq.cn/video/LwxokkXxwsf5YECuhzi9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-22T19:24:25+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "热搜为什么越来越无聊了？",
-      "url": "https://www.huxiu.com/article/4869144.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:50:15+08:00"
+      "category": "tech",
+      "title": "内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选",
+      "url": "https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-22T18:20:48+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一个中国风险投资人中的异类",
-      "url": "https://www.huxiu.com/article/4869142.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:46:08+08:00"
+      "category": "tech",
+      "title": "复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
+      "url": "https://www.infoq.cn/article/Lp2yijsaRsNZNzlgCRCx?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-22T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "宝马大幅下调全年业绩预期，中国市场压力增大成重要诱因",
-      "url": "https://www.huxiu.com/article/4869141.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:39:08+08:00"
+      "category": "tech",
+      "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-21T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Nature重磅：AI智能体医生：MIRA，首次在完整诊疗流程中超越人类医生",
-      "url": "https://www.huxiu.com/article/4869140.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:38:31+08:00"
+      "category": "tech",
+      "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+      "url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-20T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "美国版“幻方量化”，没做DeepSeek，但押注Anthropic 爆赚50倍",
-      "url": "https://www.huxiu.com/article/4869139.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:37:08+08:00"
+      "category": "tech",
+      "title": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "我们最近买的5个“新玩意”",
-      "url": "https://www.huxiu.com/article/4869138.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:33:37+08:00"
+      "category": "tech",
+      "title": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+      "url": "https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "奥特曼综艺首秀封神，13名硅谷大佬玩狼人杀，太有看头了",
-      "url": "https://www.huxiu.com/article/4869137.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:31:54+08:00"
+      "category": "tech",
+      "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
+      "url": "https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T03:27:38+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "战略小金属：中国手里真正的王炸是什么？",
-      "url": "https://www.huxiu.com/article/4869135.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:25:38+08:00"
+      "category": "tech",
+      "title": "当 Token 成为商品，AI 基础设施会怎么变化？",
+      "url": "https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T03:17:06+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "轻轻一挤就喷个不停，这种逆天药膏包装就没人能管管吗？",
-      "url": "https://www.huxiu.com/article/4869134.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:21:04+08:00"
+      "category": "tech",
+      "title": "Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？",
+      "url": "https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T02:15:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "从机器狗到AI Agent：在产业一线，看见AI时代管理者真正需要的能力",
-      "url": "https://www.huxiu.com/article/4869133.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:19:13+08:00"
+      "category": "tech",
+      "title": "Anthropic 发布 Claude Fable 5 三天遭临时下架",
+      "url": "https://www.infoq.cn/article/UXghld6fuzYxJNuU6L47?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T02:14:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "吃一次广东龙舟饭，才懂什么是豪华盛宴",
-      "url": "https://www.huxiu.com/article/4869132.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:14:42+08:00"
+      "category": "tech",
+      "title": "个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考",
+      "url": "https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T01:58:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "互联网招聘进入“AI时间”",
-      "url": "https://www.huxiu.com/article/4869131.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:07:46+08:00"
+      "category": "tech",
+      "title": "自主智能体遇阻：数据库成最大挑战",
+      "url": "https://www.infoq.cn/article/BtWV3huF3ZydPc501mAO?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T01:54:26+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "卖马桶的TOTO 杀疯了，成了AI 芯片的幕后赢家",
-      "url": "https://www.huxiu.com/article/4869128.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T12:00:45+08:00"
+      "category": "tech",
+      "title": "JetBrains 开源 Mellum2，尝试 Claude Code 无法涉足的领域",
+      "url": "https://www.infoq.cn/article/QQVa7HhtdoDzLFB7ewVQ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T01:48:17+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "力压粤苏，中国大学第一省，诞生",
-      "url": "https://www.huxiu.com/article/4869127.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T11:59:04+08:00"
+      "category": "tech",
+      "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
+      "url": "https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T01:42:01+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "雷军的真实感快过期了",
-      "url": "https://www.huxiu.com/article/4869126.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T11:54:35+08:00"
+      "category": "tech",
+      "title": "谷歌给 Android 开发者选模型：GPT-5.5 暂时领先",
+      "url": "https://www.infoq.cn/article/76b4Q6i80w8MFHpuFFWA?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T01:33:42+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "看懂太空算力，这一篇就够啦",
-      "url": "https://www.huxiu.com/article/4869118.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T11:51:31+08:00"
+      "category": "tech",
+      "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
+      "url": "https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T01:27:42+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "买不起高考三件套，就是“养不起别生”？",
-      "url": "https://www.huxiu.com/article/4869116.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T11:41:36+08:00"
+      "category": "tech",
+      "title": "上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口",
+      "url": "https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T01:18:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "追觅基层员工的这一年",
-      "url": "https://www.huxiu.com/article/4869115.html?f=rss",
-      "summary": "",
-      "published": "2026-06-22T11:38:25+08:00"
+      "category": "tech",
+      "title": "Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架",
+      "url": "https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-19T00:42:00+08:00"
     }
   ]
 }

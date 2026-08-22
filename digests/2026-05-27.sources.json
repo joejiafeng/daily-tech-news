@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T12:43:23.858345+08:00",
+  "generated_at": "2026-05-27T12:45:18.941277+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -68,19 +68,19 @@
     {
       "source": "V2EX",
       "source_type": "v2ex",
-      "title": "做了一个“全网视频下载”的 Windows 桌面应用：仅 2.2MB，粘贴链接就能下，欢迎试用",
-      "url": "https://www.v2ex.com/t/1215779",
-      "summary": "最近做了一个自己一直想要的工具：yt-dlp-tauri 。 项目地址： https://github.com/Chlience/yt-dlp-tauri ﻿![yt-dlp-tauri 中文界面]( https://raw.githubusercontent.com/Chlience/yt-dlp-tauri/main/docs/assets/rea...",
-      "published": "2026-05-27T08:43:29+08:00",
-      "score": 45
-    },
-    {
-      "source": "V2EX",
-      "source_type": "v2ex",
       "title": "在深住小区房和城中村单间的幸福感真的天壤之别",
       "url": "https://www.v2ex.com/t/1215576",
       "summary": "刚来深圳的时候，在南山住的自如，看着就是两居室改过来的，客厅基本没有。所幸三个都是男生，也讲素质，日常也没有受到什么影响。最致命的是，市区比我想象中还要吵，旁边全是商超，一大早就被吵醒，戴着耳机强忍了一年。 租期快到的时候，也考虑过继续待南山，后面找房子的时候，发现预算内的要么合租要么感觉没阳光。 然后跑去宝安租房了，宝安那边的城中村，找了一个相对安静...",
       "published": "2026-05-26T14:38:42+08:00",
+      "score": 46
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "做了一个“全网视频下载”的 Windows 桌面应用：仅 2.2MB，粘贴链接就能下，欢迎试用",
+      "url": "https://www.v2ex.com/t/1215779",
+      "summary": "最近做了一个自己一直想要的工具：yt-dlp-tauri 。 项目地址： https://github.com/Chlience/yt-dlp-tauri ﻿![yt-dlp-tauri 中文界面]( https://raw.githubusercontent.com/Chlience/yt-dlp-tauri/main/docs/assets/rea...",
+      "published": "2026-05-27T08:43:29+08:00",
       "score": 45
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
       "summary": "",
       "published": "2026-05-27T11:56:42+08:00",
-      "score": 36
+      "score": 37
     },
     {
       "source": "Hacker News",
@@ -115,20 +115,20 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "summary": "",
-      "published": "2026-05-27T03:25:16+08:00",
-      "score": 284
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
       "title": "Where does next-token prediction leave us?",
       "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
       "summary": "",
       "published": "2026-05-27T09:10:44+08:00",
-      "score": 66
+      "score": 67
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "summary": "",
+      "published": "2026-05-27T03:25:16+08:00",
+      "score": 285
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
       "summary": "",
       "published": "2026-05-26T04:41:49+08:00",
-      "score": 293
+      "score": 295
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
       "summary": "",
       "published": "2026-05-24T03:01:13+08:00",
-      "score": 63
+      "score": 64
     },
     {
       "source": "Hacker News",
@@ -209,25 +209,7 @@
       "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
       "summary": "",
       "published": "2026-05-27T04:33:24+08:00",
-      "score": 388
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Stripe is friendly to “friendly fraud”",
-      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
-      "summary": "",
-      "published": "2026-05-27T08:40:05+08:00",
-      "score": 179
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Erin Brockovich made a map to track data centers around the country",
-      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-      "summary": "",
-      "published": "2026-05-27T08:36:03+08:00",
-      "score": 168
+      "score": 389
     },
     {
       "source": "Hacker News",
@@ -241,11 +223,47 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "summary": "",
+      "published": "2026-05-27T08:36:03+08:00",
+      "score": 168
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "summary": "",
       "published": "2026-05-26T21:08:13+08:00",
-      "score": 829
+      "score": 830
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Stripe is friendly to “friendly fraud”",
+      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+      "summary": "",
+      "published": "2026-05-27T08:40:05+08:00",
+      "score": 180
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "A History of Obituaries in American Newspapers",
+      "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+      "summary": "",
+      "published": "2026-05-25T03:22:18+08:00",
+      "score": 3
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Dropbox CEO Drew Houston to step down",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "summary": "https://blog.dropbox.com/topics/company/dropbox-leadership-u... https://twitter.com/drewhouston/status/2059275240065425474?s...",
+      "published": "2026-05-26T21:18:33+08:00",
+      "score": 320
     },
     {
       "source": "Hacker News",
@@ -255,24 +273,6 @@
       "summary": "",
       "published": "2026-05-24T18:17:19+08:00",
       "score": 18
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Dropbox CEO Drew Houston to step down",
-      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "summary": "https://blog.dropbox.com/topics/company/dropbox-leadership-u... https://twitter.com/drewhouston/status/2059275240065425474?s...",
-      "published": "2026-05-26T21:18:33+08:00",
-      "score": 319
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "The Steinwinter Supercargo",
-      "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
-      "summary": "",
-      "published": "2026-05-24T05:28:09+08:00",
-      "score": 56
     }
   ],
   "rss": [
@@ -327,7 +327,7 @@
       "category": "product",
       "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
       "url": "https://36kr.com/p/3826385821192841?f=rss",
-      "summary": "文｜周鑫雨 编辑｜张雨忻 打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态： 这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。 观猹。 “观猹”创始人仲泰告诉我：“ 这才是AI行业最真实的生态。 ” 仲泰，��个在AI创业者和开发者群体中并不陌生的...",
+      "summary": "文｜周鑫雨 编辑｜张雨忻 打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态： 这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。 观猹。 “观猹”创始人仲泰告诉我：“ 这才是AI行业最真实的生态。 ” 仲泰，一个在AI创业者和开发者群体中并不陌生的名...",
       "published": "2026-05-27T08:20:58+08:00"
     },
     {
@@ -637,184 +637,184 @@
       "published": "2026-05-25T11:23:36+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "从霸总到疯批，我们在迷恋哪种权力关系？",
-      "url": "https://www.huxiu.com/article/4861914.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:41:44+08:00"
+      "category": "tech",
+      "title": "基于 Snowflake Semantic View 构建自助式报表数据集市 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/a4gbB5g49HBNl2mwXwXY?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-27T19:12:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "谷歌全家桶，都被新模型“污染”了",
-      "url": "https://www.huxiu.com/article/4861898.html?f=rss",
-      "summary": "皮查伊吹爆的Gemini3.5，网友贴脸狂喷它是垃圾",
-      "published": "2026-05-27T12:38:44+08:00"
+      "category": "tech",
+      "title": "安全可靠！星环科技分布式数据库ArgoDB通过安全可靠测评！",
+      "url": "https://www.infoq.cn/article/1w093X0R3Ul2u1RmbM44?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-27T18:40:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "发明碳水脸的人，可能是吃太饱了",
-      "url": "https://www.huxiu.com/article/4861912.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:36:39+08:00"
+      "category": "tech",
+      "title": "中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产",
+      "url": "https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-27T18:12:52+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "市值超150亿元，深圳冲出一个芯片IPO",
-      "url": "https://www.huxiu.com/article/4861911.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:32:54+08:00"
+      "category": "tech",
+      "title": "得物算法平台部算法专家任巨伟确认出席AICon上海站，分享高可控智能客服的 Agent 工程实践",
+      "url": "https://www.infoq.cn/article/ixyk6VIFhTSF3JL63EgK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-27T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "自有品牌暗战，一场“去品牌化”的阳谋",
-      "url": "https://www.huxiu.com/article/4861909.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:27:12+08:00"
+      "category": "tech",
+      "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
+      "url": "https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-27T17:07:37+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "退出中国的三星，正在从中国捞走更多钱",
-      "url": "https://www.huxiu.com/article/4861907.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:22:35+08:00"
+      "category": "tech",
+      "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
+      "url": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-27T02:01:21+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "乡村文旅如何谋四季兴旺？",
-      "url": "https://www.huxiu.com/article/4861905.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:17:45+08:00"
+      "category": "tech",
+      "title": "Gemma 4 多词元预测：生成速度最高提升约 3 倍",
+      "url": "https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-27T00:24:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "ServiceNow AI工作革命实录：3万人公司如何把效率翻倍，同时不裁一个人",
-      "url": "https://www.huxiu.com/article/4861904.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:15:42+08:00"
+      "category": "tech",
+      "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
+      "url": "https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T22:03:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Claude Code负责人谈爆发式增长背后的80倍需求与Agent革命：我不写代码，我的Claude军队替我写",
-      "url": "https://www.huxiu.com/article/4861902.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:13:45+08:00"
+      "category": "tech",
+      "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T21:43:12+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "给你把椅子，30秒做不到20次，说明你“老”了",
-      "url": "https://www.huxiu.com/article/4861901.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:12:51+08:00"
+      "category": "tech",
+      "title": "如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T19:24:26+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "每天裁员1000人，却批量制造亿万富翁，造AI的人为何去梵蒂冈忏悔？",
-      "url": "https://www.huxiu.com/article/4861900.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:11:31+08:00"
+      "category": "tech",
+      "title": "ClickHouse十大最佳实践技巧",
+      "url": "https://www.infoq.cn/article/bp64ilutkRcpSEhh5fNX?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T19:09:09+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "辛芷蕾演黄柳霜，合适吗？",
-      "url": "https://www.huxiu.com/article/4861897.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:05:03+08:00"
+      "category": "tech",
+      "title": "AWS MCP服务器正式可用，全面适配API并支持IAM权限控制",
+      "url": "https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T18:56:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "AMD新论文颠覆认知：FP4训练不稳定，原因不是随机性不足",
-      "url": "https://www.huxiu.com/article/4861896.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T12:03:21+08:00"
+      "category": "tech",
+      "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "罗思义：中国发展新质生产力，当心被部分媒体呼吁的政策干扰",
-      "url": "https://www.huxiu.com/article/4861895.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T11:57:20+08:00"
+      "category": "tech",
+      "title": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+      "url": "https://www.infoq.cn/article/gSSOTxhzL4BkUwuA52ur?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T17:18:20+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "雁默：美国放任AI野蛮生长，是求生还是自毁？",
-      "url": "https://www.huxiu.com/article/4861892.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T11:51:50+08:00"
+      "category": "tech",
+      "title": "微软将弃用Claude：太贵了还是薅明白了？",
+      "url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T16:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "跳出低价内卷，2026中国商旅服务关系彻底变了",
-      "url": "https://www.huxiu.com/article/4861887.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T11:39:10+08:00"
+      "category": "tech",
+      "title": "平台工程如何利用“黄金砖块”实现快速、顺畅的交付",
+      "url": "https://www.infoq.cn/article/7kRNbfNHJmyeVikxo5x4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T03:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "YU7下探至23万元，交付周期缩短，小米汽车一季度营收190亿元，仍有“销量焦虑”？",
-      "url": "https://www.huxiu.com/article/4861882.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T11:31:14+08:00"
+      "category": "tech",
+      "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
+      "url": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T01:41:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "小米的闹钟还没响",
-      "url": "https://www.huxiu.com/article/4861881.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T11:28:07+08:00"
+      "category": "tech",
+      "title": "Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T00:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "嘉兴水果市场对商户下“二选一封杀令”，连配偶子女等都被禁止，“统一大市场”须是地方监管底线",
-      "url": "https://www.huxiu.com/article/4861880.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T11:22:07+08:00"
+      "category": "tech",
+      "title": "ClickHouse实战：Agentic Coding，是“神”还是“坑”？",
+      "url": "https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T23:46:38+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "终于，具身智能的“真机数据”难题有了新解法",
-      "url": "https://www.huxiu.com/article/4861878.html?f=rss",
-      "summary": "",
-      "published": "2026-05-27T11:19:21+08:00"
+      "category": "tech",
+      "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
+      "url": "https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T23:36:00+08:00"
     }
   ]
 }

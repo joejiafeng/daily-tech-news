@@ -80,6 +80,11 @@ jobs:
 
           # 提交变更
           git add digests/ index.html
+          if compgen -G "page-*.html" > /dev/null; then
+            git add page-*.html
+          else
+            echo "No pagination pages to add."
+          fi
           git commit -m "📰 Daily digest: ${DATE}"
           git push
 

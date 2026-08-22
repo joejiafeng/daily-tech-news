@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T13:05:08.581914+08:00",
+  "generated_at": "2026-06-03T13:08:55.455606+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -9,7 +9,7 @@
       "url": "https://www.v2ex.com/t/1217461",
       "summary": "3 月份在 V2EX 发过一篇被裁的帖子 https://www.v2ex.com/t/1200592 ，意外火了，谢谢当时关心的老哥们。 那篇里写过要去自驾游，在深圳处理转租、二手等事情，4 月 4 日从深圳正式出发，5 月 10 日到重庆老家，37 天，7000 多公里。今天出发去新疆，来 v2 发个阶段性的总结。 原计划是先海南环岛的，但走到广西...",
       "published": "2026-06-03T08:40:36+08:00",
-      "score": 148
+      "score": 151
     },
     {
       "source": "V2EX",
@@ -18,7 +18,7 @@
       "url": "https://www.v2ex.com/t/1217405",
       "summary": "新站内测。 ## 当前支持模型（均为 Codex Pro 号池） - `gpt-5.5` — 1.1M 超长上下文，支持推理、工具调用、文件、视觉 - `gpt-5.4` / `gpt-5.4-mini` — 400K 上下文，日常编码主力 - `gpt-5.3-codex` — Codex 原生模型 全系模型均来自 Codex Pro 池，完美兼容...",
       "published": "2026-06-02T20:49:22+08:00",
-      "score": 142
+      "score": 143
     },
     {
       "source": "V2EX",
@@ -45,7 +45,7 @@
       "url": "https://www.v2ex.com/t/1217516",
       "summary": "2012 年在学校开始处，大学同学，2017 年结婚，2018 年第一个娃，2023 年第二个娃。 工资到账当天基本上转过去，自己留不超过 500 ，日常花销走信用卡，还卡的时候找她。 日常有些私活兼职的钱可能几千块的也都转给她。 日常她内裤基本都是我来手洗，小孩的也是我来手洗。 平时没啥爱好，周末打球不允许我超过 1 次，最多 1 次。 日常我爸妈给...",
       "published": "2026-06-03T10:35:53+08:00",
-      "score": 98
+      "score": 99
     },
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
       "summary": "",
       "published": "2026-06-02T23:29:05+08:00",
-      "score": 158
+      "score": 164
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://research.contrary.com/report/the-american-missile-crisis",
       "summary": "",
       "published": "2026-06-03T11:30:50+08:00",
-      "score": 36
+      "score": 40
     },
     {
       "source": "Hacker News",
@@ -119,7 +119,7 @@
       "url": "https://github.com/c0dejedi/nbd-vram",
       "summary": "",
       "published": "2026-06-03T06:55:33+08:00",
-      "score": 200
+      "score": 202
     },
     {
       "source": "Hacker News",
@@ -146,7 +146,7 @@
       "url": "https://www.lumafield.com/scan-of-the-month/byd",
       "summary": "",
       "published": "2026-06-03T04:30:08+08:00",
-      "score": 292
+      "score": 294
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,7 @@
       "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
       "summary": "",
       "published": "2026-06-03T03:27:40+08:00",
-      "score": 738
+      "score": 743
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
       "summary": "",
       "published": "2026-06-03T11:07:48+08:00",
-      "score": 30
+      "score": 32
     },
     {
       "source": "Hacker News",
@@ -209,7 +209,7 @@
       "url": "https://www.acdw.net/clojure/",
       "summary": "",
       "published": "2026-06-03T03:56:46+08:00",
-      "score": 159
+      "score": 160
     },
     {
       "source": "Hacker News",
@@ -236,7 +236,7 @@
       "url": "https://openrepair.org/open-data/open-standard/",
       "summary": "",
       "published": "2026-06-03T03:37:10+08:00",
-      "score": 111
+      "score": 112
     },
     {
       "source": "Hacker News",
@@ -245,16 +245,7 @@
       "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
       "summary": "",
       "published": "2026-06-03T06:22:34+08:00",
-      "score": 68
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "HP re-releases classic computer science calculator: The HP-16C",
-      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-      "summary": "",
-      "published": "2026-06-03T03:02:40+08:00",
-      "score": 142
+      "score": 69
     },
     {
       "source": "Hacker News",
@@ -263,7 +254,16 @@
       "url": "https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8",
       "summary": "",
       "published": "2026-06-03T11:53:13+08:00",
-      "score": 15
+      "score": 17
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "summary": "",
+      "published": "2026-06-03T03:02:40+08:00",
+      "score": 143
     },
     {
       "source": "Hacker News",
@@ -309,7 +309,7 @@
       "category": "product",
       "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
       "url": "https://36kr.com/p/3834354708031111?f=rss",
-      "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建���街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用...",
+      "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新...",
       "published": "2026-06-02T19:50:30+08:00"
     },
     {
@@ -365,6 +365,15 @@
       "url": "https://36kr.com/p/3834292242130825?f=rss",
       "summary": "具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。 而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。 36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。 元节核心团队在成立公司前有...",
       "published": "2026-06-02T09:57:17+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "创业板指午后涨幅扩大至4%",
+      "url": "https://36kr.com/newsflashes/3836990576686471?f=rss",
+      "summary": "36氪获悉，创业板指午后涨幅扩大至4%，培育钻石、光通信、光纤、半导体芯片等方向涨幅居前。",
+      "published": "2026-06-03T13:08:39+08:00"
     },
     {
       "source": "36kr",
@@ -525,7 +534,7 @@
       "category": "product",
       "title": "奇瑞汽车旗下奇达动力公司增资至25.3亿，增幅约1004%",
       "url": "https://36kr.com/newsflashes/3836863461209481?f=rss",
-      "summary": "36氪获悉，天眼查App显示，近日，芜湖奇达动力电池系统有限公司发生工商变更，注册资本由约2.3亿人民币增至约25.3亿人民币，增幅约1004%。该公司成立于2015年6月，法定代表人为李中兵，经营范围包括电池制造、电池销售、汽车零部件及配件制造等，由奇瑞汽车全资持股。",
+      "summary": "36氪获悉，天眼查App显示，近日，芜湖奇达动力电池系统有限公司发生工商变更，注册资本由约2.3亿人民币增至约25.3亿人民币，增幅约1004%。该公司成立于2015年6月，法定代表人为李中兵，经营范围包括电池制造、电池销售、汽车零部件及配件制造等，由奇瑞汽车全���持股。",
       "published": "2026-06-03T10:59:20+08:00"
     },
     {
@@ -536,15 +545,6 @@
       "url": "https://36kr.com/newsflashes/3836854874125703?f=rss",
       "summary": "36氪获悉，天眼查App显示，近日，安徽墨擎股权投资有限公司成立，法定代表人为张贵兵，注册资本1亿人民币，经营范围为以自有资金从事投资活动，由奇瑞汽车旗下芜湖奇瑞科技有限公司全资持股。",
       "published": "2026-06-03T10:50:36+08:00"
-    },
-    {
-      "source": "36kr",
-      "source_type": "rss",
-      "category": "product",
-      "title": "微盟内测国内首个“电商AI增长引擎”",
-      "url": "https://36kr.com/newsflashes/3836847649322369?f=rss",
-      "summary": "36氪获悉，微盟正在内测一款名为“微盟星枢”的独立AI产品。该产品定位于面向电商的全平台AI智能增长引擎，商家通过自然语言对话便可一键管理国内主流电商平台。而这也将是国内首个面向电商垂类场景、打通全主流电商平台与流量入口的AI产品。",
-      "published": "2026-06-03T10:43:15+08:00"
     },
     {
       "source": "sspai",
@@ -637,184 +637,184 @@
       "published": "2026-05-31T14:36:11+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Codex 免费账户配额缩水，重置周期7天变30天",
-      "url": "https://www.huxiu.com/article/4864035.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:48:13+08:00"
+      "category": "tech",
+      "title": "Snowflake Summit 26 现场：结束上半场拼模型，开始下半场 AI 进企业",
+      "url": "https://www.infoq.cn/article/Q6G7XTu41dOO5b6aKiob?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T20:02:12+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "政府出资的百亿母基金GP破产，“死”于管理人的“炒股瘾”？",
-      "url": "https://www.huxiu.com/article/4864034.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:44:12+08:00"
+      "category": "tech",
+      "title": "看完 Snowflake 这套新品，我更确信大模型吃不掉数据这个赛道",
+      "url": "https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T20:01:59+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Spring 创始人重回一线做AI 框架，却说：这是人类亲自选择的最后一代框架",
-      "url": "https://www.huxiu.com/article/4864033.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:41:16+08:00"
+      "category": "tech",
+      "title": "ClickHouse性能优化：Index Pruning助你告别慢查询！",
+      "url": "https://www.infoq.cn/article/oN29GqJWh6GMoywAWFsq?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T19:12:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "微软史上最强Surface：英伟达芯片，长得像MacBook Pro",
-      "url": "https://www.huxiu.com/article/4864031.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:38:24+08:00"
+      "category": "tech",
+      "title": "AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+      "url": "https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T19:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "演员扎堆开演唱会，唱歌比演戏更赚钱？",
-      "url": "https://www.huxiu.com/article/4864030.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:34:16+08:00"
+      "category": "tech",
+      "title": "一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+      "url": "https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T18:14:12+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "都说消费大降级，为啥高档酒店却越开越多？",
-      "url": "https://www.huxiu.com/article/4864029.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:27:16+08:00"
+      "category": "tech",
+      "title": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/o8yskfI4cb2msdcz2Pz1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "驭势科技吴甘沙：见过1000种创新死法，才知道自动驾驶怎么活下去",
-      "url": "https://www.huxiu.com/article/4864027.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:27:00+08:00"
+      "category": "tech",
+      "title": "Cloudflare 新增对 Claude 托管代理的支持",
+      "url": "https://www.infoq.cn/article/fFAGOf6SYDfi7Ljjkubx?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T17:16:30+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "算力话语权资本化：黄仁勋的AI市值点金术与隐性风险",
-      "url": "https://www.huxiu.com/article/4864024.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:16:02+08:00"
+      "category": "tech",
+      "title": "LinkedIn 如何发现导致系统反复死机的内核锁竞争问题",
+      "url": "https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T03:03:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Gavin Baker深度拆解SpaceX：估值1.75万亿美元史上最高，Starlink已是印钞机",
-      "url": "https://www.huxiu.com/article/4864023.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:12:55+08:00"
+      "category": "tech",
+      "title": "英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+      "url": "https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T02:44:46+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "手机大厂，盯上大疆的现金奶牛",
-      "url": "https://www.huxiu.com/article/4864022.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:10:35+08:00"
+      "category": "tech",
+      "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
+      "url": "https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T02:40:19+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "治好“效率焦虑”：在东京，感受慢商业的魅力",
-      "url": "https://www.huxiu.com/article/4864021.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:07:58+08:00"
+      "category": "tech",
+      "title": "Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产",
+      "url": "https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T01:14:56+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "8岁小孩手搓操作系统，AI彻底改变软件行业",
-      "url": "https://www.huxiu.com/article/4864020.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:07:32+08:00"
+      "category": "tech",
+      "title": "不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown",
+      "url": "https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T01:09:19+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Gemma4已经追平一年半前的顶尖闭源模型：50亿参数模型只需2GB显存，Gemma4背后的技术野心",
-      "url": "https://www.huxiu.com/article/4864019.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:05:12+08:00"
+      "category": "tech",
+      "title": "Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训",
+      "url": "https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T01:07:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "京东采销的怒火，烧了商家的原野",
-      "url": "https://www.huxiu.com/article/4864018.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:04:41+08:00"
+      "category": "tech",
+      "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
+      "url": "https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-03T00:51:29+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "Notion创始人Ivan Zhao专访：AI时代的选人公式，只招超级初级和超级资深，中间层正在被AI代理取代",
-      "url": "https://www.huxiu.com/article/4864016.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T12:02:26+08:00"
+      "category": "tech",
+      "title": "85%的企业 AI 落地卡在数据上，为什么你还在选模型？",
+      "url": "https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-02T23:26:47+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "打脸流量和资本？《给阿嬷的情书》带给中国电影行业的启示",
-      "url": "https://www.huxiu.com/article/4863321.html?f=rss",
-      "summary": "你尊重观众，观众就会尊重你",
-      "published": "2026-06-03T12:00:00+08:00"
+      "category": "tech",
+      "title": "准确率突破 96.33%！百度文心发布PaddleOCR-VL-1.6，刷新文档解析 SOTA",
+      "url": "https://www.infoq.cn/article/CRcTLqE135yNxrlZsN8R?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-02T23:09:42+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "当Google I/O 出现在抖音，前沿科技有了新现场",
-      "url": "https://www.huxiu.com/article/4864015.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T11:59:21+08:00"
+      "category": "tech",
+      "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
+      "url": "https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-02T22:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "智谱：7亿收入何以支撑6000亿港元市值？",
-      "url": "https://www.huxiu.com/article/4862778.html?f=rss",
-      "summary": "“中国版Anthropic”的叙事能撑住6000亿港元市值吗？",
-      "published": "2026-06-03T11:50:58+08:00"
+      "category": "tech",
+      "title": "Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据",
+      "url": "https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-02T19:33:24+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "李宁为何一定要签库里",
-      "url": "https://www.huxiu.com/article/4864010.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T11:50:45+08:00"
+      "category": "tech",
+      "title": "TamboUI 承诺为使用 Java 构建 TUI 提供更强大的功能",
+      "url": "https://www.infoq.cn/article/QqE5qG38ewRaaapcJcpW?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-02T18:51:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“小作文”频繁扰乱股市，需从严治理斩断黑色利益链",
-      "url": "https://www.huxiu.com/article/4864005.html?f=rss",
-      "summary": "",
-      "published": "2026-06-03T11:39:39+08:00"
+      "category": "tech",
+      "title": "上海人工智能实验室青年科学家何聪辉确认出席AICon上海站，分享面向 Agent 时代的文档解析基础设施演进与实践",
+      "url": "https://www.infoq.cn/article/6X2S5ssDaDh0REOsfGtg?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-02T18:00:00+08:00"
     }
   ]
 }

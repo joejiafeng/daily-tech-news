@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T12:19:59.854547+08:00",
+  "generated_at": "2026-06-30T12:21:47.642036+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -27,7 +27,7 @@
       "url": "https://www.v2ex.com/t/1223800",
       "summary": "这周抽鼠标迈从 A7 V3 PRO+，键盘迈从 Ace 68 V2 ；用了一个月，打游戏真心不错。 大笑脸开户 股票，etf 全网超低费率，欢迎来开！开户和推荐朋友都有红包！ ⚠️回帖即可参与！ https://i.v2ex.co/3n5Z4Yptl.jpeg ⚠️大笑脸低佣开户推荐： GF 证券：ETF 万 0.5 免 5 [etf 费率最低，适合...",
       "published": "2026-06-30T08:24:32+08:00",
-      "score": 81
+      "score": 82
     },
     {
       "source": "V2EX",
@@ -101,7 +101,7 @@
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
       "summary": "",
       "published": "2026-06-30T01:05:16+08:00",
-      "score": 708
+      "score": 709
     },
     {
       "source": "Hacker News",
@@ -110,7 +110,7 @@
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "summary": "",
       "published": "2026-06-30T03:49:28+08:00",
-      "score": 383
+      "score": 384
     },
     {
       "source": "Hacker News",
@@ -137,7 +137,7 @@
       "url": "https://longcat.chat/blog/longcat-2.0/",
       "summary": "",
       "published": "2026-06-30T08:30:11+08:00",
-      "score": 52
+      "score": 53
     },
     {
       "source": "Hacker News",
@@ -191,7 +191,7 @@
       "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
       "summary": "",
       "published": "2026-06-29T05:42:39+08:00",
-      "score": 421
+      "score": 423
     },
     {
       "source": "Hacker News",
@@ -241,11 +241,29 @@
     {
       "source": "Hacker News",
       "source_type": "hackernews",
+      "title": "Zig – SPIR-V Backend Progress",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+      "summary": "",
+      "published": "2026-06-26T06:03:14+08:00",
+      "score": 28
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+      "summary": "",
+      "published": "2026-06-27T22:49:05+08:00",
+      "score": 28
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
       "summary": "",
       "published": "2026-06-30T06:21:00+08:00",
-      "score": 170
+      "score": 171
     },
     {
       "source": "Hacker News",
@@ -255,24 +273,6 @@
       "summary": "",
       "published": "2026-06-28T07:30:14+08:00",
       "score": 138
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "One million passports leaked online",
-      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-      "summary": "https://web.archive.org/web/20260617075233/https://www.theve... https://archive.ph/n2HnK",
-      "published": "2026-06-28T19:22:49+08:00",
-      "score": 186
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "summary": "",
-      "published": "2026-06-29T23:02:00+08:00",
-      "score": 191
     }
   ],
   "rss": [
@@ -489,7 +489,7 @@
       "category": "product",
       "title": "菜鸟推出科技出海物流解决方案，定制化服务AI算力与机器人企业出海",
       "url": "https://36kr.com/newsflashes/3875072469865729?f=rss",
-      "summary": "36氪获悉，6月30日，菜鸟正式推出“科技出海定制化全链路物流解决方案”，面向AI算力、智能制造、机器人等科技企业的全球化布局，提供端到端、定制化的全链路物流服务。据了解，菜鸟已将AI算力、智能制造、高端装备、机器人等科技企业列为跨境物流重点服务方向，后续将持续扩展科技出海专属物流产品矩阵。",
+      "summary": "36氪获悉，6月30日，菜鸟正式推出“科技出海定制化全链路物流解决方案”，面向AI算力、智能制造、机器人等科技企业的全球化布局，提供端到端、定制化的全链路物流服务。据了解，菜鸟已将AI算力、智能制造、高端装备、机器人等科技企业列为跨境物流重点服务方向，后续将��续扩展科技出海专属物流产品矩阵。",
       "published": "2026-06-30T10:58:05+08:00"
     },
     {
@@ -534,7 +534,7 @@
       "category": "product",
       "title": "中国贸促会：超5成受访中资企业看好欧盟",
       "url": "https://36kr.com/newsflashes/3875047227642886?f=rss",
-      "summary": "中国贸促会在6月30日上午举行的6月例行新闻发布会上表示，近期发布的《欧盟营商环境报告2025》显示，过去一年中欧工商界积极互动交流，合作成果丰硕、意愿增强。受访中资企业里，53%对欧盟营商环境评价积极，48.8%拟增加与欧盟企业间供应链合作。同时，企业也反映欧盟存在“泛安全化”倾向加重、贸易投资壁垒增多、企业生产成本上升等问题。在欧中资企业重点关注欧...",
+      "summary": "中国贸促会在6月30日上午举行的6月例行新闻发布会上表示，近期发布的《欧盟营商环境报告2025》显示，过去一年中欧工商���积极互动交流，合作成果丰硕、意愿增强。受访中资企业里，53%对欧盟营商环境评价积极，48.8%拟增加与欧盟企业间供应链合作。同时，企业也反映欧盟存在“泛安全化”倾向加重、贸易投资壁垒增多、企业生产成本上升等问题。在欧中资企业重点关...",
       "published": "2026-06-30T10:21:53+08:00"
     },
     {
@@ -637,184 +637,184 @@
       "published": "2026-06-26T16:29:05+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "如果天津站有Wi-Fi，余则成恐怕早就暴露了",
-      "url": "https://www.huxiu.com/article/4871474.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T12:08:52+08:00"
+      "category": "tech",
+      "title": "Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈",
+      "url": "https://www.infoq.cn/article/5sAu5pdOatCpxaIU4vOw?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T19:02:41+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "2026年高考成绩出来了，为啥全网都在怀念张雪峰？",
-      "url": "https://www.huxiu.com/article/4870683.html?f=rss",
-      "summary": "大家怀念他的，是那个认真对待普通人的稀缺温暖",
-      "published": "2026-06-30T12:02:50+08:00"
+      "category": "tech",
+      "title": "Atlassian 揭秘 Forge 计费架构：如何在分布式环境下实现大规模用量计费",
+      "url": "https://www.infoq.cn/article/5a8OTMYRHj6XZIpOTVoo?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T18:50:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "梅西和C罗的广告多到分不清“金主”是谁了",
-      "url": "https://www.huxiu.com/article/4871471.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:54:50+08:00"
+      "category": "tech",
+      "title": "非科班出身技术Geek，被DeepSeek改写人生（上集）",
+      "url": "https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T18:22:29+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "美国卖车小记",
-      "url": "https://www.huxiu.com/article/4871470.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:53:29+08:00"
+      "category": "tech",
+      "title": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+      "url": "https://www.infoq.cn/article/30O5wT7GIPEtIpiXeAS0?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T17:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "中国第三个“米”字形高铁枢纽，来了",
-      "url": "https://www.huxiu.com/article/4871466.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:49:47+08:00"
+      "category": "tech",
+      "title": "超越 CLEAN 和 MVP：在 Android 中构建离线优先的响应式数据层",
+      "url": "https://www.infoq.cn/article/dPgYc639VWEXxbPzmBK1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T02:44:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "“躺平网红”变形计",
-      "url": "https://www.huxiu.com/article/4871464.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:40:40+08:00"
+      "category": "tech",
+      "title": "物理 AI 如何定义下一代平台革新？",
+      "url": "https://www.infoq.cn/article/sMq6bwGfrp5vRsc22hZj?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T02:29:08+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "现实版“黑镜”Pumpfun Go：40元舔厕所，1.4万美元脑门纹logo",
-      "url": "https://www.huxiu.com/article/4871463.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:29:16+08:00"
+      "category": "tech",
+      "title": "分库分表后查询变慢？TDSQL 全局索引破解数据定位难题",
+      "url": "https://www.infoq.cn/video/0Qd7LCv7PIRaoUL5MQ1m?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T02:07:13+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "一年一度的民航大战明天开始",
-      "url": "https://www.huxiu.com/article/4871460.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:26:55+08:00"
+      "category": "tech",
+      "title": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+      "url": "https://www.infoq.cn/article/HUri8txfhl93vIb9kHIJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T02:06:26+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "德国队出局了，世界杯所代表的民族叙事也在瓦解",
-      "url": "https://www.huxiu.com/article/4871459.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:18:36+08:00"
+      "category": "tech",
+      "title": "被 AI 坑惨的福特，召回 350 名老工程师救场",
+      "url": "https://www.infoq.cn/article/TDVdahdBz82MSOry5B8p?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T01:45:37+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "三星、sk海力士、美光存储三巨头集体被起诉",
-      "url": "https://www.huxiu.com/article/4871457.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:14:48+08:00"
+      "category": "tech",
+      "title": "Lucide 1.0 发布，移除品牌图标，并缩减数百万个项目的包大小",
+      "url": "https://www.infoq.cn/article/v5D4LerUDwm4F9PYXNI9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T01:15:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "新增38种本科专业，高考生怎么选？",
-      "url": "https://www.huxiu.com/article/4871454.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T11:09:30+08:00"
+      "category": "tech",
+      "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊",
+      "url": "https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T00:04:07+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "都市女性的生育账本：金钱、时间与自我",
-      "url": "https://www.huxiu.com/article/4871180.html?f=rss",
-      "summary": "怀孕是成长的“减速带”吗？",
-      "published": "2026-06-30T10:47:10+08:00"
+      "category": "tech",
+      "title": "微软升级 AKS 服务：新增裸金属、集群舰队管理及 AI 基础设施方案",
+      "url": "https://www.infoq.cn/article/OKTycayNK8hwTMv4ApSg?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-30T00:03:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "存储的风刮到了大厂",
-      "url": "https://www.huxiu.com/article/4871447.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T10:42:13+08:00"
+      "category": "tech",
+      "title": "交易、分析不用二选一，TDSQL HTAP 能力如何支撑实时业务？",
+      "url": "https://www.infoq.cn/video/JbrXyS32jgB3Rc9bHlhR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T23:45:45+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "豪掷3.3亿元拿下一母婴水源地、引入国资股东，超三成股东却投下反对票，这笔买卖值不值？",
-      "url": "https://www.huxiu.com/article/4871445.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T10:34:52+08:00"
+      "category": "tech",
+      "title": "收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+      "url": "https://www.infoq.cn/article/VceiPBYzkY9lSAOubvtP?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T23:29:45+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "没有招待费和差旅费，国企怎么做两头在外的贸易？",
-      "url": "https://www.huxiu.com/article/4871444.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T10:32:15+08:00"
+      "category": "tech",
+      "title": "AI 正在重写应用开发，Vue 与 Vite，给出新的答",
+      "url": "https://www.infoq.cn/article/8O9lMqWlC0Qkh9uLpPqk?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T23:09:02+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "微信做Agent，AI创业者为什么反而不慌？",
-      "url": "https://www.huxiu.com/article/4871158.html?f=rss",
-      "summary": "比起大厂入口，更危险的是模型水位上涨；比起流量，更重要的是交付价值。",
-      "published": "2026-06-30T10:30:00+08:00"
+      "category": "tech",
+      "title": "单台服务器、1C2G，也能部署数据库？",
+      "url": "https://www.infoq.cn/video/dQHICMH3wg9NVbgluWh3?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T22:50:50+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "我三叔是怎么从小富豪混成穷光蛋的",
-      "url": "https://www.huxiu.com/article/4871437.html?f=rss",
-      "summary": "不要入戏太深，控制好风险，想清楚最坏结果能不能接受",
-      "published": "2026-06-30T10:19:00+08:00"
+      "category": "tech",
+      "title": "AWS 推出开源框架 Blocks，面向 AI 智能体的后端开发工具",
+      "url": "https://www.infoq.cn/article/ZdA3CGtWNFGAoalSeiu8?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T22:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "给机器人打工了一天，我们体验上了AI时代最魔幻的工作。",
-      "url": "https://www.huxiu.com/article/4871439.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T10:15:59+08:00"
+      "category": "tech",
+      "title": "AWS Graviton5 正式发布，具备 192 个内核和经过正式验证的虚拟机隔离功能",
+      "url": "https://www.infoq.cn/article/ONqpdtmlUXgF32G1vqT2?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T19:50:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "开店亏到吐血，摆摊月入过万，现在开店真不如摆摊么？",
-      "url": "https://www.huxiu.com/article/4871416.html?f=rss",
-      "summary": "摆摊不等于躺赚，回归本心才是王道",
-      "published": "2026-06-30T09:54:17+08:00"
+      "category": "tech",
+      "title": "ML 模型投毒的机制及检测方法",
+      "url": "https://www.infoq.cn/article/GqFL7BV2JopihkBJWkt2?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T18:14:27+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "1万元买机器人，是捡漏还是交智商税？",
-      "url": "https://www.huxiu.com/article/4871425.html?f=rss",
-      "summary": "",
-      "published": "2026-06-30T09:17:24+08:00"
+      "category": "tech",
+      "title": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+      "url": "https://www.infoq.cn/article/uJ7sK8HW50T256cMoVF1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-06-29T18:03:31+08:00"
     }
   ]
 }

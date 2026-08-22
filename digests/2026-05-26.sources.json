@@ -1,6 +1,6 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T12:20:12.951677+08:00",
+  "generated_at": "2026-05-26T12:22:31.312245+08:00",
   "v2ex": [
     {
       "source": "V2EX",
@@ -63,7 +63,7 @@
       "url": "https://www.v2ex.com/t/1215487",
       "summary": "4w 玩了一个月还剩三万，这就是牛市吗",
       "published": "2026-05-26T10:37:58+08:00",
-      "score": 58
+      "score": 59
     },
     {
       "source": "V2EX",
@@ -81,7 +81,7 @@
       "url": "https://www.v2ex.com/t/1215461",
       "summary": "4 页是不是太多了，2 页感觉有太少，3 页怎么样？",
       "published": "2026-05-26T09:39:43+08:00",
-      "score": 56
+      "score": 57
     }
   ],
   "hackernews": [
@@ -101,7 +101,7 @@
       "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
       "summary": "",
       "published": "2026-05-26T06:30:27+08:00",
-      "score": 139
+      "score": 140
     },
     {
       "source": "Hacker News",
@@ -164,7 +164,7 @@
       "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
       "summary": "",
       "published": "2026-05-26T02:19:58+08:00",
-      "score": 732
+      "score": 733
     },
     {
       "source": "Hacker News",
@@ -182,7 +182,7 @@
       "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
       "summary": "",
       "published": "2026-05-26T00:20:36+08:00",
-      "score": 153
+      "score": 154
     },
     {
       "source": "Hacker News",
@@ -192,15 +192,6 @@
       "summary": "",
       "published": "2026-05-26T07:37:31+08:00",
       "score": 34
-    },
-    {
-      "source": "Hacker News",
-      "source_type": "hackernews",
-      "title": "Mathematical Patterns in African American HAIRSTYLEs",
-      "url": "https://math.buffalo.edu/mad/special/gilmer-gloria_HAIRSTYLES.html",
-      "summary": "",
-      "published": "2026-05-24T16:39:09+08:00",
-      "score": 19
     },
     {
       "source": "Hacker News",
@@ -218,7 +209,7 @@
       "url": "https://thefrontpage.dev/",
       "summary": "",
       "published": "2026-05-26T04:12:29+08:00",
-      "score": 159
+      "score": 160
     },
     {
       "source": "Hacker News",
@@ -245,7 +236,7 @@
       "url": "https://support.apple.com/en-us/127115",
       "summary": "",
       "published": "2026-05-26T07:40:40+08:00",
-      "score": 97
+      "score": 98
     },
     {
       "source": "Hacker News",
@@ -264,6 +255,15 @@
       "summary": "",
       "published": "2026-05-22T18:38:41+08:00",
       "score": 11
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+      "url": "https://github.com/tantara/openbrief",
+      "summary": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summa...",
+      "published": "2026-05-26T05:50:03+08:00",
+      "score": 34
     }
   ],
   "rss": [
@@ -628,184 +628,184 @@
       "published": "2026-05-22T18:12:14+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "四年狂赚130亿美金，世界杯是最赚钱的体育生意",
-      "url": "https://www.huxiu.com/article/4861549.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T12:10:07+08:00"
+      "category": "tech",
+      "title": "如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T19:24:26+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "管理“意料之外”：建立应对动荡环境的牢靠组织",
-      "url": "https://www.huxiu.com/article/4861548.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T12:00:56+08:00"
+      "category": "tech",
+      "title": "ClickHouse十大最佳实践技巧",
+      "url": "https://www.infoq.cn/article/bp64ilutkRcpSEhh5fNX?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T19:09:09+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "OpenAI被超越了，全球AI新王诞生",
-      "url": "https://www.huxiu.com/article/4861547.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T11:53:45+08:00"
+      "category": "tech",
+      "title": "AWS MCP服务器正式可用，全面适配API并支持IAM权限控制",
+      "url": "https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T18:56:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "突破1800万，中国人口增长第一城，诞生",
-      "url": "https://www.huxiu.com/article/4861544.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T11:42:47+08:00"
+      "category": "tech",
+      "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T18:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "好特卖，卖菜",
-      "url": "https://www.huxiu.com/article/4861542.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T11:40:19+08:00"
+      "category": "tech",
+      "title": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+      "url": "https://www.infoq.cn/article/gSSOTxhzL4BkUwuA52ur?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T17:18:20+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "霸王茶姬的加盟商可能是最惨茶饮人",
-      "url": "https://www.huxiu.com/article/4861540.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T11:37:08+08:00"
+      "category": "tech",
+      "title": "微软将弃用Claude：太贵了还是薅明白了？",
+      "url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T16:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "如何实现干净饮食，你适合吗？",
-      "url": "https://www.huxiu.com/article/4861528.html?f=rss",
-      "summary": "什么人适合干净饮食？",
-      "published": "2026-05-26T11:32:32+08:00"
+      "category": "tech",
+      "title": "平台工程如何利用“黄金砖块”实现快速、顺畅的交付",
+      "url": "https://www.infoq.cn/article/7kRNbfNHJmyeVikxo5x4?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T03:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "悬浮在标签构成的世界里：“声音理毛”让人类自废武功",
-      "url": "https://www.huxiu.com/article/4861532.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T11:16:18+08:00"
+      "category": "tech",
+      "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
+      "url": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T01:41:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "牙膏厂打工人收购饮料配方，干翻传统豪强？",
-      "url": "https://www.huxiu.com/article/4861145.html?f=rss",
-      "summary": "饮料厂勇闯F1？居然还成了豪门？",
-      "published": "2026-05-26T11:00:00+08:00"
+      "category": "tech",
+      "title": "Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-26T00:00:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "八成老外不爱跟团，北京酒店悄悄拿捏流量",
-      "url": "https://www.huxiu.com/article/4861515.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:43:45+08:00"
+      "category": "tech",
+      "title": "ClickHouse实战：Agentic Coding，是“神”还是“坑”？",
+      "url": "https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T23:46:38+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "清华创始人、数千万融资、几十枚商标……肉班长、自嗨锅、钟薛高，死在同一条“流水线”上",
-      "url": "https://www.huxiu.com/article/4861511.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:35:14+08:00"
+      "category": "tech",
+      "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
+      "url": "https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T23:36:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "陈晓东Seven：一个叛逆者的粤菜革命",
-      "url": "https://www.huxiu.com/article/4861510.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:32:37+08:00"
+      "category": "tech",
+      "title": "从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T22:53:04+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "韩国生育率突然反弹，真正的原因真是全民炒股吗？",
-      "url": "https://www.huxiu.com/article/4860883.html?f=rss",
-      "summary": "两个出口——一个躺平，一个梭哈",
-      "published": "2026-05-26T10:30:00+08:00"
+      "category": "tech",
+      "title": "45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了",
+      "url": "https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T22:31:53+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "大股东再套现近亿元，实控人与元老接连“跑路”背后，德亚牛奶母公司营收、市值均已缩水过半",
-      "url": "https://www.huxiu.com/article/4861508.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:22:40+08:00"
+      "category": "tech",
+      "title": "OpenTofu 1.12发布，带来 Terraform 从未提供的功能",
+      "url": "https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T21:16:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "宇树IPO 缺个VisiCalc",
-      "url": "https://www.huxiu.com/article/4861506.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:17:47+08:00"
+      "category": "tech",
+      "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”",
+      "url": "https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T19:25:40+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "20亿美元豪赌一场：量子计算机距离你我还有多远？",
-      "url": "https://www.huxiu.com/article/4861503.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:13:28+08:00"
+      "category": "tech",
+      "title": "人工智能无法加速软件交付",
+      "url": "https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T19:19:57+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "估值748亿的戒指，要IPO了",
-      "url": "https://www.huxiu.com/article/4861502.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:11:32+08:00"
+      "category": "tech",
+      "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
+      "url": "https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T19:07:09+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "速冲IPO，王兴兴最清楚宇树的大问题反而是：它盈利了",
-      "url": "https://www.huxiu.com/article/4861498.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T10:05:21+08:00"
+      "category": "tech",
+      "title": "Java近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava和Google ADK",
+      "url": "https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T19:02:00+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "号称0成本月入百万的API中转站，到底谁在赚钱？",
-      "url": "https://www.huxiu.com/article/4861221.html?f=rss",
-      "summary": "API中转站，是怎么让人发家致富的？",
-      "published": "2026-05-26T09:56:02+08:00"
+      "category": "tech",
+      "title": "模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code",
+      "url": "https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T18:51:55+08:00"
     },
     {
-      "source": "huxiu",
+      "source": "infoq",
       "source_type": "rss",
-      "category": "business",
-      "title": "华为给半导体换了把尺子",
-      "url": "https://www.huxiu.com/article/4861493.html?f=rss",
-      "summary": "",
-      "published": "2026-05-26T09:46:09+08:00"
+      "category": "tech",
+      "title": "AI时代数据面临的新挑战和解决之道｜AICon上海",
+      "url": "https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "published": "2026-05-25T18:00:00+08:00"
     }
   ]
 }
