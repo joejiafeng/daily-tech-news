@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-08-23</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-08-23</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-08-23</h1>
+<p>今日科技圈热点密集：AI 硬件与应用加速落地，从雷鸟 AI 眼镜到 Meta 开源智能体模型，产业端动作频频；同时，苹果战略调整、英伟达服务器涨价等消息牵动市场神经。开发者生态方面，npm 安全策略升级与 Agentic 工程范式讨论值得关注。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3950603951258756?f=rss">雷鸟 iO 正式发布，首发 1996 元起</a> (36kr)
+  雷鸟创新发布全新 AI 眼镜系列 iO，以回归眼镜本质为设计原点，重构整机结构与光学显示，主打轻量化形态。该产品通过全天候主动式 AI 提供知识、表达与记忆能力增强，定位行业首款"人类增强"型 AI 眼镜，首发价 1996 元起，有望推动 AI 眼镜向大众消费市场渗透。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3951416423857280?f=rss">英伟达服务器传出涨价消息，涨幅多超 15%</a> (36kr)
+  据知情人士透露，多家英伟达最大客户已被告知，由于内存芯片成本飙升，搭载英伟达 AI 芯片的服务器价格将上涨，很多情况下涨幅超过 15%。本轮涨价适用于明年年初出货的系统，包括 Vera Rubin 和 Grace Blackwell 芯片组合的服务器，将直接影响 AI 算力采购成本。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3950185027501440?f=rss">苹果裁撤超 200 人，战略重心转向 AI 眼镜</a> (36kr)
+  苹果裁减 Siri 和 Vision Pro 团队员工，涉及超 200 个岗位，同时资源正流向 AI 智能眼镜项目，新品预计 2027 年 WWDC 亮相。此前已有报道称苹果裁撤 60 名 VR 团队员工，此次调整进一步印证苹果在空间计算赛道上的战略转向。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3950417977785729?f=rss">特斯拉 Cybercab 发布会定档 9 月 3 日</a> (36kr)
+  特斯拉宣布将于 2026 年 9 月 3 日在美国得州奥斯汀举行无人驾驶电动车 Cybercab 发布会。该车今年 4 月已在北美正式投产，由 AI 驱动，无需方向盘、踏板和后视镜，此次发布会或将公布更多商业化运营细节。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&amp;utm_medium=article">DeepSeek 发布多模态模型，"小鲸鱼"长出了眼睛</a> (infoq)
+  DeepSeek 正式发布多模态模型，标志着这家以文本模型见长的公司补上了视觉能力短板。新模型预计将拓展其在图像理解、文档分析等场景的应用边界，也意味着多模态大模型赛道的竞争进一步加剧。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/">软件工程进入 Agentic 时代</a> (Hacker News)
+  Simon Willison 撰文探讨智能体驱动下的软件工程新范式，提出 Agentic Engineering 的核心模式与挑战。文章指出，AI 智能体正在从辅助编码工具演变为自主执行复杂任务的"团队成员"，开发者角色正从写代码转向设计智能体工作流与质量管控。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&amp;utm_medium=article">npm 默认封杀 postinstall 脚本</a> (infoq)
+  npm 终于对 postinstall 脚本动手，默认封杀这一长期被恶意软件利用的安装钩子。此举是供应链安全领域的重要里程碑，将大幅降低依赖安装时的攻击面，但也可能影响部分依赖该机制的正规包，开发者需关注兼容性调整。</p>
+</li>
+<li>
+<p><a href="https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917">本地 LLM 为何感觉比实际更笨？</a> (Hacker News)
+  一篇技术社区深度帖分析了本地运行大语言模型时"智商下降"的常见原因，包括量化精度损失、上下文窗口限制、采样参数配置不当等。文章提供了实用的调优建议，帮助开发者在本地部署场景中榨取模型真实性能。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&amp;utm_medium=article">神秘"Ox Alpha"突袭 OpenRouter，性能超 Fable 5？</a> (infoq)
+  一个代号"Ox Alpha"的神秘模型出现在 OpenRouter 平台，性能表现超越当前头部模型 Fable 5，引发社区对背后开发者的广泛猜测，智谱或小米被认为是潜在来源。这一事件反映出当前 AI 模型竞争格局的不确定性，以及匿名发布作为一种新型发布策略的兴起。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&amp;utm_medium=article">视频生成迎来"Claude Code 时刻"</a> (infoq)
+  MiniMax Design 以视频生成能力"杀入"Adobe、Canva 腹地，标志着 AI 视频生成从玩具级应用迈向专业创作工具。文章认为，视频生成正在经历类似 Claude Code 对编程领域的变革时刻，设计工具市场格局或将因此重塑。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://marcua.net/minitools/figmimic/">Figmimic – 将任意网页一键转为 Figma 可编辑图层</a> (Hacker News)
+  一个书签小工具，可将任意网页内容直接导入 Figma 成为可编辑图层。对于需要快速抓取网页设计灵感或进行竞品分析的 UI/UX 设计师来说，这极大简化了从网页到设计稿的还原流程，省去手动重建的繁琐步骤。</p>
+</li>
+<li>
+<p><a href="https://www.primeintellect.ai/research/nanogpt-speedrun">NanoGPT Speedrun Frontier</a> (Hacker News)
+  Prime Intellect 发布 NanoGPT 训练速度优化挑战的最新成果，展示了在有限算力下将 GPT 训练时间压缩到极致的工程技巧。项目开源了完整的优化方案，包括数据加载、并行策略和内核融合等层面的调优，对关注大模型训练效率的工程师极具参考价值。</p>
+</li>
+<li>
+<p><a href="https://hister.org/">Hister – 私有全文搜索索引，数据完全自主可控</a> (Hacker News)
+  Hister 是一个强调隐私的全文搜索工具，为用户提供完全自主可控的搜索索引方案。在云端搜索服务日益普及的当下，该项目满足了用户对数据主权和隐私保护的深层需求，适合对数据安全有严格要求的个人或团队自托管部署。</p>
+</li>
+<li>
+<p><a href="https://thinkinginpython.com/">Thinking in Python by Bruce Eckel</a> (Hacker News)
+  知名技术作家 Bruce Eckel 推出新书《Thinking in Python》，延续其经典"Thinking in"系列风格，从编程思维而非语法细节入手讲解 Python。对于希望从"会写"进阶到"写好"的 Python 开发者，这是一份值得深入阅读的学习资源。</p>
+</li>
+<li>
+<p><a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">A Friendly Introduction to Racket</a> (Hacker News)
+  一篇面向初学者的 Racket 友好入门教程，以平实的语言和渐进式示例讲解这门 Lisp 方言的核心概念。文章适合希望了解函数式编程范式或拓展编程视野的开发者，也是编程语言教育领域的优质参考材料。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>

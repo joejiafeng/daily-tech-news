@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-08-22</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-08-22</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-08-22</h1>
+<p>今日科技圈热点密集：AI 模型定价战持续升级，OpenAI 下调 GPT-5.6 Sol API 价格，DeepSeek 发布多模态新模型；Anthropic 传出超大规模 IPO 计划并布局自研芯片；同时，AI 对开发者与普通用户的影响也在加速显现，从裁员焦虑到工具效率之争，行业正经历深刻变革。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3950048006241671?f=rss">Anthropic计划开展超大规模IPO，拟募资1000亿美元</a> (36kr)
+  据知情人士透露，Anthropic 的投行团队在与潜在投资者沟通时表示，计划在 IPO 中募资超 1000 亿美元，对应企业估值有望达到 2 万亿美元。若落地，这家成立仅五年的公司将完成史上最大规模 IPO，超过 SpaceX 此前 857 亿美元的募资纪录。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3950062675377280?f=rss">OpenAI将GPT-5.6 Sol模型API定价下调两成以上</a> (36kr)
+  OpenAI 官方宣布，GPT-5.6 Sol 模型 API 和积分定价将在未来 3 个月内下调 20% 以上，现已通过 API 提供，并逐步向 ChatGPT Work 和 Codex 积分套餐开放。Pro、Plus 和 Business 订阅用户的使用价格保持不变。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&amp;utm_medium=article">DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛</a> (InfoQ)
+  DeepSeek 推出 DeepSeek-v4-flash-vision-exp 多模态模型，标志着这家以文本模型见长的公司正式进军视觉领域。该模型支持图像理解能力，进一步丰富了 DeepSeek 的模型矩阵，也为开发者提供了更多低成本多模态选择。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3950035072105609?f=rss">Anthropic聘请谷歌芯片定制芯片项目创始人，为进军自研半导体做准备</a> (36kr)
+  Anthropic 已聘请谷歌定制芯片项目创始人 Amir Salek，他曾负责谷歌 TPU 业务至 2022 年，参与推出前七代 TPU 芯片。Salek 将加入 Anthropic 算力团队，此举表明 Anthropic 正加速自研半导体布局，减少对英伟达等外部供应商的依赖。</p>
+</li>
+<li>
+<p><a href="https://www.v2ex.com/t/1236240">在这个独属于 ai 的时代，我终究是被裁员了</a> (V2EX)
+  一位开发者分享了自己因公司推行 AI 提效而被裁的经历：从 2025 年底公司鼓吹 AI 话题，到 2026 年 3 月要求前端学后端、后端学前端，一人干一个项目。这篇帖子引发大量共鸣，折射出 AI 浪潮下普通开发者的职业焦虑与转型困境。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning">AI boosted homework scores, then exam scores dropped: study</a> (The Economist)
+  《经济学人》报道的一项研究显示，AI 工具能显著提升学生作业成绩，但考试分数反而下降。这一“作业与考试倒挂”现象引发教育界对 AI 辅助学习效果的深刻反思：AI 可能帮助学生完成作业，却未能真正促进知识内化。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&amp;utm_medium=article">神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米</a> (InfoQ)
+  一个代号“Ox Alpha”的神秘模型突然出现在 OpenRouter 平台，性能表现超过 Fable 5，引发全网猜测其背后厂商——智谱或小米成为热门候选。这一事件折射出当前大模型竞争的白热化，以及匿名发布作为新型营销策略的兴起。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&amp;utm_medium=article">Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？</a> (InfoQ)
+  Vercel 推出的新编程语言 Zero 在开发者社区引发激烈讨论。支持者认为 AI 时代需要更简洁的声明式语言，反对者则质疑其必要性。这场争论背后，是开发者对 AI 编程范式变革方向的分歧：是改造现有语言，还是另起炉灶？</p>
+</li>
+<li>
+<p><a href="https://www.huxiu.com/article/4885069.html?f=rss">Stripe 为什么盯上模型路由：AI 进入“智能采购”时代</a> (虎嗅)
+  支付巨头 Stripe 开始关注模型路由技术，这一动向标志着 AI 调用正从“单一模型”走向“智能采购”模式。模型路由可以根据任务复杂度动态选择最合适的模型，在保证质量的同时优化成本，有望成为企业 AI 支出的关键基础设施。</p>
+</li>
+<li>
+<p><a href="https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&amp;utm_medium=article">视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地</a> (InfoQ)
+  MiniMax 发布视频生成设计工具 MiniMax Design，直接对标 Adobe 和 Canva，被视为视频生成领域的“Claude Code 时刻”——即 AI 工具从辅助走向主导的转折点。视频生成技术正从实验走向生产力工具，重塑创意产业工作流。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://rust-glancer.github.io/blog/hello-world/">Rust Glancer: Rust LSP using 100x less RAM</a> (Hacker News)
+  Rust Glancer 是一个全新的 Rust 语言服务器（LSP），宣称内存占用比现有方案降低 100 倍。该项目由知名开发者 matklad 主导，通过重新设计架构大幅减少资源消耗，为大型 Rust 项目的开发体验带来显著提升。</p>
+</li>
+<li>
+<p><a href="https://www.lambda-symbolics.com/autolith">Autolith: A programming agent with a live runtime</a> (Hacker News)
+  Autolith 是一个具备实时运行环境的编程代理，让 AI 不仅能生成代码，还能在运行时环境中实时调试和执行。这一设计模糊了“写代码”与“跑代码”的边界，为 AI 编程工具的发展提供了新思路。</p>
+</li>
+<li>
+<p><a href="https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/">How we made a text-to-speech model respond in sub-50 ms</a> (Hacker News)
+  Nari Labs 分享了将 Qwen3 TTS 模型响应时间压缩至 50 毫秒以内的工程实践。文章详细介绍了延迟优化的关键技术路径，包括模型蒸馏、推理加速和流式输出等，对语音交互应用开发者极具参考价值。</p>
+</li>
+<li>
+<p><a href="https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/">OTel isn't going well (and I made a spreadsheet about it)</a> (Hacker News)
+  作者对 OpenTelemetry（OTel）生态现状进行了系统梳理，并用表格形式呈现了各语言实现、组件成熟度和社区活跃度的差异。文章直言 OTel 在标准化与实际落地之间存在不小差距，为可观测性技术选型提供了务实参考。</p>
+</li>
+<li>
+<p><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a> (Hacker News)
+  搜索引擎 Kagi 新增了“移除付费墙链接”的设置选项，用户可以在搜索结果中过滤掉被付费墙限制的内容。这一功能直击信息获取痛点，为注重内容可访问性的用户提供了更干净的搜索体验。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
