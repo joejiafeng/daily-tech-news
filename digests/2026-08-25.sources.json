@@ -1,0 +1,820 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T09:45:52.166411+08:00",
+  "v2ex": [
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "周末回了躺老家，两件小事打破了县城低价养老的幻想",
+      "url": "https://www.v2ex.com/t/1236691",
+      "summary": "**背景：**家长长辈去世，简单收拾一下就开车回老家 **坐标：**武汉，老家在中部百强县城 ## 事件 1: 匆忙触发忘带每天要吃的药物（有高血压和甲状腺功能减退）。 在县城找了近十家药店，完全买不到常吃的原研药，全是国产的仿制药。（这几种药武汉随便一家药店都能买到的） 原因：未知。可能是集采？ ## 事件 2: 买些水果去看望长辈，结果发现除了本地...",
+      "published": "2026-08-24T09:51:13+08:00",
+      "score": 183
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银",
+      "url": "https://www.v2ex.com/t/1236750",
+      "summary": "AI 提醒：我负责吐槽，ChatGPT 负责文字润色。 实在是太傻逼了。 今天要从汇丰转一笔钱到券商，本来以为这是一件大概 3 分钟可以结束的事情。结果我第一次真切地体会到：一个拥有一百多年历史、业务遍布全球的银行，到底可以把电子银行做得多么反人类。 首先，加一个收款人，居然不是加完就能用。 要等。 而且不是等几分钟，不是等短信验证，不是等系统风控审核...",
+      "published": "2026-08-24T11:26:23+08:00",
+      "score": 151
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "我说现在骗人式的推广真的太恶心了",
+      "url": "https://www.v2ex.com/t/1236704",
+      "summary": "- 大家好 - 最近打算养只小猫咪，但是又不想花钱买猫，所以就在网上搜了一下猫咪领养，在小红书和抖音分别看了几个博主的小猫领养，说是大猫生的太多了养不过来或者转行啥的，求领养。我私聊后加上微信，小猫都很乖，然后周日约了两家去看 - 第一家，说是猫社转行，处理小猫，不过有要求要带一包猫粮作为过度粮，这点其实我是接受认可的。我去了以后就问我一开始看好的那只...",
+      "published": "2026-08-24T10:17:22+08:00",
+      "score": 128
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "娃生了，感叹这个成本确实高。",
+      "url": "https://www.v2ex.com/t/1236744",
+      "summary": "真生娃了，感叹生育成本是真的高。 1. 必须两个人专职带娃，我老婆+丈母娘，丈母娘负责洗衣服做饭打扫卫生，老婆主要负责带。 2. 房子得电梯房两室，房价由老破小 3800 涨到 6000. 3. 还没买车子，每次出行打车是真的不方便。去商场玩很麻烦，只能附近转悠。买车子的话也是一笔成本，但是这个没办法了，得考虑上了。 4. 娃大了，也准备考虑买房给小孩...",
+      "published": "2026-08-24T11:18:41+08:00",
+      "score": 127
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "最近两个月都没怎么睡过好觉",
+      "url": "https://www.v2ex.com/t/1236838",
+      "summary": "95 后，手里有存款。父亲重度抑郁症，母亲关节炎，走不长久路。父母都没收入，我每个月打 3000 元生活费，已经有 4 年了。哥哥未婚，最近出现幻听、妄想，住院一个月。女朋友家里也不同意我两的婚事。",
+      "published": "2026-08-24T16:21:52+08:00",
+      "score": 116
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "娃生了，感叹这个成本真的很低。",
+      "url": "https://www.v2ex.com/t/1236793",
+      "summary": "1. 产检+生孩子，基本都报销了，差点就赚了。 2. 生育津贴的 10 多万，现在都还没花完。 3. 养孩子的成本非常低，就夫妻俩，媳妇产假，我远程工作，在家帮忙照顾大小。 4. 奶粉很便宜，几十块一盒的，其实本质上都差不多。 5. 孩子 3 岁多了，幼儿园想去就去，不想去就不去。 6. 孩子除了儿保和打疫苗，从来没去过医院。 “你们刚恋爱，不吵架很正...",
+      "published": "2026-08-24T14:14:20+08:00",
+      "score": 115
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "摸鱼浏览器无敌广告模式[留邮发码]",
+      "url": "https://www.v2ex.com/t/1236719",
+      "summary": "之前做了一款摸鱼浏览器 https://floating-browser.xyptkd.cn/ 反响普遍太卡重构了一版原生的了 加了个广告模式 自动缩到右下角 大小啥的可以自己调 这个模式下也支持鼠标移开自动隐藏 反正我是觉得挺无敌的哈哈哈 之前帖子太长 发码在帖子里效果不好 https://www.v2ex.com/t/1232076?p=1#rep...",
+      "published": "2026-08-24T10:41:38+08:00",
+      "score": 115
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "我的产品陷入绝望",
+      "url": "https://www.v2ex.com/t/1236852",
+      "summary": "先容许我花 2 分钟介绍一下产品背景吧。 今年年初，我在 Toolify 收入榜尾部看到一个 AI 纹身生成产品。看到真的有人付费，当时我觉得这个需求应该是存在的，而且产品门槛看起来也不高，我应该也能做。 于是说做就做，持续做了半年，就有了现在的 [InkStudio.ai]( https://inkstudio.ai)。 我前后看了几十款竞品，发现它...",
+      "published": "2026-08-24T17:01:46+08:00",
+      "score": 73
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "你还在用 Vim 吗？你为什么用它？",
+      "url": "https://www.v2ex.com/t/1236792",
+      "summary": "这里的「用」其实有两层意思： 1. 只是偶尔用一用，作为临时的文件编辑器； 2. 在实际开发工作中频繁使用。 我发现我身边很多 前 C/C++ 程序员 都喜欢用 Vim 。即使有了 AI ，也是 Vim + Claude Code 搭配使用。问他们是怎么记住那些键位和复杂操作的，怎么熟悉 Normal 和 Visual 的多模式编辑，以及为什么不使用...",
+      "published": "2026-08-24T14:14:04+08:00",
+      "score": 67
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "小鹏 G7 和阿维塔 07L，怎么选？",
+      "url": "https://www.v2ex.com/t/1236717",
+      "summary": "感觉很难选 小鹏 G7 纯电 MAX702 +1.2W 智驾包=20.5W; 阿维塔 07L MAX +1.5W 智驾包=25W ； 大佬们看看怎么选",
+      "published": "2026-08-24T10:40:37+08:00",
+      "score": 57
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "summary": "",
+      "published": "2026-08-25T06:13:40+08:00",
+      "score": 217
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "summary": "https://xcancel.com/lemire/status/2091894299289874926",
+      "published": "2026-08-24T23:08:17+08:00",
+      "score": 723
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "summary": "",
+      "published": "2026-08-24T23:28:04+08:00",
+      "score": 562
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Moon (2024)",
+      "url": "https://ciechanow.ski/moon/",
+      "summary": "",
+      "published": "2026-08-25T06:06:02+08:00",
+      "score": 97
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "summary": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139",
+      "published": "2026-08-25T01:05:38+08:00",
+      "score": 346
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "summary": "",
+      "published": "2026-08-24T21:05:25+08:00",
+      "score": 1061
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "url": "https://github.com/murerkinn/bookshelf",
+      "summary": "",
+      "published": "2026-08-25T07:00:37+08:00",
+      "score": 33
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Where did all the public bathrooms go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "summary": "",
+      "published": "2026-08-25T01:07:01+08:00",
+      "score": 155
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "summary": "",
+      "published": "2026-08-25T05:03:06+08:00",
+      "score": 128
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "summary": "",
+      "published": "2026-08-24T23:51:31+08:00",
+      "score": 170
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "summary": "",
+      "published": "2026-08-25T05:01:38+08:00",
+      "score": 54
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Oceans hit highest temperature on record",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "summary": "",
+      "published": "2026-08-25T03:19:08+08:00",
+      "score": 397
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+      "summary": "",
+      "published": "2026-08-25T01:57:13+08:00",
+      "score": 80
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "summary": "",
+      "published": "2026-08-24T23:48:45+08:00",
+      "score": 326
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "What languages are agent skills written in?",
+      "url": "https://plicara.ai/research/agent-skill-languages/",
+      "summary": "",
+      "published": "2026-08-25T08:52:27+08:00",
+      "score": 3
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "summary": "",
+      "published": "2026-08-25T03:03:06+08:00",
+      "score": 93
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "summary": "",
+      "published": "2026-08-24T22:44:55+08:00",
+      "score": 92
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+      "summary": "",
+      "published": "2026-08-25T00:52:01+08:00",
+      "score": 76
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "summary": "",
+      "published": "2026-08-24T19:32:51+08:00",
+      "score": 171
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "summary": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable St...",
+      "published": "2026-08-25T00:08:17+08:00",
+      "score": 94
+    }
+  ],
+  "rss": [
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "8点1氪丨“敌敌畏消杀餐厅”事件已成立联合调查组；小鹏机器人首轮融资超9亿美元；东方甄选薪酬少发4个亿",
+      "url": "https://36kr.com/p/3954181545753728?f=rss",
+      "summary": "今日热点导览 英伟达AI芯片价格或将上涨约17%，服务器厂商通知客户 12306回应无座票二等座同价：无座票全称为“无固定座位票” 8月以来金饰克价上涨超百元，金条投资热度升温 19至34岁韩国人人均负债近8万，两年间激增约四成 杨士旭将卸任bp中国区总裁 TOP 3大新闻 一消杀公司被曝用“敌敌畏”给餐厅消杀，事件已成立联合调查组 8月24日，记者从...",
+      "published": "2026-08-25T08:01:38+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "对话昆仑行创始人任庚：车企做具身，未来入场是“战略必然”，现在切入是“战术投机”",
+      "url": "https://36kr.com/p/3953725993991560?f=rss",
+      "summary": "一直以来，具身智能赛道有一种割裂现象——一方面是行业热钱涌动，吸引自动驾驶技术人才与院校学者，先后加入创业者的阵营；而另一方面，具身智能的商业化并不清晰，行业至今未能出现一家能攻坚大规模量产的企业。因而在资本狂欢的另一面，也有如金沙江创投合伙人朱啸虎之类的行业人士，“清仓式”看空具身智能赛道。 昆仑行机器人恰恰切中了行业对量产落地能力的迫切期待，因而公...",
+      "published": "2026-08-25T00:18:16+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "字节探索自动驾驶， Seed世界模型团队负责｜36氪独家",
+      "url": "https://36kr.com/p/3953699726343556?f=rss",
+      "summary": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。...",
+      "published": "2026-08-24T23:51:37+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "在轨3年、全栈自研，宇航级热控方案供应商「锐莱热控」获A+轮数千万融资｜36氪首发",
+      "url": "https://36kr.com/p/3953370022034820?f=rss",
+      "summary": "热管理正从卫星的辅助分系统，成为制约星座规模化、商业化落地的核心变量。 36氪获悉， 宇航级热控方案供应商锐莱热控科技（北京）有限公司（以下简称“锐莱热控”）已于近期完成A+轮数千万融资。本轮融资由英诺天使基金、方广资本、集萃华财、湘江信成联合投资，老股东金雨茂物持续加持。 资金将主要用于���航主动液冷业务研发、被动热管理产线扩建以及产业链上下游的延...",
+      "published": "2026-08-24T18:33:16+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "这场AI大赛上，年轻人把「人味」拉满了",
+      "url": "https://36kr.com/p/3953254092062085?f=rss",
+      "summary": "前保安手搓的AI，让胡彦斌和Tim现场玩嗨了 撰文｜深海 这或许是“人味儿”拉满的一场AI大赛——8月21日，TRAE AI创造力大赛决赛现场，气氛更像一场热闹的游园会。 冠军属于三个相识于深圳科创学院的年轻创业者。他们开发的是一款AI硬件开发工具，一个专门给硬件设备做电路板demo的AI生成工具，全是复杂的技术名词和硬核的AI硬件基建，看起来就很符合...",
+      "published": "2026-08-24T16:19:21+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "独家 | 字节AI 生产力整合：TRAE、扣子并入豆包，将推统一办公品牌 \"豆包工作\"",
+      "url": "https://36kr.com/p/3953230805876099?f=rss",
+      "summary": "文 | 张雨忻 智能涌现独家获悉，字节跳动对旗下的办公AI产品完成了一轮团队整合：TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI 将作为豆包品牌下的编程产品线持续发展。调整后，以上产品和运营团队向豆包产品负责人赵祺汇报。 TRAE 与扣子原隶属于字节跳动产品研...",
+      "published": "2026-08-24T15:59:59+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "李泽湘投过的商业园林机器人完成数千万融资，瞄准海外绿地智能运维｜硬氪首发",
+      "url": "https://36kr.com/p/3947977664347270?f=rss",
+      "summary": "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，商业园林机器人公司食铁兽科技（PANDAG）近日完成数千万元A轮融资，本轮由云时资本独家投资，星⾠资本担任财务顾问。资金将重点投入欧美澳市场交付体系搭建及全球渠道布局。此前，公司已获得李泽湘教授、奇绩创坛、险峰⻓⻘等机构投资。 食铁兽成立于2021年，公司以PANDAG G1商用割草机器人切入，围绕硬件模块化...",
+      "published": "2026-08-24T15:07:48+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "业绩快报｜李宁的毛利率终于回升了",
+      "url": "https://36kr.com/p/3953068141133189?f=rss",
+      "summary": "作者 | 谢芸子 编辑 | 张帆 在整个运动行业增速放缓的背景下，李宁交出了一份“增收又增利”的答卷。 上半年，李宁公司收入达152.35亿元，同比增长2.8%；归母净利润为18.16亿元，同比增长约4.5%；毛利率上升0.9个百分点至50.9%。 回顾李宁半年报的毛利率走势。自2021年上半年达到55.89%的高位后，2022年、2023年连续下降至...",
+      "published": "2026-08-24T14:19:02+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "AI时代，长视频要换增长逻辑",
+      "url": "https://36kr.com/p/3952907050613888?f=rss",
+      "summary": "8月18日，爱奇艺发布了2026年第二季度的财务报告。数据显示，报告期内，爱奇艺录得总收入62.9亿元人民币，其中，会员服务收入40.1亿元，在线广告服务收入12.5亿元，内容发行收入6.8亿元，其他收入3.4亿元；同期Non-GAAP运营亏损较上季度大幅收窄，接近盈亏平衡。 过去一年，市场对于爱奇艺的判断主要集中在两件事：如何减亏、如何避免用户流失。...",
+      "published": "2026-08-24T10:30:42+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "硬氪专访丨公司退市、裁员10万人，前掌门教育CEO创业家庭机器人，获10亿融资",
+      "url": "https://36kr.com/p/3952867368648073?f=rss",
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 直到现在，未来不远的创始人张翼还会偶尔想起5年前地中海海边，那群发呆的海鸥。 他刚经历了普通人难以想象的大起大落。2021年6月，张翼创办的“掌门教育”登陆纽交所。上市首日，公司的市值一度冲破30亿美金。春风得意之时，这家在线教育公司在全国有十万名员工、六七万名老师，服务超过100万个家庭。 当时的张翼只有31岁。...",
+      "published": "2026-08-24T09:46:22+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "蔚来：全国建成9244座充换电站",
+      "url": "https://36kr.com/newsflashes/3954257238981763?f=rss",
+      "summary": "36氪获悉，蔚来微博消息，截至今日，蔚来全国建成9244座充换电站，其中换电站4038座，充电站5206座、充电桩30002根，累计提供超1.2亿次换电。",
+      "published": "2026-08-25T09:32:43+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "深成指、创业板指均跌超1%",
+      "url": "https://36kr.com/newsflashes/3954270740987266?f=rss",
+      "summary": "36氪获悉，深成指、创业板指均跌超1%，沪指跌0.46%，算力、半导体领跌，全市场近3800股下跌。",
+      "published": "2026-08-25T09:32:12+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "中信证券：银行板块半年报信号积极，全年绝对收益料将延续",
+      "url": "https://36kr.com/newsflashes/3954252846660994?f=rss",
+      "summary": "36氪获悉，中信证券研报称，上周开始进入银行财报季，上市银行经营格局稳定，息差和资产质量稳定，盈利增速小幅修复。本周开始更多银行公布业绩，预计整体情况符合预期。投资视角看，上周银行板块兼具相对和绝对收益，跑赢多数行业；展望三季度，预计息差和资产质量等核心变量将保持稳定，全年盈利修复趋势积极，叠加宏观叙事等长期逻辑仍在继续演绎，全年绝对收益仍将延续。",
+      "published": "2026-08-25T09:29:49+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "A股三大指数集体低开，新股N高凯上市首日高开240.61%",
+      "url": "https://36kr.com/newsflashes/3954265693469826?f=rss",
+      "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.48%，深成指低开0.8%，创业板指低开0.84%；算力、半导体板块领跌，普然股份跌超6%，兆易创新跌超3%，中际旭创、长鑫科技跌超2%；贵金属、日用化工板块涨幅居前，贝泰妮涨超3%，珀莱雅涨近2%；新股N高凯上市首日高开240.61%。",
+      "published": "2026-08-25T09:27:04+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "央行公开市场开展3860亿元7天期逆回购操作",
+      "url": "https://36kr.com/newsflashes/3954262816079240?f=rss",
+      "summary": "36氪获悉，央行公开市场开展3860亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
+      "published": "2026-08-25T09:24:08+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "恒指开盘涨0.46%，恒生科技指数涨0.18%",
+      "url": "https://36kr.com/newsflashes/3954262540385408?f=rss",
+      "summary": "36氪获悉，恒指开盘涨0.46%，恒生科技指数涨0.18%；消费、科技股领涨，阿里巴巴涨超2%，京东集团、蜜雪集团、名创优品涨超1%；汽车、半导体板块跌幅居前，小鹏集团跌超8%，兆易创新跌超3%，蔚来跌超2%。",
+      "published": "2026-08-25T09:23:52+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "人民币兑美元中间价报6.7852，下调11点",
+      "url": "https://36kr.com/newsflashes/3954256524262535?f=rss",
+      "summary": "36氪获悉，人民币兑美元中间价报6.7852，下调11点；上一交易日中间价6.7841，上一交易日官方收盘价6.7238，上日夜盘报收6.7224。",
+      "published": "2026-08-25T09:17:44+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "千里科技：上半年净利润 0.78 亿元，同比增长151.25%",
+      "url": "https://36kr.com/newsflashes/3954245283052672?f=rss",
+      "summary": "36氪获悉，8月24日千里科技公告，2026上半年实现营收51.20亿元，同比增长22.36%；归母净利润 0.78 亿元，同比增长151.25%。",
+      "published": "2026-08-25T09:12:25+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "美国财长贝森特即将公布削减赤字计划，料难获得国会支持",
+      "url": "https://36kr.com/newsflashes/3954238349491328?f=rss",
+      "summary": "美国财长贝森特将在未来几天公布削减财政赤字的计划，但目前没有迹象表明，由共和党控制的国会愿意配合削减净支出。北卡罗来纳州共和党参议员Thom Tillis周一表示，受制于政治现实，看不到国会会在赤字问题上采取什么行动。他说，削减赤字“不是一个受欢迎、能帮助赢得中期选举的议题，尽管这么做是正确的”。（新浪财经）",
+      "published": "2026-08-25T09:10:55+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "中美1.5轨对话今天在北京举行",
+      "url": "https://36kr.com/newsflashes/3954248749170053?f=rss",
+      "summary": "第三届中美1.5轨对话在北京举行。来自中方相关部委、地方政府、智库以及美国亚洲协会等中美代表，将围绕增进政治互信、拓展经贸合作，探索人工智能与科技合作等议题深入探讨。创立于2023年的中美1.5轨对话，介于官方正式外交（一轨）和纯民间（二轨）对话之间，是中美政党、战略界、工商界、学术界、民间重要的沟通交流平台，曾为加强两国政治、经贸、科技、人文等领域交...",
+      "published": "2026-08-25T09:09:50+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "雷军：玄戒O100未来将应用于手机、汽车、机器人等全生态品类",
+      "url": "https://36kr.com/newsflashes/3954239893404804?f=rss",
+      "summary": "36氪获悉，小米CEO雷军在微博发文称，玄戒O100，基于玄戒创新的高带宽矩阵总线，实现远超传统旗舰SoC的端侧AI性能。未来将应用于手机、汽车、机器人等全生态品类。",
+      "published": "2026-08-25T09:06:40+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "华尔街大举招揽AI专业人士，纽约科技人才数量首次超越旧金山",
+      "url": "https://36kr.com/newsflashes/3954236912778376?f=rss",
+      "summary": "纽约在科技人才数量上已超越旧金山湾区，成为北美最大的科技人才中心。华尔街对人工智能人才日益增长的需求正在重塑这一市场格局，尽管旧金山并未完全失去其领先地位。该结论来自世邦魏理仕（CBRE）发布的《2026科技人才评估报告》。2022‑2025 年间，纽约大都会区科技人才增加 30640 人，总量达到 394300 人；而旧金山湾区科技人才减少 2390...",
+      "published": "2026-08-25T09:06:12+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "中信证券：当前美股半导体设备板块的配置价值进一步凸显",
+      "url": "https://36kr.com/newsflashes/3954214559251844?f=rss",
+      "summary": "36氪获悉，中信证券研报称，经过2026年7月回调之后，当前美股半导体设备板块的配置价值进���步凸显。我们预计AI驱动的本轮设备上行周期将至少持续至2028年，而市场对于2027-2028年下游大客户资本开支水平仍有一定的预期差。产能供应方面，半导体设备厂商及其上游积极按订单扩产，我们认为设备交付有望得到保障。我们建议关注细分环节份额提升/存储敞口更...",
+      "published": "2026-08-25T09:04:57+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "马斯克在对Cursor员工的讲话中承认：Grok在人工智能竞赛中落后",
+      "url": "https://36kr.com/newsflashes/3954227969932675?f=rss",
+      "summary": "据知情人士透露，本月早些时候，就在SpaceX宣布完成对Cursor公司600亿美元收购的当天，埃隆·马斯克召开了一次全体员工视频会议，与这家软件开发公司的员工进行了交流。据五位了解此次会议的人士透露，马斯克向与会者表示，SpaceX的人工智能部门已经落后于竞争对手，而他不习惯遭遇失败。与特斯拉或SpaceX在各自行业中占据主导地位不同，SpaceXA...",
+      "published": "2026-08-25T09:01:26+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "英科医疗：目前客户下单意愿强烈",
+      "url": "https://36kr.com/newsflashes/3954231076076677?f=rss",
+      "summary": "英科医疗8月24日在半年报电话会议上表示，二季度，受中东局势和原油价格波动的双重影响，一次性手套价格出现明显上涨，同时，叠加国际海运费价格上升，客户放缓采购节奏，消耗原有库存，导致当前客户库存几乎均处低位，存在明显补库需求。且到8月份后将进入客户的采购旺季，预计会一直持续到圣诞节前后，所以，目前客户下单意愿强烈。（证券时报）",
+      "published": "2026-08-25T08:58:10+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "中信证券：银行中报信号积极，绝对收益空间料将延续",
+      "url": "https://36kr.com/newsflashes/3954212908694664?f=rss",
+      "summary": "36氪获悉，中信证券发布研报称，上周开始进入银行财报季，上市银行经营格局稳定，息差和资产质量稳定，盈利增速小幅修复。本周开始更多银行公布业绩，预计整体情况符合预期。投资视角看，上周银行板块兼具相对和绝对收益，跑赢多数行业；展望三季度，预计息差和资产质量等核心变量将保持稳定，全年盈利修复趋势积极，叠加宏观叙事等长期逻辑仍在继续演绎，全年绝对收益仍将延续。",
+      "published": "2026-08-25T08:55:22+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "美国证券交易委员会就Situational Awareness向华尔街银行发出传票",
+      "url": "https://36kr.com/newsflashes/3954225815895177?f=rss",
+      "summary": "据知情人士透露，美国证券交易委员会（SEC）向华尔街多家大型银行发出传票，涉及对冲基金Situational Awareness相关事宜。知情人士表示，监管机构寻求的信息与该对冲基金的交易活动有关。Situational Awareness上个月因承受压力，被迫退出大量持仓。因讨论未公开事项，知情人士要求匿名。SEC发言人不予置评。SEC的问询并不意味...",
+      "published": "2026-08-25T08:52:27+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "两市融资余额减少41.86亿元",
+      "url": "https://36kr.com/newsflashes/3954227881753737?f=rss",
+      "summary": "36氪获悉，截至8月24日，上交所融资余额报13464.71亿元，较前一交易日减少23.46亿元；深交所融资余额报12743.44亿元，较前一交易日减少18.4亿元；两市合计26208.15亿元，较前一交易日减少41.86亿元。",
+      "published": "2026-08-25T08:48:36+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "险企料增配高股息资产，布局分红险迎加速窗口",
+      "url": "https://36kr.com/newsflashes/3954225497308288?f=rss",
+      "summary": "日前，国家金融监督管理总局正式出台《保险公司资产负债管理办法》，聚焦资产负债联动偏弱、内部管理政策程序不清、监管指标标准缺失、监管约束手段不足等问题，进一步完善保险资产负债管理制度体系。市场尤为关注正式稿相较征求意见稿的核心变化：人身险公司资产负债管理监管指标由有效久期缺口（用于衡量利率变动下资产与负债现金流久期的错配程度），调整为利率风险对冲率（用于...",
+      "published": "2026-08-25T08:46:11+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "Lambda正洽谈至多30亿美元的融资",
+      "url": "https://36kr.com/newsflashes/3954203343650179?f=rss",
+      "summary": "据知情人士透露，获得英伟达投资的人工智能云计算服务商Lambda正洽谈至多30亿美元的融资，本轮融资或将为其明年上市铺路。知情人士称，这家属于“新云厂商”阵营、对外出租芯片及其他AI���础设施的企业，正讨论以最高120亿美元或更高估值完成本轮融资；因相关谈判尚未公开，知情人士要求匿名。他们表示，融资谈判仍在进行，交易条款尚未敲定。总部位于加州的Lam...",
+      "published": "2026-08-25T08:45:27+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+      "url": "https://sspai.com/post/113813",
+      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ... 查看全文",
+      "published": "2026-08-25T08:28:32+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/113795",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "published": "2026-08-24T17:52:01+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "Windows On ARM 原生应用少？你可以试试这些改造方法",
+      "url": "https://sspai.com/prime/story/create-your-own-windows-apps",
+      "summary": "相比大家熟知的基于Intel或AMD处理器的传统x86架构Windows，不少人以为WindowsonARM是近几年的新产物。事实上，微软早在2012年就曾通过WindowsRT尝试探索ARM设备，但 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "published": "2026-08-24T16:28:26+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……",
+      "url": "https://sspai.com/post/113563",
+      "summary": "把非智能的双电机升降桌，改成我梦想中的智能升降中枢。 查看全文",
+      "published": "2026-08-24T15:14:08+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
+      "url": "https://sspai.com/post/112983",
+      "summary": "有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。 查看全文",
+      "published": "2026-08-24T11:30:44+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+      "url": "https://sspai.com/post/113767",
+      "summary": "九家车企召回近 430 万辆不易识别应急拉手汽车 英伟达达成 70 亿美元合作，研发顶级开放权重模型 高院发布著作权新司法解释，网络转载不允许先转后付 买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘 国际加紧制定统一月球时间 个人消费贷贴息政策扩展覆盖买车、装修等 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+      "published": "2026-08-24T07:13:55+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "published": "2026-08-23T15:25:29+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "url": "https://sspai.com/post/113002",
+      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。 查看全文",
+      "published": "2026-08-23T11:00:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "url": "https://sspai.com/post/113675",
+      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ... 查看全文",
+      "published": "2026-08-22T11:00:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/113693",
+      "summary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ... 查看全文",
+      "published": "2026-08-21T18:08:59+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "“上市公司开出3万月薪，第一天上班却让我下单刷单”",
+      "url": "https://www.huxiu.com/article/4885690.html?f=rss",
+      "summary": "揭秘新型求职杀猪盘",
+      "published": "2026-08-25T09:25:56+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "网易游戏被“搜打撤”套牢",
+      "url": "https://www.huxiu.com/article/4885693.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T09:15:39+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "败走印度：一位日本铁路工程师的哀叹",
+      "url": "https://www.huxiu.com/article/4885694.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T09:13:17+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "机器人零部件玩家，凭什么比宇树还赚？",
+      "url": "https://www.huxiu.com/article/4885691.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T09:09:46+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "全球第三之后，深天马的OLED为什么还这么难赚钱？",
+      "url": "https://www.huxiu.com/article/4885686.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T09:00:38+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "所有人都在抱团赚钱时，亏损只是被藏起来了",
+      "url": "https://www.huxiu.com/article/4884896.html?f=rss",
+      "summary": "用量化，把模糊的市场情绪变成信号",
+      "published": "2026-08-25T09:00:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "不想让中介赚差价，找网友买房的年轻人“每小时省1000块”",
+      "url": "https://www.huxiu.com/article/4885685.html?f=rss",
+      "summary": "不是每个人都适合走这条路",
+      "published": "2026-08-25T08:47:14+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "扫描大脑能辨“善恶”？一个未确证假说，却在参与死刑审判",
+      "url": "https://www.huxiu.com/article/4885687.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T08:43:09+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "湖南扶老人被索赔：法律不能和稀泥，但和稀泥已是生活常态",
+      "url": "https://www.huxiu.com/article/4885684.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T08:36:20+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "OpenAI 与 DeepSeek 同时开放 Harness，开源正在变成一场生态战争",
+      "url": "https://www.huxiu.com/article/4885682.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T08:35:43+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "今年给营销人的7个告诫",
+      "url": "https://www.huxiu.com/article/4885678.html?f=rss",
+      "summary": "要追求“简洁方法+大产出”，而不是一顿操作猛如虎",
+      "published": "2026-08-25T08:10:12+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "企业AI 最大的短板，是那个最窝囊的部门",
+      "url": "https://www.huxiu.com/article/4885680.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T08:09:56+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "医药投资人这一年：拆红筹，卖资产，赌国运",
+      "url": "https://www.huxiu.com/article/4885679.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T08:08:37+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "3.2 亿人口、9 万亿元市场，做餐饮也要开始抢老人了？",
+      "url": "https://www.huxiu.com/article/4885150.html?f=rss",
+      "summary": "老年人成了高潜力消费群",
+      "published": "2026-08-25T08:00:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "饮料厂商，谨慎造“新”",
+      "url": "https://www.huxiu.com/article/4885677.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T07:47:23+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "大厂AI竞赛，从技术周期走进资本周期",
+      "url": "https://www.huxiu.com/article/4885556.html?f=rss",
+      "summary": "资本承受力本质上是在购买试错时间",
+      "published": "2026-08-25T07:42:36+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "映恩生物：一场精心设计的轻资产实验",
+      "url": "https://www.huxiu.com/article/4885676.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T07:39:19+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "世道变坏，就是从是非不分开始的",
+      "url": "https://www.huxiu.com/article/4885670.html?f=rss",
+      "summary": "我们为什么每每要让做好事的良善人、守本分的老实人、怕麻烦的普通人，去受胁迫、去受气吃亏？",
+      "published": "2026-08-25T07:21:26+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "东方甄选净赚5.44亿，但增长还没回来",
+      "url": "https://www.huxiu.com/article/4885672.html?f=rss",
+      "summary": "",
+      "published": "2026-08-25T07:20:06+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "具身快被估值玩死了",
+      "url": "https://www.huxiu.com/article/4885439.html?f=rss",
+      "summary": "具身最大鬼故事：假装有商业模式",
+      "published": "2026-08-25T07:00:12+08:00"
+    }
+  ]
+}
