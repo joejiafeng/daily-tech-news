@@ -1,0 +1,256 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-08-26</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-08-26</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-08-26</h1>
+<p>今日科技圈迎来密集发布：苹果一口气推出M6与M5 Ultra芯片及新款Mac Studio/Mac mini，OpenAI自研芯片Jalapeño被曝性能超越NVIDIA Blackwell；国内具身智能赛道融资持续火热，字节跳动则被曝秘密布局自动驾驶。以下为今日值得关注的科技要闻。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra/">Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute</a> (Hacker News)
+  苹果正式发布M6与M5 Ultra芯片，主打性能与AI算力的大幅跃升。M6面向Mac mini等主流产品线，M5 Ultra则定位Mac Studio等专业级设备，标志着苹果自研芯片在AI推理与高性能计算领域进一步深化布局。</p>
+</li>
+<li>
+<p><a href="https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia">OpenAI Jalapeño: Better than Nvidia Blackwell</a> (Hacker News)
+  SemiAnalysis与彭博社报道，OpenAI自研AI芯片Jalapeño在多项指标上优于NVIDIA Blackwell，这可能是AI算力供应链格局变化的重要信号。若消息属实，OpenAI将减少对NVIDIA的依赖，并可能重塑大模型训练与推理的成本结构。</p>
+</li>
+<li>
+<p><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">New Mac Studio with M5 Max and M5 Ultra</a> (Hacker News)
+  苹果同步更新Mac Studio，提供M5 Max与M5 Ultra两种配置，面向视频剪辑、3D渲染与本地AI工作负载。新品进一步巩固苹果在专业桌面计算市场的地位，并与Mac mini形成高低搭配的产品矩阵。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3954181545753728?f=rss">小鹏机器人首轮融资超9亿美元</a> (36kr)
+  小鹏机器人完成首轮超9亿美元融资，估值达430亿元。不过有分析指出其估值偏高、能力尚处三线水平，引发市场对具身智能赛道估值泡沫的讨论。该融资规模在机器人创业公司中极为罕见，或加剧行业竞争与估值分化。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3955588176706951?f=rss">道交法修订草案：自动驾驶状态违法由车企担责</a> (36kr)
+  道路交通安全法修订草案提请审议，明确自动驾驶状态下发生交通违法由车企承担责任。这是中国首次在法律层面厘清自动驾驶事故责任归属，对智能汽车产业发展具有里程碑意义，也将推动车企更谨慎地推进自动驾驶落地。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/p/3953699726343556?f=rss">字节探索自动驾驶，Seed世界模型团队负责</a> (36kr)
+  字节跳动被曝正探索自动驾驶领域，由Seed旗下世界模型团队牵头，有意布局无人物流场景。世界模型与自动驾驶技术路线高度交叠，字节的入局可能为行业带来新的AI驱动方案，也意味着自动驾驶赛道迎来又一位互联网巨头。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3948044825279621?f=rss">清华系具身智能企业获数亿元融资，机器人已在京东超市规模化落地</a> (36kr)
+  具身智能基础设施供应商灵御智能完成数亿元Pre-A轮融资，其机器人已在京东超市实现规模化落地。从实验室走向真实商业场景，是具身智能行业从概念验证到价值兑现的关键一步，资本正加速涌向具备量产能力的公司。</p>
+</li>
+<li>
+<p><a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">FDA authorizes first wearable device that monitors ketone and blood sugar levels</a> (Hacker News)
+  FDA批准首款可同时监测酮体和血糖水平的可穿戴设备。这一突破将帮助糖尿病患者和生酮饮食人群更便捷地管理代谢健康，也预示着连续代谢监测将成为可穿戴设备的下一个主流赛道。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3955699589610630?f=rss">亚马逊将于9月底关闭众包工作平台Mechanical Turk</a> (36kr)
+  亚马逊宣布将于9月30日关闭运营21年的众包平台Mechanical Turk。该平台曾是AI数据标注和微任务外包的重要基础设施，其关闭标志着一个时代的结束，也反映出AI自动化正在替代部分人工众包需求。</p>
+</li>
+<li>
+<p><a href="https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">The brain may be about to have its Ozempic moment</a> (Hacker News)
+  《经济学人》撰文指出，脑科学领域可能迎来类似Ozempic（减肥神药）的突破性时刻。随着神经调控与脑疾病治疗技术取得进展，针对大脑的药物和疗法有望成为下一个改变人类健康的重大创新方向。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://github.com/runetes/maiao">Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others</a> (Hacker News)
+  Maiao是一个开源工具，为GitHub、GitLab、Gitea等平台带来Gerrit风格的代码审查工作流。对于习惯Gerrit严格审阅流程的团队，Maiao可以在不更换代码托管平台的前提下，获得更结构化的评审体验。</p>
+</li>
+<li>
+<p><a href="https://github.com/swimmingbrain/texbrain">Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM</a> (Hacker News)
+  TeXbrain是一款在浏览器中通过WASM运行pdfTeX的LaTeX编辑器，支持Git同步，解决了Overleaf在版本控制方面的不足。对需要本地化、可同步的LaTeX写作场景，这是一个值得尝试的开源替代方案。</p>
+</li>
+<li>
+<p><a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability">When str.lower() is a security vulnerability in Python – Seth Larson</a> (Hacker News)
+  Python安全专家Seth Larson撰文揭示str.lower()在特定场景下可能成为安全漏洞。文章深入分析了Unicode大小写转换的边界情况，提醒开发者在处理认证、校验等安全敏感逻辑时谨慎使用字符串方法。</p>
+</li>
+<li>
+<p><a href="https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html">C2PA Cameras Do Not Survive Contact with Reality</a> (Hacker News)
+  安全研究员David Buchanan实测发现，支持C2PA内容真实性标准的相机在实际使用中面临诸多问题。文章通过Android设备实测，揭示了内容溯源技术在真实世界中的局限，对AI生成内容治理有重要参考价值。</p>
+</li>
+<li>
+<p><a href="https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/">Run OpenBSD on DigitalOcean for $4/month</a> (Hacker News)
+  一篇实用教程，介绍如何在DigitalOcean上以每月4美元的成本运行OpenBSD系统。文章详细说明了配置步骤与注意事项，为追求安全性和简洁性的开发者提供了一个低成本的服务器方案。</p>
+</li>
+<li>
+<p><a href="https://github.com/ThinkOffApp/CarWatch">Show HN: I made a Raspberry with Qwen my local car AI</a> (Hacker News)
+  开发者展示了如何在树莓派上运行35B参数的Qwen模型，打造本地车载AI，并通过OBD接口读取车辆内部数据。这一项目证明了大模型在边缘设备上运行的可行性，为车载AI的本地化部署提供了开源参考。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
