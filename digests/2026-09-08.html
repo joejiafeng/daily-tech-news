@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-09-08</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-09-08</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-09-08</h1>
+<p>今日科技圈热点纷呈：AI 大模型开源与商业化加速推进，端侧智能、世界模型成为资本新宠；芯片与集成电路出口数据亮眼，国产替代持续深化；与此同时，AI 对开发者就业的冲击、智能电视隐私争议等话题也引发广泛讨论。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li>
+<p><a href="https://36kr.com/newsflashes/3974241610904070?f=rss">面壁智能开源端侧语言基础模型MiniCPM5-2B</a> (36kr)
+  面壁智能联合 OpenBMB 开源社区正式发布新一代“小钢炮”MiniCPM5-2B，参数规模仅 2B，却支持工具调用、深度搜索、代码生成等任务，初步实现了端侧通用 Agent 雏形。该模型有望大幅降低端侧 AI 应用门槛，推动大模型在手机、IoT 等场景的落地。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3974183588081925?f=rss">字节跳动将推出实时空间视频生成AI模型</a> (36kr)
+  字节跳动基于电影级视频生成模型 Seedance 构建实时空间视频生成 AI，允许用户面向直播、短剧和游戏创建交互式虚拟世界，功能与谷歌 Genie 类似。此举标志着字节在 AI 生成内容领域从平面视频向三维沉浸式体验的跨越，或将重塑内容创作生态。</p>
+</li>
+<li>
+<p><a href="https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world">科学家首次在量子世界观测到爱因斯坦引力</a> (Oxford)
+  牛津大学研究团队首次在量子尺度观测到引力效应，验证了爱因斯坦广义相对论在量子世界的适用性。这一突破性实验为量子引力理论提供了关键实验证据，有望推动物理学两大支柱理论的统一，是基础科学领域的里程碑式进展。</p>
+</li>
+<li>
+<p><a href="https://jellyfin.org/posts/jellyfin-release-12.0/">Jellyfin 12.0 正式发布</a> (Hacker News)
+  开源媒体服务器 Jellyfin 发布 12.0 大版本更新，带来多项功能改进与性能优化。作为完全免费、无追踪的 Plex 替代方案，Jellyfin 持续获得社区青睐，新版本进一步巩固了其在自托管媒体领域的领先地位。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3974226947158530?f=rss">全球首款碳化硅超级结功率器件在上海发布</a> (36kr)
+  瑶芯微电子与中科院郝跃院士团队合作推出全球首款碳化硅超级结 MOSFET，突破海外技术主导格局。功率器件是电能转换与控制的核心芯片，该成果有望在新能源汽车、光伏逆变器等高端应用领域实现国产替代，意义重大。</p>
+</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li>
+<p><a href="https://www.v2ex.com/t/1240069">从未有过的失业危机袭来了，怎么办</a> (V2EX)
+  一位近 10 年经验的老开发表示，公司 IT 领导开始用 Cursor 练手后，他首次感到 AI 对职业的实质威胁。当管理层亲自上手 AI 工具，意味着“AI 替代开发者”正从焦虑变成现实，开发者需要重新思考自身价值定位。</p>
+</li>
+<li>
+<p><a href="https://www.huxiu.com/article/4889423.html?f=rss">两个Token就让Kimi“变成”Claude？中国大模型的蒸馏疑云</a> (虎嗅)
+  前 Google DeepMind 研究员意外发现，仅用两个 Token 就能让 Kimi 表现出 Claude 的行为特征，引发对中国大模型“蒸馏”海外模型的质疑。该事件折射出国产大模型在基础创新能力上的短板，以及行业对“套壳”现象的深层担忧。</p>
+</li>
+<li>
+<p><a href="https://www.huxiu.com/article/4889398.html?f=rss">当 AI 开始说服 AI：社会工程学会不会第一次脱离人类？</a> (虎嗅)
+  随着 AI Agent 自主性增强，AI 之间的交互与说服将成为新的安全挑战。当社会工程学攻击不再需要人类参与，传统基于人的安全防线可能失效，这要求安全体系从架构层面重新设计。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/newsflashes/3974240061354496?f=rss">AI热潮掩盖美国经济风险上升趋势</a> (36kr)
+  野村证券报告指出，AI 虽成美国经济增长引擎，但芯片和电力涨价推高通胀、技术设备进口激增扩大贸易逆差、云计算企业发债推高国债收益率等风险正在累积。AI 发展一旦受挫，可能暴露美国日益上升的风险溢价。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3973012275785986?f=rss">清华博士做具身大脑拿下九轮融资</a> (36kr)
+  千诀科技创始人高海川从清华实验室出发，将机器人大脑的商业化想法沉淀四年后于 2023 年创业，至今完成九轮融资。他直言“首先要考虑商业现实，其次才是搞技术”，反映出具身智能赛道正从技术驱动转向商业落地驱动。</p>
+</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li>
+<p><a href="https://github.com/Sadpainy/Stuxnet">Show HN: Stuxnet – 著名网络武器源码重建</a> (Hacker News)
+  开发者发布了震网病毒的重建源码，仅用于研究和教育目的。作为史上最著名的网络武器，Stuxnet 曾精准破坏伊朗核设施，其源码对理解工业控制系统安全、网络战攻防技术具有重要参考价值。</p>
+</li>
+<li>
+<p><a href="https://d2lang.com/blog/tala-is-open-source/">TALA 正式开源</a> (Hacker News)
+  d2 语言团队宣布 TALA 开源，为开发者提供新的图表绘制工具选择。TALA 的开放将进一步丰富数据可视化工具链，降低开发者创建高质量技术图表和架构图的门槛。</p>
+</li>
+<li>
+<p><a href="https://lambdaland.org/posts/2026-09-06-bedrock-v2/">Emacs Bedrock 2.0 发布</a> (Hacker News)
+  Emacs Bedrock 2.0 带来更完善的配置方案，为 Emacs 新手提供开箱即用的现代编辑体验。在 VS Code 等商业编辑器主导的当下，Bedrock 的持续更新展现了开源编辑器社区的活力。</p>
+</li>
+<li>
+<p><a href="https://blog.yosyshq.com/p/colorlight-part-1/">Colorlight 5A-75B：低成本 ECP5 FPGA 开发板深度解析</a> (Hacker News)
+  YosysHQ 博客对 Colorlight 5A-75B 这款高性价比 FPGA 开发板进行深入剖析。该板卡因价格低廉、资源丰富而成为开源硬件爱好者的热门选择，文章详细介绍了其架构与开发要点，对 FPGA 入门者极具参考价值。</p>
+</li>
+<li>
+<p><a href="https://36kr.com/p/3973202605437448?f=rss">AI搜索会不会取代传统搜索？秘塔AI搜索全链路解析</a> (36kr)
+  文章从知识工作者面临的三大核心痛点出发，对秘塔 AI 搜索进行全链路技术解析。当传统搜索引擎返回成百上千条散乱链接时，AI 搜索通过理解意图、整合信息提供直接答案，正在重新定义信息获取方式。</p>
+</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
