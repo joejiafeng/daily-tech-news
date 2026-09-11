@@ -1,0 +1,802 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:26:51.756823+08:00",
+  "v2ex": [
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！",
+      "url": "https://www.v2ex.com/t/1241018",
+      "summary": "自用 API 中转站分享，注册自动送：**$1 ，留下用户 ID 再送 $10**。 用户 ID ，在**左上角 LOGO 旁边**查看。 付费用户，升级为更优惠的 SVIP**限时倍率 0.02**，赠送余额会折算成倍率差对应余额。 **活动时间截至**：2026/9/11 00:00:00 目前**支持注册邮箱后缀**：qq ，163 ，gmail...",
+      "published": "2026-09-10T14:07:24+08:00",
+      "score": 128
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "大家会跟同事或者领导说自己用 Ai 完成需求吗？",
+      "url": "https://www.v2ex.com/t/1241204",
+      "summary": "当一个非常规的开发需求，比如爬取数据、整理表格数据，类似这种常规做法需要耗时但 Ai 又很轻松能做完的工作，会跟同事或者领导说自己用 Ai 高效的完成工作吗？",
+      "published": "2026-09-11T08:58:53+08:00",
+      "score": 73
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "一直有个疑问，感觉用 cursor 的人很少",
+      "url": "https://www.v2ex.com/t/1241125",
+      "summary": "身边人大多都是 codex ，少量 ClaudeCode ，cursor 除了我自己以外我就只知道 1 个人在用，论 v2 上讨论热度，cursor 也是几乎查无此人，好像只有我一个人用的非常爽。 我自己是 60 美刀订阅，公司报销正好覆盖（公司内部主要是 codebuddy ，不爱用的人有 500 块钱报销额度），我给我老婆也搞了个 cursor20...",
+      "published": "2026-09-10T18:44:52+08:00",
+      "score": 58
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "ai 编程目前依然是普通人最好的杠杆",
+      "url": "https://www.v2ex.com/t/1240993",
+      "summary": "和投资、实体生意、打工相对比 投资你可能需要盯盘，需要经常关注一些行业资讯 实体生意成本太重，风险很大 打工，以时间换钱，加班越多，去医院的概率越大。 目前，ai 编程目前依然是普通人最好的杠杆 我用 ai 编程做了十几个网站，虽然只有 3 个有稳定营收，但都是被动收入，成本可控，还都是线上生意。 还不需要购买服务器，使用 cf 全家桶就可以很快搭建一...",
+      "published": "2026-09-10T12:41:51+08:00",
+      "score": 56
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "躺平是不是版本答案？",
+      "url": "https://www.v2ex.com/t/1241205",
+      "summary": "1.不工作：现在工作难找，就算有工作也很累。如果没结婚没娃没房贷，到小地方租房躺平真的很划算。而且上班交那么多社保，到退休领的估计只够喝稀饭。 2.不结婚：没有彩礼没有乱七八糟的家庭关系。 3.不买房：不用花高价住鸽子楼，也不用给 zf 和银行打工。 4.不生娃：生娃除了能给自己情感反馈，其他基本是负收益。你看 4 岁娃事件，这只是生活中的小事，其他麻...",
+      "published": "2026-09-11T09:05:40+08:00",
+      "score": 51
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "Duo 真的很不苹果",
+      "url": "https://www.v2ex.com/t/1241080",
+      "summary": "仔细数一数，Duo 一台手机上，一个内屏，一个外屏，一个折叠形态下的前置摄像头（非屏下），一个折叠形态下的后置摄像头模组，一个展开形态下的前置摄像头（屏下），侧边还有电源键+action button ，这些“多余”的设计真的非常不苹果，当年苹果可是宁愿砍掉 home 键，愿景是造出一整块玻璃当作屏幕的，但是在 Duo 上却充满了妥协，我知道这是目前的...",
+      "published": "2026-09-10T16:13:33+08:00",
+      "score": 47
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配",
+      "url": "https://www.v2ex.com/t/1241226",
+      "summary": "断断续续折腾 Windows 部署和优化挺久了，最近把之前的站点重新迁移整理了一遍， 放到 wlite.cn 上。 站上主要放这几类东西： - Windows 10 / 11 的各种版本：精简版、全量版、原版、LTSC ，另外还有 WinPE - 每个镜像都是自己装过、跑过一轮才发出来的，不是从别处转的 - 装完系统通常要装的软件都集成好了：压缩、备份...",
+      "published": "2026-09-11T09:51:04+08:00",
+      "score": 46
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "iPhone Duo 的销量关键就在销量上",
+      "url": "https://www.v2ex.com/t/1241092",
+      "summary": "作为不知名开发者，看了一天的 iPhone Duo 视频。 我觉得不太对劲。从一大早“诶，这个过渡不错”，“这个场景设计还挺用心”逐渐开始变成“这种场景真的常见吗”“值得为这种状态适配吗”。 不知道 V2 上大家对于 iPhone Duo 上的 App 究竟要适配到什么程度有什么预期。是单纯的打开当个 Pad 那样使用就能满足了，如果只是收起来当个小...",
+      "published": "2026-09-10T16:55:33+08:00",
+      "score": 35
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "summary": "",
+      "published": "2026-09-10T22:09:31+08:00",
+      "score": 879
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "summary": "https://mathstodon.xyz/@andreasthom/117240536885387540 https://mathstodon.xyz/@andreasthom/117240537520615623 https://x.com/ValerioCapraro/status/2097791836269977996 , https://x...",
+      "published": "2026-09-10T14:49:43+08:00",
+      "score": 745
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "summary": "",
+      "published": "2026-09-11T09:00:56+08:00",
+      "score": 96
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
+      "summary": "",
+      "published": "2026-09-11T08:33:26+08:00",
+      "score": 67
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Finite time blowup with smooth forcing term for the incompressible porous medium",
+      "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
+      "summary": "",
+      "published": "2026-09-08T17:38:25+08:00",
+      "score": 15
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "summary": "",
+      "published": "2026-09-10T23:27:22+08:00",
+      "score": 380
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "summary": "",
+      "published": "2026-09-11T03:43:22+08:00",
+      "score": 182
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "summary": "",
+      "published": "2026-09-10T23:29:47+08:00",
+      "score": 373
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "summary": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...",
+      "published": "2026-09-10T23:29:30+08:00",
+      "score": 291
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "summary": "",
+      "published": "2026-09-11T08:42:41+08:00",
+      "score": 135
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "summary": "",
+      "published": "2026-09-11T03:34:20+08:00",
+      "score": 114
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "summary": "",
+      "published": "2026-09-11T07:10:06+08:00",
+      "score": 63
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "summary": "",
+      "published": "2026-09-11T05:30:55+08:00",
+      "score": 78
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "summary": "",
+      "published": "2026-09-11T11:48:10+08:00",
+      "score": 3
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "",
+      "published": "2026-09-11T01:14:12+08:00",
+      "score": 180
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "summary": "",
+      "published": "2026-09-11T03:44:15+08:00",
+      "score": 80
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Neki – Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "summary": "",
+      "published": "2026-09-10T23:43:49+08:00",
+      "score": 215
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "LLM Visualizer – Build a Transformer from Scratch",
+      "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+      "summary": "",
+      "published": "2026-09-11T10:51:51+08:00",
+      "score": 11
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "summary": "",
+      "published": "2026-09-11T06:54:01+08:00",
+      "score": 8
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Customizing my Compaq MX-11800 keyboard",
+      "url": "https://blog.webb.page/WM-102",
+      "summary": "",
+      "published": "2026-09-08T01:21:55+08:00",
+      "score": 18
+    }
+  ],
+  "rss": [
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "打了一天《王者万象棋》，我彻底上头了",
+      "url": "https://36kr.com/p/3978405614599174?f=rss",
+      "summary": "想必今天不少人都在「沉迷打牌」，尤其许多《王者荣耀》老玩家。 没办法，《王者万象棋》确实太让人上头了。如果不是为了写这篇稿子，我今天的工作时间可能都要被这款游戏占满。 《王者万象棋》 很多人对《王者万象棋》的初印象，可能都停留在「《王者荣耀》IP衍生游戏」这一层面。哪怕它在已公布全网预约量达到7000万、上线后没做太多商业化设计的情况下，还冲上了iOS...",
+      "published": "2026-09-11T10:54:44+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "上光所孵化太空光伏企业完成近亿元融资，钧达股份、上海未来产业基金等押注｜36氪首发",
+      "url": "https://36kr.com/p/3974257096159747?f=rss",
+      "summary": "作者｜乔钰杰 编辑｜袁斯来 本文2600字，预计阅读5分钟 硬氪获悉，太空光伏电池与核定材料企业「上海星翼芯能科技有限公司」（以下简称“上翼”）近日完成Pre-A轮战略融资。本轮由钧达股份、上海未来产业基金、临港蓝湾资本、南浔陆遥、新阳半导体联合创始人相关产业投资人共同参投，老股东中科神光持续加码。资金将主要用于技术迭代、空间环境试验及卫星在轨验证，加...",
+      "published": "2026-09-11T10:32:05+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "清华博士团队切入离子阱量子计算，押注玻璃基QCCD路线，获超亿融资丨36氪首发",
+      "url": "https://36kr.com/p/3978313800285187?f=rss",
+      "summary": "图源/企业 本文约 2900 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，离子阱量子计算公司维刻量光近期已完成超亿元Pre-A轮融资，由九智资本领投，正轩资本、瀚晖资本跟投。此前公司曾完成一轮天使轮融资，半年内连续完成两轮。本轮资金将主要用于产线扩大及整机建设。目前正启动新一轮融资，多维资本担任长期独家财务顾问。 维刻量光成立于今年2月...",
+      "published": "2026-09-11T09:10:19+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "8点1氪丨英伟达被调查；罗永浩连用7个“抄的”吐槽苹果折叠屏；欧洲央行将三大关键利率上调25个基点",
+      "url": "https://36kr.com/p/3978247601601280?f=rss",
+      "summary": "今日热点导览 DeepSeek V4.1 Flash模型正式发布 298项重要国家标准发布，涉及AI、半导体等 苹果回应下架iPhone 17 Pro 功率半导体大厂，宣布涨价 OpenAI限制Adobe及其他竞争对手在ChatGPT投放广告 TOP3大新闻 美司法部调查英伟达，涉及英伟达去年与人工智能芯片初创公司Groq达成的交易 据报道，美国司法部...",
+      "published": "2026-09-11T08:05:26+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "36氪正在寻找值得报道的创业项目，有项目的朋友可以来试试",
+      "url": "https://36kr.com/p/3977421065466121?f=rss",
+      "summary": "如果你正在创业，或者手上正在做一个项目，可能会遇到一个挺现实的问题： 项目做了很久，但真正知道的人并不多？ 产品上线了，有了第一批用户； 业务开始跑起来了，也有了客户和营收； 团队每天都在忙着做产品、拓市场、找合作…… 但出了自己的圈子之后，可能还是没人知道你在做什么。 其实对于创业项目来说，除了融资和业务增长， 媒体曝光也是一个很重要的事情。 最近，...",
+      "published": "2026-09-10T18:17:32+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
+      "url": "https://36kr.com/p/3977372742250756?f=rss",
+      "summary": "1854年，一个叫菲尔德的年轻人决定用海底电缆横贯大西洋。经过数次失败，几乎所有股东要求终止计划后，1858年8月，电缆终于铺通，英国女王的声音通过电缆传到美国，人类第一次以分钟为单位，跨越大洋传递信息。 169年后的今天，全球海底光缆的总长度已经超过140万公里，承载95%以上的跨洲数据传输，但人类对海缆的日常维护能力还停留在“石器时代”。 “全球所...",
+      "published": "2026-09-10T17:47:32+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "苹果新CEO上任第一枪：15999元起的折叠屏，要把高端市场吃干抹净",
+      "url": "https://36kr.com/p/3977379721818626?f=rss",
+      "summary": "文｜ 肖漫 编辑｜ 袁斯来 9月10日凌晨，苹果举办了近年来最特别的一次iPhone发布会。 8月末，蒂姆库克卸任CEO，结束了苹果又一段辉煌时代。 低调的硬件工程师John Ternus（约翰·特努斯）正式接任一把手位置。而这次，是他第一场重大新品发布会。这位长期负责硬件工程、熟悉苹果产品体系的内部继任者，推出了苹果过去几年最大胆的一款iPhone。...",
+      "published": "2026-09-10T17:22:03+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "硬氪直击IFA——AI硬件不再只会回答问题",
+      "url": "https://36kr.com/p/3975817977868549?f=rss",
+      "summary": "如果说过去两年的消费电子展，所有产品都急着证明自己“接入了AI”，那么到了IFA 2026，一个变化正在发生：AI不再只是被塞进电视、冰箱和电脑里的附加功能，而是开始成为硬件运行的底层逻辑。 9月4日至8日，IFA 2026在德国柏林举行。根据官方数据，本届展会聚集超过1900个品牌，机器人、人工智能、智能家居乃至飞行汽车都成为展示重点。 但比新品数量...",
+      "published": "2026-09-10T16:06:24+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "成立不到一年，AI潮玩品牌「IPTAG」完成千万级战略融资｜36氪首发",
+      "url": "https://36kr.com/p/3977219182342401?f=rss",
+      "summary": "文｜李小霞 36氪获悉，AI潮玩与高端收藏卡品牌IPTAG宣布已完成千万级战略融资，由高投集团策源资本旗下成都策源高都共创股权投资基金（简称“策源高都基金”）独家投资。 本轮融资主要用于AI技术研发、优质IP合作拓展、产品体验升级以及渠道与供应链建设。 据悉，本轮投资方成都策源高都基金，是成都高新区与都江堰市携手打造的首支跨区域产业基金，由高投集团策源...",
+      "published": "2026-09-10T14:37:02+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "海底捞减持背后，“离岸富豪”排队补税",
+      "url": "https://36kr.com/p/3977186183655680?f=rss",
+      "summary": "作者 | 谢芸子 编辑 | 张帆 海底捞的股价异动让市场惊讶。 9月9日，海底捞早盘一度跌超10%，盘中最多跌超12%至10港元，创下2022年3月以来新低。直接原因，是一笔创始人家族罕见的大宗交易。 据当日收盘后的海底捞公告，董事会获控股股东集团成员SP NP Ltd.通知，其已于9月8日通过大宗交易方式，以每股10.62港元出售2.59亿股，占已发...",
+      "published": "2026-09-10T14:31:27+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "速卖通：30万件iPhone Duo新配件已上架",
+      "url": "https://36kr.com/newsflashes/3978506756275205?f=rss",
+      "summary": "36氪获悉，北京时间9月10日凌晨，苹果发布首款折叠屏iPhone Duo。新机刚亮相，阿里旗下跨境电商平台速卖通上的配件已经铺满。截至新机发布，平台已新增新款iPhone的手机壳和屏幕保护膜超30万件，充电器、线材、支架等品类的商品量同步大幅增长。速卖通数据显示，8月以来，iPhone18相关配件搜索量环比7月增长182%，“iPhone折叠屏”关键...",
+      "published": "2026-09-11T12:26:21+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "瑞芯微：预计三季度业绩保持正常增长趋势",
+      "url": "https://36kr.com/newsflashes/3978473665330177?f=rss",
+      "summary": "瑞芯微在9月11日召开的2026年半年度业绩说明会上表示，公司经营情况良好，AIoT长期增长态势不变，预计三季度业绩保持正常增长趋势。（证券时报）",
+      "published": "2026-09-11T12:11:55+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "恒指午间休盘跌0.85%，恒生科技指数跌0.79%",
+      "url": "https://36kr.com/newsflashes/3978482614090500?f=rss",
+      "summary": "36氪获悉，恒指午间休盘跌0.85%，恒生科技指数跌0.79%；有色金属、半导体、化工板块领跌，洛阳钼业跌超10%，壁仞科技跌超7%，国恩科技跌超4%；消费、石油石化板块走强，山东墨龙涨超4%，布鲁可涨近1%；南向资金净买入22.99亿港元。",
+      "published": "2026-09-11T12:01:47+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "蚂蚁数科发布Agentar金融版",
+      "url": "https://36kr.com/newsflashes/3978473121905411?f=rss",
+      "summary": "36氪获悉，蚂蚁数科在2026 Inclusion·外滩大会上推出Agentar金融版，提供开箱即用的金融智能体专家团、行业Skill、MCP、智能体评测工具及治理能力，为金融机构打造覆盖智能体开发、部署、协作、评测与管理的智能体超级工厂。据了解，Agentar金融版首批预置十大金融智能体专家团，覆盖智能投顾、财富管理、客户经营等核心应用场景。",
+      "published": "2026-09-11T11:52:08+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "新石器L4级无人车在日本启动首次测试",
+      "url": "https://36kr.com/newsflashes/3978471019363329?f=rss",
+      "summary": "新石器已在日本东京平和岛的东京流通中心（TRC）启动封闭场地L4级自动驾驶实证测试。这是新石器首次在日本开展L4级测试。首批测试车辆已于8月31日抵达日本，目前在TRC指定停车场及A栋天台道路运行，后续车辆将分批加入，测试车队规模计划增至10台。今年6月，新石器加入以TRC为据点的平和岛自动驾驶协议会。（界面）",
+      "published": "2026-09-11T11:50:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "半日主力资金抛售电子、有色金属股",
+      "url": "https://36kr.com/newsflashes/3978468124523528?f=rss",
+      "summary": "主力资金早间净流入通信、国防军工、公用事业等板块，净流出电子、有色金属、基础化工等板块。具体到个股来看，中际旭创、华胜天成、内蒙一机获净流入18.66亿元、11.48亿元、10.68亿元。净流出方面，天孚通信、德明利、生益科技遭抛售11.14亿元、10.45亿元、9.95亿元。（第一财经）",
+      "published": "2026-09-11T11:47:03+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "声智科技荣获第二十六届中国专利奖优秀奖",
+      "url": "https://36kr.com/newsflashes/3978465673280257?f=rss",
+      "summary": "近日，国家知识产权局正式公布第二十六届中国专利奖授奖名单。北京声智科技有限公司凭借专利ZL202311321072.1《基于预训练语言模型的任务处理方法、装置、设备及介质》，荣获第二十六届中国专利奖优秀奖。据了解，中国专利奖是我国知识产权领域的重要国家级奖项，是对企业自主创新能力、专利技术水平及产业化价值的综合认可。目前，声智正持续推进Physical...",
+      "published": "2026-09-11T11:44:34+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "前8个月粤港澳大湾区内地9市进出口值同比增长21.9%",
+      "url": "https://36kr.com/newsflashes/3978460055174148?f=rss",
+      "summary": "据海关统计，今年前8个月，粤港澳大湾区内地9市进出口值7.28万亿元，同比增长21.9%，创历史同期新高。其中8月份进出口值达1.01万亿元，继6月首次突破万亿元后，再次迈上万亿元台阶，增长30.4%。粤港澳大湾区内地9市包括广州、深圳、珠海、佛山、惠州、东莞、中山、江门和肇庆。（央视新闻）",
+      "published": "2026-09-11T11:38:51+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "蚂蚁灵波CEO朱兴回应“融资原因”：不是因为缺钱缺卡",
+      "url": "https://36kr.com/newsflashes/3978459530590983?f=rss",
+      "summary": "近日，2026外滩大会举行。期间，蚂蚁灵波CEO朱兴与媒体进行对话。谈及蚂蚁灵波为何要追求独立融资上市，朱兴首先强调：“不是因为缺钱缺卡（才融资）”。“融资主要解决两个问题，第一个是对于高级人才，我们该用什么样的激励机制去容纳。第二个原因是，行业的成长要经历非常多周期，我们要让公司更高效化，（独立融资）以便我们更好的面对竞争。”他如是道。（新浪科技）",
+      "published": "2026-09-11T11:38:19+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "A股三大指数午间休盘集体下跌，全市场下跌个股近5200只",
+      "url": "https://36kr.com/newsflashes/3978454061972487?f=rss",
+      "summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌1.82%，深成指跌2.34%，创业板指跌2.04%；贵金属、石油化工、多元金融板块跌幅居前，湖南白银跌超8%，新凤鸣跌超5%，弘业期货跌超4%；油气、电信、电力板块走强，杭州热电涨停，中国海油涨超2%，中国电信涨超1%；全市场下跌个股近5200只。",
+      "published": "2026-09-11T11:32:45+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "耐科装备：截至8月底在手订单3.3亿元",
+      "url": "https://36kr.com/newsflashes/3978442811931657?f=rss",
+      "summary": "36氪获悉，耐科装备在9月11日举行的2026年半年度业绩说明会上表示，截至8月31日，公司在手订单为3.3亿元，其中半导体封装设备业务占75%左右；半导体封装设备订单中，国内订单占比较高。",
+      "published": "2026-09-11T11:21:18+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "天岳先进：已围绕先进封装散热中介层等方向持续布局",
+      "url": "https://36kr.com/newsflashes/3978438241450756?f=rss",
+      "summary": "天岳先进在9月11日召开的2026年半年度业绩说明会上表示，随着AI算力密度持续提升，先进封装在实现更高集成度的同时，散热与热管理压力也明显加大。碳化硅具备高导热、耐高温等特性，用于先进封装相关散热及中介层等方向，有助于改善热传导效率、支撑更高功率密度下的系统稳定性，并在部分方案中兼顾集成密度与封装形态优化等需求。公司已围绕先进封装散热中介层等方向持续...",
+      "published": "2026-09-11T11:16:39+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "飞猪与易斯达航空达成合作",
+      "url": "https://36kr.com/newsflashes/3978427102034692?f=rss",
+      "summary": "36氪获悉，9月10日，飞猪与易斯达航空在杭州签署合作协议，未来双方将围绕数字营销、会员权益及AI等领域深化合作，为游客提供机票预订及出行服务。易斯达航空是韩国的低成本航空公司，航线覆盖东亚、东南亚、中亚等地，其中中国是其航线覆盖最密集的地区之一。截至目前，易斯达航空已开通韩国部分城市与中国上海、延吉、张家界、烟台、郑州及港澳台等地的往返航班。",
+      "published": "2026-09-11T11:05:19+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "郑州煤电：目前国内动力煤价格处于高位运行，四季度价格走势存在不确定性",
+      "url": "https://36kr.com/newsflashes/3978423601953543?f=rss",
+      "summary": "郑州煤电在9月11日召开的2026年半年度业绩说明会上回答投资者提问时表示，三季度国内动力煤价格持续上涨，目前处于高位运行；四季度，随着晋陕蒙产能逐步释放，供给修复，叠加电煤需求季节性因素，动力煤价格走势存在不确定性。（证券时报）",
+      "published": "2026-09-11T11:01:46+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "消息称高通与三星电子的晶圆代工谈判因价格分歧陷入僵局",
+      "url": "https://36kr.com/newsflashes/3978418081774601?f=rss",
+      "summary": "据报道，高通与三星电子晶圆代工业务的新一轮半导体合同制造协议谈判因双方在价格方面的分歧陷入僵局，高通要求降价，但三星电子拒绝接受。据业内人士透露，预计使用三星电子晶圆代工部门2nm工艺为高通代工的AP项目可能会推迟到明年。由于价格谈判持续进行，年内能否实现量产也变得不确定。（财联社）",
+      "published": "2026-09-11T10:56:09+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "“超维动力”完成超5亿元人民币天使+轮系列融资",
+      "url": "https://36kr.com/newsflashes/3978413691157512?f=rss",
+      "summary": "36氪获悉，“超维动力”完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广资本、万石资本等加注。该笔融资将用于加速“数据-模型-本体”迭代，并推动具身智能的产品化落地。",
+      "published": "2026-09-11T10:51:41+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "半导体公司Analog Devices拟收购Alif Semiconductor",
+      "url": "https://36kr.com/newsflashes/3978410285234946?f=rss",
+      "summary": "近日，Analog Devices, Inc.与Alif Semiconductor宣布，双方已达成最终协议，ADI将以13.5亿美元全现金交易收购Alif。根据双方董事会已批准的协议条款，ADI将向Alif股东支付13.5亿美元的前期现金对价，具体以最终协议条款为准。此外，ADI还可能会支付最高2亿美元的额外或有对价。该交易预计将于2026年底前完成...",
+      "published": "2026-09-11T10:48:13+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "新版充电宝3C认证实施规则落地，已发出首批32张3C认证证书",
+      "url": "https://36kr.com/newsflashes/3978406797523714?f=rss",
+      "summary": "为强化移动电源产品源头治理，市场监管总局于5月25日修订并发布新版《强制性产品认证实施规则 移动电源、锂离子电池和电池组》。近期，有关认证机构已按照新版实施规则发出首批32张3C认证证书。（央视新闻）",
+      "published": "2026-09-11T10:44:40+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "沪指、深成指均跌超2%",
+      "url": "https://36kr.com/newsflashes/3978402125954050?f=rss",
+      "summary": "36氪获悉，沪指、深成指均跌超2%；有色金属、大金融、半导体芯片等方向跌幅居前，沪深京三市下跌个股近5300只。",
+      "published": "2026-09-11T10:39:55+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "“上海星翼芯能”完成Pre-A轮战略融资",
+      "url": "https://36kr.com/newsflashes/3978394732248069?f=rss",
+      "summary": "36氪获悉，太空光伏电池与核定材料企业“上海星翼芯能”近日完成Pre-A轮战略融资。本轮由钧达股份、上海未来产业基金、临港蓝湾资本、南浔陆遥、新阳半导体联合创始人相关产业投资人共同参投，老股东中科神光持续加码。资金将主要用于技术迭代、空间环境试验及卫星在轨验证，加速太空钙钛矿光伏电池与太空级CPI柔性封装衬底材料的商业化落地。",
+      "published": "2026-09-11T10:32:24+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "url": "https://sspai.com/post/114439",
+      "summary": "商务部回应美国 AI 蒸馏指控 谷歌声称为了合规将「降级」欧盟搜索服务 Apple 智能将有用量限制 OpenAI 将与三星合作开发芯片 小岛秀夫新游戏被索尼取消，转由微软发行 DeepSeek V4.1 发布 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "published": "2026-09-11T06:58:54+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+      "url": "https://sspai.com/post/114384",
+      "summary": "祝每一位老师教师节快乐！ 查看全文",
+      "published": "2026-09-10T14:51:52+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
+      "url": "https://sspai.com/post/114394",
+      "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。 查看全文",
+      "published": "2026-09-10T06:38:42+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
+      "url": "https://sspai.com/post/114393",
+      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。 查看全文",
+      "published": "2026-09-10T05:30:34+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "url": "https://sspai.com/post/114392",
+      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。 查看全文",
+      "published": "2026-09-10T05:21:18+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "url": "https://sspai.com/post/114366",
+      "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？ 查看全文",
+      "published": "2026-09-09T17:30:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
+      "url": "https://sspai.com/post/113842",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "published": "2026-09-09T15:03:35+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
+      "url": "https://sspai.com/post/113668",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "published": "2026-09-09T11:00:48+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+      "url": "https://sspai.com/post/114352",
+      "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。 查看全文",
+      "published": "2026-09-09T08:00:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "published": "2026-09-08T18:14:30+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "美联储陷入“死局”：加息没用？但也得加",
+      "url": "https://www.huxiu.com/article/4890360.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T12:20:21+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "算力差20倍，中国大模型凭什么反杀？",
+      "url": "https://www.huxiu.com/article/4890051.html?f=rss",
+      "summary": "一砖一瓦建造自己的基座",
+      "published": "2026-09-11T11:50:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "美国政坛星星之火：读不读《资本论》不重要，能否影响美国对华政策才是关键",
+      "url": "https://www.huxiu.com/article/4890350.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:46:37+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "强省会，最“弱”省会，绷不住了",
+      "url": "https://www.huxiu.com/article/4890349.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:46:34+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "为啥我反对把历史地理踢出去",
+      "url": "https://www.huxiu.com/article/4890319.html?f=rss",
+      "summary": "历史给你时间坐标，地理给你空间坐标",
+      "published": "2026-09-11T11:45:30+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "土耳其“向东看”：与其说是战略，不如说是讨价还价",
+      "url": "https://www.huxiu.com/article/4890348.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:43:04+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "便利店，集体加码新鲜零食",
+      "url": "https://www.huxiu.com/article/4890346.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:38:25+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "世界模型爆火，GPT-6把手伸向机器人：具身大脑到底谁说了算？| AI 100 闭门会",
+      "url": "https://www.huxiu.com/article/4890182.html?f=rss",
+      "summary": "未来谁将掌控具身大脑？",
+      "published": "2026-09-11T11:38:24+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "九月开学，我老板的拼豆店彻底凉了",
+      "url": "https://www.huxiu.com/article/4890345.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:36:30+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "中国体育全面进入大回忆时代了吗？",
+      "url": "https://www.huxiu.com/article/4890341.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:32:14+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "习惯于承认自己不知道，慢慢就不焦虑了",
+      "url": "https://www.huxiu.com/article/4890339.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:26:48+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "10年期美债收益率，逼近5%",
+      "url": "https://www.huxiu.com/article/4890338.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:24:26+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "31家民营医疗服务公司中报大解读：医院越开越多，钱却越来越难赚",
+      "url": "https://www.huxiu.com/article/4890331.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:16:53+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "迟到七年的苹果，还追得上吗？",
+      "url": "https://www.huxiu.com/article/4890187.html?f=rss",
+      "summary": "新掌门的底气在哪？",
+      "published": "2026-09-11T11:09:48+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "闲鱼封杀代订卖家，旅游行业看到了什么",
+      "url": "https://www.huxiu.com/article/4890329.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:09:25+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "两年亏掉2个亿，从高调入职到悄然换人，这位总经理并不冤？",
+      "url": "https://www.huxiu.com/article/4890327.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:08:28+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "从 KYC 到 KYA：当 AI AGENT 开始拥有自己的支付身份",
+      "url": "https://www.huxiu.com/article/4890297.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T11:00:38+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "苹果顺手重做了“长寿”这门生意",
+      "url": "https://www.huxiu.com/article/4890202.html?f=rss",
+      "summary": "至高无上的苹果已抵达它忠实的巴黎",
+      "published": "2026-09-11T11:00:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "沃什导师、传奇交易员Druckenmiller闭门会：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+      "url": "https://www.huxiu.com/article/4890322.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T10:56:49+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "2026消费市场“换牌”——情绪价值与质价比新规则到来",
+      "url": "https://www.huxiu.com/article/4890304.html?f=rss",
+      "summary": "",
+      "published": "2026-09-11T10:50:38+08:00"
+    }
+  ]
+}
