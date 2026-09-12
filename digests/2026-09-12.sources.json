@@ -1,0 +1,784 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T12:24:19.104805+08:00",
+  "v2ex": [
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "筷子不能竖着插在饭里是全国性的常识吗？",
+      "url": "https://www.v2ex.com/t/1241327",
+      "summary": "今天在推特上刷到一个关于中日韩文化禁忌的帖子，让我想起来初中时发生的一件事。 某次吃饭时，我将筷子竖着插在了米饭里，父亲仿佛像被狗咬了一样蹦起来狠狠揍了我一顿，又是打又是骂，说广东人给先人上供的时候才这么干。 我心里愤愤不平，你一个甘肃人，又不是广东人，你急什么；再说也没人给我说过这件事啊，家里也不供奉什么先祖灵位，我咋知道有这回事。 --- 从那以后...",
+      "published": "2026-09-11T14:29:24+08:00",
+      "score": 187
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "-52% 还能回本吗",
+      "url": "https://www.v2ex.com/t/1241315",
+      "summary": "有没有过来人给个经验，不加仓的情况下 -52% 死拿有希望回本吗，拿了一年多了 不甘心啊 害怕倒在黎明前 有没有经历过相同情况的大佬，回本了，给我点希望。",
+      "published": "2026-09-11T13:57:13+08:00",
+      "score": 79
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "有人买了中转站 6TB 的数据，里面有大量的服务器账号安全数据，看你们还敢用中转吗？",
+      "url": "https://www.v2ex.com/t/1241336",
+      "summary": "说是花了 5 位数买的，看截图，貌似里面有很多互联网大厂的服务器数据，不过大厂的应该很多是内部账号吧。 有用中转的朋友做自己项目的，赶紧改密码吧。 ![82c654dfly1igzkr838o4j21480xpwr3.jpg]( https://picui.ogmua.cn/s1/2026/09/11/6aa3a7e344849.webp)",
+      "published": "2026-09-11T15:04:39+08:00",
+      "score": 59
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "[送码]在手机端 AI 编程最佳应用： Octrix",
+      "url": "https://www.v2ex.com/t/1241311",
+      "summary": "# 用户群体是谁？ AI 编程发展到现在，在手机上编程已经不是什么新鲜事了，像 Codex 的手机客户端进行远程控制编程就非常好用。 为什么做这个 APP 呢？是因为我发现并不是所有人都用 Codex ，他们可能是用 CodeX 接入国产模型（比如 Kimi 、DeepSeek 等等），这些不支持使用 Codex 官方的手机 APP 进行远程控制。 为...",
+      "published": "2026-09-11T13:48:37+08:00",
+      "score": 56
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "为一个弱智的问题 大家怎么插入的图片",
+      "url": "https://www.v2ex.com/t/1241328",
+      "summary": "想问问这个初级小白的问题，怎么插入的图片啊？？？",
+      "published": "2026-09-11T14:32:02+08:00",
+      "score": 55
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "有些人不允许别人把筷子竖着插进饭里",
+      "url": "https://www.v2ex.com/t/1241413",
+      "summary": "看到了这个帖子 /t/1241327 “筷子不能竖着插在饭里是全国性的常识吗？” 于是查了下有没有别的关于碗筷的“禁忌”。有些人不允许别人： 把筷子横着放在碗上； 把筷子竖着插进饭里； 把筷子一长一短地摆放； 把两双筷子交叉摆放； 用筷子敲碗、敲盘子； 在碗里剩很多饭； 把饭碗倒扣； 把碗放在地上； 用筷子叉食物； 用筷子互相传递食物； 吃饭前把筷子在...",
+      "published": "2026-09-11T18:47:40+08:00",
+      "score": 54
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-an...",
+      "published": "2026-09-12T01:45:12+08:00",
+      "score": 759
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Pandas Should Go Extinct",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "summary": "",
+      "published": "2026-09-12T10:42:08+08:00",
+      "score": 63
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "summary": "",
+      "published": "2026-09-12T02:24:55+08:00",
+      "score": 387
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "summary": "",
+      "published": "2026-09-09T21:59:50+08:00",
+      "score": 193
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "summary": "",
+      "published": "2026-09-12T07:17:42+08:00",
+      "score": 475
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "summary": "",
+      "published": "2026-09-12T02:50:36+08:00",
+      "score": 223
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Google no longer provides direct URLs in search results",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "",
+      "published": "2026-09-12T11:14:20+08:00",
+      "score": 72
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "summary": "",
+      "published": "2026-09-12T01:25:23+08:00",
+      "score": 121
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Project Blinkenlights",
+      "url": "https://blinkenlights.de/en/",
+      "summary": "",
+      "published": "2026-09-12T06:15:00+08:00",
+      "score": 63
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "summary": "",
+      "published": "2026-09-12T02:10:20+08:00",
+      "score": 109
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+      "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+      "summary": "",
+      "published": "2026-09-10T17:13:48+08:00",
+      "score": 32
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "summary": "",
+      "published": "2026-09-12T05:48:00+08:00",
+      "score": 45
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "url": "https://github.com/zachsaw/graphify-csharp",
+      "summary": "",
+      "published": "2026-09-12T08:16:10+08:00",
+      "score": 26
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+      "summary": "",
+      "published": "2026-09-09T19:01:10+08:00",
+      "score": 13
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "summary": "",
+      "published": "2026-09-08T02:05:04+08:00",
+      "score": 187
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "summary": "",
+      "published": "2026-09-12T01:36:11+08:00",
+      "score": 125
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "AlphaGenome maps 9B DNA variants",
+      "url": "https://spectrum.ieee.org/alphagenome-atlas",
+      "summary": "",
+      "published": "2026-09-09T19:30:51+08:00",
+      "score": 73
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "summary": "",
+      "published": "2026-09-11T23:31:47+08:00",
+      "score": 157
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "summary": "",
+      "published": "2026-09-12T02:05:21+08:00",
+      "score": 395
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+      "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+      "summary": "",
+      "published": "2026-09-10T20:59:26+08:00",
+      "score": 4
+    }
+  ],
+  "rss": [
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "主题演讲：中国太空钙钛矿光伏与新一代空间能源系统开拓者｜36氪2026产业未来大会",
+      "url": "https://36kr.com/p/3978950863485960?f=rss",
+      "summary": "2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未...",
+      "published": "2026-09-12T11:10:14+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "情感智能珠宝硬件公司完成天使轮融资，荣耀AI Connect生态企业等押注｜硬氪首发",
+      "url": "https://36kr.com/p/3977590035119112?f=rss",
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，情感智能珠宝硬件企业SHAKESPEARE莎士比亚近日完成数千万元天使轮融资，由荣耀AI Connect生态企业极选智能、国内头部珠���DP服务商瑞钰控股共同出资。势能资本长期担任公司独家财务顾问。融资资金将主要用于核心算法迭代、多模态情感交互模型开发、新品类的珠宝工艺研发及全球化渠道拓展。 莎士比亚2025年成立...",
+      "published": "2026-09-12T10:30:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "9点1氪丨房贷延长到40年但申请人不能超过35岁？机构回应；长鑫利润率反超三星SK海力士；戴尔市值一夜飙升2500亿元，创历史新高",
+      "url": "https://36kr.com/p/3979727038004226?f=rss",
+      "summary": "今日热点导览 月之暗面借Kimi K3加速增长，2026年底年化收入目标20亿美元 多家券商收紧个人程序化交易接入 OpenAI据报考虑放缓前沿AI开发，奥特曼希望其他公司跟进 国际油价11日下跌 明星AI研究员离开Meta，加盟Anthropic TOP3大新闻 房贷延长到40年但申请人不能超过35岁？机构回应 8月28日，中国人民银行、国家金融监督...",
+      "published": "2026-09-12T09:11:02+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "和梁文锋师出同门，浙大00后做世界模型，将再融10亿元｜36氪首发",
+      "url": "https://36kr.com/p/3978921197140998?f=rss",
+      "summary": "文｜王欣逸 编辑｜张雨忻 世界模型赛道将再添一笔大额融资。 《智能涌现》独家获悉，近日，专注4D世界模型领域的魔芯科技即将完成新一轮融资，融资规模或达10亿元，估值也有望跃升至近100亿元。这将是他们今年的第五轮融资，也是近一个月以来的第二轮融资。 据了解，上一轮融资完成后，魔芯科技的估值已近40亿元，这也意味着，新一轮融资完成后，仅一个月的时间，其估...",
+      "published": "2026-09-11T19:49:47+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "硬氪专访丨对话iRobot：扫地机行业到了纠偏时刻",
+      "url": "https://36kr.com/p/3978780178627332?f=rss",
+      "summary": "时隔多年，iRobot再次站上了国际消费电子展的舞台。 9月初，柏林IFA展会上，iRobot发布了新旗舰Roomba875，并把大量展区留给了一台尚未命名的子母双机概念机。这次重返国际顶级展会。官方将其定义为“把品牌重新带回世界舞台”的信号：“这个品牌带着更好的产品、更好的姿态回来了。” 这轮回归带着明确的自我修正意味。过去几年，iRobot留给外界...",
+      "published": "2026-09-11T17:24:46+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "不评判好坏，只鼓励创作：这款AI原生游戏，让人人都享受讲故事",
+      "url": "https://36kr.com/p/3978711556684805?f=rss",
+      "summary": "文丨寒刃 二几 到了2026年，AI叙事游戏仍然要面对一个灵魂拷问：在完全自由的文本创作中，玩家到底该怎么知道自己要讲什么？ 6年前，在《千夜之书1001》还只有基于GPT-2的雏形demo时，制作人起司就在尝试回应这个问题。如今，经过数年的开发和迭代，《千夜之书1001》终于为玩家搭起了一套“脚手架”，帮助玩家享受讲故事的乐趣。 《千夜之书1001》...",
+      "published": "2026-09-11T16:50:08+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
+      "url": "https://36kr.com/p/3978756821842688?f=rss",
+      "summary": "文 | 阿至 9月11日中国算力大会·太空算力创新发展专题论坛现场， 「星测未来」正式宣布完成A+、A++两轮累计数亿元融资 ，北创投、华映资本、新尚资本、新鼎资本等多家知名产业及财务投资机构联合投资，老股东锡创投、厚天资本持续加持。 半年数亿，这个体量是星测未来过去5年5轮融资总额的3倍还多。 这一幕对比更像整个赛道的情绪缩影。 马斯克用AI+太空的...",
+      "published": "2026-09-11T16:49:53+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "打了一天《王者万象棋》，我彻底上头了",
+      "url": "https://36kr.com/p/3978405614599174?f=rss",
+      "summary": "想必今天不少人都在「沉迷打牌」，尤其许多《王者荣耀》老玩家。 没办法，《王者万象棋》确实太让人上头了。如果不是为了写这篇稿子，我今天的工作时间可能都要被这款游戏占满。 《王者万象棋》 很多人对《王者万象棋》的初印象，可能都停留在「《王者荣耀》IP衍生游戏」这一层面。哪怕它在已公布全网预约量达到7000万、上线后没做太多商业化设计的情况下，还冲上了iOS...",
+      "published": "2026-09-11T10:54:44+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "上光所孵化太空光伏企业完成近亿元融资，钧达股份、上海未来产业基金等押注｜36氪首发",
+      "url": "https://36kr.com/p/3974257096159747?f=rss",
+      "summary": "作者｜乔钰杰 编辑｜袁斯来 本文2600字，预计阅读5分钟 硬氪获悉，太空光伏电池与核定材料企业「上海星翼芯能科技有限公司」（以下简称“上翼”）近日完成Pre-A轮战略融资。本轮由钧达股份、上海未来产业基金、临港蓝湾资本、南浔陆遥、新阳半导体联合创始人相关产业投资人共同参投，老股东中科神光持续加码。资金将主要用于技术迭代、空间环境试验及卫星在轨验证，加...",
+      "published": "2026-09-11T10:32:05+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "清华博士团队切入离子阱量子计算，押注玻璃基QCCD路线，获超亿融资丨36氪首发",
+      "url": "https://36kr.com/p/3978313800285187?f=rss",
+      "summary": "图源/企业 本文约 2900 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，离子阱量子计算公司维刻量光近期已完成超亿元Pre-A轮融资，由九智资本领投，正轩资本、瀚晖资本跟投。此前公司曾完成一轮天使轮融资，半年内连续完成两轮。本轮资金将主要用于产线扩大及整机建设。目前正启动新一轮融资，多维资本担任长期独家财务顾问。 维刻量光成立于今年2月...",
+      "published": "2026-09-11T09:10:19+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "中国算力平台实现全国一体化算力统筹监测",
+      "url": "https://36kr.com/newsflashes/3979862276209665?f=rss",
+      "summary": "在2026中国算力大会开幕式上获悉，中国算力平台实现全国一体化算力统筹监测，我国算力“一张网、一盘棋、一体化”发展格局基本形成。据悉，2025中国算力大会上，中国算力平台完成了10个省区市平台接入。在前期试点经验基础上，中国算力平台加快拓面组网，推动全国31个省区市平台对接入网。截至目前，中国算力平台算力超市运营层已汇聚注册企业用户超万家，入驻算力服务...",
+      "published": "2026-09-12T12:15:06+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "京津冀国际职业资格证书平台累计服务超万人次",
+      "url": "https://36kr.com/newsflashes/3979836924361732?f=rss",
+      "summary": "记者11日从2026年服贸会人力资源服务业开放协作与融合发展大会上获悉，北京持续完善国际化人才评价与服务体系，建立并升级“京津冀国际职业资格证书查询验证服务平台”，截至今年8月，已累计为3600余家企业11000余人次提供证书查验服务及相关便利化服务保障，形成服务国际化专业人才来京创新创业的“北京模式”。",
+      "published": "2026-09-12T12:00:21+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "引汉济渭一期工程已累计向西安供水超4.5亿立方米",
+      "url": "https://36kr.com/newsflashes/3979836452731905?f=rss",
+      "summary": "记者今天从南水北调集团了解到，引汉济渭一期工程已累计向西安供水超4.5亿立方米。工程从汉江流域调水到渭河流域，一期调水工程已于2023年通水。通水以来，工程在优化陕西水资源空间配置等方面发挥了至关重要的支撑作用。目前，二期工程北干线已全线贯通并正式启动试通水，南干线正抓紧建设；三期工程预计年底开工建设。",
+      "published": "2026-09-12T11:45:49+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "前8个月京津冀外贸总值创新高 出口值破万亿元大关",
+      "url": "https://36kr.com/newsflashes/3979835477064449?f=rss",
+      "summary": "记者从天津海关获悉，今年前8个月，京津冀地区进出口值达3.51万亿元，同比增长14.6%，创历史同期新高。其中，出口1.06万亿元，增长13.4%；进口2.45万亿元，增长15.2%。在出口商品中，前8个月，京津冀地区共出口机电产品6280.2亿元，增长18.5%，占同期出口总值的59%，依然占据主力地位。其中，出口汽车、电子元件、电工器材分别增长38...",
+      "published": "2026-09-12T11:30:49+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "京津冀智算供需清单发布，三地将加快构建环京算力供给走廊",
+      "url": "https://36kr.com/newsflashes/3979834686094344?f=rss",
+      "summary": "2026中国算力大会于9月11日至13日在廊坊市京津冀大数据创新应用中心举办。作为重要活动之一，9月11日，京津冀智算与先进制造产需论坛举行。论坛上，京津冀智算供需清单正式发布，为算力供需双方精准对接、深入洽谈搭建桥梁，推动京津冀智算与先进制造加速融合。论坛上，北京市经信局、天津市工信局、河北省工信厅签署《共建京津冀“银河算廊”算力协同发展合作协议》。...",
+      "published": "2026-09-12T11:15:01+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "2026年都灵车展开幕 中国汽车品牌获多项设计奖",
+      "url": "https://36kr.com/newsflashes/3979781032246274?f=rss",
+      "summary": "2026年都灵车展11日在意大利北部城市都灵开幕，多家中国品牌获得“都灵汽车设计奖”。今年的“都灵汽车设计奖”共有47家中外汽车品牌及设计机构参评，奇瑞、吉利、长城、广汽等中国汽车品牌分别获得不同奖项。",
+      "published": "2026-09-12T11:00:30+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "DeepSeek灰度测试 AI 语音对话，支持四种音色",
+      "url": "https://36kr.com/newsflashes/3979780132436742?f=rss",
+      "summary": "DeepSeek 灰度测试语音对话，测试到的用户在 App 右上角会有一个小喇叭按钮，设置页面会出现一个“朗读音色”选项，用户可以选择四种音色。",
+      "published": "2026-09-12T10:45:32+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "地中海航运“信天翁”航线首航广州南沙港",
+      "url": "https://36kr.com/newsflashes/3979776800947205?f=rss",
+      "summary": "9月10日，“地中海约瑟菲娜”轮(MSC JOSEFINA)在拖轮协助下，平稳驶离广州港南沙三期码头，标志着地中海航运(MSC)旗下核心亚欧干线——“信天翁”(Albatros)航线成功首航广州南沙港。该航线将为广州南沙港远洋干线布局注入全新动能，也为粤港澳大湾区及周边腹地外贸企业打通了一条直达欧洲核心港口的高效、便捷物流新通道。",
+      "published": "2026-09-12T10:30:08+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "越南VinFast 8月电动车交付量达2.02万辆，环比增长12%",
+      "url": "https://36kr.com/newsflashes/3979776075512582?f=rss",
+      "summary": "当地时间9月11日，越南电动汽车制造商VinFast宣布，2026年8月在越南市场初步交付电动车2.02万辆，环比增长12%。今年前8个月，公司在越南累计交付15.41万辆电动车。",
+      "published": "2026-09-12T10:15:24+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "上海航交所：中国进口VLCC运输市场运价屡创新高",
+      "url": "https://36kr.com/newsflashes/3979749132499713?f=rss",
+      "summary": "据上海航交所，本周，全球原油运输市场VLCC型油轮运价高位上涨。中国进口VLCC运输市场运价屡创新高。9月10日，上海航运交易所发布的中国进口原油综合指数（CTFI）报9994.22点，较9月3日上涨18.8%。",
+      "published": "2026-09-12T10:00:02+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "中国贸促会副会长李庆霜率中国企业家代表团赴印度出席金砖国家工商论坛",
+      "url": "https://36kr.com/newsflashes/3979748315282184?f=rss",
+      "summary": "9月10日至12日，中国贸促会副会长李庆霜率中国企业家代表团赴印度出席金砖国家工商论坛，会见有关对口机构和企业负责人，推动多双边交流合作。出访期间，李庆霜分别会见印度工商联合会主席戈恩卡，俄罗斯工商会副主席巴达尔科，金砖国家工商理事会南非理事会主席玛布扎，印度尼西亚工商会主席、金砖国家工商理事会印度尼西亚主席巴克里等，就共同维护多边贸易体制、促进金砖国...",
+      "published": "2026-09-12T09:45:12+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "世界最大盐穴压缩空气储能项目机组启动",
+      "url": "https://36kr.com/newsflashes/3979747892951812?f=rss",
+      "summary": "今天（12日），世界最大盐穴压缩空气储能项目两台机组在江苏金坛完成整组启动，标志着我国在大容量盐穴压缩空气储能领域的关键核心技术和系统集成能力实现重要突破。本次整组启动的两台机组，单台容量达350兆瓦，总装机规模位居世界盐穴压缩空气储能项目之首。",
+      "published": "2026-09-12T09:28:54+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "美股三大指数收盘集体上涨，大型科技股多数走高",
+      "url": "https://36kr.com/newsflashes/3979744328875009?f=rss",
+      "summary": "36氪获悉，9月12日收盘，美股三大指数集体上涨，道指 + 0.98%，纳指 + 0.96%，标普 500 指数 + 0.86%。大型科技股多数上涨，亚马逊涨 1.94%，苹果涨 1.75%，谷歌涨 1.53%，微软涨 0.65%，Meta 涨 0.57%，特斯拉涨 0.52%，英伟达跌 0.03%。热门中概股多数上涨，纳斯达克中国金龙指数收涨 0.4...",
+      "published": "2026-09-12T09:25:16+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "热门中概股美股盘前集体走强，蔚来涨超2%",
+      "url": "https://36kr.com/newsflashes/3979008797801225?f=rss",
+      "summary": "36氪获悉，热门中概股美股盘前集体走强，截至发稿，蔚来涨超2%，阿里巴巴、小鹏集团、理想汽车涨超1%，哔哩哔哩涨0.94%，百度涨0.66%，京东涨0.59%，拼多多涨0.5%。",
+      "published": "2026-09-11T20:57:03+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+      "url": "https://36kr.com/newsflashes/3979005209836544?f=rss",
+      "summary": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，英特尔涨超2%，英伟达、Meta涨超1%，亚马逊涨0.96%，微软涨0.76%，谷歌涨0.69%，特斯拉涨0.1%，苹果跌0.23%。",
+      "published": "2026-09-11T20:53:24+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "翱捷科技股份有限公司递表港交所",
+      "url": "https://36kr.com/newsflashes/3979001553615874?f=rss",
+      "summary": "36氪获悉，港交所文件显示，翱捷科技股份有限公司向港交所提交上市申请书，联席保荐人为Morgan Stanley、国泰海通。",
+      "published": "2026-09-11T20:49:41+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "Kalshi拟持续扩张快速增长的高风险交易品类",
+      "url": "https://36kr.com/newsflashes/3978995255065352?f=rss",
+      "summary": "据知情人士透露，预测市场平台 Kalshi 计划申请监管批准，推出美国首批受监管的个股永续期货，挂钩标的包括特斯拉、苹果与英伟达。这类被称作永续合约（perps）的产品允许交易者全天候交易，还可叠加杠杆，放大潜在收益与亏损；无到期日的特性进一步放大了风险。（新浪财经）",
+      "published": "2026-09-11T20:43:17+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "美国8月CPI同比增长3.4%",
+      "url": "https://36kr.com/newsflashes/3978986523966213?f=rss",
+      "summary": "美国劳工统计局当地时间11日公布的数据显示，美国8月消费者价格指数（CPI）同比上涨3.4%；剔除食品和能源价格后的核心CPI同比上涨2.4%。（央视财经）",
+      "published": "2026-09-11T20:34:24+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "*ST卓然：可能被实施重大违法强制退市",
+      "url": "https://36kr.com/newsflashes/3978982348700419?f=rss",
+      "summary": "36氪获悉，*ST卓然公告，公司收到上海证监局《行政处罚事先告知书》，认定2021-2024年年度报告存在虚假记载，可能触及重大违法强制退市情形，股票将被叠加实施退市风险警示。若正式处罚决定确认触及退市情形，公司股票将被终止上市。",
+      "published": "2026-09-11T20:30:09+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "广生堂：拟1263.60万元受让关联方瑞泰来琥珀酸地文拉法辛缓释片全部技术及权益",
+      "url": "https://36kr.com/newsflashes/3978973289053186?f=rss",
+      "summary": "36氪获悉，广生堂公告，公司拟与关联方瑞泰来签订《技术转让合同》，受让其拥有的琥珀酸地文拉法辛缓释片项目全部技术及权益，交易金额1263.60万元。该药品用于治疗成人重度抑郁症，有助于丰富公司产品管线，强化与现有产品的销售协同。瑞泰来的琥珀酸地文拉法辛缓释片已完成50mg、25mg规格的工艺验证和50mg规格的生物等效性研究，并取得一种口服固体制剂及其...",
+      "published": "2026-09-11T20:26:49+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "本周看什么 | 最近值得一看的 7 部作品",
+      "url": "https://sspai.com/post/114458",
+      "summary": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ... 查看全文",
+      "published": "2026-09-11T18:02:49+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "url": "https://sspai.com/post/114449",
+      "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。 查看全文",
+      "published": "2026-09-11T16:30:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
+      "url": "https://sspai.com/post/113605",
+      "summary": "如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。 查看全文",
+      "published": "2026-09-11T14:50:20+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "新 iPhone 配件精选：多种组合一次配齐",
+      "url": "https://sspai.com/post/114414",
+      "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ... 查看全文",
+      "published": "2026-09-11T12:00:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "url": "https://sspai.com/post/114439",
+      "summary": "商务部回应美国 AI 蒸馏指控 谷歌声称为了合规将「降级」欧盟搜索服务 Apple 智能将有用量限制 OpenAI 将与三星合作开发芯片 小岛秀夫新游戏被索尼取消，转由微软发行 DeepSeek V4.1 发布 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "published": "2026-09-11T06:58:54+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+      "url": "https://sspai.com/post/114384",
+      "summary": "祝每一位老师教师节快乐！ 查看全文",
+      "published": "2026-09-10T14:51:52+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
+      "url": "https://sspai.com/post/114394",
+      "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。 查看全文",
+      "published": "2026-09-10T06:38:42+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
+      "url": "https://sspai.com/post/114393",
+      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。 查看全文",
+      "published": "2026-09-10T05:30:34+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "url": "https://sspai.com/post/114392",
+      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。 查看全文",
+      "published": "2026-09-10T05:21:18+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "url": "https://sspai.com/post/114366",
+      "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？ 查看全文",
+      "published": "2026-09-09T17:30:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "燧原的命，攥在腾讯手里",
+      "url": "https://www.huxiu.com/article/4890638.html?f=rss",
+      "summary": "国产GPU四小龙，燧原最“腾讯”",
+      "published": "2026-09-12T12:18:04+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "“GPU四小龙”齐聚科创板，最后登陆的燧原成色如何？",
+      "url": "https://www.huxiu.com/article/4890642.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T12:09:42+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI 真正的进化史：今天的一切，究竟是谁铺出来的",
+      "url": "https://www.huxiu.com/article/4890634.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T11:37:16+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI内容启示录：写在红果碾压爱优腾芒之后",
+      "url": "https://www.huxiu.com/article/4890633.html?f=rss",
+      "summary": "只要行业没有门槛壁垒，AI就会加速产能过剩内卷化和恶性竞争，最后谁都不赚钱。",
+      "published": "2026-09-12T11:34:04+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "版权困局：当画师原创未经许可被拿去训练AI",
+      "url": "https://www.huxiu.com/article/4890632.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T11:09:45+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "复盘星宇事件：劝退107位应届生，背后是谁在默许？",
+      "url": "https://www.huxiu.com/article/4890629.html?f=rss",
+      "summary": "复盘星宇事件",
+      "published": "2026-09-12T11:09:16+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "素人IP 批量走红：热度易得，变现很难",
+      "url": "https://www.huxiu.com/article/4890631.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T11:08:09+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "当发现与证明开始分离：AI 正在重写知识生产的结构",
+      "url": "https://www.huxiu.com/article/4890628.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T11:07:37+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "铜价创新高后又降温，全球抢铜潮背后的逻辑",
+      "url": "https://www.huxiu.com/article/4890630.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T11:06:48+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "盟友变仇人？苹果和OpenAI为啥打起来了？",
+      "url": "https://www.huxiu.com/article/4889416.html?f=rss",
+      "summary": "谁都不想让对方抢了风头",
+      "published": "2026-09-12T11:00:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "最耐看的国产综艺，为什么是11年前的《花少2》？",
+      "url": "https://www.huxiu.com/article/4890627.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T10:57:55+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI Agent 正在寻找「能力等价物」",
+      "url": "https://www.huxiu.com/article/4890626.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T10:55:44+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆",
+      "url": "https://www.huxiu.com/article/4890624.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T10:48:30+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "“铁头”一审获刑八年：专业打假，为什么注定不是一门好生意？",
+      "url": "https://www.huxiu.com/article/4890613.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T10:34:01+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "25位菲尔兹奖得主联名愤怒，OpenAI退出赞助：AI正在激怒整个数学界",
+      "url": "https://www.huxiu.com/article/4890620.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T10:18:58+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "当年阻击英国政府put 的贝森特现在有了自己的put",
+      "url": "https://www.huxiu.com/article/4890619.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T10:10:45+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "具身新贵，3个月成为独角兽",
+      "url": "https://www.huxiu.com/article/4890616.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T09:56:34+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "GPT-6 Astra这么强，网上都在晒成果，你想不想看看后果",
+      "url": "https://www.huxiu.com/article/4890614.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T09:46:03+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "他们问我换个啥车，我说必须燃油车：造车，从来不是一场流量狂欢",
+      "url": "https://www.huxiu.com/article/4890612.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T09:37:12+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "不是骗子学精了，而是韭菜们都变老了。中国的老年人正在遭受系统性围猎",
+      "url": "https://www.huxiu.com/article/4890610.html?f=rss",
+      "summary": "",
+      "published": "2026-09-12T09:36:15+08:00"
+    }
+  ]
+}
