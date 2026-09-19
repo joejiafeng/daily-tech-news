@@ -1,0 +1,802 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:27:59.534870+08:00",
+  "v2ex": [
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "找工作暂时完结，转行啦",
+      "url": "https://www.v2ex.com/t/1243028",
+      "summary": "前情提要：软测 6 年，gap 半年之后找了半个月，4 终面 0offer 在意识到这行好像要完蛋了之后，我就立刻开始准备转行了，分别先找了教培相关，ate 相关的一些信息，发现现在这些也没那么好转 然后转机出现在我发的一个帖子里，有人说以我 c9 本的学历，为什么还要去 boss 直聘找工作？我最开始只当是在阴阳我，后面想了想，毅然决然给我本科的导师...",
+      "published": "2026-09-18T17:17:36+08:00",
+      "score": 40
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "工资越高是不是工作越轻松",
+      "url": "https://www.v2ex.com/t/1243077",
+      "summary": "月薪 4-5W 的应该比 1-2W 的轻松点吧，基本就是开开会啥的，这种基本都是管理领导之类的 1-2W 的干的活应该是最多的，体力和脑力的那种，不知道制造业是不是挺多这种的 互联网体力工作应该很少，主要是脑力劳动和沟通占的多吧 还是管理和领导舒服啊，工资高还不累",
+      "published": "2026-09-18T22:30:43+08:00",
+      "score": 35
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "机票购买后当天降价 110 多，有解决办法吗？",
+      "url": "https://www.v2ex.com/t/1243009",
+      "summary": "9 月 17 日凌晨在携程购买了 9 月 26 日 吉祥航空的济州岛飞南京的 5 张票，623 一张，9 月 17 日晚上查只有不到 510 了，每张票被坑了 110 多，5 张票接近 600 块。这种情况有办法解决吗？联系了携程客服基本就是推脱，不解决。这种情况是否只能自认倒霉了呢？太影响心情了",
+      "published": "2026-09-18T16:05:11+08:00",
+      "score": 32
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "锐评一下用过的 Agents/Harness",
+      "url": "https://www.v2ex.com/t/1242976",
+      "summary": "claude code：终端 agent 的鼻祖，一开始就听闻 cc 大名，最开始就用的 cc ，后面切到别的 agent 换了一轮，发现 cc 功能还是齐全，并且很多概念都是 anthropic 提出并在 cc 首发的，例如 subagent ，workflow ，很喜欢 focus 模式，真正的 vibecoding ，但是最后发现接其他模型缓存命...",
+      "published": "2026-09-18T14:48:15+08:00",
+      "score": 27
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "解包了 ZCode 上传的加密包",
+      "url": "https://www.v2ex.com/t/1243017",
+      "summary": "逆向了智谱的加密规范，本地生成了一份公私钥对作为参数直接传入 ZCode 。解包生成的 `tar.gz.enc` 里面确实是全量的 `.git` 数据，还有触发这次操作时输入的 Prompt 提示词全文。",
+      "published": "2026-09-18T16:32:22+08:00",
+      "score": 27
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "各位的 Zcode 中招了没？",
+      "url": "https://www.v2ex.com/t/1242986",
+      "summary": "说是会静默上传啊，我的电脑上真有这个目录，啊啊啊！",
+      "published": "2026-09-18T15:01:31+08:00",
+      "score": 25
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "大便时好时不好，纠结要不要去检查",
+      "url": "https://www.v2ex.com/t/1243029",
+      "summary": "本人 35 岁 前段时间午饭后偶尔肚子不舒服(想拉肚子那种不适)，经常拉稀 后来特意留意三餐尽可能规律干净，早上包子鸡蛋稀饭，午饭基本老乡鸡，晚饭也尽可能保证干净卫生，但偶尔还会肚子不舒服想拉稀，一般刚拉出来的比较正常，后面就是稀的，偶尔也会拉成形大便 除了成不成形的问题，也留意颜色，大部分偏褐色或棕色，没有出血情况 想知道大家都这样吗？我这情况有没有...",
+      "published": "2026-09-18T17:26:23+08:00",
+      "score": 20
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "电信十全十美 99 套餐改单宽带 480 包年安全换车",
+      "url": "https://www.v2ex.com/t/1243026",
+      "summary": "坐标 021 。7 年前办的十全十美 99 套餐，给一个 200 兆宽带和 20GB 流量，后来又加了个 240 一年的叠叠乐把流量叠到了 40GB （我都忘了为啥办它了，感觉挺怨种的），算下来一年要 1400 多，这价位感觉亏麻了，于是决定换成电信 200 兆单宽带（ 480/年），手机流量换联通的 39/月套餐，这样一年才 948 。 换单宽带套餐...",
+      "published": "2026-09-18T17:10:54+08:00",
+      "score": 19
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "summary": "",
+      "published": "2026-09-19T03:03:09+08:00",
+      "score": 657
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "summary": "",
+      "published": "2026-09-19T10:21:35+08:00",
+      "score": 35
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "summary": "",
+      "published": "2026-09-19T10:32:36+08:00",
+      "score": 22
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "summary": "",
+      "published": "2026-09-18T22:18:41+08:00",
+      "score": 630
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "",
+      "published": "2026-09-19T02:51:46+08:00",
+      "score": 274
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "",
+      "published": "2026-09-18T05:48:38+08:00",
+      "score": 432
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "summary": "",
+      "published": "2026-09-17T06:51:16+08:00",
+      "score": 21
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "url": "https://liveworld.info/",
+      "summary": "",
+      "published": "2026-09-19T08:30:34+08:00",
+      "score": 25
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "summary": "",
+      "published": "2026-09-19T02:39:31+08:00",
+      "score": 124
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "",
+      "published": "2026-09-19T07:04:17+08:00",
+      "score": 77
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "summary": "https://archive.ph/cgMTM",
+      "published": "2026-09-18T02:31:56+08:00",
+      "score": 208
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedbac...",
+      "published": "2026-09-18T08:11:44+08:00",
+      "score": 175
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "summary": "",
+      "published": "2026-09-19T00:54:18+08:00",
+      "score": 167
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "summary": "",
+      "published": "2026-09-18T17:42:22+08:00",
+      "score": 579
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The Farnese letter",
+      "url": "https://simonklee.dk/farnese-letter",
+      "summary": "",
+      "published": "2026-09-18T01:39:01+08:00",
+      "score": 33
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "summary": "",
+      "published": "2026-09-19T02:55:35+08:00",
+      "score": 75
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "url": "https://www.lispbm.com/",
+      "summary": "",
+      "published": "2026-09-17T05:49:44+08:00",
+      "score": 18
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "summary": "",
+      "published": "2026-09-19T05:00:32+08:00",
+      "score": 566
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Cyclomatic Complexity in C#",
+      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+      "summary": "",
+      "published": "2026-09-17T03:01:09+08:00",
+      "score": 42
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Minimal Phone 2",
+      "url": "https://minimalcompany.com/",
+      "summary": "",
+      "published": "2026-09-18T10:00:25+08:00",
+      "score": 213
+    }
+  ],
+  "rss": [
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "9点1氪丨住建部：4楼及以上住宅都要加装电梯；黄牛称iPhone 18 Pro没人要；今年最便宜的新股“沈鼓集团”，上市次日盘中涨幅近300%",
+      "url": "https://36kr.com/p/3989629580114695?f=rss",
+      "summary": "今日热点导览 OpenAI据报接近解决又一“千禧年大奖难题”，或将攻克霍奇猜想 黑客利用Anthropic的Claude入侵OpenAI 巴菲特宣布卸任伯克希尔哈撒韦董事长一职 苹果回应iPhone Duo维修贵 12306回应国庆假期高铁涨价 市场监管总局：拦截线上销售违规充电宝商品3.7万件，督促下架或拦截上架的店铺3831家 TOP 3 大新闻...",
+      "published": "2026-09-19T09:02:56+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "HYROX道歉，「中产最爱赛事」何以走到今天？",
+      "url": "https://36kr.com/p/3984230181010434?f=rss",
+      "summary": "文｜贺哲馨 编辑｜乔芊 想象一下，你每天雷打不动去健身房训练了四五个月，买下近千元门票，加上课时费、装备、交通和住宿，这笔账已经逼近五位数。今天你站在HYROX北京站的现场，只想要一件事：刷新个人最好成绩。 第一公里按配速完成，滑雪机没有掉链子，推完雪橇进入第三公里的直道时，你甚至超过了两名选手。也就是在这时候，你注意到前方那位选手的小腿上有污物正在往...",
+      "published": "2026-09-18T22:01:54+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "关于产业未来，听听躬身入局的人怎么说｜2026产业未来大会精彩观点回顾",
+      "url": "https://36kr.com/p/3988678225214466?f=rss",
+      "summary": "产业的未来，往往在成为共识之前，就已开始生长。每年，36氪都试着把目光再往前放一些：在技术突破的早期辨认产业机会，在资本流向的变化中观察增长逻辑，也持续追问，那些被寄予厚望的创新，究竟走到了哪一步？ 2026年9月9日至10日，以“深水之上·共振新生”为主题的2026产业未来大会在北京亦庄·通明湖会展中心举行。两天的演讲与对谈，将这些追问带向更具体的现...",
+      "published": "2026-09-18T16:53:36+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "最前线｜日冕开物超级工站落地远图产线，POC验证成功率超99%",
+      "url": "https://36kr.com/p/3988651090459399?f=rss",
+      "summary": "作者丨乔钰杰 编辑丨袁斯来 9月16日，专注物理世界基础模型和解决方案的公司日冕开物，与全球服务器制造龙头及AI基础设施全栈解决方案提供商广东远图未来科技有限公司（以下简称“远图”）在远图东莞智能制造基地举行合作超级工站POC暨联合实验室揭牌仪式。 双方宣布成立“远图×日冕工业具身智能联合实验室”，并现场展示日冕超级工站在远图ICT产线上的真机作业。据...",
+      "published": "2026-09-18T16:48:06+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "理想开始卖技术：马赫芯片、碳化硅、增程器要外供｜36氪独家",
+      "url": "https://36kr.com/p/3988488062630661?f=rss",
+      "summary": "文 | 徐蔡钰 编辑 | 李勤 杨轩 理想汽车，开始开放多项自研技术的对外合作，寻求更多收入来源。 36氪从多位产业人士处获悉后梳理，今年以来，理想汽车已经开启了多项核心技术的对外供应计划，而伴随业务拆分，部分业务也有引入外部资金的计划。 典型启动外供的业务有自研马赫芯片、碳化硅模组公司斯科半导体及增程器等。目前，马赫芯片、碳化硅模组等都已经成立独立的...",
+      "published": "2026-09-18T14:31:55+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "理想新MEGA上市72小时：褪去网红气质，命中老车主",
+      "url": "https://36kr.com/p/3967826379977218?f=rss",
+      "summary": "两年前，MEGA第一次上市，理想为这款旗舰纯电在北京SKP等核心商圈开了店，当时，理想的目标是让MEGA成为50万元以上不分能源、不分车身形式的销量第一。 36氪曾探访了这家旗舰门店，当时流量虽然不多，但前卫的造型吸引了不少出圈客户。一位喜欢马术的年轻女孩就在华贸店成交，并带动她的马术群友们成交了20台。 今年，新一代MEGA再次上市后，36氪发现，这...",
+      "published": "2026-09-18T13:14:54+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "36氪East Forward 2026出海全球化系列名册重磅发布",
+      "url": "https://36kr.com/p/3988360877882121?f=rss",
+      "summary": "“世界是平的。” 二十多年前，托马斯·弗里德曼在《世界是平的》中提到，互联网、通信技术与全球供应链正在不断削弱地理距离的限制，让企业、市场和个人以前所未有的方式连接起来。 今天，全球市场依然广阔，但企业面对的全球环境，已经变得更加复杂。 AI与数字化技术的快速发展，正在进一步降低跨境连接和协作的门槛，加速技术、信息、产品和服务在不同市场之间的流动。 与...",
+      "published": "2026-09-18T11:38:31+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "量子软件公司获中国移动超亿元投资，国产全栈量子软件加速落地丨36氪首发",
+      "url": "https://36kr.com/p/3988267049155330?f=rss",
+      "summary": "图源/企业 本文约 2400 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，量子全栈软件研发与产业化企业——北京中科弧光量子软件技术有限公司（下称“弧光量子”）近期已完成超亿元战略融资，投资方为中国移动链长基金。本轮资金将主要用于量子+AI融合研发、高端人才引进，以及分布式芯片、新测控架构等方向的联合研发。 弧光量子成立于2020年11月...",
+      "published": "2026-09-18T09:55:29+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "增长的时差：消费品牌该如何拥抱AI",
+      "url": "https://36kr.com/p/3988218121222920?f=rss",
+      "summary": "消费者开始把难以归类的生活，写进一个对话框。 “预算有限，送给父母，希望用得上，也希望表达关心。”一份礼物的选择，可以从这样几个短语的描述开始。商品名称尚未出现，消费者先给出了预算、对象、场景与情感期待，AI再帮助他比较、排除，逐步找到合适的选择。 筛选、比较与排序，这段过去由消费者亲自完成的心智劳动，正在被部分交出去。对品牌来说，这是一个陌生的位置。...",
+      "published": "2026-09-18T09:15:13+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "8点1氪丨宇树科技市值重回2000亿；影视飓风Tim测评iPhone Duo称烫到握不住；罗永浩否认为钟薛高造势",
+      "url": "https://36kr.com/p/3988151372036873?f=rss",
+      "summary": "今日热点导览 HYROX中国：对相关运动员全额退费 Kimi发布金融行业AI解决方案 美联储主席回应加息：美国通胀长时间过高 苹果、三星、谷歌，同日被查 商务部：中美经贸团队正就降税等议题保持密切交流 TOP 3 大新闻 人形机器人概念震荡拉升，宇树科技市值重回2000亿 9月17日，人形机器人概念震荡拉升，冠盛股份、北特科技、天海电子涨停，宇树科技盘...",
+      "published": "2026-09-18T07:57:39+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "8月底公募基金资产净值合计达39.63万亿元",
+      "url": "https://36kr.com/newsflashes/3989791714262016?f=rss",
+      "summary": "中国证券投资基金业协会最新发布的数据显示，截至2026年8月底，我国境内公募基金管理机构共165家，其中基金管理公司150家，取得公募资格的资产管理机构15家。以上机构管理的公募基金资产净值合计39.63万亿元，与7月底相比增长5293.09亿元，环比增长约1.35%。（上证报）",
+      "published": "2026-09-19T12:14:51+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "北京经开区发布全市首个新材料产业专项政策",
+      "url": "https://36kr.com/newsflashes/3989770779376392?f=rss",
+      "summary": "近日，北京经开区正式印发全市首个新材料产业专项政策——《北京经济技术开发区关于加快新材料产业创新发展的若干措施》，明确先进基础材料、关键战略材料、前沿创新材料三大支持方向，围绕坚持创新驱动、畅通成果转化、深化双向赋能、强化要素支撑四个方面，提出12条重点支持措施，全力打造新材料产业高地。（证券时报）",
+      "published": "2026-09-19T12:13:35+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "工信部总工程师王卫明：将实施汽车标准提升专项行动，优化积分管理政策",
+      "url": "https://36kr.com/newsflashes/3989707393612552?f=rss",
+      "summary": "9月19日，工业和信息化部总工程师王卫明在2026中国汽车产业发展（泰达）国际论坛上表示，要进一步优化汽车行业管理，深入推进产品生产一致性和质量提升行动，守牢产品安全底线，实施汽车标准提升专项行动，充分发挥标准引领产业升级的作用，优化积分管理政策，建立动力电池数字身份证制度，抓好优化工作落实，常态化整治网络乱象，以钉钉子精神规范行业竞争秩序。（证券时报）",
+      "published": "2026-09-19T11:56:07+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "工信部总工程师王卫明：进一步提高汽车消费潜力，将出台汽车改装管理办法",
+      "url": "https://36kr.com/newsflashes/3989705186409479?f=rss",
+      "summary": "9月19日，工业和信息化部总工程师王卫明在2026中国汽车产业发展（泰达）国际论坛上表示，当前新一轮科技革命和产业革命深入推进，我国汽车产业也迎来提质增效转型升级的关键时期。为加强顶层谋划和各方协同，推动产业高质量发展，工业和信息化部牵头印发《智能网联新能源汽车产业发展“十五五”规划》，下一步，工信部将会同相关部门综合施策、精准发力，不断提升汽车产业创...",
+      "published": "2026-09-19T11:44:47+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "OpenAI等四家企业遭起诉，被指控合谋呼吁管控AI发展节奏",
+      "url": "https://36kr.com/newsflashes/3989670755253248?f=rss",
+      "summary": "当地时间周五提交至联邦法院的一份民事诉讼显示，人工智能巨头Anthropic、OpenAI、SpaceXAI以及谷歌因近期呼吁协同放缓人工智能研发速度，被指控存在串通行为。 诉状指出，Anthropic首席执行官达里奥·阿莫代伊本月早些时候公开呼吁“全行业协同”，以“管控人工智能前沿的发展节奏”，SpaceXAI负责人埃隆·马斯克、OpenAI首席执行...",
+      "published": "2026-09-19T11:29:51+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "新能源车险定价区间对标燃油车，车主续保保费要变",
+      "url": "https://36kr.com/newsflashes/3989669298010886?f=rss",
+      "summary": "新能源车险有望迎来新一轮定价规则调整。近日，从业内了解到，新能源商业车险自主定价系数区间预计调整为0.5―1.5，与燃油车保持一致。从多家产险公司了解到，2025年9月，新能源车险自主定价系数由0.65―1.35调整为0.6―1.4；2026年3月再次调整至0.55―1.45。此次市场预期调整至0.5―1.5，和燃油车一致。 燃油车现行商业车险自主定价...",
+      "published": "2026-09-19T11:11:21+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "证券业并表管理步入攻坚期",
+      "url": "https://36kr.com/newsflashes/3989666884434689?f=rss",
+      "summary": "随着证券业集团化、综合化经营提速，证券公司正把境内外子公司纳入同一张“风控地图”。记者日前从业内获悉，中国证券业协会前期向风险管理专业委员会开展了并表管理专项调研并形成了调研报告。报告显示，自2025年4月《证券公司并表管理指引（试行）》发布以来，多数券商已搭建并表管理基础框架，整体步入重点领域攻坚阶段。在1至3年过渡期安排下，机构间推进节奏差异明显。...",
+      "published": "2026-09-19T10:56:48+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "上市券商中期分红渐次落地",
+      "url": "https://36kr.com/newsflashes/3989666354068489?f=rss",
+      "summary": "上市券商2026年中报披露结束后，其中期分红进展便成为投资者密切关注的话题之一。Wind数据显示，本周已有招商证券、红塔证券、第一创业3家上市券商完成中期权益分派工作，共派现超17亿元（含税，下同），另有24家券商公布中期分红方案，计划派现超260亿元。 从投资角度看，随着资本市场改革持续推进，券商各项主营业务有望全面受益，当前板块估值处于相对低位，相...",
+      "published": "2026-09-19T10:42:19+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "据悉OpenAI到2030年这段时间料将烧钱2800亿美元",
+      "url": "https://36kr.com/newsflashes/3989663439633153?f=rss",
+      "summary": "据报道，OpenAI到2030年这段时间料将烧钱2800亿美元。预计2026-30年自由现金流（FCF）将为-2780亿美元，预定收入料将为8400亿美元；预计2030年营收为3500亿美元，而2026年料将为360亿美元。（财联社）",
+      "published": "2026-09-19T10:29:25+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "楚江新材：金刚石复合热沉材料相关业务目前处于研发阶段",
+      "url": "https://36kr.com/newsflashes/3989662197005316?f=rss",
+      "summary": "楚江新材在互动平台表示，设备方面，公司自主研发的压力溶渗炉、压力浸渍炉、真空扩散焊炉、真空热压炉、渗硅炉等特种热工装备，已广泛应用于金刚石散热领域；材料方面，公司金刚石复合热沉材料相关业务目前处于研发阶段。（第一财经）",
+      "published": "2026-09-19T10:14:02+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "武汉脑机接口两大科创平台揭牌",
+      "url": "https://36kr.com/newsflashes/3989661428907008?f=rss",
+      "summary": "武汉市脑机接口概念验证中心、武汉市未来产业技术创新场景实验室9月18日在华中科技大学同济医学院附属同济医院正式揭牌。概念验证中心主要承担动物实验、研究者发起研究、多中心随机双盲GCP试验等技术验证工作，筑牢脑机接口技术安全与应用实效基础。未来产业技术创新场景实验室以临床应用为核心牵引，推动脑机接口技术向娱乐、教育、高危行业等多领域拓展，构建基础研究、技...",
+      "published": "2026-09-19T09:58:22+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "黄仁勋出售约4.6万股英伟达股票",
+      "url": "https://36kr.com/newsflashes/3989658119404546?f=rss",
+      "summary": "英伟达多名高管向美国SEC披露股票交易情况，包括CEO黄仁勋在内的5名高管合计出售近15万股公司股票。其中，黄仁勋出售约4.6万股，成交价约每股212美元。CFO科莱特·克雷斯（Colette Kress）除因缴税出售股票外，还通过此前设定的交易计划出售约3.5万股。（财联社）",
+      "published": "2026-09-19T09:45:59+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "券商私募资管规模连续10个月环比增长",
+      "url": "https://36kr.com/newsflashes/3989657245498119?f=rss",
+      "summary": "今年以来，券商私募资管规模保持稳健增长。中国证券投资基金业协会公布的最新数据显示，截至7月末，券商私募资管规模达6.62万亿元，环比增长2.27%，较去年末增长14.16%，规模创下近12个月新高，并连续10个月保持环比增长。从产品结构来看，在固收类、权益类、期货和衍生品类、混合类四类产品中，固收类产品稳居主导地位。截至7月末，固收类产品规模为5.22...",
+      "published": "2026-09-19T09:29:13+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "知情人士：Anthropic今年年化收入预计将超过1000亿美元，最快可能在未来几周公布IPO相关财务文件",
+      "url": "https://36kr.com/newsflashes/3989653754035203?f=rss",
+      "summary": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。寻求参与IPO的投资者正以这一快速增长的数据，支撑公司潜在2万亿美元估值。知情人士称，Anthropic最快可能在未来几周公布IPO相关财务文件，并有望最早于11月开始股票交易。不过，相关计划仍可能因投资者情绪和市场波动发生变化。（财联社）",
+      "published": "2026-09-19T09:25:40+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "美股三大指数收盘涨跌不一，存储概念股普涨",
+      "url": "https://36kr.com/newsflashes/3989652744977409?f=rss",
+      "summary": "道指跌0.19%，标普500指数涨0.16%，纳指涨0.36%。存储概念股普涨，闪迪大涨约11%，大型科技股涨跌不一，英伟达涨1.30%，亚马逊涨1.02%，谷歌涨0.23%，苹果跌0.35%，特斯拉跌0.49%，微软跌0.89%，Meta Platforms跌2.48%。热门中概股涨跌不一，哔哩哔哩涨3.47%，阿里巴巴涨4.33%，百度跌0.11%...",
+      "published": "2026-09-19T09:24:38+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "英伟达参与投资的数据中心公司Nscale申请美国IPO",
+      "url": "https://36kr.com/newsflashes/3989639462779651?f=rss",
+      "summary": "英伟达参与投资的英国伦敦垂直整合式AI基础设施与GPU云计算企业Nscale申请美国IPO，寻求按代码“NSCL”在纽交所交易其股票。公司2025年营收3300万美元，之前一年1910万美元。2025年净亏损7.618亿美元，之前一年亏损0.782亿美元。2026年上半年营收1.406亿美元，上年同期0.104亿美元。上半年净亏损10.2亿美元，上年同...",
+      "published": "2026-09-19T09:11:07+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "北京：推动模型与芯片适配调优，支持推理专用芯片、模型轻量化、边缘端部署等技术攻关",
+      "url": "https://36kr.com/newsflashes/3989638453066501?f=rss",
+      "summary": "北京市经济和信息化局、北京市发展和改革委员会发布关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》的通知。其中提到，推动关键核心技术攻关。加快基础模型技术迭代，提升模型智能上限水平。推动模型与芯片适配调优，支持推理专用芯片、模型轻量化、边缘端部署等技术攻关，高水平建设、调用智算资源，全面提升词元生产能力。",
+      "published": "2026-09-19T09:10:06+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "闲鱼发布持续严打色情引流公告：今年已封号9.8万个",
+      "url": "https://36kr.com/newsflashes/3988941213973504?f=rss",
+      "summary": "9月18日，闲鱼披露打击色情引流专项治理进展。2026年1月至今，闲鱼累计处置色情引流类风险账号98358个。在警企协同层面，闲鱼主动将色情相关线索移送公安部门，成功打击色情团伙15个。今年以来，闲鱼已连续披露打击网络水军、网络欺诈、站外引流等32个专项治理行动的最新进展。通过下架违规商品、封禁问题严重账号等方式，处罚违规商品和账号，同步升级平台风控技...",
+      "published": "2026-09-18T21:20:50+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "MiniMax Code CLI正式开源",
+      "url": "https://36kr.com/newsflashes/3988920115460873?f=rss",
+      "summary": "36氪获悉，据MiniMax消息，MiniMax Code CLI的v0.4.12版本面向全球开发者正式开放，并且以MIT协议正式开放源代码。",
+      "published": "2026-09-18T20:59:22+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "宁德时代：9月18日回购151.26万股A股股份",
+      "url": "https://36kr.com/newsflashes/3988918390717440?f=rss",
+      "summary": "36氪获悉，宁德时代公告，公司9月18日回购151.26万股A股股份，回购价格区间为每股300.89元—302.63元，回购总金额约4.56亿元。",
+      "published": "2026-09-18T20:57:37+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "url": "https://sspai.com/post/114716",
+      "summary": "📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ... 查看全文",
+      "published": "2026-09-18T17:58:55+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
+      "url": "https://sspai.com/post/114555",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "published": "2026-09-18T14:55:30+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
+      "url": "https://sspai.com/post/114670",
+      "summary": "让我们一起细数 watchOS 27 中的新功能。 查看全文",
+      "published": "2026-09-18T11:30:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "让 Agent 读懂你的身体：数据获取篇",
+      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "published": "2026-09-18T11:19:13+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
+      "url": "https://sspai.com/post/114699",
+      "summary": "少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ... 查看全文",
+      "published": "2026-09-18T08:17:34+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "城市漫步指南｜威海初秋，看海玩沙",
+      "url": "https://sspai.com/post/114557",
+      "summary": "9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 查看全文",
+      "published": "2026-09-17T17:47:28+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+      "url": "https://sspai.com/post/114643",
+      "summary": "除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。 查看全文",
+      "published": "2026-09-17T15:00:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南",
+      "url": "https://sspai.com/post/114451",
+      "summary": "今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？ 查看全文",
+      "published": "2026-09-17T11:11:01+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "url": "https://sspai.com/post/114658",
+      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。 查看全文",
+      "published": "2026-09-17T08:25:30+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "探秘柬埔寨，千年吴哥窟",
+      "url": "https://sspai.com/post/114454",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "published": "2026-09-16T17:33:41+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "5亿美元，史上最贵单船大宗",
+      "url": "https://www.huxiu.com/article/4892444.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T12:14:16+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "从最高66降价到6块9，钟薛高能重新被爱吗？",
+      "url": "https://www.huxiu.com/article/4892443.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T12:09:22+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "苹果对Epic藐视案进入最高院实质阶段：外链零佣金只是暂时",
+      "url": "https://www.huxiu.com/article/4892434.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T12:00:38+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "OpenAI“主动报告”欧盟的维基事件：智能体与监管落差",
+      "url": "https://www.huxiu.com/article/4892439.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:46:02+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "写进 AI 宪法里的「人类控制」，为什么仍然不是控制",
+      "url": "https://www.huxiu.com/article/4892436.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:43:37+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "欧盟法院一纸判决，互联网平台的“免责金牌”碎了",
+      "url": "https://www.huxiu.com/article/4892433.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:41:16+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "有为与无为之间，藏着一个更难的能力",
+      "url": "https://www.huxiu.com/article/4892432.html?f=rss",
+      "summary": "先把“无为”从“无力”里辨认出来",
+      "published": "2026-09-19T11:40:27+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "刚刚，重磅新闻，美国宣布拿下格陵兰",
+      "url": "https://www.huxiu.com/article/4892431.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:23:26+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "NAND天性“多产”，闪迪凭什么守80%毛利率？",
+      "url": "https://www.huxiu.com/article/4892430.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:23:26+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "特朗普宣布：拿下格陵兰永久安全控制权；无需付费、无限期",
+      "url": "https://www.huxiu.com/article/4892429.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:23:25+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "郭柯宇",
+      "url": "https://www.huxiu.com/article/4892428.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:23:24+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "为什么大多数人宁愿吃生活的苦，也不愿吃学习的苦？",
+      "url": "https://www.huxiu.com/article/4892427.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:23:23+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI 的价值，其实就藏在企业眼皮底下",
+      "url": "https://www.huxiu.com/article/4892426.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:23:23+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "本土高科技企业的重要性：越南，印度和中国，同期经济增速的对比",
+      "url": "https://www.huxiu.com/article/4892406.html?f=rss",
+      "summary": "人口萎缩会给我国带来大麻烦",
+      "published": "2026-09-19T11:20:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "如何找到自己事业的本命方向？",
+      "url": "https://www.huxiu.com/article/4892423.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:13:50+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "OpenAI：预计到2030年底，将累计烧钱近2800亿美元",
+      "url": "https://www.huxiu.com/article/4892422.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:13:21+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "OpenAI 买下iPhone 人像模式幕后功臣，要给AI 装上一双新眼睛",
+      "url": "https://www.huxiu.com/article/4892421.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T11:08:50+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "程序员亲历智谱ZCode事件：AI 代码助手偷偷上传全量仓库，敲响行业警钟",
+      "url": "https://www.huxiu.com/article/4892416.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T10:32:28+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "金融转型背后是不变的内核",
+      "url": "https://www.huxiu.com/article/4892414.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T10:23:01+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "Gemini 4 Pro疑似泄露，“AI减速”又成空话",
+      "url": "https://www.huxiu.com/article/4892411.html?f=rss",
+      "summary": "",
+      "published": "2026-09-19T10:19:00+08:00"
+    }
+  ]
+}
