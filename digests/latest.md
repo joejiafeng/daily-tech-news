@@ -1,54 +1,39 @@
-# Daily Tech News | 2026-10-31
+# Daily Tech News | 2026-11-07
 
-每日科技简报，汇聚全球科技前沿与产业动态。本期重点覆盖安全事件、AI产业融资及前沿工具应用，带您快速掌握行业脉搏。
+今日科技要点聚焦产业与生态双轮驱动：SpaceX拟收购Boost Mobile进军传统电信，Anthropic IPO估值被下修至1.5万亿美元；美国FAA计划2028淘汰蝶形磁盘；北京加速AI、量子、6G等前沿技术赋能；AI研究呈指数级加速。这些动态不仅映射市场重塑，也预示技术生态的深层变革。
 
 ## 1. 今日必读
-
-- [币安热钱包遭攻击损失63亿美元](https://36kr.com/newsflashes/4049221707233544?f=rss) (36kr)
-  币安热钱包于10月29日遭未经授权访问，约63亿美元代币被盗。币安承诺通过SAFU及公司资金全额赔付，已冻结30亿美元被盗资产，调查仍在进行，用户资产安全引发行业高度关注。
-  
-- [苹果与阿里巴巴达成合作，千问集成Apple智能](https://36kr.com/newsflashes/4049121165556227?f=rss) (36kr)
-  苹果和阿里巴巴宣布合作，将千问模型集成至Apple智能。中国用户将在Siri、写作工具及视觉智能中直接调用千问能力，功能将于11月4日随iOS开发者Beta版开放测试，12月正式面向中国用户发布。
-  
-- [OpenAI融资目标下调至200亿美元，估值1.25万亿美元](https://36kr.com/newsflashes/4049135071377921?f=rss) (36kr)
-  多名知情人士透露，OpenAI目前计划募资约200亿美元，估值1.25万亿美元。此前曾计划募资30亿美元，市场对AI投入回报节奏的担忧加剧，融资规模的调整反映了资本对AI商业化路径的重新审视。
-  
-- [Anthropic披露近9000亿美元隐性债务，信用评级面临压力](https://36kr.com/newsflashes/4049222599129345?f=rss) (36kr)
-  Anthropic招股文件显示，未来“隐性债务”规模近9000亿美元，主要用于服务器、厂房及电力项目。此前黑石预计其可获投资级评级，现可能推迟，融资成本将面临上升压力，影响AI初创公司的上市进程。
-  
-- [苹果再度反超英伟达，重夺全球市值最高](https://36kr.com/newsflashes/4049119705594372?f=rss) (36kr)
-  苹果公司周五重新夺回全球市值最高公司的头衔，市值达5.03万亿美元。英伟达市值跌至4.93万亿美元，投资者在AI支出担忧中转向相对安全的科技资产，市场格局再度易位。
+- [SpaceX拟切入传统电信运营商领域](https://36kr.com/newsflashes/4059028625773700?f=rss) (36kr)
+  SpaceX拟收购Boost Mobile切入传统电信市场，AT&T与T-Mobile已准备应对，或将切断Boost对移动网络的访问权，标志马斯克版图向电信领域延伸。
+- [部分投资者下修Anthropic IPO估值至1.5万亿美元](https://36kr.com/newsflashes/4059012212282246?f=rss) (36kr)
+  Anthropic投资者预计IPO估值将低于1.5万亿美元，较原目标2万亿美元大幅下修，市场对AI建设可持续性与盈利兑现的担忧持续发酵。
+- [FAA计划2028淘汰蝶形磁盘](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) (Hacker News)
+  美国FAA宣布将于2028年前淘汰蝶形磁盘用于空中交通管制，标志着关键基础设施现代化进程，提升系统安全与效率。
+- [北京加快AI量子6G布局](https://36kr.com/newsflashes/4059085964923785?f=rss) (36kr)
+  北京印发措施支持布局AI、量子信息、6G等前沿领域技术转化与中试熟化中心，旨在加速关键信息基础设施创新与产学研协同。
+- [AI研究被大幅加速](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) (Hacker News)
+  研究显示AI自身能力快速提升，AI研究进展呈指数级加速，引发对投资回报、生态影响及人类控制边界的深思。
 
 ## 2. 趋势与解读
-
-- [AI进入细胞工厂：酶设计与蛋白质工程新进展](https://36kr.com/p/4046754792543106?f=rss) (36kr)
-  David Baker团队及Claude、Gemini 4宣称具备从头设计酶的能力。以酶为关键工具的合成生物或将复制AI制药升温路径，资本关注度提升，AI4S成为生物制药领域新的增长极。
-
-- [固态电池关键材料突破：已完成数十吨交付](https://36kr.com/p/4047672620611844?f=rss) (36kr)
-  四川全固态新材料完成数千万元A轮融资，获红榕、明势等押注。已完成数十吨硫化锂交付，推动全固态电池从实验走向商业化落地，产业链关键材料成本与产能逐步释放。
-
-- [Cloudflare Turnstile solver库：无头浏览器即可破解验证码](https://github.com/chris124567/cfsolve) (Hacker News)
-  Turnstile solver库无需头less浏览器即可破解验证码，展现了验证码防护与破解的技术博弈。项目开源或将影响机器人检测策略，安全与便利性的平衡再次成为行业焦点。
-
-- [联邦化代码 forge：分布式开发协作平台](https://tangled.org/blog/forge/) (Hacker News)
-  联邦化代码 forge 支持分布式团队协同开发，解决单点仓库瓶颈。基于Git协议，提升开源项目与企业内部代码管理的灵活性与安全性，分布式开源模式或将成为未来软件研发新趋势。
-
-- [XREAL AURA：全球首款 Android XR 有线眼镜发售](https://sspai.com/post/117827) (sspai)
-  XREAL AURA 作为全球首款 Android XR 有线眼镜发售，定位空间计算入门设备。腾讯与 Visa 合作，推动 XR 生态与支付体验的融合创新，消费级 XR 设备进入商业化落地的关键窗口期。
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) (Hacker News)
+  Libghostty 1.0发布，现代化终端模拟器在性能、兼容性上实现显著提升，符合开源开发者对工具效能的持续追求。
+- [欧央行审查数据中心贷款](https://36kr.com/newsflashes/4059026136388742?f=rss) (36kr)
+  欧洲央行拟审查银行对数据中心的贷款，聚焦AI相关风险评估，或将影响AI基础设施融资规模、估值波动及监管格局。
+- [Tesla裁产Cybertruck](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) (Hacker News)
+  特斯拉因Cybertruck销量不佳决定削减产能，反映EV市场竞争加剧、产品策略调整以及消费需求分化的行业趋势。
+- [台积电进军3D DRAM](https://36kr.com/newsflashes/4059024621392777?f=rss) (36kr)
+  台积电考虑为英伟达生产3D DRAM，拓先进存储产能，直接响应AI基础设施对高带宽、大容量芯片的刚性需求。
+- [AI板块遭聪明钱抛售](https://36kr.com/newsflashes/4059020817273728?f=rss) (36kr)
+  10月以来AI板块持续抛售，对冲基金普遍亏损，市场避险情绪升温，AI投资前景与盈利模型受到广泛质疑。
 
 ## 3. 工具与深读
-
-- [sans-IO WireGuard实现：并行友好的轻量级VPN](https://www.firezone.dev/blog/introducing-sanstun) (Hacker News)
-  sans-IO 是一种并行友好的 WireGuard 实现，用 Rust 编写，去除传统 IO 瓶颈。适合高并发网络场景，提升 VPN 与网关的性能与安全性，是轻量级网络工具的新选择。
-
-- [NESformer：在1GB Qwen权重下运行任天堂娱乐系统](https://github.com/dbreunig/nesformer) (Hacker News)
-  NESformer 利用约1GB的Qwen大模型权重，在个人电脑上实现了任天堂娱乐系统的实时模拟。展示了大模型在嵌入式与游戏 emulation 中的潜力，开源项目引发了AI+硬件改装的新热潮。
-
-- [Cloudflare Queues双缓冲技术实现方案](https://bellone.com/technical/double-buffering-with-cloudflare-queues) (Hacker News)
-  文章介绍了如何利用 Cloudflare Queues 实现任务的双向缓冲与异步处理。提升 Web 应用的吞吐量与延迟控制能力，为高并发场景下的任务调度提供了实用的工程实践参考。
-
-- [利用 Agent 分析身体健康数据：处理篇教程](https://sspai.com/prime/story/how-to-analyze-health-data-with-agent) (sspai)
-  教程展示如何利用 Agent 读取与处理身体健康数据。从数据获取到 SQLite 存储，再到可视化分析，提供了完整的 AI 健康助手落地路径，帮助读者快速搭建个人健康数据分析系统。
-
-- [iPhone 激活锁移除全流程拆招](https://sspai.com/post/116686) (sspai)
-  指南介绍了移除 iPhone 激活锁的完整线上流程。若通过网购获取共享 Apple ID，可按步骤激活移除，避免设备被锁定风险，提升二手设备回收与使用的安全性。
+- [Project Sync: The journey to sample-perfect audio/video sync with WebCodecs](https://mediabunny.dev/blog/project-sync) (Hacker News)
+  Project Sync探究WebCodecs实现音视频样本级同步，为网页多媒体提供技术参考，助开发者解决延迟与同步难题。
+- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) (Hacker News)
+  文章介绍基于UEFI的裸机编程入门，帮助开发者理解底层硬件初始化流程与系统构建的基础实践。
+- [Panthera: Ampere's CPU Performance Model](https://github.com/AmpereComputing/panthera) (Hacker News)
+  开源CPU性能模型Panthera提供Ampere架构性能预测，助开发者优化软硬件协同、评估算力瓶颈与调优方案。
+- [豆包工作个人版取消5小时额度限制](https://36kr.com/p/4058997417563266?f=rss) (36kr)
+  豆包工作个人版自11月6日起取消5小时额度限制，个人用户可自由使用，提升AI工具日效率与可及性，降低使用门槛。
+- [成都具身智能公司获天使轮融资](https://36kr.com/p/4052696726328452?f=rss) (36kr)
+  成都具身大脑公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑，推动具身智能从实验走向产品化与多机协同应用。
