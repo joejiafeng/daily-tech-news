@@ -1,39 +1,39 @@
-# Daily Tech News | 2026-11-07
+# Daily Tech News | 2026-11-08
 
-今日科技要点聚焦产业与生态双轮驱动：SpaceX拟收购Boost Mobile进军传统电信，Anthropic IPO估值被下修至1.5万亿美元；美国FAA计划2028淘汰蝶形磁盘；北京加速AI、量子、6G等前沿技术赋能；AI研究呈指数级加速。这些动态不仅映射市场重塑，也预示技术生态的深层变革。
+2026-11-08 tech roundup: this week witnessed major AI security revelations, breakthroughs in communication hardware, and significant funding shifts across robotics and cloud infrastructure. Below are the most critical developments, trend insights, and tools handpicked from multiple sources.
 
 ## 1. 今日必读
-- [SpaceX拟切入传统电信运营商领域](https://36kr.com/newsflashes/4059028625773700?f=rss) (36kr)
-  SpaceX拟收购Boost Mobile切入传统电信市场，AT&T与T-Mobile已准备应对，或将切断Boost对移动网络的访问权，标志马斯克版图向电信领域延伸。
-- [部分投资者下修Anthropic IPO估值至1.5万亿美元](https://36kr.com/newsflashes/4059012212282246?f=rss) (36kr)
-  Anthropic投资者预计IPO估值将低于1.5万亿美元，较原目标2万亿美元大幅下修，市场对AI建设可持续性与盈利兑现的担忧持续发酵。
-- [FAA计划2028淘汰蝶形磁盘](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) (Hacker News)
-  美国FAA宣布将于2028年前淘汰蝶形磁盘用于空中交通管制，标志着关键基础设施现代化进程，提升系统安全与效率。
-- [北京加快AI量子6G布局](https://36kr.com/newsflashes/4059085964923785?f=rss) (36kr)
-  北京印发措施支持布局AI、量子信息、6G等前沿领域技术转化与中试熟化中心，旨在加速关键信息基础设施创新与产学研协同。
-- [AI研究被大幅加速](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) (Hacker News)
-  研究显示AI自身能力快速提升，AI研究进展呈指数级加速，引发对投资回报、生态影响及人类控制边界的深思。
+- [Cyera获8亿美元融资](https://36kr.com/newsflashes/4060439143732353?f=rss) (36kr)
+  Cyera获8亿美元融资，估值达200亿美元，成为全球估值最高的私有网络安全公司之一，年度经常性收入飙升至数亿美元。
+- [启元机器人第10000台个人机器人下线](https://36kr.com/newsflashes/4060671334519680?f=rss) (36kr)
+  启元机器人第10000台个人机器人下线，仅用14天从5000台跃升至1万台，标志着中国个人机器人进入规模化量产新阶段。
+- [CoreWeave承诺与德州候任州长合作](https://36kr.com/newsflashes/4060441064756357?f=rss) (36kr)
+  CoreWeave承诺与德州候任州长及当地社区合作，推动负责任的数据中心开发，彰显云AI基础设施在地区建设中的新动向。
+- [中国在1007.48公里光纤上实现双向实时传输](https://36kr.com/newsflashes/4060440184050821?f=rss) (36kr)
+  中国在1007.48公里光纤上实现双向各64Tb/s信号同步传输，千公里单程仅3.43毫秒，创空芯光纤实时传输新纪录，突破下一代通信关键技术。
+- [豆包工作个人版取消5小时额度限制](https://36kr.com/p/4058997417563266?f=rss) (36kr)
+  豆包工作个人版自11月6日起取消5小时每日额度限制，个人用户可无限制使用，体现字节跳动对个人AI工具的普及化布局。
 
 ## 2. 趋势与解读
-- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) (Hacker News)
-  Libghostty 1.0发布，现代化终端模拟器在性能、兼容性上实现显著提升，符合开源开发者对工具效能的持续追求。
-- [欧央行审查数据中心贷款](https://36kr.com/newsflashes/4059026136388742?f=rss) (36kr)
-  欧洲央行拟审查银行对数据中心的贷款，聚焦AI相关风险评估，或将影响AI基础设施融资规模、估值波动及监管格局。
-- [Tesla裁产Cybertruck](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) (Hacker News)
-  特斯拉因Cybertruck销量不佳决定削减产能，反映EV市场竞争加剧、产品策略调整以及消费需求分化的行业趋势。
-- [台积电进军3D DRAM](https://36kr.com/newsflashes/4059024621392777?f=rss) (36kr)
-  台积电考虑为英伟达生产3D DRAM，拓先进存储产能，直接响应AI基础设施对高带宽、大容量芯片的刚性需求。
-- [AI板块遭聪明钱抛售](https://36kr.com/newsflashes/4059020817273728?f=rss) (36kr)
-  10月以来AI板块持续抛售，对冲基金普遍亏损，市场避险情绪升温，AI投资前景与盈利模型受到广泛质疑。
+- [Claude Code的“Don’t Ask Again”泄露密钥](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (Hacker News)
+  Claude Code的“Don’t Ask Again”功能在1122个公开GitHub仓库中泄露API密钥和密码，暴露AI编码工具的安全隐患，提醒开发者需加强秘密扫描。
+- [Meta前首席战略官转投Fireworks](https://36kr.com/newsflashes/4059085827527815?f=rss) (36kr)
+  Meta前首席战略官戴夫·吴离职出任AI推理初创公司Fireworks首席财务官，人才流动凸显大型科技公司向专业AI基础设施的转型步伐。
+- [佛山陀普科技完成融资并在无人机领域实现盈利](https://36kr.com/p/4057654395736963?f=rss) (36kr)
+  佛山陀普科技完成数千万元A轮融资，已在无人机领域批量出货并实现盈利，高能量密度电池在航空领域的商业化进程加速。
+- [轴向磁通电机企业获超亿元融资](https://36kr.com/p/4057654794982537?f=rss) (36kr)
+  轴向磁通电机方案提供商叁零陆获超亿元A轮融资，产能目标15万台/年，并与多家头部车企合作，推动电动汽车驱动技术创新。
+- [发布全球首个通报评议人才培养国际标准](https://36kr.com/newsflashes/4060673695749252?f=rss) (36kr)
+  发布全球首个聚焦WTO技术性贸易壁垒评议人员培养的国际标准，由中国主导研制，旨在规范技术贸易合规的人才培养体系。
 
 ## 3. 工具与深读
-- [Project Sync: The journey to sample-perfect audio/video sync with WebCodecs](https://mediabunny.dev/blog/project-sync) (Hacker News)
-  Project Sync探究WebCodecs实现音视频样本级同步，为网页多媒体提供技术参考，助开发者解决延迟与同步难题。
-- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) (Hacker News)
-  文章介绍基于UEFI的裸机编程入门，帮助开发者理解底层硬件初始化流程与系统构建的基础实践。
-- [Panthera: Ampere's CPU Performance Model](https://github.com/AmpereComputing/panthera) (Hacker News)
-  开源CPU性能模型Panthera提供Ampere架构性能预测，助开发者优化软硬件协同、评估算力瓶颈与调优方案。
-- [豆包工作个人版取消5小时额度限制](https://36kr.com/p/4058997417563266?f=rss) (36kr)
-  豆包工作个人版自11月6日起取消5小时额度限制，个人用户可自由使用，提升AI工具日效率与可及性，降低使用门槛。
-- [成都具身智能公司获天使轮融资](https://36kr.com/p/4052696726328452?f=rss) (36kr)
-  成都具身大脑公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑，推动具身智能从实验走向产品化与多机协同应用。
+- [$10 OpenStick核心板Homelab实录](https://blog.bosscher.ch/posts/openstick/) (Hacker News)
+  $10 OpenStick核心板运行完整Homelab套件，包括DNS、AdGuard及自托管服务，展示低成本个人基础设施搭建可能。
+- [ZapFast轻量native WhatsApp客户端](https://github.com/crmne/zapfast) (Hacker News)
+  ZapFast是基于Rust和egui开发的轻量级native WhatsApp客户端，提供跨平台聊天功能，资源占用低且开源透明。
+- [Coldframe工业冰箱控制器honeypot](https://github.com/hedgerow-dev/coldframe) (Hacker News)
+  Coldframe是一款伪装为超市制冷控制器的honeypot，用于检测和分析针对工业物联网和制冷系统的网络威胁。
+- [GitHub公开预览新Pull Request页面](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/) (Hacker News)
+  GitHub发布Pull Request概览页面公开预览版，将讨论、评审和检查合并至统一界面，提升开发者工作流效率。
+- [文章指导自建Kirlian摄影设备](https://imagesco.com/articles/kirlian/kirlian-photography.html) (Hacker News)
+  文章指导读者自行在家搭建Kirlian摄影设备，介绍高压放电成像技术及其可视化电场的应用可能。
