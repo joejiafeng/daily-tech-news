@@ -1,39 +1,39 @@
-# Daily Tech News | 2026-11-08
+# Daily Tech News | 2026-11-13
 
-2026-11-08 tech roundup: this week witnessed major AI security revelations, breakthroughs in communication hardware, and significant funding shifts across robotics and cloud infrastructure. Below are the most critical developments, trend insights, and tools handpicked from multiple sources.
+2026年11月13日，英伟达CEO黄仁勋辞职引发科技界震荡，多家机构发布AI行业新预测。腾讯元宝搜索正式开放等成为本周科技圈的焦点。
 
 ## 1. 今日必读
-- [Cyera获8亿美元融资](https://36kr.com/newsflashes/4060439143732353?f=rss) (36kr)
-  Cyera获8亿美元融资，估值达200亿美元，成为全球估值最高的私有网络安全公司之一，年度经常性收入飙升至数亿美元。
-- [启元机器人第10000台个人机器人下线](https://36kr.com/newsflashes/4060671334519680?f=rss) (36kr)
-  启元机器人第10000台个人机器人下线，仅用14天从5000台跃升至1万台，标志着中国个人机器人进入规模化量产新阶段。
-- [CoreWeave承诺与德州候任州长合作](https://36kr.com/newsflashes/4060441064756357?f=rss) (36kr)
-  CoreWeave承诺与德州候任州长及当地社区合作，推动负责任的数据中心开发，彰显云AI基础设施在地区建设中的新动向。
-- [中国在1007.48公里光纤上实现双向实时传输](https://36kr.com/newsflashes/4060440184050821?f=rss) (36kr)
-  中国在1007.48公里光纤上实现双向各64Tb/s信号同步传输，千公里单程仅3.43毫秒，创空芯光纤实时传输新纪录，突破下一代通信关键技术。
-- [豆包工作个人版取消5小时额度限制](https://36kr.com/p/4058997417563266?f=rss) (36kr)
-  豆包工作个人版自11月6日起取消5小时每日额度限制，个人用户可无限制使用，体现字节跳动对个人AI工具的普及化布局。
+- [英伟达CEO黄仁勋辞职 CFO科莱特·克雷斯出任临时CEO](https://36kr.com/p/4067443683120000?f=rss) (36kr)
+  英伟达宣布CEO黄仁勋辞职，CFO科莱特·克雷斯接任临时CEO直至继任者确定，引发行业对AI算力领导层继任的关注。
+- [字节跳动拟以4000亿美元估值回购最多60亿美元股份](https://36kr.com/newsflashes/4067761515730049?f=rss) (36kr)
+  字节跳动计划以约4000亿美元估值回购不超过60亿美元股份，显示公司资本运作的灵活性与股东回报意图。
+- [Omdia预测2026年全球AI软件收入突破2000亿美元](https://36kr.com/newsflashes/4067786448819331?f=rss) (36kr)
+  Omdia报告显示，2026年全球AI软件收入将超过2000亿美元，较2024年翻倍，生成式AI与代理式AI需求加速增长。
+- [腾讯元宝搜索面向用户开放，争夺默认搜索入口](https://36kr.com/p/4066338158695304?f=rss) (36kr)
+  腾讯元宝搜索正式面向普通用户开放，提供独立网站so.qq.com，进一步拓展AI能力，在搜索市场竞争中争夺默认入口地位。
+- [联想建设万全混合词元工厂，张家口母本产能超2000亿](https://36kr.com/p/4066221891196036?f=rss) (36kr)
+  联想与张家口合建混合词元母本工厂，初期建设1.5万P异构算力集群，词元产能突破2000亿，旨在支撑AI时代算力与国产化需求。
 
 ## 2. 趋势与解读
-- [Claude Code的“Don’t Ask Again”泄露密钥](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (Hacker News)
-  Claude Code的“Don’t Ask Again”功能在1122个公开GitHub仓库中泄露API密钥和密码，暴露AI编码工具的安全隐患，提醒开发者需加强秘密扫描。
-- [Meta前首席战略官转投Fireworks](https://36kr.com/newsflashes/4059085827527815?f=rss) (36kr)
-  Meta前首席战略官戴夫·吴离职出任AI推理初创公司Fireworks首席财务官，人才流动凸显大型科技公司向专业AI基础设施的转型步伐。
-- [佛山陀普科技完成融资并在无人机领域实现盈利](https://36kr.com/p/4057654395736963?f=rss) (36kr)
-  佛山陀普科技完成数千万元A轮融资，已在无人机领域批量出货并实现盈利，高能量密度电池在航空领域的商业化进程加速。
-- [轴向磁通电机企业获超亿元融资](https://36kr.com/p/4057654794982537?f=rss) (36kr)
-  轴向磁通电机方案提供商叁零陆获超亿元A轮融资，产能目标15万台/年，并与多家头部车企合作，推动电动汽车驱动技术创新。
-- [发布全球首个通报评议人才培养国际标准](https://36kr.com/newsflashes/4060673695749252?f=rss) (36kr)
-  发布全球首个聚焦WTO技术性贸易壁垒评议人员培养的国际标准，由中国主导研制，旨在规范技术贸易合规的人才培养体系。
+- [Alcantara：智驾时代内饰比拼触感](https://36kr.com/p/4067598702384258?f=rss) (36kr)
+  汽车内饰竞争从屏幕、芯片转向材质触感，Alcantara沙龙揭示智驾时代人机交互的新焦点，强调设计品质而非单纯技术参数。
+- [通芯人工智能：AGI架构芯片创业获清华系等基金数亿元投资](https://36kr.com/p/4066136377873286?f=rss) (36kr)
+  原生通用人工智能芯片研发商通芯智能完成亿元级融资，清华校友基金等参投，旨在构建AGI原生芯片架构，推动通用AI硬件落地。
+- [Edge0-145B：将前沿AI能力带入个人电脑](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) (Hacker News)
+  Edge0发布145B参数模型，宣告可在个人电脑本地运行前沿AI能力，展示边缘计算与本地大模型部署的新可能性。
+- [Relax：JIT编译器助力Rust降低构建时间](https://makepad.github.io/relax/) (Hacker News)
+  Relax是一个JIT编译器，旨在显著缩短Rust项目的编译时间，提升开发效率，尤其适合大规模代码库。
+- [AI让Apple应用审查对合成器开发者成为噩梦](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html) (Hacker News)
+  AI生成内容泛滥导致Apple应用审查流程繁琐，合成器开发者面临审核周期延长和拒绝率上升的问题，凸显AI监管的挑战。
 
 ## 3. 工具与深读
-- [$10 OpenStick核心板Homelab实录](https://blog.bosscher.ch/posts/openstick/) (Hacker News)
-  $10 OpenStick核心板运行完整Homelab套件，包括DNS、AdGuard及自托管服务，展示低成本个人基础设施搭建可能。
-- [ZapFast轻量native WhatsApp客户端](https://github.com/crmne/zapfast) (Hacker News)
-  ZapFast是基于Rust和egui开发的轻量级native WhatsApp客户端，提供跨平台聊天功能，资源占用低且开源透明。
-- [Coldframe工业冰箱控制器honeypot](https://github.com/hedgerow-dev/coldframe) (Hacker News)
-  Coldframe是一款伪装为超市制冷控制器的honeypot，用于检测和分析针对工业物联网和制冷系统的网络威胁。
-- [GitHub公开预览新Pull Request页面](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/) (Hacker News)
-  GitHub发布Pull Request概览页面公开预览版，将讨论、评审和检查合并至统一界面，提升开发者工作流效率。
-- [文章指导自建Kirlian摄影设备](https://imagesco.com/articles/kirlian/kirlian-photography.html) (Hacker News)
-  文章指导读者自行在家搭建Kirlian摄影设备，介绍高压放电成像技术及其可视化电场的应用可能。
+- [Show HN：自制应用摆脱订阅，解锁300美元刺绣机潜力](https://github.com/simpsoka/zigzag) (Hacker News)
+  开发者自行开发应用，绕过刺绣机厂商强制订阅模式，展开源硬件改造的可行性，让硬件在用户手中真正可控。
+- [RealtimeVAD：通过权衡假阳性实现语音检测110ms更早终点](https://github.com/KoljaB/RealtimeVAD) (Hacker News)
+  RealtimeVAD通过优化概率模型，在语音活动检测上实现110ms更早的结束判定，提升语音助手响应延迟，展示VAD技术的实时性优化。
+- [Smolmaxxing：在小旧设备上运行大语言模型](https://github.com/hyperionaidev/smolmaxxing/) (Hacker News)
+  项目展示在资源受限的旧设备上高效运行大语言模型的技术方案，通过模型剪枝与量化，降低硬件门槛，推广AI普及。
+- [Brave Search API接入x402协议，支持代理化支付](https://brave.com/blog/search-api-agentic-payments/) (Hacker News)
+  Brave Search API现支持通过x402协议进行代理化微支付，让AI代理能自主完成搜索查询的费用结算，开启新的机器经济模式。
+- [Mac选购指南2026冬季版：内存存储涨价应对策略](https://sspai.com/post/85735) (少数派)
+  指南在内存存储价格上涨的背景下，提供Mac选购的性价比分析、配置建议及替代方案，帮助用户在升级浪潮中做出明智决策。
