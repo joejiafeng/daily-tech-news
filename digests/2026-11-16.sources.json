@@ -1,0 +1,820 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T14:09:43.830082+08:00",
+  "v2ex": [
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结",
+      "url": "https://www.v2ex.com/t/1257214",
+      "summary": "先说下本人的 AI Coding 经验，chatgpt 横空出世时，一款名为免费的 Cursor 在 2023 年悄然上线，我当时也算是最先一批把 cursor 用于公司项目的程序员，所以 AI Coding 经验有 2 年半的时间了吧。 当时惊叹 chatgpt 的能力，我意识到了 AI 真的会思考，AI 不再是算法和程序堆叠的产物。 从 Curso...",
+      "published": "2026-11-15T16:22:58+08:00",
+      "score": 139
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "世态炎凉，瑟瑟发抖",
+      "url": "https://www.v2ex.com/t/1257325",
+      "summary": "纯吐槽 每次周一开会都很想打开 boss 准备简历了，但是感觉实在是难啊 会上交流的时候发现，越菜的人越依赖 ai，越觉得 ai 好用，直接来一句开发效率提高 100%，给我人都听傻了，(不是说 ai 不好用，只能说你不测试不看代码逻辑的话，那可以到 100% 现在问同事之前他写的逻辑，他都直接来一句你让 ai 分析总结一下，我就很无语了 开发一个 s...",
+      "published": "2026-11-16T10:15:19+08:00",
+      "score": 104
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "其实我个人也是比较偏向于使用国模的，但问题是",
+      "url": "https://www.v2ex.com/t/1257339",
+      "summary": "其实我个人也是比较偏向于使用国模的，但问题是： - 要不像 deepseek 这种没有订阅的，使用起来其实非常昂贵的，你用 flash, 一天很容易烧掉 100 块 - 要不像 GLM 这种的，在模型能力不行的情况下（最近降智特别严重），同时还慢、贵，现在 GLM 5.5 更是难产 - 要不像 KIMI 这种的，模型能力不错，但是更贵、更慢、输入输出不...",
+      "published": "2026-11-16T10:37:57+08:00",
+      "score": 92
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "又被淘宝双 11 背刺了",
+      "url": "https://www.v2ex.com/t/1257229",
+      "summary": "因为准备玩 GTA6，双 11 期间在淘宝买了一台新电视，价格 4200+，买的时候宣传**“全网保价至 11 月 20 日”**，所以也没害怕会降价，就下单了。 结果没过几天，发现拼兮兮同款便宜了 400+。申请保价时，淘宝却说**必须在签收后 7 天内申请，超期不支持。** ？？？ 宣传时大字写着保价到 11 月 20 日，真要申请了，又搬出一个“...",
+      "published": "2026-11-15T19:18:06+08:00",
+      "score": 59
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "我觉得 AI 的发展已经到头了",
+      "url": "https://www.v2ex.com/t/1257274",
+      "summary": "生产端 AI 只能解决从 1 到 10 从 1 到 100，越往后边际效益递减。 1+1 算一万亿次也只能是 2，算不出花来。 需求端一个人一天需要的东西在 AI 问世前后是区别不大的 还是吃那么多东西还是消费那么多东西 目前 AI 最大的作用就是在二进制世界替代人力，程序员演员等职业，这个也是有很明显的上边界的。",
+      "published": "2026-11-16T02:57:00+08:00",
+      "score": 58
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "路上天天都能遇到焊颈帝",
+      "url": "https://www.v2ex.com/t/1257304",
+      "summary": "提车半年，每天通勤 13 公里，早上 5 公里，晚上走高架 8 公里，虽说晚上距离远点而且上海南北高架很堵，但是开起来都比早上轻松太多了... 几乎每天路上都能遇到电动车和自行车乱骑的，转弯回头观察也不会，电动车转向灯也没有，反正就是突然就要顶你车头前面转弯... 早上又遇到一个大妈，我直行过 T 字路口速度降低到 20 就是怕电动车来个转弯，果不其然...",
+      "published": "2026-11-16T09:39:15+08:00",
+      "score": 56
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "唉，QQ 音乐年会员又涨价了",
+      "url": "https://www.v2ex.com/t/1257321",
+      "summary": "每年都是趁着 11 月份生日的时候续费年会员，想着有优惠，昨天一看年卡变成 128 了，记得前几年好像 80+，去年买的好像 90 多。",
+      "published": "2026-11-16T10:06:13+08:00",
+      "score": 55
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "都说 AI 大大提高了编程效率，真正失业的程序员多吗",
+      "url": "https://www.v2ex.com/t/1257251",
+      "summary": "我看身边大部分人都还苟着，有一些被裁员优化的，很多还是找到了新工作，不论好坏，有多卷，至少还有一份工作。只有一小部分人真的失业在家。另外，大家都再说经济下行，钱难赚。不知道这里的朋友们怎么样？",
+      "published": "2026-11-15T22:24:17+08:00",
+      "score": 42
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "一觉醒来，V 站升级了评论区 UI 交互，Polish 要为上次的事故付出代价了",
+      "url": "https://www.v2ex.com/t/1257309",
+      "summary": "之前我在 V 站节点提过升级的事情，当时感觉站长升级的意愿不大，虽然评论升级的呼声比较高，https://www.v2ex.com/t/1251696 前一阵上次 Polish 升级产生了一次电脑卡死的事故，https://fast.v2ex.com/t/1254940 感觉站长真的觉醒了，靠第三方插件提升用户体验终究不是一个可靠的路子，产品的用户体验...",
+      "published": "2026-11-16T09:44:48+08:00",
+      "score": 41
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "微软悄悄上线了一款新的中文输入法",
+      "url": "https://www.v2ex.com/t/1257291",
+      "summary": "虽然名字叫中文输入法，但是目前仅支持拼音输入，估计后期会增加五笔输入。 整体功能很简陋，皮肤不支持深色模式。 看起来就是系统自带微软拼音的复刻，不知道微软为什么要重复造轮子。 但是使用起来比微软拼音流畅不少，有种 30Hz 视频升级到 60Hz 的感觉，动画直追搜狗输入法。 还有设置依然不支持关闭颜文字和 emoji。 ![微信图片_2026-11-1...",
+      "published": "2026-11-16T09:09:31+08:00",
+      "score": 36
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "summary": "",
+      "published": "2026-11-16T10:04:48+08:00",
+      "score": 227
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": "",
+      "published": "2026-11-16T10:14:44+08:00",
+      "score": 314
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "summary": "",
+      "published": "2026-11-16T06:11:43+08:00",
+      "score": 239
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "summary": "",
+      "published": "2026-11-16T07:55:55+08:00",
+      "score": 176
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "summary": "",
+      "published": "2026-11-16T08:21:54+08:00",
+      "score": 103
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "summary": "",
+      "published": "2026-11-16T07:00:11+08:00",
+      "score": 128
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "summary": "",
+      "published": "2026-11-16T03:26:22+08:00",
+      "score": 262
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "summary": "",
+      "published": "2026-11-13T14:58:41+08:00",
+      "score": 29
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "summary": "",
+      "published": "2026-11-16T02:23:21+08:00",
+      "score": 212
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Stop Filming in Log",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "summary": "",
+      "published": "2026-11-16T12:37:03+08:00",
+      "score": 15
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "summary": "",
+      "published": "2026-11-16T03:42:13+08:00",
+      "score": 209
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "url": "https://www.paradedb.com/blog/joins",
+      "summary": "",
+      "published": "2026-11-13T23:31:50+08:00",
+      "score": 49
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "summary": "",
+      "published": "2026-11-15T21:15:22+08:00",
+      "score": 452
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "summary": "",
+      "published": "2026-11-16T01:53:31+08:00",
+      "score": 207
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "summary": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks w...",
+      "published": "2026-11-16T10:53:30+08:00",
+      "score": 58
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "summary": "",
+      "published": "2026-11-12T13:29:24+08:00",
+      "score": 396
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "summary": "",
+      "published": "2026-11-16T04:20:05+08:00",
+      "score": 113
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Mini.nvim Is Now on Tangled",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "summary": "",
+      "published": "2026-11-16T07:55:41+08:00",
+      "score": 51
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Coles hit by a cybersecurity incident",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "summary": "",
+      "published": "2026-11-16T09:14:35+08:00",
+      "score": 83
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Simple 8085 Computer",
+      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+      "summary": "",
+      "published": "2026-11-12T22:18:04+08:00",
+      "score": 14
+    }
+  ],
+  "rss": [
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+      "url": "https://sspai.com/post/119012",
+      "summary": "能切换老设备音质的媒体播放器。 查看全文",
+      "published": "2026-11-16T10:52:11+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：逾十万人次联署要求黄仁勋复职",
+      "url": "https://sspai.com/post/119119",
+      "summary": "逾十万人次联署要求黄仁勋复职 Microsoft 365 服务在 19 小时全球宕机后恢复 国产前沿模型携带 Blackwell GPU 特征 线缆更换导致全美飞机停飞 流媒体用户抱怨更难找到想看作品 特斯拉 Cybercab 订阅协议包含苛刻条款 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "published": "2026-11-16T07:24:34+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+      "url": "https://sspai.com/post/118392",
+      "summary": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？ 查看全文",
+      "published": "2026-11-15T15:55:16+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "url": "https://sspai.com/post/118276",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "published": "2026-11-14T15:40:21+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/118999",
+      "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ... 查看全文",
+      "published": "2026-11-13T17:39:22+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "url": "https://sspai.com/post/118153",
+      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。 查看全文",
+      "published": "2026-11-13T15:00:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "url": "https://sspai.com/post/118512",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文",
+      "published": "2026-11-13T11:35:48+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "url": "https://sspai.com/post/118966",
+      "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。 查看全文",
+      "published": "2026-11-13T08:48:17+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+      "url": "https://sspai.com/post/118366",
+      "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ... 查看全文",
+      "published": "2026-11-12T16:37:25+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "Mac 选购指南 2026 冬季版",
+      "url": "https://sspai.com/post/85735",
+      "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。 查看全文",
+      "published": "2026-11-12T14:42:04+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "今年双11最狠爆款，不是鞋服、电器、米面油，是Token",
+      "url": "https://www.huxiu.com/article/4905054.html?f=rss",
+      "summary": "今年双11爆款是AI的token流量包",
+      "published": "2026-11-16T14:04:09+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "布林也犯错怎么就没事？黄仁勋没赶上好时候",
+      "url": "https://www.huxiu.com/article/4905888.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T13:46:53+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "每天只学2小时？，美国最火创新学校翻车了",
+      "url": "https://www.huxiu.com/article/4905887.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T13:41:46+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "“周围酒店全满房了”，秋假让中小学生挤爆游乐园",
+      "url": "https://www.huxiu.com/article/4905885.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T13:28:58+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "学历通胀、AI再添一把火，大学改革出路在哪？",
+      "url": "https://www.huxiu.com/article/4905884.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T13:24:31+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "同仁堂24.4亿收购天津同仁堂，贵不贵",
+      "url": "https://www.huxiu.com/article/4905881.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T13:16:05+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "当演员肖茵遇见《持械入宋》总编剧",
+      "url": "https://www.huxiu.com/article/4905841.html?f=rss",
+      "summary": "来听爆款主创的实战经验，看见AI创作的新可能。",
+      "published": "2026-11-16T12:49:44+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "“AI生成的代码必须开源，”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+      "url": "https://www.huxiu.com/article/4905872.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T12:41:16+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "与其研究AI短剧怎么做，不如抓紧去卖课",
+      "url": "https://www.huxiu.com/article/4905867.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T12:21:40+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "机器狗进入下半场，扛起了具身智能的半边天",
+      "url": "https://www.huxiu.com/article/4905857.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T12:20:38+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招",
+      "url": "https://www.huxiu.com/article/4905862.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T12:11:17+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "中国版拉夫劳伦，盯上新中产的钱包",
+      "url": "https://www.huxiu.com/article/4905859.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T12:06:28+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "第一个5万亿外贸城市，来了",
+      "url": "https://www.huxiu.com/article/4905858.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T11:58:28+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "一个黄金周120场市集：商场要客流，年轻人要同好",
+      "url": "https://www.huxiu.com/article/4905853.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T11:49:46+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "黄仁勋想回来，AI却回不去了",
+      "url": "https://www.huxiu.com/article/4905854.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T11:49:09+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "“零元面馆”的教训是，慈善不应与商业同台竞争",
+      "url": "https://www.huxiu.com/article/4905848.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T11:32:51+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI，怎么就成专业公敌了",
+      "url": "https://www.huxiu.com/article/4905842.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T11:12:42+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "从Muse、Instinct 出发，拆解Personal Agent 的真实需求与落地场景",
+      "url": "https://www.huxiu.com/article/4905835.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T11:01:03+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "大投诉时代，人人都有点委屈",
+      "url": "https://www.huxiu.com/article/4905831.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:52:40+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "Mehri Madarshahi：从全球化走向地缘经济时代：经济安全背景下对APEC开放区域主义的重新思考",
+      "url": "https://www.huxiu.com/article/4905832.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:50:49+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "徽酒的“第五把交椅”能坐多久？",
+      "url": "https://www.huxiu.com/article/4905827.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:47:14+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "美智库集体研判：中美俄举行三方会晤，将如何影响国际秩序？",
+      "url": "https://www.huxiu.com/article/4905830.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:46:05+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "光伏“结构性修复”，修在了哪儿？",
+      "url": "https://www.huxiu.com/article/4905826.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:44:24+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "黄仁勋：一个移民少年的“美国梦”",
+      "url": "https://www.huxiu.com/article/4905814.html?f=rss",
+      "summary": "“美国梦”不是没有天花板的",
+      "published": "2026-11-16T10:40:58+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "医保局开始给创新药算总账",
+      "url": "https://www.huxiu.com/article/4905824.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:30:39+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "拆飞机供电？AI公司的算力焦虑已经卷到电力端",
+      "url": "https://www.huxiu.com/article/4905822.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:29:30+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "2027风光机制电价竞价，别只盯价格！",
+      "url": "https://www.huxiu.com/article/4905816.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:19:58+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI最近有点忙：陪大爷下棋，还得哄奶奶开心。",
+      "url": "https://www.huxiu.com/article/4905818.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:17:29+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "斯坦福重磅AI100年度报告解读：AI 走向主流",
+      "url": "https://www.huxiu.com/article/4905774.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T10:08:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "Anthropic超级IPO本周“出鞘”",
+      "url": "https://www.huxiu.com/article/4905808.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:54:05+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "近臣",
+      "url": "https://www.huxiu.com/article/4905803.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:44:11+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "全球失衡、跨境资本流动与资本市场高水平开放",
+      "url": "https://www.huxiu.com/article/4905802.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:40:50+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "30岁，他买一家上市公司",
+      "url": "https://www.huxiu.com/article/4905797.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:30:55+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "26岁，短剧创业8个月烧光60万，她去北京打工还债了",
+      "url": "https://www.huxiu.com/article/4905796.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:30:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "黄仁勋与盟友商讨重返CEO计划，贝森特则敦促英伟达选外部人士",
+      "url": "https://www.huxiu.com/article/4905787.html?f=rss",
+      "summary": "合规疑云笼罩英伟达",
+      "published": "2026-11-16T09:20:09+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "谁能熬过具身寒冬？",
+      "url": "https://www.huxiu.com/article/4905792.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:16:23+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？",
+      "url": "https://www.huxiu.com/article/4905791.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:16:23+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "当卖车不赚钱后，汽车后市场终于迎来正规化",
+      "url": "https://www.huxiu.com/article/4905790.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:11:22+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "胡泳：跳出“图灵陷阱”",
+      "url": "https://www.huxiu.com/article/4905789.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:11:04+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”",
+      "url": "https://www.huxiu.com/article/4905788.html?f=rss",
+      "summary": "董事会要想顶住压力把老黄重新请回来，难度可谓地狱级",
+      "published": "2026-11-16T09:08:54+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "黄仁勋不是被“整”下台：这颗雷早在中期选举之前就埋好了",
+      "url": "https://www.huxiu.com/article/4905783.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T09:00:58+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "特斯拉在中国遭遇“滑铁卢”了吗？",
+      "url": "https://www.huxiu.com/article/4905782.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:55:46+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "线上秒售罄、线下排队3小时，抢演出票的年轻人真没招了",
+      "url": "https://www.huxiu.com/article/4905779.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:39:54+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "华尔街：黄仁勋辞职，或成中国的“梦幻剧本”",
+      "url": "https://www.huxiu.com/article/4905778.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:37:09+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "创新药医保准入：价格和高价值都是硬门槛",
+      "url": "https://www.huxiu.com/article/4905777.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:33:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "3天劝返134名非法穿越人员，稻城亚丁怎么了？",
+      "url": "https://www.huxiu.com/article/4905776.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:29:28+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI悄悄改正了数学家的错误，为什么反而是坏消息？",
+      "url": "https://www.huxiu.com/article/4905775.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:29:17+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "最懂赚钱的苏州老板，季亏4亿，68岁妻子顶上了",
+      "url": "https://www.huxiu.com/article/4905773.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:17:17+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "1500个老旧街区厂区更新，如何长出新动能？",
+      "url": "https://www.huxiu.com/article/4905772.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:15:49+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "这个低迷了四年的赛道，正在被大手笔扫货",
+      "url": "https://www.huxiu.com/article/4905771.html?f=rss",
+      "summary": "",
+      "published": "2026-11-16T08:11:19+08:00"
+    }
+  ]
+}

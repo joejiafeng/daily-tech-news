@@ -1,39 +1,42 @@
-# Daily Tech News | 2026-11-15
+# Daily Tech News | 2026-11-16
 
-2026年11月15日，科技界聚焦于航天 reusable 达成新里程、芯片产业突破与AI重塑职业边界。本次要点涵盖SpaceX星舰捕获、英伟达高管变动、半导体出口激增及AI工具创新等多维动态。
+2026-11-16 的科技新闻聚焦 AI 模型新进展、安全漏洞披露以及消费端平台变动。本简报从今日必读、趋势解读到工具深读三个维度，为您梳理本日最值得关注的技术动态与行业脉络。
 
 ## 1. 今日必读
-- [SpaceX首次实现“筷子夹飞船”](https://36kr.com/newsflashes/4070331143214215?f=rss) (36kr)
-  SpaceX星舰第十五次试飞中，上面级飞船返回德州星港，成功被发射塔“筷子”机械臂捕获，标志着可重复使用火箭关键一步，为星舰全快速重复使用奠定基础。
-- [英伟达CEO黄仁勋辞职，CFO科勒特·克雷斯接任临时CEO](https://36kr.com/p/4067628486267780?f=rss) (36kr)
-  英伟达宣布联合创始人黄仁勋辞去总裁兼CEO职务，CFO科勒特·克雷斯出任临时CEO，行业关注继任者人选及AI算力布局影响。
-- [韩国10月ICT产业出口额激增259.4%，芯片出口领跑](https://36kr.com/newsflashes/4070541922685828?f=rss) (36kr)
-  韩国ICT出口额突破700亿美元，同比增速202.0%，芯片出口激增259.4%至564.7亿美元，显示半导体供应链强劲复苏与全球竞争态势。
-- [余承东：大折叠已成为千万人的主力机](https://36kr.com/newsflashes/4070505882129288?f=rss) (36kr)
-  华为Mate X系列大折叠累计用户突破千万，成为千万人主力机型，新一代Mate X8将在屏幕、影像和性能上突破，折叠屏正进入普及期。
-- [APEC工商领导人峰会发布《深圳倡议》](https://36kr.com/newsflashes/4070482079143048?f=rss) (36kr)
-  2026年APEC工商领导人峰会将发布《深圳倡议》，系统吸纳工商核心主张，向领导人非正式会议建言，标志着30年峰会首次以倡议形式发布成果文件。
+
+- [uBlock Origin 网站驱动元素选取 XSS 漏洞](https://iter.ca/post/ubo-uxss/) (Hacker News)
+  uBlock Origin 爆出网站驱动元素选取 XSS 漏洞，恶意网站可利用该缺陷执行脚本，破坏 ad-blocking 安全性，提醒用户及时更新至 0.4.9.17 修复版本。
+- [Qwen4-Max 发布](https://qwen.ai/blog?id=qwen4-max) (Hacker News)
+  Qwen4-Max 正式发布，作为阿里巴巴通义实验室最新一代大模型，在多个基准测试中展现出较强性能，标志着国产大模型竞争进入新阶段。
+- [旧 Bitly 链接被劫持](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) (Hacker News)
+  旧 Bitly 链接被劫持案频发，网络诈骗分子利用过期短链重定向至钓鱼页面，用户点击知名品牌推文链接时易中招，提醒及时检查链接来源。
+- [微软新中文输入法](https://www.v2ex.com/t/1257291) (V2EX)
+  微软悄悄上线新中文输入法，目前仅支持拼音输入，界面流畅度提升，但缺少深色模式和关闭颜文字 emoji 选项，被视为系统自带拼音的简化复刻。
+- [双11最狠爆款是 AI Token](https://www.huxiu.com/article/4905054.html?f=rss) (Huxiu)
+  2026 年双 11 期间，AI Token 流量包成为最抢手爆款，超越实体商品，反映 AI 服务已渗透至消费端，用户通过购买 Token 体验各类生成式 AI 功能。
 
 ## 2. 趋势与解读
-- [程序员正在慢慢转向产品经理](https://www.v2ex.com/t/1257054) (V2EX)
-  AI编程工具如DeepSeek Flash大幅提升代码生成效率，程序员逐渐转向需求设计和产品架构，编码工作被自动化，角色正向产品经理转型。
-- [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/) (Hacker News)
-  揭露了Rust标准库中多个内存安全漏洞，虽Rust以防内存安全著称，但提醒工业界持续审查与防御性编程的重要性。
-- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) (Hacker News)
-  调查发现Lovable生成的应用存在漏洞，可能泄露用户护照信息及超20万条私聊记录，凸显AI代码生成的安全隐患。
-- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) (Hacker News)
-  PyPI更新项目页，新增 clearer security signals，帮助开发者更快识别恶意包，提升Python生态包安全透明度。
-- [DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) (Hacker News)
-  展示了使用纯Jax实现DeepSeek V3仅约200行代码，体现大模型训练效率提升与框架精简的趋势。
+
+- [国内大模型成本与性能](https://www.v2ex.com/t/1257339) (V2EX)
+  国内大模型成本与性能失衡突出，DeepSeek 费用高昂，GLM 近期能力下降且延期，KIMI 定价贵且速度慢，用户在模型能力、响应速度和价格间难以找到最优解，市场正从‘能力红利’转向‘性价比博弈’。
+- [AI编程与就业现状](https://www.v2ex.com/t/1257251) (V2EX)
+  虽然 AI 被广泛认为能显著提升编程效率，但实务中大多数程序员并未大规模失业，部分人因裁员优化失业，仍有不少人转job，整体市场依然活跃，AI 更多作为辅助工具而非直接替代，失业个案多集中在特定技能边缘。
+- [Web安全威胁升级](https://iter.ca/post/ubo-uxss/) (Hacker News)
+  uBlock Origin 爆出 XSS 漏洞后，Bitly 旧链被劫持用于诈骗，Tor 项目紧急修复持续 DDoS 下的 DoS 漏洞，三者共同暴露了浏览器扩展和 URL 短链在安全防护中的薄弱环节，提醒开发者与用户同步关注新兴威胁。
+- [MacBook Pro OLED PWM 问题](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) (Hacker News)
+  MacBook Pro OLED 屏幕的 PWM 调光方案在低亮度下引发频闪投诉，尽管峰值亮度提升，但可用性受损，提醒硬件设计需平衡性能与用户舒适度。
+- [淘宝双11保价争议](https://www.v2ex.com/t/1257229) (V2EX)
+  淘宝双 11 “全网保价至 11 月 20 日”政策在实际申请中被限制至签收后 7 天，超期不支持，引发用户对平台承诺兑现的质疑；同时 QQ 音乐年会员价格从昔年 80+ 升至 128，反映平台价格上调趋势与消费者权益保障的落差。
 
 ## 3. 工具与深读
-- [Airhand：支持120fps的远程控制软件](https://www.v2ex.com/t/1257076) (V2EX)
-  开发者自建远程控制软件Airhand，支持120fps高帧率，旨在避免RustDesk等需开多端口的方案，提供轻量网页远程操作体验。
-- [Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp) (Hacker News)
-  开源项目Turbo-Browser-MCP提供批量表单提交、DOM增量处理和提交守卫，助力MCP协议下浏览器自动化与测试效率提升。
-- [500 Lines or Less A 3D Modeller](https://aosabook.org/en/500L/a-3d-modeller.html) (Hacker News)
-  介绍一个用约500行代码实现的3D建模器，适合学习图形编程与简洁代码实践，是值得深读的开源教程。
-- [让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验](https://sspai.com/post/118921) (SSPAI)
-  Home Assistant推出Connect AUX-2，让传统音箱接入多房间音频网络，通过Matter协议实现跨品牌、跨房间同步播放，唤醒旧硬件新价值。
-- [在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512) (SSPAI)
-  作者在AI浪潮下将Mole打造为慢产品，通过清理工具与系统数据功能，强调在快节奏时代保持用户体验的慢思考与实用性。
+
+- [Protomaps 自托管地图瓦片](https://bruceroettgers.eu/blog/protomaps/) (Hacker News)
+  Protomaps 让自托管地图瓦片变得极其便宜且易于部署，无需昂贵的服务器即可提供高质量地图タイル，非常适合开发者和自 host 爱好者降低地图服务成本。
+- [Mini.nvim 现已上架 Tangled](https://tangled.org/nvim-mini.org/mini.nvim) (Hacker News)
+  Mini.nvim 系列插件正式入驻 Tangled 插件库，一键安装和更新，降低了 Neovim 用户的插件管理门槛，提升了开发环境定制的效率。
+- [Aerial Switcher 航拍壁纸自动切换](https://sspai.com/post/118392) (少数派)
+  Aerial Switcher 自动根据时间切换 Mac 桌面壁纸，利用 Apple Aerial 的航拍图集，用户无需手动更换，即可全天享受自然变换的风景，提升桌面体验的艺术感。
+- [研究生用 AI 辅助综述写作](https://sspai.com/post/118153) (少数派)
+  文章分享了研究生如何利用 AI 工具辅助完成综述写作，从文献检索、大纲生成到段落润色，AI 作为生产力助手而非替代，帮助科研工作者在保持学术严谨性的前提下显著提升写作效率。
+- [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156) (Hacker News)
+  开源硬件项目 Simple 8085 Computer 展示了一个功能齐全的 8085 微处理器实现，包含电路图、固件和教程，非常适合学生和爱好者学习数字电路和嵌入式系统的基础知识。
