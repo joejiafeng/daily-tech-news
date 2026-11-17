@@ -1,42 +1,39 @@
-# Daily Tech News | 2026-11-16
+# Daily Tech News | 2026-11-17
 
-2026-11-16 的科技新闻聚焦 AI 模型新进展、安全漏洞披露以及消费端平台变动。本简报从今日必读、趋势解读到工具深读三个维度，为您梳理本日最值得关注的技术动态与行业脉络。
+2026-11-17的科技圈今日聚焦AI算力瓶颈、可穿戴硬件商业化以及6G基础设施的新进展。以下是从多源新闻中精选的三大板块要点，涵盖产业影响、技术趋势以及实用工具。
 
 ## 1. 今日必读
-
-- [uBlock Origin 网站驱动元素选取 XSS 漏洞](https://iter.ca/post/ubo-uxss/) (Hacker News)
-  uBlock Origin 爆出网站驱动元素选取 XSS 漏洞，恶意网站可利用该缺陷执行脚本，破坏 ad-blocking 安全性，提醒用户及时更新至 0.4.9.17 修复版本。
-- [Qwen4-Max 发布](https://qwen.ai/blog?id=qwen4-max) (Hacker News)
-  Qwen4-Max 正式发布，作为阿里巴巴通义实验室最新一代大模型，在多个基准测试中展现出较强性能，标志着国产大模型竞争进入新阶段。
-- [旧 Bitly 链接被劫持](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) (Hacker News)
-  旧 Bitly 链接被劫持案频发，网络诈骗分子利用过期短链重定向至钓鱼页面，用户点击知名品牌推文链接时易中招，提醒及时检查链接来源。
-- [微软新中文输入法](https://www.v2ex.com/t/1257291) (V2EX)
-  微软悄悄上线新中文输入法，目前仅支持拼音输入，界面流畅度提升，但缺少深色模式和关闭颜文字 emoji 选项，被视为系统自带拼音的简化复刻。
-- [双11最狠爆款是 AI Token](https://www.huxiu.com/article/4905054.html?f=rss) (Huxiu)
-  2026 年双 11 期间，AI Token 流量包成为最抢手爆款，超越实体商品，反映 AI 服务已渗透至消费端，用户通过购买 Token 体验各类生成式 AI 功能。
+- [DeepSeek因算力不足限额引发App/网页版使用限制](https://36kr.com/p/4073099271230601) (36kr)
+  DeepSeek因算力瓶颈对App及网页版用户实施临时配额限制，迫使用户在高峰期排队或功能受阻。此举反映生成式AI服务在算力调度上的紧张态势，也提醒业界对算力基础设施的依赖日益加深。
+- [AI正在杀死游戏行业吗？——行业内部的罗生门](https://36kr.com/p/4073486195332226) (36kr)
+  GDC 2026报告显示，40%的游戏从业者已使用生成式AI，但55%的受访者认为其带来负面影响。支持者视其为生产力革命，反对者担忧将摧毁开发者生态，这折射出AI在创意产业的落地仍处探索期。
+- [穗升科技完成数千万元Pre-A轮融资，AI可穿戴硬件量产](https://36kr.com/p/4072342767047814) (36kr)
+  穗升科技获NexTide Capital和阿尔法公社领投数千万元Pre-A轮融资，资金将投入长期记忆引擎与主动式Agent体验优化。产品已完成量产交付，并拓展家庭、团队及海外渠道，标志AI硬件从实验室走向商用的里程碑。
+- [工信部批准8省市开展6G创新试点，基础设施布局提速](https://36kr.com/newsflashes/4073516465837193) (36kr)
+  工信部批准北京等8省市开展6G创新发展部省协同试点，聚焦商业化应用，企业需取得电信业务许可。这标志着中国6G产业从实验走向商用的关键一步，将加速算网融合与生态构建。
+- [中广天择AI算料业务成为新增长曲线，引领传统企业转型](https://36kr.com/newsflashes/4073488602239872) (36kr)
+  中广天择表示其数智中心已建设40万小时4K视频与200万小时高保真音频的垂类算料库，并与头部大模型企业合作。AI算料业务成为公司新增长曲线，公司积极推动AI、大数据在业务全流程中的应用。
 
 ## 2. 趋势与解读
-
-- [国内大模型成本与性能](https://www.v2ex.com/t/1257339) (V2EX)
-  国内大模型成本与性能失衡突出，DeepSeek 费用高昂，GLM 近期能力下降且延期，KIMI 定价贵且速度慢，用户在模型能力、响应速度和价格间难以找到最优解，市场正从‘能力红利’转向‘性价比博弈’。
-- [AI编程与就业现状](https://www.v2ex.com/t/1257251) (V2EX)
-  虽然 AI 被广泛认为能显著提升编程效率，但实务中大多数程序员并未大规模失业，部分人因裁员优化失业，仍有不少人转job，整体市场依然活跃，AI 更多作为辅助工具而非直接替代，失业个案多集中在特定技能边缘。
-- [Web安全威胁升级](https://iter.ca/post/ubo-uxss/) (Hacker News)
-  uBlock Origin 爆出 XSS 漏洞后，Bitly 旧链被劫持用于诈骗，Tor 项目紧急修复持续 DDoS 下的 DoS 漏洞，三者共同暴露了浏览器扩展和 URL 短链在安全防护中的薄弱环节，提醒开发者与用户同步关注新兴威胁。
-- [MacBook Pro OLED PWM 问题](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) (Hacker News)
-  MacBook Pro OLED 屏幕的 PWM 调光方案在低亮度下引发频闪投诉，尽管峰值亮度提升，但可用性受损，提醒硬件设计需平衡性能与用户舒适度。
-- [淘宝双11保价争议](https://www.v2ex.com/t/1257229) (V2EX)
-  淘宝双 11 “全网保价至 11 月 20 日”政策在实际申请中被限制至签收后 7 天，超期不支持，引发用户对平台承诺兑现的质疑；同时 QQ 音乐年会员价格从昔年 80+ 升至 128，反映平台价格上调趋势与消费者权益保障的落差。
+- [Windows 11收集用户编码代理与开发者工具使用数据](https://xusheng.dev/posts/windows-coding-agent-telemetry/) (Hacker News)
+  微软Windows 11在后台收集用户使用的编码代理（如Copilot、Cursor）及开发者工具的使用元数据。公司称目的是改进产品体验，但隐私倡导者警告可能被用于行为画像。这凸显了AI辅助编程普及背景下的数据采集与隐私博弈。
+- [BugMeNot关站，凸显密码共享边界的收紧](https://www.bugmenot.com/) (Hacker News)
+  历史工具BugMeNot关站，曾允许用户无需注册访问需要登录的网站。其关站反映互联网对密码共享行为日益严格的监管，也提醒开发者在设计登录流程时需平衡便利性与安全性。此类工具的生存空间持续压缩。
+- [AI记忆笔记服务Mem关停，行业反思用户数据留存](https://get.mem.ai/blog/mem-is-shutting-down) (Hacker News)
+  AI记忆笔记平台Mem宣布关停，运营方面临可持续性挑战。关闭引发对AI驱动个人数据平台商业模式的深思，特别是在用户隐私、数据主权以及生成式AI对长期记忆增值的实际价值等方面。行业或将转向开源、本地化记忆方案。
+- [Rosetta 2将退役，Mac老应用转向原生ARM路径](https://sspai.com/post/118100) (SSPAI)
+  Apple宣布Rosetta 2翻译层将在未来macOS版本中逐步退役，老款x86应用将不再获得兼容性支持。开发者需尽早将应用重构为Apple Silicon原生版本，否则将面临运行中断。这标志着Mac平台架构转型的完成标志。
+- [无需交付凭证即可运行编码代理的最佳实践](https://blog.antonio.cx/running-agents-with-lend) (Hacker News)
+  Antonio CX博客介绍了如何在不暴露API密钥或系统凭证的情况下，通过临时令牌、沙箱环境或本地代理运行编码代理。该做法显著降低安全风险，适用于企业级开发场景。随着AI代理在软件开发中的渗透，凭证管理与最小权限原则成为保障安全的关键。
 
 ## 3. 工具与深读
-
-- [Protomaps 自托管地图瓦片](https://bruceroettgers.eu/blog/protomaps/) (Hacker News)
-  Protomaps 让自托管地图瓦片变得极其便宜且易于部署，无需昂贵的服务器即可提供高质量地图タイル，非常适合开发者和自 host 爱好者降低地图服务成本。
-- [Mini.nvim 现已上架 Tangled](https://tangled.org/nvim-mini.org/mini.nvim) (Hacker News)
-  Mini.nvim 系列插件正式入驻 Tangled 插件库，一键安装和更新，降低了 Neovim 用户的插件管理门槛，提升了开发环境定制的效率。
-- [Aerial Switcher 航拍壁纸自动切换](https://sspai.com/post/118392) (少数派)
-  Aerial Switcher 自动根据时间切换 Mac 桌面壁纸，利用 Apple Aerial 的航拍图集，用户无需手动更换，即可全天享受自然变换的风景，提升桌面体验的艺术感。
-- [研究生用 AI 辅助综述写作](https://sspai.com/post/118153) (少数派)
-  文章分享了研究生如何利用 AI 工具辅助完成综述写作，从文献检索、大纲生成到段落润色，AI 作为生产力助手而非替代，帮助科研工作者在保持学术严谨性的前提下显著提升写作效率。
-- [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156) (Hacker News)
-  开源硬件项目 Simple 8085 Computer 展示了一个功能齐全的 8085 微处理器实现，包含电路图、固件和教程，非常适合学生和爱好者学习数字电路和嵌入式系统的基础知识。
+- [OpenCode Browse —— 面向开发者的代码浏览与搜索工具](https://opencode.ai/product/browse) (Hacker News)
+  OpenCode推出Browse功能，提供智能代码浏览、跨项目符号搜索及上下文感知的导航。相比传统IDE索引，利用大模型理解代码意图，帮助开发者快速定位复杂逻辑与跨模块依赖。目前支持VS Code插件，免费开源。
+- [Jiff 1.0 —— Rust的高精度日期时间库](https://burntsushi.net/jiff/) (Hacker News)
+  Jiff 1.0发布，提供比Chrono和Time库更直观、更安全的日期时间处理API。支持时区转换、持久化格式以及无损运算，专为Rust严格类型检查设计。处理复杂时间逻辑时，可显著减少因时区错位或格式不兼容导致的Bug。
+- [Nimony —— Nim语言的全新编译器](https://nimony.org/) (Hacker News)
+  Nimony作为Nim语言的替代编译器，旨在提升编译速度、优化代码生成并增强对现代硬件的支持。保持语言规格兼容性，引入LLVM后端，生成的可执行文件性能接近C/C++。对于追求开发效率与运行性能平衡的开发者，是一个有力的选择。
+- [国内折腾Linux打游戏的实践与思考](https://sspai.com/post/118442) (SSPAI)
+  文章探讨在国内环境下运行Linux系统玩游戏的现状、兼容性挑战及解决方案。实测了多款主流游戏的运行表现，并分享了驱动配置、设置工具的实用技巧。对于想要摆脱Windows依赖的游戏爱好者，提供了落地的可能性与路径参考。
+- [Aerial Switcher —— 根据时间自动切换Mac航拍壁纸](https://sspai.com/post/118392) (SSPAI)
+  Aerial Switcher利用Apple官方Aerial壁纸的时间序列，实现根据系统时间自动切换全景景观。支持自定义壁纸集合与切换间隔，既美观又能展示全天候的自然变迁。适合希望为工作桌面增添动态氛围的macOS用户，无需额外费用。
