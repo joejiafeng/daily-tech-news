@@ -1,39 +1,39 @@
-# Daily Tech News | 2026-11-17
+# Daily Tech News | 2026-11-18
 
-2026-11-17的科技圈今日聚焦AI算力瓶颈、可穿戴硬件商业化以及6G基础设施的新进展。以下是从多源新闻中精选的三大板块要点，涵盖产业影响、技术趋势以及实用工具。
+今日科技界聚焦AI硬件突破、全球游戏产业里程碑与网络安全关键变动。英伟达交出令业界瞩目的财报，GTA6正式上线前即斩获百亿级预售，同时Quad9在法国的撤出再次提醒着DNS基础设施的地缘政治风险。以下是今日值得关注的五大维度科技简报。
 
 ## 1. 今日必读
-- [DeepSeek因算力不足限额引发App/网页版使用限制](https://36kr.com/p/4073099271230601) (36kr)
-  DeepSeek因算力瓶颈对App及网页版用户实施临时配额限制，迫使用户在高峰期排队或功能受阻。此举反映生成式AI服务在算力调度上的紧张态势，也提醒业界对算力基础设施的依赖日益加深。
-- [AI正在杀死游戏行业吗？——行业内部的罗生门](https://36kr.com/p/4073486195332226) (36kr)
-  GDC 2026报告显示，40%的游戏从业者已使用生成式AI，但55%的受访者认为其带来负面影响。支持者视其为生产力革命，反对者担忧将摧毁开发者生态，这折射出AI在创意产业的落地仍处探索期。
-- [穗升科技完成数千万元Pre-A轮融资，AI可穿戴硬件量产](https://36kr.com/p/4072342767047814) (36kr)
-  穗升科技获NexTide Capital和阿尔法公社领投数千万元Pre-A轮融资，资金将投入长期记忆引擎与主动式Agent体验优化。产品已完成量产交付，并拓展家庭、团队及海外渠道，标志AI硬件从实验室走向商用的里程碑。
-- [工信部批准8省市开展6G创新试点，基础设施布局提速](https://36kr.com/newsflashes/4073516465837193) (36kr)
-  工信部批准北京等8省市开展6G创新发展部省协同试点，聚焦商业化应用，企业需取得电信业务许可。这标志着中国6G产业从实验走向商用的关键一步，将加速算网融合与生态构建。
-- [中广天择AI算料业务成为新增长曲线，引领传统企业转型](https://36kr.com/newsflashes/4073488602239872) (36kr)
-  中广天择表示其数智中心已建设40万小时4K视频与200万小时高保真音频的垂类算料库，并与头部大模型企业合作。AI算料业务成为公司新增长曲线，公司积极推动AI、大数据在业务全流程中的应用。
+- [英伟达季度营收破千亿美金](https://36kr.com/p/4074562529645445?f=rss) (36kr)
+  英伟达Q3营收1158亿美元，同比增长103%，净利润653亿美元，创历史新高，显示AI硬件需求持续爆发并确立其在产业链中的核心地位。
+- [GTA6 正式解禁 超10亿美元预售](https://36kr.com/p/4074910832137347?f=rss) (36kr)
+  GTA6正式解禁，上线前即获超10亿美元预售，确立为有史以来最卖座的游戏之一，引领3A游戏商业模式进入新高潮。
+- [Java4Shell OpenJDK RCE](https://calif.io/java4shell/) (Hacker News)
+  OpenJDK处理Base64时存在Java4Shell RCE漏洞，可能导致远程代码执行，提醒Java开发者紧急打补丁，强化供应链安全防护。
+- [AI搜索流量下降40%](https://revscope.co/blog/search-seo-geo-2026/) (Hacker News)
+  谷歌AI答案功能导致搜索流量下降40%，标志着AI生成内容开始重塑搜索生态，传统SEO面临前所未有的冲击与重构。
+- [Quad9 法国撤出](https://blog.cloudflare.com/quad9-withdrawal-from-france/) (Hacker News)
+  Quad9在法国撤出服务，被视为欧盟网络安全基础设施变动的风向标，提醒全球DNS安全服务面临地缘政治压力与合规挑战。
 
 ## 2. 趋势与解读
-- [Windows 11收集用户编码代理与开发者工具使用数据](https://xusheng.dev/posts/windows-coding-agent-telemetry/) (Hacker News)
-  微软Windows 11在后台收集用户使用的编码代理（如Copilot、Cursor）及开发者工具的使用元数据。公司称目的是改进产品体验，但隐私倡导者警告可能被用于行为画像。这凸显了AI辅助编程普及背景下的数据采集与隐私博弈。
-- [BugMeNot关站，凸显密码共享边界的收紧](https://www.bugmenot.com/) (Hacker News)
-  历史工具BugMeNot关站，曾允许用户无需注册访问需要登录的网站。其关站反映互联网对密码共享行为日益严格的监管，也提醒开发者在设计登录流程时需平衡便利性与安全性。此类工具的生存空间持续压缩。
-- [AI记忆笔记服务Mem关停，行业反思用户数据留存](https://get.mem.ai/blog/mem-is-shutting-down) (Hacker News)
-  AI记忆笔记平台Mem宣布关停，运营方面临可持续性挑战。关闭引发对AI驱动个人数据平台商业模式的深思，特别是在用户隐私、数据主权以及生成式AI对长期记忆增值的实际价值等方面。行业或将转向开源、本地化记忆方案。
-- [Rosetta 2将退役，Mac老应用转向原生ARM路径](https://sspai.com/post/118100) (SSPAI)
-  Apple宣布Rosetta 2翻译层将在未来macOS版本中逐步退役，老款x86应用将不再获得兼容性支持。开发者需尽早将应用重构为Apple Silicon原生版本，否则将面临运行中断。这标志着Mac平台架构转型的完成标志。
-- [无需交付凭证即可运行编码代理的最佳实践](https://blog.antonio.cx/running-agents-with-lend) (Hacker News)
-  Antonio CX博客介绍了如何在不暴露API密钥或系统凭证的情况下，通过临时令牌、沙箱环境或本地代理运行编码代理。该做法显著降低安全风险，适用于企业级开发场景。随着AI代理在软件开发中的渗透，凭证管理与最小权限原则成为保障安全的关键。
+- [李飞飞World Labs加入AMD](https://36kr.com/p/4074508571104132?f=rss) (36kr)
+  李飞飞带领World Labs加入AMD，彰显AI人才与硬件厂商深度融合趋势，或加速端侧AI与生成模型的硬件优化与生态布局。
+- [GPT-6.2 Astra 和 Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) (Hacker News)
+  OpenAI发布GPT-6.2 Astra和Sol，展示下一代多模态能力，推理速度和上下文处理大幅提升，直接竞争 Anthropic 与 Gemini 系列，标志生成式AI进入新一代竞赛阶段。
+- [Claude 大规模训练蛋白质序列](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/) (Hacker News)
+  Claude在大规模蛋白质序列上训练，标志AI模型向生物计算延伸，或加速药物研发与蛋白结构预测的效率，开辟AI在生命科学的新赛道。
+- [AI编码代理转移审查瓶颈](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/) (Hacker News)
+  研究显示AI编码代理将软件开发瓶颈转移至代码审查，提示团队需重构审查流程，引入AI辅助审查工具以提升交付效率与代码质量。
+- [App Store AIGC合规必填](https://sspai.com/post/119210) (SSPAI)
+  国区App Store强制要求AIGC合规，开发者上架需提交内容审核报告，或将规范生成式AI应用生态，遏制低质内容泛滥与监管风险。
 
 ## 3. 工具与深读
-- [OpenCode Browse —— 面向开发者的代码浏览与搜索工具](https://opencode.ai/product/browse) (Hacker News)
-  OpenCode推出Browse功能，提供智能代码浏览、跨项目符号搜索及上下文感知的导航。相比传统IDE索引，利用大模型理解代码意图，帮助开发者快速定位复杂逻辑与跨模块依赖。目前支持VS Code插件，免费开源。
-- [Jiff 1.0 —— Rust的高精度日期时间库](https://burntsushi.net/jiff/) (Hacker News)
-  Jiff 1.0发布，提供比Chrono和Time库更直观、更安全的日期时间处理API。支持时区转换、持久化格式以及无损运算，专为Rust严格类型检查设计。处理复杂时间逻辑时，可显著减少因时区错位或格式不兼容导致的Bug。
-- [Nimony —— Nim语言的全新编译器](https://nimony.org/) (Hacker News)
-  Nimony作为Nim语言的替代编译器，旨在提升编译速度、优化代码生成并增强对现代硬件的支持。保持语言规格兼容性，引入LLVM后端，生成的可执行文件性能接近C/C++。对于追求开发效率与运行性能平衡的开发者，是一个有力的选择。
-- [国内折腾Linux打游戏的实践与思考](https://sspai.com/post/118442) (SSPAI)
-  文章探讨在国内环境下运行Linux系统玩游戏的现状、兼容性挑战及解决方案。实测了多款主流游戏的运行表现，并分享了驱动配置、设置工具的实用技巧。对于想要摆脱Windows依赖的游戏爱好者，提供了落地的可能性与路径参考。
-- [Aerial Switcher —— 根据时间自动切换Mac航拍壁纸](https://sspai.com/post/118392) (SSPAI)
-  Aerial Switcher利用Apple官方Aerial壁纸的时间序列，实现根据系统时间自动切换全景景观。支持自定义壁纸集合与切换间隔，既美观又能展示全天候的自然变迁。适合希望为工作桌面增添动态氛围的macOS用户，无需额外费用。
+- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) (Hacker News)
+  jQuery发布4.1.0版本，引入原生ESM模块支持，优化性能与安全性，提醒遗留项目及时迁移，保持前端基础库的活力与兼容性。
+- [ONNX Runtime 从 GitHub 消失](https://github.com/microsoft/onnxruntime) (Hacker News)
+  ONNX Runtime GitHub仓库消失，可能转为官方包管理或商业化，提醒ML工程师检查依赖来源，关注微软AI工具链动向与部署路径调整。
+- [Fotilo Mac 截图录屏](https://www.v2ex.com/t/1257886) (V2EX)
+  Fotilo合并截图与录屏功能，界面友好且打磨细节，为Mac用户提供一体化视觉捕获替代方案，提升创作效率与内容产出质量。
+- [小纸 Pico 4.7寸墨水屏](https://sspai.com/post/118975) (SSPAI)
+  小纸 Pico 4.7寸墨水屏设备兼顾阅读与开发，支持自定义界面，避免系统绑架，成为喜欢折腾的用户的便携阅读新选择与创作终端。
+- [Rosetta 2 即将退役](https://sspai.com/post/118100) (SSPAI)
+  AppleRosetta 2将退役，旧x86应用需迁移ARM或面临兼容终结，提醒开发者提前适配Universal 2，确保Mac软件生态平滑过渡与长期可维护性。
