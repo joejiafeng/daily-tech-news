@@ -1,39 +1,39 @@
-# Daily Tech News | 2026-11-18
+# Daily Tech News | 2026-11-19
 
-今日科技界聚焦AI硬件突破、全球游戏产业里程碑与网络安全关键变动。英伟达交出令业界瞩目的财报，GTA6正式上线前即斩获百亿级预售，同时Quad9在法国的撤出再次提醒着DNS基础设施的地缘政治风险。以下是今日值得关注的五大维度科技简报。
+2026-11-19 科技简报：本日聚焦企业AI政策收紧、生成式AI加速芯片研发，以及关键基础设施与安全漏洞的披露。全球AI产业链动荡中，监管与技术创新并存。以下是今日值得关注的核心资讯。
 
 ## 1. 今日必读
-- [英伟达季度营收破千亿美金](https://36kr.com/p/4074562529645445?f=rss) (36kr)
-  英伟达Q3营收1158亿美元，同比增长103%，净利润653亿美元，创历史新高，显示AI硬件需求持续爆发并确立其在产业链中的核心地位。
-- [GTA6 正式解禁 超10亿美元预售](https://36kr.com/p/4074910832137347?f=rss) (36kr)
-  GTA6正式解禁，上线前即获超10亿美元预售，确立为有史以来最卖座的游戏之一，引领3A游戏商业模式进入新高潮。
-- [Java4Shell OpenJDK RCE](https://calif.io/java4shell/) (Hacker News)
-  OpenJDK处理Base64时存在Java4Shell RCE漏洞，可能导致远程代码执行，提醒Java开发者紧急打补丁，强化供应链安全防护。
-- [AI搜索流量下降40%](https://revscope.co/blog/search-seo-geo-2026/) (Hacker News)
-  谷歌AI答案功能导致搜索流量下降40%，标志着AI生成内容开始重塑搜索生态，传统SEO面临前所未有的冲击与重构。
-- [Quad9 法国撤出](https://blog.cloudflare.com/quad9-withdrawal-from-france/) (Hacker News)
-  Quad9在法国撤出服务，被视为欧盟网络安全基础设施变动的风向标，提醒全球DNS安全服务面临地缘政治压力与合规挑战。
+- [我司全面禁止 AI Coding，一夜之间回到古法编程时代](https://www.v2ex.com/t/1258200) (V2EX)
+  公司因员工滥用 AI 生成代码导致线上故障及数据误删，决定全面禁止 AI Coding，反映企业对 AI 辅助开发风险的严重警惕。
+- [Anthropic IPO定价83美元](https://36kr.com/p/4075920892581000?f=rss) (36kr)
+  Anthropic IPO定价83美元，灰市交易预计上涨20%，估值达1.35万亿美元，标志着AI独角兽进入资本市场新阶段。
+- [美国亚利桑那州对OpenAI等展开刑事调查](https://36kr.com/newsflashes/4076280570107016?f=rss) (36kr)
+  亚利桑那州检察官展开刑事调查OpenAI等AI公司，因涉及失控智能体疑似入侵银行系统，凸显AI安全监管的紧迫性。
+- [火山引擎上线豆包实时音视频通话模型API服务](https://36kr.com/newsflashes/4076323154154632?f=rss) (36kr)
+  火山引擎发布豆包实时音视频通话模型API，实现声音、画面、时序统一端到端交互，带来全模态实时交互新体验。
+- [OpenAI总裁称其模型助力AMD在5个月内实现相当于一年的芯片研发进展](https://36kr.com/newsflashes/4076332280845193?f=rss) (36kr)
+  OpenAI模型帮助AMD芯片研发进展相当于一年，在功耗、性能、面积三方面均有提升，展现AI加速芯设的潜力。
 
 ## 2. 趋势与解读
-- [李飞飞World Labs加入AMD](https://36kr.com/p/4074508571104132?f=rss) (36kr)
-  李飞飞带领World Labs加入AMD，彰显AI人才与硬件厂商深度融合趋势，或加速端侧AI与生成模型的硬件优化与生态布局。
-- [GPT-6.2 Astra 和 Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) (Hacker News)
-  OpenAI发布GPT-6.2 Astra和Sol，展示下一代多模态能力，推理速度和上下文处理大幅提升，直接竞争 Anthropic 与 Gemini 系列，标志生成式AI进入新一代竞赛阶段。
-- [Claude 大规模训练蛋白质序列](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/) (Hacker News)
-  Claude在大规模蛋白质序列上训练，标志AI模型向生物计算延伸，或加速药物研发与蛋白结构预测的效率，开辟AI在生命科学的新赛道。
-- [AI编码代理转移审查瓶颈](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/) (Hacker News)
-  研究显示AI编码代理将软件开发瓶颈转移至代码审查，提示团队需重构审查流程，引入AI辅助审查工具以提升交付效率与代码质量。
-- [App Store AIGC合规必填](https://sspai.com/post/119210) (SSPAI)
-  国区App Store强制要求AIGC合规，开发者上架需提交内容审核报告，或将规范生成式AI应用生态，遏制低质内容泛滥与监管风险。
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) (Hacker News)
+  Nginx HTTP/2存在未认证远程代码执行漏洞，影响版本广泛，提醒各系统及时打补丁以防被利用。
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) (Hacker News)
+  微软发布七款新AI模型，主打可扩展的性价比，推动企业级AI应用普及，标志模型价格竞争加剧。
+- [宇树科技、索辰科技等在杭州成立具身智能实验基地公司](https://36kr.com/newsflashes/4076227999962248?f=rss) (36kr)
+  杭州成立具身智能实验基地公司，涉及宇树、索辰等，旨在推动人形机器人和实体AI从实验走向商业化落地。
+- [英国金融业10月份发生网络安全事件数量为五年来第二高](https://36kr.com/newsflashes/4076221933867906?f=rss) (36kr)
+  英国金融监管机构报告显示10月网络安全事件达38起，创下五年来第二高，金融行业威胁持续升级。
+- [36氪研究院 | 2026年中国词元经济生态发展研究报告](https://36kr.com/p/4075073010996352?f=rss) (36kr)
+  研究报告指出2026年中国词元经济将快速增长，AI应用规模化推动下词元需求激增，产业链机遇显著。
 
 ## 3. 工具与深读
-- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) (Hacker News)
-  jQuery发布4.1.0版本，引入原生ESM模块支持，优化性能与安全性，提醒遗留项目及时迁移，保持前端基础库的活力与兼容性。
-- [ONNX Runtime 从 GitHub 消失](https://github.com/microsoft/onnxruntime) (Hacker News)
-  ONNX Runtime GitHub仓库消失，可能转为官方包管理或商业化，提醒ML工程师检查依赖来源，关注微软AI工具链动向与部署路径调整。
-- [Fotilo Mac 截图录屏](https://www.v2ex.com/t/1257886) (V2EX)
-  Fotilo合并截图与录屏功能，界面友好且打磨细节，为Mac用户提供一体化视觉捕获替代方案，提升创作效率与内容产出质量。
-- [小纸 Pico 4.7寸墨水屏](https://sspai.com/post/118975) (SSPAI)
-  小纸 Pico 4.7寸墨水屏设备兼顾阅读与开发，支持自定义界面，避免系统绑架，成为喜欢折腾的用户的便携阅读新选择与创作终端。
-- [Rosetta 2 即将退役](https://sspai.com/post/118100) (SSPAI)
-  AppleRosetta 2将退役，旧x86应用需迁移ARM或面临兼容终结，提醒开发者提前适配Universal 2，确保Mac软件生态平滑过渡与长期可维护性。
+- [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/) (Hacker News)
+  文章展示如何在单台VM上运行1500万个web服务器，利用smoltcp、DPDK和AF_XDP实现极高并发网络性能，是基础设施优化的深度案例。
+- [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/) (Hacker News)
+  ExitPath开源项目提供脱离Slack、Notion和Microsoft 365的替代方案，帮助组织实现工具去依赖和数据主权重建。
+- [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/) (Hacker News)
+  OpenAI模型用于芯片设计优化，帮助厂商在功耗、性能和面积上实现显著提升，展现生成式AI在硬件设计中的应用前景。
+- [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) (Hacker News)
+  文章探讨如何利用LLM辅助逆向工程，加速代码分析和协议逆向，但也引发安全与可信度的双重思考。
+- [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/) (Hacker News)
+  安全研究者通过dumping AES key成功阻止MyQ网关掉电重启，暴露了物联网设备固件安全的潜在风险与补丁难题。
