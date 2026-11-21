@@ -1,39 +1,39 @@
-# Daily Tech News | 2026-11-20
+# Daily Tech News | 2026-11-21
 
-每日科技简报，带您快速浏览过去24小时的科技圈要事。从AI模型新品发布到产业融资热点，本期为您精选了最具影响力的五大板块内容。请继续阅读，获取行业脉搏。
+2026-11-21科技简报 brings you the most impactful developments shaping the industry today. From groundbreaking AI milestones to infrastructure breakthroughs, here’s what you need to know. 无论是资本市场的巨震，还是技术工具的迭代，本期简报为您精选了值得关注的核心资讯。
 
 ## 1. 今日必读
-- [Anthropic上市首日暴涨17%](https://36kr.com/p/4077339293242504?f=rss) (36kr)
-  Anthropic正式登陆纳斯达克，发行价83美元/股，开盘报111.5美元，首日暴涨17%。标志着人工智能公司在资本市场的里程碑，彰显市场对生成式AI商业化前景的持续热情，也将行业关注点聚焦AI安全与盈利模式。
-- [Google推出Gemini 4 Neon模型](https://sspai.com/post/119311) (SSPAI)
-  Google正式发布Gemini 4 Neon模型，定位速度与质量兼顾的轻量化大模型，相比 earlier 版本响应更快、幻觉率降低，旨在为移动端和边缘设备提供更高效的AI体验，标志着生成式AI向端侧部署的新趋势。
-- [腾讯云DeepSeek原厂搜索免费](https://36kr.com/newsflashes/4077739390243977?f=rss) (36kr)
-  腾讯云自11月18日起，DeepSeek原厂直供模型的服务端联网搜索和网页抓取不再计费，仅按Token用量计费。此举降低了开发者和企业使用大模型搜索功能的成本，或将推动云服务商在AI搜索领域的价格竞争。
-- [OpenSSL关键缓冲区溢出漏洞](https://github.com/openssl/openssl/pull/33652) (Hacker News)
-  OpenSSL EVP_EncodeBlock() 函数缓冲区溢出漏洞(CVE-2026-121481，CVSS 9.8)被披露，属于严重安全缺陷。用户需及时升级至修复版本，该漏洞可能被远程攻击者利用导致服务不可用，提醒各组织加强开源组件的安全维护与监控。
-- [韩国AI数据中心豁免电网评审](https://36kr.com/newsflashes/4077736541377417?f=rss) (36kr)
-  韩国科学技术信息通信部等部门发布草案，划定AI数据中心电网影响评估豁免门槛：首都圈以外合同用电≤50兆瓦可免评。政策将于明年3月生效，有助于降低中小型AI项目的落地成本，推动AI基础设施在韩国的普及与合规建设。
+- [Anthropic登陆纳斯达克首日涨17%市值一度冲至2万亿美元](https://36kr.com/p/4077873869099904?f=rss) (36kr)
+  Anthropic登陆纳斯达克首日涨17%，市值一度冲至2万亿美元，彰显AI独角兽资本市场强劲势头。
+- [Levent Alpöge声称证明广义黎曼假设](https://alpo.ge/remark.pdf) (Hacker News)
+  数学家Alpöge声称证明广义黎曼假设，若成立将确证数论核心猜想；AI辅助证明正确率达98%，引发对LLM推理能力的重新审视。
+- [TCL中环拟向50名交易对方发行股份购买中环领先，持股将升至98.52%](https://36kr.com/p/4078863230800768?f=rss) (36kr)
+  TCL中环拟向50名交易对方发行股份购买中环领先，持股将升至98.52%，显示半导体产业链整合加速，聚焦先进制程业务。
+- [OpenAI进军手机领域，或将重塑移动AI生态](https://36kr.com/p/4077339293242504?f=rss) (36kr)
+  OpenAI进军手机领域，或推出自研移动设备或深度集成AI助手，将直接挑战苹果谷歌在移动AI生态的统治地位。
+- [AI模型在黎曼猜想上的证明正确率达98%](https://www.huxiu.com/article/4907375.html?f=rss) (Huxiu)
+  Huxiu报道称AI模型在黎曼猜想上的证明正确率达98%，非传统数学证明，基于概率统计的启发式验证，提示AI在数学发现中的潜力与边界。
 
 ## 2. 趋势与解读
-- [GrapheneOS与Bootloader争议](https://grapheneos.social/@GrapheneOS/117645038299496084) (Hacker News)
-  Google被指推动OEM限制GrapheneOS和Bootloader解锁，削弱安卓生态的可定制性与安全性。此举或将加速安卓分支的分化，影响开发者对系统底层的控制权，同时也凸显了厂商、用户与谷歌在安全与商业利益之间的博弈。
-- [体重空间编程研究](https://notesbylex.com/weight-space-programming-1990s) (Hacker News)
-  文章探讨了体重空间如何类似1990年代研究人员构建神经网络的方法，揭示了AI模型训练的几何结构洞察。该视角有助于理解模型收敛行为，并可能启发新的高效训练算法，体现了理论AI研究的持续深化。
-- [原子矩阵获B轮融资](https://36kr.com/p/4077393088386184?f=rss) (36kr)
-  中性原子量子计算公司原子矩阵完成数亿元人民币B轮融资，由多地国资及产业资本联合投资。资金将用于产线扩容与算法优化，标志着国产量子计算从实验走向商业化的关键阶段，产业链上下游正加速布局。
-- [WISE2026具身智能大会](https://36kr.com/p/4077464212542596?f=rss) (36kr)
-  WISE2026商业之王大会具身智能分会场在北京亦庄落地，聚焦文商旅场景下的具身智能应用。活动汇集头部企业与投资机构，旨在探讨具身智能如何激活线下消费新场景，推动技术从实验室走向商业化落地的实际路径。
-- [AI进入制造业](https://www.huxiu.com/article/4907129.html?f=rss) (Huxiu)
-  AI4S之后，AI进一步深入制造业核心流程，从设计优化到生产执行全链路赋能。企业通过AI提升产效、降低废品率，但也面临数据孤岛与人才短缺挑战，表明AI正从实验室走向工业产线的关键转折点。
+- [Google推出Gemini 4 Neon模型，性能效率双提升](https://36kr.com/p/4077339293242504?f=rss) (36kr)
+  Google发布Gemini 4 Neon模型，定位轻量化生成式AI，在推理速度和能效比上显著优于前代，旨在降低企业级AI部署成本，同时保持相当性能，标志AI硬件优化向效能平衡转型。
+- [腾讯混元团队表示Hy4仍有大改进空间，计划训练更大规模模型](https://36kr.com/newsflashes/4078961086764168?f=rss) (36kr)
+  腾讯混元团队表示Hy4仍有大改进空间，计划训练更大规模模型，以在性能与成本间寻求更优平衡，反映生成式AI竞赛中“更大不一定更好”的市场共识。
+- [软银曾考虑1万亿美元收购SK海力士，存储芯片市场格局或将重组](https://36kr.com/newsflashes/4078915481179273?f=rss) (36kr)
+  软银曾考虑1万亿美元收购SK海力士，存储芯片市场格局或将重组，凸显大型科技公司对基础设施的战略布局与对抗供应链风险的决心。
+- [开发几乎成了我的全部生活，Token使用超1000亿，独立开发者如何推广产品](https://www.v2ex.com/t/1258625) (V2EX)
+  独立开发者回顾一年Token使用超1000亿，已推出多款产品，直面推广难题，分享通过内容营销、社区运营和付费转化突破存量市场的生存之道。
+- [许愿式编程会取代程序员吗？AI代理对开发者生态的冲击](https://www.v2ex.com/t/1258629) (V2EX)
+  V2EX讨论许愿式编程与AI代理对程序员角色的影响，共识是AI不会完全取代开发者，但将重塑开发流程，程序员需向系统设计与AI协调能力转型。
 
 ## 3. 工具与深读
-- [Jujutsu Primer教程](https://ethanlowman.com/posts/jj-primer/) (Hacker News)
-  Jujutsu是一种现代化的版本控制系统，该教程从基础概念到高级工作流全面介绍了其使用方法。相比Git，Jujutsu提供更简洁的命令接口和更强的重提交能力，是希望提升版本管理效率的开发者值得探索的工具。
-- [Onlook开源工具](https://github.com/onlook-dev/onlook/) (Hacker News)
-  Onlook是一款桌面应用，将画布叠加在真实代码库之上，让设计师和开发者即时可视化界面变更。它通过实时同步代码与UI，旨在缩短设计与开发的反馈循环，提升跨角色协作效率，体现了低代码工具的新趋势。
-- [NodLink AirPods鼠标](https://sspai.com/post/118732) (SSPAI)
-  NodLink是一款创新的输入工具，利用AirPods的运动传感器检测头部动作，实现光标移动、点击及指令操作。无需额外摄像头或设备，仅凭点头或转头即可控制电脑，为长时间工作的用户提供了一种无手交互的便捷方案。
-- [E-Graph编译器验证](https://stng.substack.com/p/automatic-checking-of-compiler-correctness) (Hacker News)
-  文章介绍了使用E-Graphs（等价图）自动验证编译器正确性的方法。通过数学形式化表示编译转换，能够系统性地发现优化中的错误，提升编译器的可靠性。该技术在学术界与产业界均有潜在应用，有助于提高关键软件的安全性。
-- [FFmpeg 9.1发布](https://ffmpeg.org/download.html#release_9.1) (Hacker News)
-  FFmpeg 9.1 'Gauss' 版本发布，带来了多项性能优化与新编解码器支持。包括改进的音频处理、增强的视频转码效率以及对新兴格式的兼容性提升。该发布进一步巩固了FFmpeg在多媒体处理领域的霸主地位，受到开发者和内容创作者的广泛关注。
+- [UULink 重磅更新：iPhone 远程使用 ClaudeCode 等 Coding Agent，无需内网穿透](https://www.v2ex.com/t/1258620) (V2EX)
+  UULink更新支持iPhone远程控制Mac运行ClaudeCode等编码Agent，无需内网穿透，显著降低移动端开发调试门槛，体现云端开发与移动端终端的深度融合趋势。
+- [ClawDOS – 一个 AI coding agent for DOS](http://ricapar.net/ClawDOS/) (Hacker News)
+  ClawDOS是一个专为DOS平台设计的AI编码代理，展示大模型在极低资源环境下的推理潜力，既是对复古计算的致敬，也为嵌入式边缘设备上的AI代码生成提供新思路。
+- [Valkey kills the skiplist，sorted set overhead削减高达43%](https://valkey.io/blog/from-skiplist-to-b+tree/) (Hacker News)
+  Valkey替传统skiplist改用B+树，sorted set overhead降低高达43%，对高并发缓存与数据库场景意义重大，标志开源Redis分支在性能优化上的又一突破。
+- [DreamCoder：Mastering Emacs 作者的 coding harness 和 IDE](https://www.masteringemacs.org/article/announcing-dreamcoder) (Hacker News)
+  DreamCoder由Mastering Emacs作者发布，提供coding harness和IDE框架，强调可编程性与可扩展性，允许开发者通过声明式规则定义代码生成与重构流程，是AI辅助开发工具链中值得关注的开源基础设施。
+- [浅评 macOS 27.3 新版权限控制机制：必要但欠平衡](https://sspai.com/prime/story/system-app-protection-override-macos-27-3) (SSPAI)
+  文章浅评macOS 27.3新版权限控制机制，指出安全增强与用户体验的权衡，新机制要求应用更明确权限声明，虽提升系统安全性但可能因过度限制影响生产力，开发者需适配新申请流程。
