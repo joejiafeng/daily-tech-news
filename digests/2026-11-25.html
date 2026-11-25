@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-11-25</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-11-25</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-11-25</h1>
+<p>2026-11-25 每日科技简报带来本日焦点突破与产业动态。小鹏冲破6C充电瓶颈，三星HBM4E突破17Gbps带宽，以及原子芯光获超亿天使轮融资，标志着硬件效率与量子产业双双迈出关键一步。与此同时，AI安全研究曝光沙箱逃逸新路径，监管层对谷歌的合规压力亦持续升级，本简报将从结果影响、趋势解读与工具深读三个维度为您拆解。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://36kr.com/newsflashes/4084893674006912">小鹏实现5C超充OTA升级至6C倍率</a> (36kr)
+  该消息显示小鹏通过AI大数据训练优化充电策略，实现5C超充OTA升级至6C倍率，行业首次在硬件不变情况下将充电倍率提升1C，10%至80%仅需10.7分钟，标志着EV充电效率突破新瓶颈。</li>
+<li><a href="https://36kr.com/newsflashes/4084809177786753">三星电子HBM4E单引脚传输速度达17Gbps</a> (36kr)
+  三星电子在HBM4E研发中将单引脚动作速度提升至17Gbps，正式进入英伟达要求的17~18Gbps目标区间，相关技术论文已入选ISSCC 2027，预计明年2月正式发布，将进一步推动AI算力芯片带宽突破。</li>
+<li><a href="https://36kr.com/p/4084553221630343?f=rss">原子芯光完成超亿元天使轮融资</a> (36kr)
+  中性原子量子计算企业原子芯光获联想之星等机构联合领投超亿元天使轮融资，资金将用于中性原子量子处理器研发与产业化，标志着中国在中性原子量子计算领域的资本热度与技术突破双并。</li>
+<li><a href="https://36kr.com/newsflashes/4084782691527297">马斯克确认将向符合条件的美国家庭免费提供星链硬件</a> (36kr)
+  SpaceX首席执行官埃隆·马斯克确认将向美国服务不足社区符合条件的家庭免费提供星链硬件，并放弃约7.38亿美元联邦宽带补助金，该安排旨在扩宽数字鸿沟地区的宽带接入，同时体现科技巨头在政策与成本间的权衡。</li>
+<li><a href="https://36kr.com/newsflashes/4084767820311168">Sand.ai正式发布新一代视频生成模型MAGI-2</a> (36kr)
+  Sand.ai发布MAGI-2视频生成模型，在Artificial Analysis榜单中登顶全球第一，支持原生30秒1080P视频及音频生成，定价每秒0.5元，并计划尽快开放模型权重，成为全球首个登顶视频生成榜单的国产模型。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">Matrix Multiplication is Θ(n^2.25)</a> (Hacker News)
+  该论文证明矩阵乘法的时间复杂度为Θ(n^2.25)，优于传统的Θ(n^3)算法，为大规模AI模型训练提供理论基础，显示了数学与机器学习交叉领域的最新突破。</li>
+<li><a href="https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being">Models Can Communicate via Inference Servers Despite Being Sandboxed</a> (Hacker News)
+  研究表明即使被沙箱隔离，模型仍可通过推理服务器间接通信，揭示了生成式AI系统中的新安全隐患，提醒在多模型部署时需考虑跨模型侧信道风险。</li>
+<li><a href="https://greydanus.github.io/2026/11/12/pengpt/">PenGPT: A Generative Transformer for Handwriting and Sketches</a> (Hacker News)
+  PenGPT展示了用于手写和草图生成的生成式Transformer，能从草图或手写笔迹创建逼真图像，拓展了AI创作的输入方式，为数字艺术与笔记应用带来新可能。</li>
+<li><a href="https://rida.dev/blog/bypassing-ios-safari-60-fps-limit">Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native</a> (Hacker News)
+  作者介绍了绕过iOS Safari原生60 FPS限制的技术，通过帧率解耦和渲染优化，使Web应用在移动端获得接近原生的流畅体验，对PWA与跨平台开发具有实用指导。</li>
+<li><a href="https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each">Taking over US Treasury subdomains for $3 each</a> (Hacker News)
+  安全研究揭示可通过低成本手劫持美国财政部子域名，仅需3美元即可接管，暴露了DNS与域名管理的关键安全漏洞，提醒企业加强子域名监控与授权治理。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://sspai.com/post/119310">YAB：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你</a> (少数派)
+  YAB继承Arc的交互遗产，并为AI打开新入口，作为开源双核浏览器支持AI插件与自定义引擎，适合希望摆脱Arc限制并拥抱AI浏览体验的用户。</li>
+<li><a href="https://sspai.com/post/119035">从构思到完稿，让长文写作更有条理：妙笔</a> (少数派)
+  该工具旨在从构思到完稿引导长文写作，提供结构化编辑与排版辅助，帮助用户在有限时间内高效完成文章创作，是值得尝试的写作效率工具。</li>
+<li><a href="https://noahbuilt.it/writing/qwen-on-5600-lambdas">Serving Qwen via AWS Lambdas for fun and 80x negative profit</a> (Hacker News)
+  文章实测在5600个AWS Lambda上运行Qwen模型，虽产生80倍负收益，但展示了云端大模型部署的可能性，为边缘计算与成本敏感型AI应用提供参考。</li>
+<li><a href="https://prismml.com/news/bonsai-2-5-27b">Ternary Bonsai 2.5 27B</a> (Hacker News)
+  Bonsai 2.5 27B是一种三元量化大模型，在保持性能的同时大幅压缩模型体积，适合资源受限环境下的本地推理与部署，展示了模型量化的新方向。</li>
+<li><a href="https://citrons.xyz/journal/2025-07-23">Lua for data representation</a> (Hacker News)
+  文章探讨了Lua在数据表示与结构化处理中的应用，展示了其轻量化脚本语言在数据工程中的灵活性，适合快速原型开发与数据转换任务。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>
