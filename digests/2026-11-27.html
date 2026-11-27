@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Tech News | 2026-11-27</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            --bg-primary: #f3f4f6;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f9fafb;
+            --border: #e5e7eb;
+            --text-primary: #111827;
+            --text-secondary: #4b5563;
+            --accent: #f97316;
+            --accent-hover: #ea580c;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            width: 100%;
+        }
+
+        /* Header */
+        header {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .back-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+        }
+
+        .header-date {
+            font-size: 14px;
+            color: var(--text-secondary);
+            font-family: monospace;
+        }
+
+        /* Main */
+        main {
+            flex: 1;
+            padding: 40px 0;
+        }
+
+        .digest-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        .digest-content {
+            padding: 32px;
+        }
+
+        /* Content Styles */
+        .digest-content h1 {
+            font-size: 24px;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+
+        .digest-content h2 {
+            font-size: 18px;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .digest-content p {
+            margin-bottom: 16px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content ul {
+            padding-left: 20px;
+            margin-bottom: 24px;
+        }
+
+        .digest-content li {
+            margin-bottom: 12px;
+            color: var(--text-secondary);
+        }
+
+        .digest-content a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .digest-content a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            padding: 32px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-secondary);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                <a href="../index.html" class="back-link">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Daily Tech News
+                </a>
+                <span class="header-date">2026-11-27</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <article class="digest-item">
+                <div class="digest-content">
+                    <h1>Daily Tech News | 2026-11-27</h1>
+<p>2026-11-27，科技行业聚焦AI硬件突破、产业链重组与安全治理三大方向。本日发布会、政策出台与开源工具更新交织，展现技术从实验室走向商用与生产的关键跨越，以下是多源科技资讯的精选简报。</p>
+<h2>1. 今日必读</h2>
+<ul>
+<li><a href="https://devnull.land/amd-specific-llama-cpp">AMD-specific fork of llama.cpp</a> (Hacker News)
+  AMD发布专用llama.cpp分支，针对AMD显卡和处理器优化大模型推理性能，显著降低硬件门槛，推动本地AI部署普及。</li>
+<li><a href="https://36kr.com/p/4086249473534598?f=rss">威云创达CEO何金：一家图像传感器龙头，为什么下场做AI算力？</a> (36kr)
+  国产图像传感龙头思特威子公司威云创达发布AI训推一体机1000Pro/1000Ultra及物理AI工作站，填补国产AI算力硬件空白，提升自主可控水平。</li>
+<li><a href="https://36kr.com/newsflashes/4087671557814914?f=rss">得益于AI需求推动，泰国出口增速有望超过创纪录的目标</a> (36kr)
+  泰国商务部表示AI相关产品需求激发出口增速，有望突破19%创纪录目标，显示AI已成为跨境贸易新引擎，重塑全球供应链竞争格局。</li>
+<li><a href="https://36kr.com/newsflashes/4087704722061960?f=rss">日本发电巨头JERA正与Anthropic、微软等科技巨头洽谈在发电厂附近建设数据中心</a> (36kr)
+  日本JERA与Anthropic、微软等巨头磋商，计划在火力发电厂附近建设数据中心，推动清洁能源与AI算力协同，标志能算耦合新趋势。</li>
+<li><a href="https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud">CTO of RansomwareHelp indicted for wire fraud</a> (Hacker News)
+  RansomwareHelp CTO因涉及诈骗被起诉，案件彰显全球执法部门打击勒索软件生态的决心，或遏制相关非法服务的运营。</li>
+</ul>
+<h2>2. 趋势与解读</h2>
+<ul>
+<li><a href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/">Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email</a> (Hacker News)
+  Google宣布AI代理将统一使用MCP服务器，旨在标准化接口与工具集，但Gmail端代理暂不支持发送邮件，暴露平台集成的现实限制。</li>
+<li><a href="https://kendell.dev/blog/arkwrapper/">Novita, StreamLake, etc. are ByteDance Ark wrappers</a> (Hacker News)
+  分析指出Novita、StreamLake等平台实为ByteDance Ark模型的封装，揭示了生成式AI市场“外包”与原模型竞争的新格局与盈利模式。</li>
+<li><a href="https://chrhenning.com/blog/2026/introduction-to-uncertainty/">An introduction to uncertainty in machine learning</a> (Hacker News)
+  文章系统阐释机器学习不确定性概念，从模型输出到分布偏差提供方法论，对提升AI可靠性与风险管理具有指导意义。</li>
+<li><a href="https://blainehansen.me/post/mainstream-verifiable-language/">The need for a formally verifiable mainstream programming language</a> (Hacker News)
+  提出 formally verifiable 主流编程语言的必要性，旨在通过数学证明消除底层 bug，提升关键系统的安全性与可信度。</li>
+<li><a href="https://lia.mg/posts/measuring-company-culture-with-slack-emoji/">Company Culture = Slack Emoji ÷ √Headcount</a> (Hacker News)
+  研究通过 Slack 表情符号比例反映公司文化健康度，情绪表达与团队规模存在相关性，为管理层提供非侵入式文化诊断工具。</li>
+</ul>
+<h2>3. 工具与深读</h2>
+<ul>
+<li><a href="https://janlukas.blog/posts/ai-self-hosting">AI made self-hosting fun again</a> (Hacker News)
+  博客展示如何借助 AI 工具轻松搭建本地大模型环境，降低配置复杂度，让个人开发者也能快速实现自主可控的 AI 实验。</li>
+<li><a href="https://github.com/antonpictures/youtube-punisher">YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays</a> (Hacker News)
+  GitHub 项目自动监测 YouTube 广播，页面在广播出现时自动刷新，有效跳过广告，提升非订阅用户的观影体验。</li>
+<li><a href="https://sspai.com/post/116773">App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具</a> (SSPAI)
+  Agora 提供开源 LLM 聊天客户端，专为 Android 用户优化 API 调用体验，兼容多模型，填补本地 AI 客户端的便捷性空白。</li>
+<li><a href="https://sspai.com/post/119563">论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图</a> (SSPAI)
+  教程演示利用 ChatGPT 生成机理图结构，结合 Keynote 美化排版，零成本解决学术论文绘图难题，大幅提升效率。</li>
+<li><a href="https://sspai.com/post/119310">App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你</a> (SSPAI)
+  Yab 作为开源双内核浏览器，继承 Arc 交互精髓的同时，专为 AI 场景打开另一扇门，提供更灵活的网页与模型交互方式。</li>
+</ul>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Daily Tech News · 由 GLM-5.1 自动生成
+        </div>
+    </footer>
+</body>
+</html>

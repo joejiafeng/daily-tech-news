@@ -1,0 +1,811 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T16:07:07.378054+08:00",
+  "v2ex": [
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "2026 赣南脐橙给 v 友抽几箱",
+      "url": "https://www.v2ex.com/t/1260059",
+      "summary": "各位 V 友大家好，感谢大家的支持,自家种的橙子(产地为赣州全南县，华家兄弟同县）又熟了。老规矩，为了回馈 V 友的支持，搞一波抽奖。 往年帖子： /t/1174571 🎁抽奖规则 机制： 同 2024 年帖子 /t/996196 每 100 楼抽 1 箱，上限 4 箱每箱 算法： 同 2023 帖子 /t/1091646 今年用上证 11 月 27...",
+      "published": "2026-11-26T16:51:07+08:00",
+      "score": 274
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "周五好，大家周末打算干啥",
+      "url": "https://www.v2ex.com/t/1260212",
+      "summary": "人总是接近幸福的时候最快乐，周五应该是一周最开心的了； 好好想想周末去干啥吧； 周六跟前同事一起聚餐； 然后就是准备看红果短剧《持械入宋》，看了第一季，感觉质量很高， 好像是有 11 季，预估 1000 多集，有的看了； 大家这周末准备干啥",
+      "published": "2026-11-27T09:48:45+08:00",
+      "score": 118
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "网传 Hysteria 的多名代码贡献者已经被抓",
+      "url": "https://www.v2ex.com/t/1260196",
+      "summary": "写代码只为让同胞能看个 YouTube，结果自己先进了看守所。",
+      "published": "2026-11-27T09:03:52+08:00",
+      "score": 116
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "其他模型真的好用，我又何必折腾 Claude 呢",
+      "url": "https://www.v2ex.com/t/1260233",
+      "summary": "最近老是看到 “不理解为什么非要用 Claude” 的言论 ，甚至还有说 “用 Claude 是为了体现高人一等”。 我都折腾用上 Claude 了，难道你觉得我们没用过 ChatGPT、Gemini、DeepSeek、Kimi 吗？要是真的好用我至于去贴达里奥的冷屁股吗？国模好不好用我还不知道吗？",
+      "published": "2026-11-27T10:50:05+08:00",
+      "score": 75
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "求推荐: 怎么解决家庭超轻量的看电影/动画片需求",
+      "url": "https://www.v2ex.com/t/1260279",
+      "summary": "想付费(小钱)找一个永久(直到关站跑路)的看视频的方式, 两月看不了一次 看 v 站一上午, 也没找到什么方案, 邀请码, 捐助之类的 **我的设备** - 安卓电视, 笔记本电脑, 有一块移动硬盘(无 NAS) **场景及目前的办法** - 自己在电脑上: 电影名 + 在线. 视频一般比较糊, 免费嘛. > 付费的话想清晰一些, 1080p, 很常见...",
+      "published": "2026-11-27T12:07:35+08:00",
+      "score": 72
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "有人从 codex 弃坑转到 Antigravity 的没",
+      "url": "https://www.v2ex.com/t/1260241",
+      "summary": "真的要被 6.2Astra 的前端能力和防御性语言气哭了 听说 Google 的 neon 非常好用平替 Opus5.5 了，是不是真的就是 agent 有点拉 codex 的 20x 快到期了听听小伙伴们的意见",
+      "published": "2026-11-27T11:02:46+08:00",
+      "score": 69
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "感觉网易 uu 也可以下课了...",
+      "url": "https://www.v2ex.com/t/1260114",
+      "summary": "tailscale,只要有一个机器有公网 ip,就可以直接打洞或者自中转...连起来之后,比 uu p2p 模式快多了...",
+      "published": "2026-11-26T20:12:54+08:00",
+      "score": 57
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "最近 Antigravity 重置太频繁了，于是我上线了一个 Agy Reset 重置信号监测站，让你不错过每一次重置，且本贴随楼抽 50 位评论者每位赠送 50$V2EX",
+      "url": "https://www.v2ex.com/t/1260187",
+      "summary": "现在 Google 找到了属于他们自己的\"Tibo\" - Varun Mohan，而 OpenAI 的 Tibo 却不再是真正的\"Tibo\"。 **站点地址：https://agyreset.com** 如果监测到有重置排期、重置确认都会发布信号，订阅了邮件的都会进行推送，就不会让你错过每一次的重置，包括各个通知渠道都有机器或人工手动通知，尽全力不让你...",
+      "published": "2026-11-27T08:44:21+08:00",
+      "score": 54
+    },
+    {
+      "source": "V2EX",
+      "source_type": "v2ex",
+      "title": "2-3k 可以买到比较可以的相机吗",
+      "url": "https://www.v2ex.com/t/1260208",
+      "summary": "一直是手机拍照，录视频，不懂相机，预算也不多，2-3k，问下各位老板，这个价格可以买到一个比手机拍照好的相机吗，不用那么专业，照片比手机拍的清晰就好，手机的话目前是 iphone17，以及 oppo find，怎么说呢，手机拍照不是那么有感觉，我想如果有相机，那估计会更愿意拍一些东西（可能也不一定） 1. 主要拍照，如果能摄像更好 2. 比手机拍出来的...",
+      "published": "2026-11-27T09:38:07+08:00",
+      "score": 53
+    }
+  ],
+  "hackernews": [
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "summary": "",
+      "published": "2026-11-27T14:44:34+08:00",
+      "score": 88
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "summary": "",
+      "published": "2026-11-27T13:22:06+08:00",
+      "score": 105
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "",
+      "published": "2026-11-27T05:47:45+08:00",
+      "score": 598
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "summary": "",
+      "published": "2026-11-27T09:13:49+08:00",
+      "score": 303
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "summary": "",
+      "published": "2026-11-27T01:36:47+08:00",
+      "score": 366
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "summary": "",
+      "published": "2026-11-27T05:08:05+08:00",
+      "score": 344
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "",
+      "published": "2026-11-27T01:11:29+08:00",
+      "score": 339
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "summary": "",
+      "published": "2026-11-27T01:47:45+08:00",
+      "score": 252
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "",
+      "published": "2026-11-27T04:49:49+08:00",
+      "score": 292
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "summary": "",
+      "published": "2026-11-26T18:11:01+08:00",
+      "score": 512
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "summary": "",
+      "published": "2026-11-27T03:04:50+08:00",
+      "score": 67
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "summary": "",
+      "published": "2026-11-27T14:53:52+08:00",
+      "score": 30
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "summary": "",
+      "published": "2026-11-26T17:44:23+08:00",
+      "score": 321
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "summary": "",
+      "published": "2026-11-27T05:59:19+08:00",
+      "score": 91
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "",
+      "published": "2026-11-27T12:56:18+08:00",
+      "score": 75
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "summary": "",
+      "published": "2026-11-27T03:18:09+08:00",
+      "score": 120
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "The Cutthroat Business of Shipwrecks",
+      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "summary": "",
+      "published": "2026-11-27T09:21:49+08:00",
+      "score": 21
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "url": "https://olumino.app",
+      "summary": "I was inspired by Mochi and Anki, but wanted to make something that’s a mix of the two. Anki is very confusing and has an outdated interface while Mochi is very simple and has a...",
+      "published": "2026-11-26T11:33:06+08:00",
+      "score": 100
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "url": "https://www.buynothingday.co.uk/",
+      "summary": "",
+      "published": "2026-11-27T13:52:42+08:00",
+      "score": 32
+    },
+    {
+      "source": "Hacker News",
+      "source_type": "hackernews",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "summary": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to...",
+      "published": "2026-11-26T22:44:22+08:00",
+      "score": 145
+    }
+  ],
+  "rss": [
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "希音的韧性底色",
+      "url": "https://36kr.com/p/4087683903814274?f=rss",
+      "summary": "作者 | 明茵 对于9月份刚敲钟上市的希音（SHEIN）而言，三季度的意义是特殊的。 这是它上市后第一份完整季度财报，也是外部政策冲击最为集中的一个季度。欧盟取消低价值包裹关税豁免的影响贯穿整个报告期，美国业务仍在关税后的修复过程中，全球消费则继续趋于谨慎。 希音的三季报，也为我们提供了一个观察全球化企业和跨境行业在应对外部条件变化中保持韧性的样本。...",
+      "published": "2026-11-27T15:29:33+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "威云创达CEO何金：一家图像传感器龙头，为什么下场做AI算力？",
+      "url": "https://36kr.com/p/4086249473534598?f=rss",
+      "summary": "作者丨邱晓芬 编辑丨袁斯来 国产算力市场迎来了一位跨界玩家。 11月25日，国产CMOS图像传感器厂商思特威旗下全资子公司威云创达，在上海召开了成立以来的首场新品发布会，推出两款AI训推一体机1000Pro、1000Ultra，以及物理AI智能体工作站Station、AI影视创作工具“织影”。 其中，旗舰级产品1000Ultra最高拥有47.5 PFL...",
+      "published": "2026-11-27T14:09:07+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "36氪首发丨这家触觉手套公司对标Manus拿下数千万营收，获赛智伯乐、普华等投资",
+      "url": "https://36kr.com/p/4087367217363589?f=rss",
+      "summary": "图源/企业 本文约 2600 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，触觉数据与具身智能基础设施公司大衍科技近期已完成数千万元Pre-A轮融资，由赛智伯乐领投，普华、浙商创投、浙里信等跟投，老股东浙江省科创母基金追投。本轮资金将主要用于数据中心建设与触觉手套产线搭建。 大衍科技成立于2025年5月，定位为Physical AI基础设...",
+      "published": "2026-11-27T10:05:12+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "36氪首发丨具身智能公司获清科产投等数亿投资，机器人已投入真实商业作业",
+      "url": "https://36kr.com/p/4087361074575753?f=rss",
+      "summary": "图源/企业 本文约 2100 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能公司零次方机器人（Zerith）近日完成新一轮数亿元融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国正、杰克集团以及多家产业战略投资方。老股东同创伟业、力合基金、接力天使继续超额加注。资金将主要用于两方向：一是扩充...",
+      "published": "2026-11-27T10:00:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "游戏和影视之后，儒意集团联手腾讯进军AI服务",
+      "url": "https://36kr.com/p/4086757655231105?f=rss",
+      "summary": "文丨刘士武 过去两年，中国游戏行业最明显的变化不是某个爆款出现，而是头部格局基本定型。腾讯、网易、米哈游等大厂各自守住了基本盘，新产品很难撼动位置。那么剩下的空间在哪里？如果从行业讨论的热门话题里找，有两个关键词：出海和AI。 这两者相对独立，出海是真金白银的战场，而AI更像技术发展至今，厂商不得不投入的新方向，不在这里做出效率差异，未来的成本曲线就追...",
+      "published": "2026-11-27T09:00:39+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "8点1氪丨美团、淘宝闪购全面取消超时扣款；王兴兴：5到10年内中国机器人产量有望超过汽车；三只松鼠就12人间毛坯宿舍致歉",
+      "url": "https://36kr.com/p/4087256294160773?f=rss",
+      "summary": "今日热点导览 自11月26日24时起，国内汽、柴油价格每吨分别下调440元、425元 马斯克：每名美国儿童将获赠两股SpaceX股票，由其个人及公司各提供一股 王虹再获重磅国际大奖 魏建军称车企竞争激烈，董明珠：家里冲进老鼠把它打掉就好，汽车绝不能是快消品 德佑母公司冲刺“湿厕纸第一股” TOP3大新闻 美团淘宝等18家平台企业完成算法协商，涉取消超时...",
+      "published": "2026-11-27T08:15:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "始于爆款，困于爆款，北极狐不想只当「卖包的」",
+      "url": "https://36kr.com/p/4086378667600512?f=rss",
+      "summary": "一只小狐狸蜷缩着，尾巴遮住大半身子，只探出一个头。 这是北极狐（Fjällräven）的商标，也像它在中国市场的长期处境： 它的一款单品太过耀眼：十几年前，旗下Kanken背包风靡街头，样式至今几乎没变，仍随处可见。你多半见过，甚至买过，却未必叫得对名字；整个品牌则不显山露水：它对外向来“低调”，不签明星代言人，也很少大规模投放广告——自媒体盘“小众户...",
+      "published": "2026-11-26T18:00:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "一款AI心理产品，靠「挽回前任挑战」活了下来",
+      "url": "https://36kr.com/p/4086400100706693?f=rss",
+      "summary": "AI无法取代心理咨询师。 访谈 | 刘思洁、刘孜妍 文 | 刘思洁 编辑 | 张薇 封面来源 | Unsplash 2026年6月，Tess一年半前融到的天使轮的钱，快花完了。 “如果没办法再看到数据，我们也不确定能不能继续投。”资方对Tess这么说，态度显然很犹疑。有FA告诉Tess，去讲个关于AI心理+硬件的故事，这样好融钱。 24年，Tess做了...",
+      "published": "2026-11-26T17:51:53+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "科氪 | 全焦段 4K 超清 6 秒长实况，OPPO Reno17 系列拓展创作边界",
+      "url": "https://36kr.com/p/4086256279972229?f=rss",
+      "summary": "2026 年 11 月 16 日，中国·成都——OPPO 举办“OPPO Reno17 系列暨移动智能生态新品发布会”，正式推出全新一代潮流手机 OPPO Reno17 系列，并同步发布轻薄小方表 OPPO Watch 5、学习平板 OPPO Pad Air6 以及 OPPO Enco Clip2 新配色粉黛海。新品围绕年轻用户的个性表达与多元生活需求...",
+      "published": "2026-11-26T15:15:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "OBSBOT寻影发布三款新品，加速AI影像自动化落地｜最前线",
+      "url": "https://36kr.com/p/4086154043009413?f=rss",
+      "summary": "作者｜黄楠 编辑｜袁斯来 11月25日，智能影像品牌OBSBOT寻影发布寻影Tail 2先锋版、Tail Air 2与Meet 3三款新品，分别面向专业远距离拍摄、轻量化节目制作与桌面视讯场景。 影像设备行业正在经历一轮叙事重心的转移。过去几年，主流产品的竞争集中在传感器尺寸、分辨率、帧率等硬指标上，参数表越来越长，但用户在实际拍摄中面临的核心问题——...",
+      "published": "2026-11-26T14:34:16+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "恒指收涨%，恒生科技指数涨%",
+      "url": "https://36kr.com/newsflashes/4087721929226887?f=rss",
+      "summary": "华虹宏力涨超20%，智谱涨近20%，MINIMAX-W、中际旭创、剑桥科技涨超17%；半导体、GEO、CPO领涨，煤炭、银行跌幅居前；南向资金净买入X亿港元。",
+      "published": "2026-11-27T16:05:46+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "机构：需求能见度低、供应链转趋保守，2028年DRAM合约价走跌风险升温",
+      "url": "https://36kr.com/newsflashes/4087713786657411?f=rss",
+      "summary": "36氪获悉，根据TrendForce集邦咨询最新存储器产业研究，2026年第四季上旬起，供应链考量美国政策环境变化可能影响后续数据中心建设节奏，且英伟达未来或将调整对Neocloud厂商的融资政策，加上国际形势影响先进制程芯片流向、算力租赁，正重新检视2027至2028年的产销规划，导致整体DRAM采购动能略微放缓。TrendForce集邦咨询针对未来...",
+      "published": "2026-11-27T15:57:29+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国联民生：11月30日起，将新开仓合约融资保证金比例最低值调整为80%",
+      "url": "https://36kr.com/newsflashes/4087711170230664?f=rss",
+      "summary": "36氪获悉，国联民生证券微信公众号发布消息称，自2026年11月30日（含当日）起，将新开仓合约融资保证金比例最低值调整为80%。对于2026年11月30日前已开仓的融资合约，若合约标的证券在国联民生公布的可融资标的证券范围内，且融资保证金比例大于80%，则相应调减，调整后不低于80%。投资者不必了结存量合约即可适用调整后的保证金比例。此外，投资者与公...",
+      "published": "2026-11-27T15:54:49+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "日本交易所集团将与市场参与者讨论延长交易时间",
+      "url": "https://36kr.com/newsflashes/4087710074272134?f=rss",
+      "summary": "日本交易所集团CEO山道裕己周五在记者会上表示，该集团将与市场参与者讨论延长交易时间的可能性。他说，目前尚不清楚美国延长交易时间是否会对日本股市成交量产生影响。（新浪财经）",
+      "published": "2026-11-27T15:53:43+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "金价、银价双双大涨",
+      "url": "https://36kr.com/newsflashes/4087707071560072?f=rss",
+      "summary": "11月27日，受部分投资者逢低买入、美债收益率自高位回落以及美元涨势趋缓的影响，国际金价盘中明显上涨，截至北京时间14:45，纽商所12月交割的黄金期货价格报每盎司3646美元，较前一个交易日上涨3.12%。伦敦现货黄金涨幅为2.42%，报每盎司3653.16美元。白银期货价格报每盎司44.025美元，涨幅为9.9%。（央视财经）",
+      "published": "2026-11-27T15:50:39+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "日本发电巨头JERA正与Anthropic、微软等科技巨头洽谈在发电厂附近建设数据中心",
+      "url": "https://36kr.com/newsflashes/4087704722061960?f=rss",
+      "summary": "11月27日，日本最大火力发电企业JERA董事长兼全球首席执行官可儿行夫（Yukio Kani）在接受采访时透露，公司正与Anthropic、Meta、亚马逊、微软及谷歌等美国科技企业展开磋商，计划在东京附近的发电厂周边建设数据中心。此前，JERA已与戴尔科技及Rhaelm达成类似合作，计划在其位于千叶县的火力发电厂建设采用“表后供电”（Behind-...",
+      "published": "2026-11-27T15:48:16+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国常会关于资本市场部署释放五大鲜明信号",
+      "url": "https://36kr.com/newsflashes/4087697186437511?f=rss",
+      "summary": "11月27日举行的国务院常务会议研究持续深化资本市场投融资综合改革工作，释放五大鲜明信号。 第一，明确“资本市场事关经济发展大局”。资本市场一头连着企业融资、产业升级，另一头连着居民资产、消费信心。稳住股市也是稳预期，对于中国经济十分重要。 第二，“谋划出台增量政策”。新闻稿里有一句信息量拉满的话：持续完善资本市场稳市机制，实施好存量政策，谋划出台增量...",
+      "published": "2026-11-27T15:40:36+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "俄罗斯延长航空煤油出口限制期限",
+      "url": "https://36kr.com/newsflashes/4087681314961797?f=rss",
+      "summary": "当地时间11月27日，俄罗斯政府网站通报称，俄政府通过了关于延长航空煤油出口限制的决定。限制措施期限为今年12月1日至2027年3月31日。2026年6月1日，俄罗斯政府发布消息称，为保障国内燃料市场的稳定可靠供应，对航空煤油（包括在交易所交易中购得的煤油）实施临时出口禁令。该禁令自6月1日起生效，将持续至2026年11月30日。（央视新闻）",
+      "published": "2026-11-27T15:24:27+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国务院国资委：投资运营公司要多渠道加大战新并购力度",
+      "url": "https://36kr.com/newsflashes/4087679575456389?f=rss",
+      "summary": "11月27日，国务院国资委党委委员、副主任李镇在中央企业专业化整合推进会上表示，投资运营公司在发挥资金优势做好既定主业的同时，也可以通过组建并购联合体、发起设立基金等方式，多渠道加大战新并购力度。（证券时报）",
+      "published": "2026-11-27T15:22:41+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "bp与Iberdrola在卡斯特利翁炼油厂投运绿色氢能工厂，年产能约2800吨",
+      "url": "https://36kr.com/newsflashes/4087678403393926?f=rss",
+      "summary": "11月27日，bp与西班牙能源企业Iberdrola宣布，双方已在bp位于西班牙的卡斯特利翁炼油厂投运一座25兆瓦绿色氢能工厂。该项目由双方各持股50%的合资企业开发、bp负责运营，目前是西班牙规模最大的在运营绿色氢能工厂，预计年产绿色氢气约2800吨。（界面）",
+      "published": "2026-11-27T15:21:30+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国务院国资委：因企施策、分类推进战新产业资源整合",
+      "url": "https://36kr.com/newsflashes/4087674893056388?f=rss",
+      "summary": "11月27日，国务院国资委党委委员、副主任李镇在中央企业专业化整合推进会上表示，中央企业要注重因企施策，分类推进战新产业资源整合。具体来说，一要选择擅长的领域整合，坚持以产业和资本运营能力为基础，真正选择擅长的、能起到引领带动作用的领域。二要选择合适的途径整合，规模较大、战新业务强的企业，可直接横向、纵向整合，巩固行业地位，规模较小、战新业务涉及较少的...",
+      "published": "2026-11-27T15:17:55+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国务院国资委：中央企业对产能过剩、低价竞争的板块要坚决合并精简",
+      "url": "https://36kr.com/newsflashes/4087674562328962?f=rss",
+      "summary": "11月27日，国务院国资委党委委员、副主任李镇在中央企业专业化整合推进会上表示，中央企业要及时关注存在同质化竞争的情况，对业务重叠、产能过剩、低价竞争的板块，坚决合并精简。（证券时报）",
+      "published": "2026-11-27T15:17:35+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "得益于AI需求推动，泰国出口增速有望超过创纪录的目标",
+      "url": "https://36kr.com/newsflashes/4087671557814914?f=rss",
+      "summary": "泰国商务部贸易政策与战略办公室主任Nantapong Chiralerspong表示，受人工智能（AI）相关产品需求强劲推动，泰国今年出口增速可能超过19%的目标，这一增速目标本身已创纪录。商务部数据显示，10月出口同比增长27.5%，至368.6亿美元；预估为增长26.0%；进口同比增长53.2%，至492亿美元；预估为增长35.2%；贸易逆差为12...",
+      "published": "2026-11-27T15:14:32+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国务院国资委：中央企业要通过合理的并购等方式快速补上技术短板",
+      "url": "https://36kr.com/newsflashes/4087668332231047?f=rss",
+      "summary": "11月27日，国务院国资委党委委员、副主任李镇在中央企业专业化整合推进会上表示，中央企业要关注业内技术创新动向，通过合理的并购等方式快速补上技术短板，缩短创新周期。（证券时报）",
+      "published": "2026-11-27T15:11:15+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "国务院国资委：去年以来中央企业共开展整合项目1100余个 战新领域占比超三成",
+      "url": "https://36kr.com/newsflashes/4087667685128838?f=rss",
+      "summary": "11月27日，国务院国资委党委委员、副主任李镇在中央企业专业化整合推进会上介绍，去年以来，中央企业共开展整合项目1100余个，涉及资产规模约6.8万亿元。其中，战新领域整合项目共380余个，占比35%，资产规模2.3万亿元，主要涉及生物医药、人工智能、新能源汽车等领域。总的来看，专业化整合增强核心功能和提高核心竞争力的导向更加突出，推动产业升级和科技创...",
+      "published": "2026-11-27T15:10:35+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "A股三大指数集体收涨，创指大涨超11%",
+      "url": "https://36kr.com/newsflashes/4087658955241859?f=rss",
+      "summary": "36氪获悉，A股三大指数集体收涨，沪指涨3.73%，深成指涨7.24%，创业板指涨11.61%；算力、半导体、机器人大涨，源杰科技、新易盛、华虹宏力涨停，宇树科技、中际旭创、天孚通信逼近涨停；煤炭、银行板块跌幅居前，中国神华跌超4%，交通银行、建设银行跌超2%；个股呈现普涨态势，全市场近5400股飘红。",
+      "published": "2026-11-27T15:01:43+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "沪深京三市成交额突破2万亿",
+      "url": "https://36kr.com/newsflashes/4087655309506951?f=rss",
+      "summary": "36氪获悉，沪深京三市成交额突破2万亿，较上日此时放量近6800亿。",
+      "published": "2026-11-27T14:58:00+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "算力硬件股涨势扩大，新易盛触及20cm涨停",
+      "url": "https://36kr.com/newsflashes/4087647120963977?f=rss",
+      "summary": "36氪获悉，算力硬件股涨势扩大，新易盛触及20cm涨停，此前源杰科技、德科立、长光华芯、仕佳光子20cm涨停，蘅东光、长芯博创、联讯仪器、中际旭创、天孚通信均涨超16%。",
+      "published": "2026-11-27T14:49:40+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "库仑能源与多家公司签署战略合作协议，共建紫金科创中心零碳算力场景",
+      "url": "https://36kr.com/newsflashes/4087646751914368?f=rss",
+      "summary": "36氪获悉，西湖城投、西湖电信、静山智算（库仑能源）与杭州星踞智能举行签约仪式并签署战略合作协议，围绕杭州紫金科创中心零碳算力场景开展合作。项目由杭州紫金港科技城管委会统筹推进。按照“光储充算一体化”方案，屋顶光伏绿电就近供给园区算力等负荷，园内算力优先服务企业与科研团队。",
+      "published": "2026-11-27T14:49:18+08:00"
+    },
+    {
+      "source": "36kr",
+      "source_type": "rss",
+      "category": "product",
+      "title": "科创50指数涨超15%，跻身历史单日最大涨幅榜前三",
+      "url": "https://36kr.com/newsflashes/4087645235083652?f=rss",
+      "summary": "36氪获悉，科创50指数涨超15%，跻身历史单日最大涨幅榜前三。",
+      "published": "2026-11-27T14:47:45+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+      "url": "https://sspai.com/post/119601",
+      "summary": "先预祝大家买得愉快、用得舒心。 查看全文",
+      "published": "2026-11-27T11:48:17+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：1Password 确认内部系统遭入侵等",
+      "url": "https://sspai.com/post/119632",
+      "summary": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。 查看全文",
+      "published": "2026-11-27T08:27:38+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+      "url": "https://sspai.com/post/116773",
+      "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+      "published": "2026-11-26T17:30:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "url": "https://sspai.com/post/119563",
+      "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+      "published": "2026-11-26T15:00:00+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "我用AI做了一张两千年的中国历史地图",
+      "url": "https://sspai.com/post/117510",
+      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
+      "published": "2026-11-26T11:13:53+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+      "url": "https://sspai.com/post/119560",
+      "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
+      "published": "2026-11-26T08:08:07+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "翻开 2027， 值得入手的新年日历推荐",
+      "url": "https://sspai.com/post/119264",
+      "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ... 查看全文",
+      "published": "2026-11-25T17:48:34+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "url": "https://sspai.com/post/119310",
+      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
+      "published": "2026-11-25T14:59:16+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "url": "https://sspai.com/post/118791",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "published": "2026-11-25T11:07:41+08:00"
+    },
+    {
+      "source": "sspai",
+      "source_type": "rss",
+      "category": "product",
+      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+      "url": "https://sspai.com/post/119492",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "published": "2026-11-24T17:14:11+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "AI时代找工作难？有一种人依然被抢着要",
+      "url": "https://www.huxiu.com/article/4907997.html?f=rss",
+      "summary": "爱学、会学、敢试错很重要",
+      "published": "2026-11-27T16:00:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "大厂的应届生名额，正在先让给AI 预算",
+      "url": "https://www.huxiu.com/article/4908949.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:59:50+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "日本车企泰国保卫战",
+      "url": "https://www.huxiu.com/article/4908946.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:55:55+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "今年IDG、红杉中国等一线机构都在抄底消费公司",
+      "url": "https://www.huxiu.com/article/4908944.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:43:47+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "赴印调研：吃过多次亏的日企，为何仍在加码印度？",
+      "url": "https://www.huxiu.com/article/4908937.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:21:13+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "存储超级周期，正被自己反噬",
+      "url": "https://www.huxiu.com/article/4908886.html?f=rss",
+      "summary": "存储涨价的推手，开始踩刹车了",
+      "published": "2026-11-27T15:20:45+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "中俄美联手释放和平信号，谁在焦虑？谁将受益？",
+      "url": "https://www.huxiu.com/article/4908936.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:20:31+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "彩电大王：打趴外资，输给时代",
+      "url": "https://www.huxiu.com/article/4908559.html?f=rss",
+      "summary": "长虹至今还在苦苦等待翻身机会",
+      "published": "2026-11-27T15:20:00+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "月入6000的商场分拣员出现后，外卖骑手坐不住了",
+      "url": "https://www.huxiu.com/article/4908934.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:15:48+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "MLCC头部厂商，或将加快扩产",
+      "url": "https://www.huxiu.com/article/4908932.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:09:40+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "先种草，再进货，文创白酒改走“按需下单”",
+      "url": "https://www.huxiu.com/article/4908931.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:06:54+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "打妻示爱，男女性别模糊···非洲部族奇葩传统的废与守。",
+      "url": "https://www.huxiu.com/article/4908930.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:03:33+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "个人奋斗与家庭出身，哪个更重要？",
+      "url": "https://www.huxiu.com/article/4908928.html?f=rss",
+      "summary": "接受自己的弱势地位，同时也理解其他人的弱势地位",
+      "published": "2026-11-27T15:02:52+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "不给机器人“喂数据”，他拿到了数亿元融资",
+      "url": "https://www.huxiu.com/article/4908894.html?f=rss",
+      "summary": "“我用结果说话”",
+      "published": "2026-11-27T15:01:03+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "72岁超龄劳动者工亡，家属索100余万补助金",
+      "url": "https://www.huxiu.com/article/4908929.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:00:40+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "武汉Robotaxi模式能否走向全国？萝卜快跑的规模化考题",
+      "url": "https://www.huxiu.com/article/4908922.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T15:00:38+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "第一批吃鱼生的外地人，已经染上肝吸虫了",
+      "url": "https://www.huxiu.com/article/4908927.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T14:57:42+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "走出“27天14板”行情，这家公司却难选出“老板”",
+      "url": "https://www.huxiu.com/article/4908926.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T14:49:22+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "天好咖啡能否走星巴克中国的路？",
+      "url": "https://www.huxiu.com/article/4908925.html?f=rss",
+      "summary": "",
+      "published": "2026-11-27T14:49:05+08:00"
+    },
+    {
+      "source": "huxiu",
+      "source_type": "rss",
+      "category": "business",
+      "title": "3分钟锐评小米财报",
+      "url": "https://www.huxiu.com/article/4908875.html?f=rss",
+      "summary": "如今小米能否持续加码，考验着决心与勇气",
+      "published": "2026-11-27T14:46:51+08:00"
+    }
+  ]
+}
